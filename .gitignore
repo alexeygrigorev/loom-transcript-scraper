@@ -1,3 +1,8 @@
+loom-videos.txt
+loom-videos-processed.txt
+logs.txt
+titles.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
