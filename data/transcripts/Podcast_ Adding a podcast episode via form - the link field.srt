@@ -1,0 +1,95 @@
+1
+00:00:00,210 --> 00:00:04,950
+Okay. Yeah. So just edit this field with links and
+
+2
+00:00:05,610 --> 00:00:10,170
+here for this one. So go to the YouTube video there.
+
+3
+00:00:10,171 --> 00:00:14,340
+We already have links or this is actually the same as we have.
+
+4
+00:00:14,370 --> 00:00:16,380
+Uh, let's say here.
+
+5
+00:00:19,350 --> 00:00:23,970
+Yeah. So these things for examples is at the same links and we have,
+
+6
+00:00:24,030 --> 00:00:28,290
+these links should be the same everywhere, so let's make copy them.
+
+7
+00:00:31,000 --> 00:00:35,890
+And so just copy them on here from a
+
+8
+00:00:35,980 --> 00:00:40,240
+very video and then put them here.
+
+9
+00:00:40,630 --> 00:00:43,550
+Uh, the forum. No,
+
+10
+00:00:43,560 --> 00:00:48,070
+not this one. Yeah. And then
+
+11
+00:00:49,210 --> 00:00:52,660
+this one would be more for this one and to make it easier for
+
+12
+00:00:52,661 --> 00:00:55,540
+me to parse at this thing.
+
+13
+00:00:56,110 --> 00:01:01,270
+So what can make it larger? So that the name of the link then,
+
+14
+00:01:01,600 --> 00:01:06,680
+uh, the side and then the actual link and
+
+15
+00:01:06,710 --> 00:01:11,590
+the same here. So this way I will be able to,
+
+16
+00:01:12,160 --> 00:01:15,340
+uh, parse this information here that you provide.
+
+17
+00:01:15,820 --> 00:01:18,070
+And then of course, don't forget the line break.
+
+18
+00:01:18,580 --> 00:01:24,010
+So let's say if there are three links, then it will be no link,
+
+19
+00:01:25,690 --> 00:01:27,730
+link, pity title.
+
+20
+00:01:28,630 --> 00:01:32,500
+And then I launched B um,
+
+21
+00:01:34,120 --> 00:01:38,380
+link three column something.
+
+22
+00:01:39,520 --> 00:01:42,850
+So follow this format. And then,
+
+23
+00:01:42,851 --> 00:01:46,540
+uh, this way I will be able to pass this information from the form
+
+24
+00:01:46,930 --> 00:01:48,430
+and put this as a webpage.

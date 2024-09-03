@@ -1,0 +1,575 @@
+1
+00:00:00,140 --> 00:00:05,096
+so again for hi again for all the process documents i
+
+2
+00:00:05,097 --> 00:00:12,666
+want at the beginning a description of why
+
+3
+00:00:12,667 --> 00:00:15,089
+we need this not what the document describes but why we need process documents
+
+4
+00:00:15,090 --> 00:00:19,643
+why we need to uhm change uh to add somebody on
+
+5
+00:00:19,644 --> 00:00:24,229
+the website or like whatever like not just so this is
+
+6
+00:00:24,230 --> 00:00:28,904
+how so or what like this describes what contain the document
+
+7
+00:00:28,905 --> 00:00:33,322
+contains but i want to understand when and why uh i want to use
+
+8
+00:00:33,323 --> 00:00:37,858
+this document and all the process documents have to have this i have
+
+9
+00:00:37,859 --> 00:00:42,393
+mentioned that many times so this is a good starting point but
+
+10
+00:00:42,394 --> 00:00:46,759
+what i actually wanted to see is a document that describes not the process
+
+11
+00:00:46,760 --> 00:00:51,937
+document about creating process documents but a document that describes
+
+12
+00:00:51,938 --> 00:00:56,063
+how process documents should be created uhh well i see that this sounds very
+
+13
+00:00:56,064 --> 00:01:00,589
+similar but like more like a template
+
+14
+00:01:00,590 --> 00:01:04,764
+or like what exactly they should contain not the actions they should- sequence of
+
+15
+00:01:04,765 --> 00:01:09,329
+actions you take to create a process document which is also useful and we
+
+16
+00:01:09,330 --> 00:01:13,865
+should keep it but what the process document should contain like in
+
+17
+00:01:13,866 --> 00:01:17,950
+all the loom videos i sent you previously uhh i don't want to repeat
+
+18
+00:01:17,951 --> 00:01:22,797
+myself like you should go through these videos and listen to what i said
+
+19
+00:01:22,798 --> 00:01:29,596
+and note this down in a document in a google document and
+
+20
+00:01:29,597 --> 00:01:34,162
+we will use this document to understand how our process
+
+21
+00:01:34,163 --> 00:01:38,729
+documents should look like what they should contain what information is important what
+
+22
+00:01:38,730 --> 00:01:42,073
+is not important because right now i see that we add a lot of
+
+23
+00:01:42,074 --> 00:01:46,620
+information that is kind of redundant mmm like for example sometimes
+
+24
+00:01:46,621 --> 00:01:50,305
+we have the same thing here the same thing here and then the same
+
+25
+00:01:50,306 --> 00:01:54,976
+thing here at the end and actually like i think we
+
+26
+00:01:54,977 --> 00:01:59,622
+forgot to have a loom video this one doesn't
+
+27
+00:01:59,623 --> 00:02:03,867
+have a loom video so this is fine um but yeah like describes the
+
+28
+00:02:03,868 --> 00:02:08,745
+structure of the document describes what should be here so
+
+29
+00:02:08,746 --> 00:02:13,291
+so that it should not only describe what the document
+
+30
+00:02:13,292 --> 00:02:17,817
+contains but when to use it and add some examples so then
+
+31
+00:02:17,818 --> 00:02:22,854
+let's say Feleria wants to create a process document she would open this document
+
+32
+00:02:22,855 --> 00:02:26,475
+and understand what exactly- she needs to do and what kind of content she
+
+33
+00:02:26,476 --> 00:02:31,251
+needs to put in not just take screenshots hmm
+
+34
+00:02:31,252 --> 00:02:36,107
+yeah please start a document and mention all the things I mentioned
+
+35
+00:02:36,108 --> 00:02:40,092
+in the previous rooms if you have to re-watch them re-watch them but like
+
+36
+00:02:40,093 --> 00:02:44,593
+I need to- uhh because I think with this document it
+
+37
+00:02:44,594 --> 00:02:49,099
+will be clearer how our documents will look like so our documentation
+
+38
+00:02:49,100 --> 00:02:53,745
+will become better and I want to actually
+
+39
+00:02:53,746 --> 00:03:02,446
+comment this hmm so proceed to loom or like
+
+40
+00:03:02,447 --> 00:03:08,563
+I don't understand what this actually means umm
+
+41
+00:03:08,564 --> 00:03:13,534
+not so sometimes like first you get a loom link
+
+42
+00:03:13,535 --> 00:03:18,740
+from me right and this loom link you receive through telegram
+
+43
+00:03:18,741 --> 00:03:23,257
+or through the to-do list not necessarily the to-do list if I
+
+44
+00:03:23,258 --> 00:03:26,591
+add this to the to-do list it's there but it might be not there
+
+45
+00:03:26,592 --> 00:03:28,773
+right so if you need to Thank you.
+
+46
+00:03:30,275 --> 00:03:33,399
+to say that to the loom link provided to be directed this is very
+
+47
+00:03:33,400 --> 00:03:38,215
+confusing so please still write that um next proceed
+
+48
+00:03:38,216 --> 00:03:42,981
+to datadox google drive and click on the process folder and
+
+49
+00:03:42,982 --> 00:03:48,404
+click on the folder There we go. Umm.
+
+50
+00:03:48,405 --> 00:03:51,789
+We also need a guideline like what kind of categories we have and how
+
+51
+00:03:51,790 --> 00:03:55,264
+do we select to which category we put.
+
+52
+00:03:55,265 --> 00:03:59,429
+Right? It could be a different document that we link but we need to
+
+53
+00:03:59,430 --> 00:04:04,359
+have a dista description. So let's say if somebody who does
+
+54
+00:04:04,360 --> 00:04:07,999
+not know well this thing, or let's say Valeria wants to play for the
+
+55
+00:04:08,000 --> 00:04:11,719
+document, how will she know to which category to put.
+
+56
+00:04:12,179 --> 00:04:14,199
+So we need a description of each category.
+
+57
+00:04:15,599 --> 00:04:19,805
+In a. . document somewhere. So then you open this description and you see
+
+58
+00:04:19,806 --> 00:04:25,233
+okay this document goes here. Uhh
+
+59
+00:04:25,234 --> 00:04:27,757
+then create a copy of a template.
+
+60
+00:04:27,758 --> 00:04:34,470
+Okay umm.
+
+61
+00:04:34,471 --> 00:04:36,596
+So the template is already,
+
+62
+00:04:36,597 --> 00:04:40,882
+we need to recreate the template because like if we need to change page
+
+63
+00:04:40,883 --> 00:04:45,398
+setup to make sure that it's pageless then it makes umm means that the
+
+64
+00:04:45,399 --> 00:04:49,771
+template is uhh not pageless.
+
+65
+00:04:49,772 --> 00:04:51,831
+And we need to rework the template too.
+
+66
+00:04:51,832 --> 00:04:56,137
+So I would suggest that we delete all the templates that you have and
+
+67
+00:04:56,138 --> 00:04:58,400
+create only one in the root in the process.
+
+68
+00:04:58,401 --> 00:05:03,197
+We call it template. And uhh like let me just do
+
+69
+00:05:03,198 --> 00:05:06,820
+it here. We'll create a template.
+
+70
+00:05:13,368 --> 00:05:18,335
+You will start putting the actual content there as uhh
+
+71
+00:05:18,336 --> 00:05:20,598
+template as you also put the,
+
+72
+00:05:20,599 --> 00:05:25,344
+ehm ehm ehm let me just let me also create it.
+
+73
+00:05:25,345 --> 00:05:30,111
+So this is what I was talking about. Uhh,
+
+74
+00:05:30,112 --> 00:05:32,715
+let's call it process documents,
+
+75
+00:05:34,717 --> 00:05:36,800
+documents guide.
+
+76
+00:05:36,801 --> 00:05:39,624
+So I want to create these guidelines.
+
+77
+00:05:39,625 --> 00:05:44,460
+And some things that you mentioned here creating process
+
+78
+00:05:44,461 --> 00:05:48,866
+documents. We can put there. So then if the template is already pageless then
+
+79
+00:05:48,867 --> 00:05:53,088
+we don't need to step. Right? Umm.
+
+80
+00:05:53,089 --> 00:05:55,922
+Edit. This is.
+
+81
+00:05:55,923 --> 00:05:58,986
+Yeah, context why we need to do this.
+
+82
+00:05:58,987 --> 00:06:03,372
+Umm.
+
+83
+00:06:03,373 --> 00:06:08,022
+Yeah okay you actually mentioned what uhh like I think the-
+
+84
+00:06:08,023 --> 00:06:10,315
+This is- we should have this at the beginning.
+
+85
+00:06:10,316 --> 00:06:13,669
+So this is not a process document about creating process documents.
+
+86
+00:06:13,670 --> 00:06:16,782
+It's a document that describes how process documents should look like.
+
+87
+00:06:16,783 --> 00:06:20,457
+So what I have in mind is not a step-by-step thing,
+
+88
+00:06:20,458 --> 00:06:24,392
+but more like an- some edit.
+
+89
+00:06:24,393 --> 00:06:27,005
+Document uhh that people can read.
+
+90
+00:06:27,006 --> 00:06:31,332
+Not a sequence I have fractions. To understand what a good document should contain.
+
+91
+00:06:31,333 --> 00:06:35,377
+Just start with something and then we will iterate.
+
+92
+00:06:35,378 --> 00:06:40,148
+And then we can also keep this thing.
+
+93
+00:06:40,149 --> 00:06:44,763
+Uh, take screenshots and also instead of taking screenshots also
+
+94
+00:06:44,764 --> 00:06:49,539
+sometimes you might need to go to the actual system and instead
+
+95
+00:06:49,540 --> 00:06:53,264
+of taking screenshots from the video. Take screenshots from that system.
+
+96
+00:06:53,265 --> 00:06:56,248
+Also mention that. Uh.
+
+97
+00:06:56,249 --> 00:06:56,560
+Ahh.
+
+98
+00:07:05,073 --> 00:07:07,107
+Yeah, this is good. So like,
+
+99
+00:07:07,108 --> 00:07:10,777
+as far as the process document about creating process documents uh,
+
+100
+00:07:10,778 --> 00:07:14,058
+goals. It's- good with a few exceptions,
+
+101
+00:07:14,059 --> 00:07:16,731
+a few things I mentioned, but this is good.
+
+102
+00:07:16,732 --> 00:07:19,264
+Like, we definitely need to have this document.
+
+103
+00:07:19,265 --> 00:07:23,199
+Just at the beginning I want to uh,
+
+104
+00:07:23,200 --> 00:07:27,995
+maybe this is how we- we don't need the- Alright, let's
+
+105
+00:07:27,996 --> 00:07:32,759
+do this. Let's remove
+
+106
+00:07:32,760 --> 00:07:36,775
+that one and just keep this one. Just add more information here and then
+
+107
+00:07:36,776 --> 00:07:41,312
+add step-by-step instructions. So I want to have good
+
+108
+00:07:41,313 --> 00:07:44,688
+examples uh of content.
+
+109
+00:07:44,689 --> 00:07:49,078
+I want like a description of what a good document contains.
+
+110
+00:07:49,079 --> 00:07:53,724
+Please re-watch the videos and like everything I mentioned there put
+
+111
+00:07:53,725 --> 00:07:58,230
+in the document in writing. And then when it comes
+
+112
+00:07:58,231 --> 00:08:00,383
+to the template let's have only one template here.
+
+113
+00:08:04,073 --> 00:08:08,078
+I think I should call it process document template so it's not confusing.
+
+114
+00:08:08,079 --> 00:08:11,904
+And remember I asked you to create an index for templates too.
+
+115
+00:08:11,905 --> 00:08:14,187
+It's still not there. Please do this.
+
+116
+00:08:14,188 --> 00:08:16,601
+Mmm.
+
+117
+00:08:16,602 --> 00:08:18,617
+Okay. Pause that.
+
+118
+00:08:20,680 --> 00:08:24,465
+Process document.
+
+119
+00:08:24,466 --> 00:08:27,419
+So here we will create a template.
+
+120
+00:08:27,420 --> 00:08:30,063
+And the reason I add underscore.
+
+121
+00:08:30,064 --> 00:08:32,851
+So it is the first one. In the.
+
+122
+00:08:32,852 --> 00:08:35,975
+This list.
+
+123
+00:08:38,419 --> 00:08:44,217
+And what you do is you make a copy here.
+
+124
+00:08:44,218 --> 00:08:46,551
+And then you move this copy to.
+
+125
+00:08:46,552 --> 00:08:50,470
+Thank you. One of the folders,
+
+126
+00:08:50,471 --> 00:08:53,274
+right? Let's say we want to move to the air table.
+
+127
+00:08:53,275 --> 00:08:57,780
+So then instead of having templates that could be outdated in each
+
+128
+00:08:57,781 --> 00:08:59,953
+of the folders, we will.
+
+129
+00:08:59,954 --> 00:09:02,854
+Where is it?
+
+130
+00:09:02,855 --> 00:09:06,005
+Where did it actually go?
+
+131
+00:09:08,889 --> 00:09:12,333
+Here? Okay,
+
+132
+00:09:12,334 --> 00:09:15,818
+so instead of having this copy of the copy of the copy of the
+
+133
+00:09:15,819 --> 00:09:19,073
+copy, just remove all these copies and let's have.
+
+134
+00:09:19,074 --> 00:09:22,585
+uhh this template,
+
+135
+00:09:22,586 --> 00:09:27,132
+we create a copy of the template and we move the copy of
+
+136
+00:09:27,133 --> 00:09:30,557
+the template to the process document,
+
+137
+00:09:30,558 --> 00:09:32,771
+to the bread one folder.
+
+138
+00:09:32,772 --> 00:09:39,561
+Mm. Okay,
+
+139
+00:09:39,562 --> 00:09:43,758
+and I assure that all the documents are indexed,
+
+140
+00:09:43,759 --> 00:09:47,944
+like. Like for example,
+
+141
+00:09:47,945 --> 00:09:51,700
+where's the punctation? Yeah,
+
+142
+00:09:51,701 --> 00:09:54,946
+like. Make sure that all the process documents are in the index,
+
+143
+00:09:54,947 --> 00:09:58,063
+because I see documents that are not in the index,
+
+144
+00:09:58,064 --> 00:10:01,543
+even though they should be. So make sure that they are there.

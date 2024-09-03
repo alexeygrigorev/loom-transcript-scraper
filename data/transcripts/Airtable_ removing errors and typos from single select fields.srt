@@ -1,0 +1,47 @@
+1
+00:00:00,450 --> 00:00:02,800
+Hi. So I noticed that you accidentally put,
+
+2
+00:00:02,890 --> 00:00:05,040
+uh, as relevance this as,
+
+3
+00:00:05,330 --> 00:00:08,360
+uh, H three C. So I wanted to show you how to,
+
+4
+00:00:09,170 --> 00:00:11,760
+uh, remove these things. So you go to this,
+
+5
+00:00:11,761 --> 00:00:15,480
+um, field, then you write customized field type,
+
+6
+00:00:15,780 --> 00:00:18,160
+and then you see old options. And then you,
+
+7
+00:00:18,290 --> 00:00:22,040
+we have this, um, so we should only have three.
+
+8
+00:00:22,390 --> 00:00:25,160
+This three and this one are like typos,
+
+9
+00:00:25,530 --> 00:00:27,800
+so we can just remove them like that.
+
+10
+00:00:29,350 --> 00:00:32,740
+Uh, now we'll say that, uh, yeah,
+
+11
+00:00:32,741 --> 00:00:36,020
+it'll lose some data. We just convert. And then you see now this one
+
+12
+00:00:36,021 --> 00:00:38,490
+is gone, so we can select medium here.

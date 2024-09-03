@@ -1,0 +1,283 @@
+1
+00:00:00,928 --> 00:00:05,358
+So I wanted to show you how to update videos in this github repository.
+
+2
+00:00:05,359 --> 00:00:10,327
+So this github repo is for the course and
+
+3
+00:00:10,328 --> 00:00:14,771
+we have different modules here. So let's me first open the playlist where you
+
+4
+00:00:14,772 --> 00:00:18,776
+upload the videos. So in this playlist,
+
+5
+00:00:19,777 --> 00:00:24,584
+so this is the playlist and we have this
+
+6
+00:00:24,604 --> 00:00:30,521
+video right. Previously we had um
+
+7
+00:00:30,541 --> 00:00:36,048
+this one, oh sorry, so here we still if
+
+8
+00:00:36,328 --> 00:00:39,332
+so what I did is um this is the repo and then I just
+
+9
+00:00:39,352 --> 00:00:44,063
+clicked on the first module because we are here it's one 1.2 which means
+
+10
+00:00:44,064 --> 00:00:48,163
+we need to go to the first module and I just scroll down and
+
+11
+00:00:48,164 --> 00:00:52,823
+we have the these links right and now if I open it it will
+
+12
+00:00:52,824 --> 00:00:57,493
+go to the old video. Hi everyone in this video I want to
+
+13
+00:00:57,473 --> 00:01:01,860
+show you how to configure it. I don't know if you hear the recording
+
+14
+00:01:01,861 --> 00:01:06,487
+here but like there's this ding sound and then it's not as loud
+
+15
+00:01:06,888 --> 00:01:09,171
+as this one. In this video I want to show.
+
+16
+00:01:09,312 --> 00:01:13,275
+Yeah. So this is the new one and that was the one is the
+
+17
+00:01:13,276 --> 00:01:17,844
+old one. So what we want to do is to replace these
+
+18
+00:01:17,964 --> 00:01:20,028
+links. All right.
+
+19
+00:01:22,027 --> 00:01:25,487
+So this is the link. So let's scroll to 1.2.
+
+20
+00:01:26,267 --> 00:01:28,547
+This is 1.2.
+
+21
+00:01:29,467 --> 00:01:31,507
+Right. And here we have this link.
+
+22
+00:01:32,087 --> 00:01:34,599
+So I will send it to, uh,
+
+23
+00:01:34,600 --> 00:01:37,864
+to, you know, Telegram. So you have it.
+
+24
+00:01:37,865 --> 00:01:42,864
+Okay,
+
+25
+00:01:44,874 --> 00:01:47,798
+so this is the link. And there are two places.
+
+26
+00:01:47,778 --> 00:01:52,097
+The first one First, there are two things that we need to care about.
+
+27
+00:01:52,759 --> 00:01:55,543
+So the first is this parameter.
+
+28
+00:01:56,064 --> 00:01:58,969
+So that starts with a question mark B equals.
+
+29
+00:01:58,989 --> 00:02:03,002
+else. this is the video, and the second one is the playlist.
+
+30
+00:02:04,465 --> 00:02:07,750
+So for this course, for LLMZoomCamp,
+
+31
+00:02:07,911 --> 00:02:12,521
+this is the ID of this playlist. You can see it here.
+
+32
+00:02:12,522 --> 00:02:14,815
+So this is the link, right?
+
+33
+00:02:14,816 --> 00:02:17,099
+So this is the video, and this is the playlist.
+
+34
+00:02:17,100 --> 00:02:19,163
+So for this one, we don't change the playlist.
+
+35
+00:02:19,624 --> 00:02:23,656
+We just take the link and we update.
+
+36
+00:02:23,657 --> 00:02:27,142
+The link here, right? We update it here and we update it here,
+
+37
+00:02:27,623 --> 00:02:30,608
+right? So this is the the second video.
+
+38
+00:02:30,648 --> 00:02:33,133
+We also need to update it for the third.
+
+39
+00:02:34,054 --> 00:02:37,230
+Let me just do that. I'll do it here. Oops.
+
+40
+00:02:37,690 --> 00:02:41,076
+Hi everyone. Welcome back. I'll,
+
+41
+00:02:41,077 --> 00:02:44,201
+uh, I'll do it here so we don't,
+
+42
+00:02:44,202 --> 00:02:47,906
+uh, so I don't wait till you update it.
+
+43
+00:02:47,907 --> 00:02:50,851
+Again, we'll just update it in two places.
+
+44
+00:02:50,852 --> 00:02:53,536
+Now for,
+
+45
+00:02:53,997 --> 00:02:58,885
+Welcome back. Let us update
+
+46
+00:02:58,965 --> 00:03:03,850
+before. So this one for,
+
+47
+00:03:05,573 --> 00:03:11,945
+two? Very common question.
+
+48
+00:03:12,165 --> 00:03:13,868
+This is saying new one, right?
+
+49
+00:03:18,383 --> 00:03:21,183
+1.5
+
+50
+00:03:25,363 --> 00:03:27,123
+Welcome back Thank you.
+
+51
+00:03:39,168 --> 00:03:40,129
+Welcome back to
+
+52
+00:03:46,239 --> 00:03:51,087
+Okay, so this is how you update it and also when
+
+53
+00:03:53,926 --> 00:03:57,116
+when I sent you a new video, I'll show how to do it.
+
+54
+00:03:57,537 --> 00:04:01,985
+When I sent you a new video, you first go to the proper module,
+
+55
+00:04:03,147 --> 00:04:05,652
+then you click edit,
+
+56
+00:04:06,353 --> 00:04:09,539
+and then now you find the place where to put it.
+
+57
+00:04:10,160 --> 00:04:12,744
+And here you see video, here is nothing,
+
+58
+00:04:14,387 --> 00:04:16,671
+video. So if there is video,
+
+59
+00:04:16,672 --> 00:04:18,457
+we just replace the the word video with this. If there is nothing, we
+
+60
+00:04:18,437 --> 00:04:20,781
+put it directly under the caption,
+
+61
+00:04:21,021 --> 00:04:23,745
+under the the title. Okay,
+
+62
+00:04:23,725 --> 00:04:27,531
+so now let us use this one.
+
+63
+00:04:29,854 --> 00:04:32,900
+And the this is the
+
+64
+00:04:37,047 --> 00:04:40,112
+this is the link. So for the second module,
+
+65
+00:04:40,212 --> 00:04:44,670
+please finish it. Please do it for all the videos we uploaded.
+
+66
+00:04:44,671 --> 00:04:49,427
+And create a process document for that. So for LLM course,
+
+67
+00:04:49,647 --> 00:04:52,051
+it's like that. For other courses,
+
+68
+00:04:53,673 --> 00:04:56,017
+it's a little bit different, but also when we need,
+
+69
+00:04:56,197 --> 00:04:58,453
+I'll show you how to do that.
+
+70
+00:04:58,454 --> 00:05:03,518
+Okay, so this is how you update the links to the course
+
+71
+00:05:03,538 --> 00:05:05,523
+videos in the course repository.

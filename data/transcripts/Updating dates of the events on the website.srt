@@ -1,0 +1,31 @@
+1
+00:00:00,300 --> 00:00:02,850
+Well, let me show you how you can change the date.
+
+2
+00:00:03,420 --> 00:00:08,100
+Go to data. You go to events and then
+
+3
+00:00:08,130 --> 00:00:12,900
+you click on edit and then if they want
+
+4
+00:00:13,800 --> 00:00:18,090
+right, then tell them that they use tomorrow 20,
+
+5
+00:00:18,660 --> 00:00:24,960
+30, first and solo on all
+
+6
+00:00:24,961 --> 00:00:29,490
+y'all beat. Let me see, just come in and then it will update on
+
+7
+00:00:29,491 --> 00:00:32,190
+the website. So this is how you update the date,
+
+8
+00:00:32,640 --> 00:00:34,050
+the events on the website.

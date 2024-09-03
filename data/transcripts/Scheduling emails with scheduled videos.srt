@@ -1,0 +1,211 @@
+1
+00:00:01,430 --> 00:00:03,960
+I think it's a good idea. We,
+
+2
+00:00:04,620 --> 00:00:09,360
+so when I ask you, please schedule something for tomorrow for
+
+3
+00:00:09,361 --> 00:00:12,330
+open source spotlights specifically. Um,
+
+4
+00:00:12,390 --> 00:00:15,360
+so when you do this, you on August kiddo,
+
+5
+00:00:15,420 --> 00:00:16,500
+and this is actually
+
+6
+00:00:20,420 --> 00:00:20,640
+<v 1>Have
+
+7
+00:00:21,380 --> 00:00:26,010
+This thing here, usually what's the next thing we
+
+8
+00:00:26,011 --> 00:00:28,920
+do. Uh, whereas the travel board,
+
+9
+00:00:35,460 --> 00:00:39,990
+Our Trello board opensource, we ask the guests to
+
+10
+00:00:39,991 --> 00:00:42,750
+share the email, uh, the event with
+
+11
+00:00:47,870 --> 00:00:51,000
+Recording with their network.
+
+12
+00:00:52,230 --> 00:00:57,450
+So, um, here, because usually 5:00 PM
+
+13
+00:00:58,020 --> 00:01:02,610
+central European time, you're usually sleeping during this time and
+
+14
+00:01:02,700 --> 00:01:07,260
+I'd like them to receive the email immediately after it is
+
+15
+00:01:07,261 --> 00:01:10,740
+published. So what we can do here is,
+
+16
+00:01:10,741 --> 00:01:15,480
+uh, schedule And
+
+17
+00:01:15,660 --> 00:01:18,270
+email. Um,
+
+18
+00:01:19,320 --> 00:01:23,520
+the link I think are,
+
+19
+00:01:26,100 --> 00:01:30,090
+I think, yes. Yeah.
+
+20
+00:01:30,120 --> 00:01:32,760
+Maybe we don't do this as a separate meeting,
+
+21
+00:01:33,840 --> 00:01:36,450
+uh, a separate item,
+
+22
+00:01:36,840 --> 00:01:39,660
+but this one, Um,
+
+23
+00:01:49,130 --> 00:01:49,370
+Hmm.
+
+24
+00:01:54,070 --> 00:01:58,450
+Yeah. So here we'll have a template. So the way you can do this,
+
+25
+00:01:59,050 --> 00:02:01,300
+so you write it, have a mold,
+
+26
+00:02:01,360 --> 00:02:06,790
+send it, this is just an example. So you would apply it and
+
+27
+00:02:06,791 --> 00:02:10,780
+then you sent schedule sound like,
+
+28
+00:02:10,781 --> 00:02:15,400
+of course you need to The link
+
+29
+00:02:15,401 --> 00:02:18,400
+and then you in everything,
+
+30
+00:02:26,440 --> 00:02:30,820
+And then you just do a schedule. And if I ask you to schedule
+
+31
+00:02:30,821 --> 00:02:33,670
+it for tomorrow, select the date and time.
+
+32
+00:02:34,000 --> 00:02:35,440
+So for example, tomorrow,
+
+33
+00:02:38,700 --> 00:02:42,110
+Yeah, you'll probably need to do translation translation.
+
+34
+00:02:42,960 --> 00:02:48,150
+Um, but yeah, let's say if you or eat for 17 or
+
+35
+00:02:48,151 --> 00:02:52,680
+5:00 PM, then you can scale all the email email or 17 0 5.
+
+36
+00:02:53,610 --> 00:03:00,290
+So then you just schedule sound, and then they will get the email immediately
+
+37
+00:03:00,320 --> 00:03:03,020
+after the recording costs life. So they,
+
+38
+00:03:03,500 --> 00:03:11,810
+if they receive it, they can already share it with pain network because
+
+39
+00:03:11,811 --> 00:03:16,430
+it's hugely helpful for YouTube when at
+
+40
+00:03:16,431 --> 00:03:20,960
+the beginning, right. Immediately after it gets more views.
+
+41
+00:03:21,020 --> 00:03:24,020
+So if they share after we publish,
+
+42
+00:03:24,050 --> 00:03:26,270
+it's actually with her, by the way,
+
+43
+00:03:26,330 --> 00:03:27,170
+and notice that,
+
+44
+00:03:33,560 --> 00:03:35,720
+uh, like after,
+
+45
+00:03:37,520 --> 00:03:41,000
+if you have a colon, there should be no space.
+
+46
+00:03:42,710 --> 00:03:44,300
+Please pay attention to the patient.
+
+47
+00:03:49,150 --> 00:03:51,970
+Yeah. So this is how you can schedule emails,
+
+48
+00:03:52,900 --> 00:03:59,170
+um, about open source spotlight after scheduling the
+
+49
+00:03:59,410 --> 00:03:59,980
+YouTube link.
+
+50
+00:04:04,120 --> 00:04:08,680
+Now you can also add where you can create a process doc
+
+51
+00:04:09,400 --> 00:04:16,120
+and edit here. So I'll have this doc
+
+52
+00:04:17,290 --> 00:04:20,350
+and then we already have a template. And then in this document,
+
+53
+00:04:20,470 --> 00:04:23,070
+please link the template as well. Okay.

@@ -1,0 +1,15 @@
+1
+00:00:01,920 --> 00:00:06,540
+This call button. So they
+
+2
+00:00:06,550 --> 00:00:10,500
+click on this and then you can choose which template you want to use
+
+3
+00:00:11,820 --> 00:00:15,060
+and can just specify things here.
+
+4
+00:00:15,450 --> 00:00:16,110
+Real color.

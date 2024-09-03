@@ -1,0 +1,315 @@
+1
+00:00:01,116 --> 00:00:04,883
+So I want to show you how to delete a file from GitHub and
+
+2
+00:00:04,884 --> 00:00:07,471
+how to delete. So we need to actually delete a book of the week,
+
+3
+00:00:07,472 --> 00:00:12,525
+but what I show is actually actually works for
+
+4
+00:00:12,526 --> 00:00:14,550
+delete in any file, right?
+
+5
+00:00:14,551 --> 00:00:18,529
+So in this specific thing uh, in the process document that we will create,
+
+6
+00:00:18,530 --> 00:00:20,752
+we will talk about delete in 8-4,
+
+7
+00:00:20,753 --> 00:00:22,795
+a book of the week.
+
+8
+00:00:22,796 --> 00:00:25,038
+Umm.
+
+9
+00:00:25,039 --> 00:00:29,383
+And so this is what we want to delete this understanding ETL.
+
+10
+00:00:29,384 --> 00:00:33,375
+And we click on that. And actually the first thing I wanted to show
+
+11
+00:00:33,376 --> 00:00:38,161
+you is instead of deleting what I could do is
+
+12
+00:00:38,162 --> 00:00:40,794
+instead of creating a new one and deleting the old one,
+
+13
+00:00:40,795 --> 00:00:43,728
+what we could do is actually just edit this one,
+
+14
+00:00:43,729 --> 00:00:47,133
+right? So when we edit, there is beginning,
+
+15
+00:00:47,134 --> 00:00:50,969
+there is start and end. So we could just change it,
+
+16
+00:00:50,970 --> 00:00:53,332
+right? Of course the name,
+
+17
+00:00:53,333 --> 00:00:58,308
+the old the old name is also possible to change,
+
+18
+00:00:58,309 --> 00:01:03,435
+but what would be sufficient is just changing the start,
+
+19
+00:01:03,436 --> 00:01:07,711
+the end date. And yeah, you can also change the file name,
+
+20
+00:01:07,712 --> 00:01:12,027
+right? But right now I want to show you how to delete and please
+
+21
+00:01:12,028 --> 00:01:16,793
+also create a separate process document for showing how to
+
+22
+00:01:16,794 --> 00:01:19,910
+delete, umm.
+
+23
+00:01:19,911 --> 00:01:24,591
+Bye. How to edit the beginning and end or
+
+24
+00:01:24,592 --> 00:01:27,965
+in general how to edit the book of the week stuff.
+
+25
+00:01:27,966 --> 00:01:31,739
+Okay. So here I want to show you how to delete.
+
+26
+00:01:31,740 --> 00:01:34,112
+So this is where we came previously.
+
+27
+00:01:34,113 --> 00:01:36,677
+We'll click here and,
+
+28
+00:01:36,678 --> 00:01:38,820
+and uh we'll click on this thing, right?
+
+29
+00:01:38,821 --> 00:01:42,344
+So I need to scroll a little bit down. Umm,
+
+30
+00:01:42,345 --> 00:01:45,558
+for you or interface it might be different but I need to scroll a
+
+31
+00:01:45,559 --> 00:01:48,482
+little bit down and then I see delete file.
+
+32
+00:01:48,483 --> 00:01:50,876
+And also,
+
+33
+00:01:50,877 --> 00:01:55,459
+now we will delete it. Thank you. What is important to note is this
+
+34
+00:01:55,460 --> 00:01:58,794
+path to you. So I will copy it.
+
+35
+00:01:58,795 --> 00:02:00,938
+Umm,
+
+36
+00:02:00,939 --> 00:02:10,207
+I'll put it to a note right now. Umm.
+
+37
+00:02:10,208 --> 00:02:13,128
+This is the path that umm.
+
+38
+00:02:13,129 --> 00:02:18,356
+We need. Umm.
+
+39
+00:02:18,357 --> 00:02:20,819
+Right now I will delete it.
+
+40
+00:02:20,820 --> 00:02:22,832
+So click on that.
+
+41
+00:02:22,833 --> 00:02:25,118
+Can we change this now? Right glitz.
+
+42
+00:02:25,119 --> 00:02:27,601
+Umm.
+
+43
+00:02:27,602 --> 00:02:30,465
+So now the fire was gone. We don't see it here.
+
+44
+00:02:30,466 --> 00:02:33,830
+But some of the files that we also need to delete are not gone
+
+45
+00:02:33,831 --> 00:02:36,234
+yet. So they are contained here.
+
+46
+00:02:36,235 --> 00:02:40,488
+In images. So now we go up.
+
+47
+00:02:42,821 --> 00:02:47,969
+We'll go to images. We'll
+
+48
+00:02:47,970 --> 00:02:50,824
+go to books. Now we'll go to me. I can name this thing.
+
+49
+00:02:50,825 --> 00:02:53,860
+Yeah. So.
+
+50
+00:02:53,861 --> 00:02:58,475
+Let me show you the one on there.
+
+51
+00:02:58,476 --> 00:03:00,779
+We'll go to images.
+
+52
+00:03:00,780 --> 00:03:02,791
+We'll go to books.
+
+53
+00:03:02,792 --> 00:03:05,425
+And we need to find that book.
+
+54
+00:03:05,426 --> 00:03:09,430
+So see. This is here. So this is the path.
+
+55
+00:03:09,431 --> 00:03:12,303
+So we'll go here and that.
+
+56
+00:03:12,304 --> 00:03:16,103
+We can delete each file individually like we did last time,
+
+57
+00:03:16,104 --> 00:03:20,180
+right? So click on that and delete what I think here is possible to
+
+58
+00:03:20,181 --> 00:03:24,076
+delete the entire directory. So again.
+
+59
+00:03:24,077 --> 00:03:28,728
+So. Okay. So
+
+60
+00:03:28,729 --> 00:03:31,041
+you click on this dot, dot, dot.
+
+61
+00:03:31,042 --> 00:03:34,585
+Delete directory. So you review the list of files.
+
+62
+00:03:34,586 --> 00:03:37,518
+So just do files. Can we change this?
+
+63
+00:03:37,519 --> 00:03:40,392
+Now what the file is going? Or what the file is?
+
+64
+00:03:40,393 --> 00:03:43,355
+The directory is going. Umm,
+
+65
+00:03:43,356 --> 00:03:45,933
+this is how you delete, uhm. Book of the week.
+
+66
+00:03:45,934 --> 00:03:50,560
+Um, so from this video you please create three process
+
+67
+00:03:50,561 --> 00:03:53,203
+documents. So first created generic,
+
+68
+00:03:53,204 --> 00:03:57,820
+uh, process document describing how to delete a file and the
+
+69
+00:03:57,821 --> 00:04:00,579
+directory from GitHub. Thank you.
+
+70
+00:04:00,580 --> 00:04:06,897
+Then create another process document that describes how to uh,
+
+71
+00:04:06,898 --> 00:04:11,503
+edit a book of the week event or page
+
+72
+00:04:11,504 --> 00:04:14,857
+how to locate. So from the very beginning like from the top of the
+
+73
+00:04:14,858 --> 00:04:19,417
+repository it should go from the top of repository like exactly how to
+
+74
+00:04:19,418 --> 00:04:23,342
+locate the file and what to edit and how.
+
+75
+00:04:25,645 --> 00:04:30,381
+And also how to delete the entire book of the week file.
+
+76
+00:04:30,382 --> 00:04:34,370
+So they're described that um this is where the file is,
+
+77
+00:04:34,371 --> 00:04:38,899
+where this is the images is, are and you can refer to the first
+
+78
+00:04:38,900 --> 00:04:41,234
+process document for details on how to delete it.
+
+79
+00:04:41,235 --> 00:04:42,497
+Okay. Thank you.

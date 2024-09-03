@@ -1,0 +1,51 @@
+1
+00:00:00,750 --> 00:00:05,290
+I just realized we might not have instructions about adding
+
+2
+00:00:05,291 --> 00:00:08,250
+videos not from our channel to the playlist.
+
+3
+00:00:10,290 --> 00:00:13,270
+So if this is a video we want to add to the playlist,
+
+4
+00:00:13,610 --> 00:00:17,934
+to the Data Engineering Zoom Cam playlist, but it's not our channel.
+
+5
+00:00:19,434 --> 00:00:21,994
+And you probably know how to do this, but just for the sake of
+
+6
+00:00:21,995 --> 00:00:25,134
+completeness and we also can create a process document for that.
+
+7
+00:00:25,934 --> 00:00:30,554
+I want to show you how to do this. We click save here and
+
+8
+00:00:30,555 --> 00:00:35,126
+then we select which playlist we want to save and then it's
+
+9
+00:00:35,127 --> 00:00:39,806
+date engineer. And then like as I asked you in
+
+10
+00:00:39,807 --> 00:00:43,366
+telegram we also need to put it in the right location so then we
+
+11
+00:00:43,367 --> 00:00:46,826
+you know how to do this we should already have process document for that
+
+12
+00:00:46,827 --> 00:00:49,698
+you would need to. Yeah,
+
+13
+00:00:49,878 --> 00:00:54,198
+so that's how you add a video from different channels to our playlist.

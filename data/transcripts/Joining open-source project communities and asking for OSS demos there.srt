@@ -1,0 +1,183 @@
+1
+00:00:00,220 --> 00:00:05,050
+Hi. So I asked you to find somebody to do open source spotlight with
+
+2
+00:00:05,051 --> 00:00:09,050
+this company, Milano. So this is the GitHub Neuro,
+
+3
+00:00:09,710 --> 00:00:14,210
+and then actually in this GitHub, when scrolling down,
+
+4
+00:00:14,240 --> 00:00:18,290
+I saw that they have a Slack community. So sometimes they have Slack communities.
+
+5
+00:00:18,320 --> 00:00:20,610
+Some of the companies have Thisor community.
+
+6
+00:00:20,920 --> 00:00:23,050
+This is pretty similar. If you haven't used Thisor,
+
+7
+00:00:23,051 --> 00:00:26,610
+maybe I can show, I can record another separate video for that.
+
+8
+00:00:26,950 --> 00:00:30,210
+But what I, so I saw that they have a Slack community,
+
+9
+00:00:30,211 --> 00:00:33,330
+so I just joined this. So I clicked on this thing and then I
+
+10
+00:00:33,530 --> 00:00:35,610
+registered it in Slack. You have done this multiple times?
+
+11
+00:00:35,611 --> 00:00:39,130
+I think so. I am in their slack already.
+
+12
+00:00:39,390 --> 00:00:43,010
+And what I want to do in, now, instead of going through list of
+
+13
+00:00:43,011 --> 00:00:46,570
+committers, I just want to ask that in Slack.
+
+14
+00:00:46,571 --> 00:00:49,530
+So I want to say, so that they have this introductions channel,
+
+15
+00:00:49,840 --> 00:00:52,410
+I think most of the, um,
+
+16
+00:00:52,411 --> 00:00:57,210
+most of, um, Slacks, Slack communities have this introduction channel.
+
+17
+00:00:57,260 --> 00:01:01,210
+So here we say a few words about,
+
+18
+00:01:01,300 --> 00:01:04,370
+um, like people who join, we say a few words about ourselves.
+
+19
+00:01:04,580 --> 00:01:07,250
+So now I will type something and then you'll see it.
+
+20
+00:01:07,760 --> 00:01:10,570
+Okay. So I just put this on post and then type this message.
+
+21
+00:01:10,780 --> 00:01:13,010
+So, hi everyone, my name is um, [Inaudible],
+
+22
+00:01:13,011 --> 00:01:16,650
+myself, and then you can write. So my name is Francis and I'm a
+
+23
+00:01:16,651 --> 00:01:21,210
+community manager at Data Doc Club. And you can say we recently run across
+
+24
+00:01:21,860 --> 00:01:25,490
+company name and it looks really cool.
+
+25
+00:01:25,780 --> 00:01:28,690
+So I was wondering if you'd be interested in them in the project for
+
+26
+00:01:28,691 --> 00:01:31,410
+our community members. And then,
+
+27
+00:01:31,411 --> 00:01:35,010
+yeah, I wanted to add a link to our YouTube channel,
+
+28
+00:01:35,580 --> 00:01:38,210
+um, Open Source Spotlight playlist.
+
+29
+00:01:39,020 --> 00:01:43,610
+So we have this playlist where is open
+
+30
+00:01:43,611 --> 00:01:46,810
+source spotlight? Can see, Oh,
+
+31
+00:01:46,811 --> 00:01:49,650
+here it is, right? So this is the open source spotlight playlist.
+
+32
+00:01:50,340 --> 00:01:54,290
+So I just copied and past it here.
+
+33
+00:02:09,600 --> 00:02:12,750
+So something like that. Yeah,
+
+34
+00:02:13,190 --> 00:02:17,270
+actually, I don't know if it's appropriate. I'll see companies say like how they
+
+35
+00:02:17,271 --> 00:02:20,030
+react to this because it's like, uh, instead of,
+
+36
+00:02:20,200 --> 00:02:22,950
+so previously the way we are doing, we were doing this,
+
+37
+00:02:22,951 --> 00:02:26,790
+we were finding people from this company and contacting this,
+
+38
+00:02:26,791 --> 00:02:30,830
+but here we are asking the open, Hey, who from you want to do
+
+39
+00:02:30,831 --> 00:02:33,630
+a demo, right? Mm. Yeah.
+
+40
+00:02:33,631 --> 00:02:35,670
+I think that they should not mind.
+
+41
+00:02:35,671 --> 00:02:37,990
+Let's see. But um, yeah,
+
+42
+00:02:37,991 --> 00:02:40,150
+in general, this is another approach.
+
+43
+00:02:40,151 --> 00:02:44,390
+And or for finding speakers for specific products,
+
+44
+00:02:45,160 --> 00:02:47,190
+uh, for open source spotlight. Yeah,
+
+45
+00:02:47,191 --> 00:02:49,990
+that's it. Oh yeah, of course I need to send it.
+
+46
+00:02:51,100 --> 00:02:51,590
+Okay.

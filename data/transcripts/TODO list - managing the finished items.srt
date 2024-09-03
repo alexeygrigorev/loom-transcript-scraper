@@ -1,0 +1,91 @@
+1
+00:00:00,240 --> 00:00:03,300
+Um, pain. So regarding the to-do list.
+
+2
+00:00:03,810 --> 00:00:08,430
+So you, so for this is things
+
+3
+00:00:08,431 --> 00:00:11,280
+that are done, so you keep them,
+
+4
+00:00:12,570 --> 00:00:15,570
+and it was something like this,
+
+5
+00:00:15,870 --> 00:00:20,370
+right. And this turned out to be a bit confusion
+
+6
+00:00:20,371 --> 00:00:24,750
+for the script. So it started inserting these things here.
+
+7
+00:00:25,980 --> 00:00:29,790
+So what I want to ask you next time.
+
+8
+00:00:30,090 --> 00:00:34,620
+So they, if you want to hide them to first move them
+
+9
+00:00:36,090 --> 00:00:38,370
+like this, so just like drag and drop.
+
+10
+00:00:38,580 --> 00:00:41,130
+So you just put them here,
+
+11
+00:00:41,190 --> 00:00:46,170
+like for this great thing and step up and
+
+12
+00:00:46,171 --> 00:00:50,700
+then, alright. And then now everything
+
+13
+00:00:50,701 --> 00:00:52,890
+that is done already, uh,
+
+14
+00:00:53,130 --> 00:00:58,140
+on top, so all of them are together and then
+
+15
+00:00:58,200 --> 00:01:00,750
+everything that is not done is here.
+
+16
+00:01:03,120 --> 00:01:06,760
+Yeah. So I think it's, um, this way it's easier and then it's not
+
+17
+00:01:06,761 --> 00:01:11,340
+confusing for the script. So the scape always here
+
+18
+00:01:11,400 --> 00:01:13,890
+at the end. So it was tying it to the middle.
+
+19
+00:01:17,520 --> 00:01:19,980
+Let me see. It was trying to write something to the middle.
+
+20
+00:01:20,130 --> 00:01:24,720
+Um, yeah. So better to like put things that
+
+21
+00:01:24,721 --> 00:01:27,900
+I've done. Um, so for example,
+
+22
+00:01:27,901 --> 00:01:32,490
+you've finished this one, just knock them up and then write
+
+23
+00:01:32,491 --> 00:01:32,640
+them.

@@ -1,0 +1,103 @@
+1
+00:00:04,560 --> 00:00:09,060
+I changed the structure of this suppository with transcript reviews.
+
+2
+00:00:09,960 --> 00:00:14,160
+So previously it was only the case in time quotes these things,
+
+3
+00:00:14,370 --> 00:00:18,060
+right? So these things that we put to YouTube,
+
+4
+00:00:18,840 --> 00:00:22,110
+I changed it a bit. So now actually time codes,
+
+5
+00:00:22,220 --> 00:00:24,870
+goals go to time codes,
+
+6
+00:00:24,930 --> 00:00:27,450
+folder. And then now there is another folder.
+
+7
+00:00:29,160 --> 00:00:32,310
+So before timecards were going to transcripts,
+
+8
+00:00:32,910 --> 00:00:38,160
+but this is a bit misleading. So now transcripts contains transcripts.
+
+9
+00:00:39,540 --> 00:00:44,280
+And later on, when we will process the transcript
+
+10
+00:00:44,281 --> 00:00:46,530
+from that, he created that something,
+
+11
+00:00:47,490 --> 00:00:51,300
+I will show you how to add this transcript to the website right now,
+
+12
+00:00:51,360 --> 00:00:56,220
+if we go to the public side, I just added the podcast
+
+13
+00:00:56,221 --> 00:01:00,090
+episode and you see it, doesn't have this thing here.
+
+14
+00:01:00,360 --> 00:01:03,270
+So there is not transcript yet, um,
+
+15
+00:01:03,600 --> 00:01:07,350
+with Ellen because it's not 3d. So now,
+
+16
+00:01:07,351 --> 00:01:12,300
+because we have these things, now I will show you later how
+
+17
+00:01:12,301 --> 00:01:16,830
+to use these things. There's transcripts at
+
+18
+00:01:16,831 --> 00:01:19,980
+the task to the website. Okay.
+
+19
+00:01:20,190 --> 00:01:23,700
+So just to summarize now,
+
+20
+00:01:23,701 --> 00:01:26,160
+time codes now, after you upload,
+
+21
+00:01:26,190 --> 00:01:28,980
+I think two X, two docs order,
+
+22
+00:01:30,750 --> 00:01:35,130
+and action will be executed. And time of course will appear in the times
+
+23
+00:01:35,131 --> 00:01:39,360
+code folder and transcripts will appear in the transcripts folder.
+
+24
+00:01:40,110 --> 00:01:44,640
+Typically you will not need to do anything with transcripts when we have
+
+25
+00:01:44,790 --> 00:01:49,260
+them in time, but when they are later and we need to do something
+
+26
+00:01:49,261 --> 00:01:50,850
+with them, we'll need this.

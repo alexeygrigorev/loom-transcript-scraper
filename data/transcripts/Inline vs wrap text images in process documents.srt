@@ -1,0 +1,35 @@
+1
+00:00:00,120 --> 00:00:05,430
+Yeah, hi, I was going through protest docs and then notice that most
+
+2
+00:00:05,431 --> 00:00:08,430
+of the images are in Rupt text mode.
+
+3
+00:00:09,150 --> 00:00:12,750
+So please make them in line because when it's scrapped text mode,
+
+4
+00:00:13,800 --> 00:00:17,730
+you see I'm trying to move the image and it's not moving.
+
+5
+00:00:21,690 --> 00:00:25,920
+So the way to control this is just use this in line mode.
+
+6
+00:00:27,030 --> 00:00:31,350
+And then you see it's like, then it becomes a part of the text,
+
+7
+00:00:32,190 --> 00:00:35,550
+so you don't need to change anything or the existing ones.
+
+8
+00:00:36,420 --> 00:00:38,460
+Um, but please for the new ones,
+
+9
+00:00:39,660 --> 00:00:42,510
+make it in line. Do not make it interrupt text.

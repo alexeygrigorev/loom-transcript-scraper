@@ -1,0 +1,63 @@
+1
+00:00:00,330 --> 00:00:04,580
+I wanted to show you how to link, uh, payment to an invoice.
+
+2
+00:00:05,470 --> 00:00:07,500
+So this is the invoice that, uh,
+
+3
+00:00:07,790 --> 00:00:09,900
+is overdue. So, cause there is no,
+
+4
+00:00:10,750 --> 00:00:13,060
+uh, we didn't manage to automatically link,
+
+5
+00:00:13,061 --> 00:00:17,580
+they didn't, uh, put the invoice number in the note,
+
+6
+00:00:17,581 --> 00:00:21,100
+I guess anyways. So here we just click at payment
+
+7
+00:00:29,200 --> 00:00:33,820
+and then there is this one, this
+
+8
+00:00:33,821 --> 00:00:40,390
+one, and I
+
+9
+00:00:40,391 --> 00:00:43,470
+think now should just mark everything as
+
+10
+00:01:02,240 --> 00:01:06,880
+is wrong with my internet, I guess. So lemme do
+
+11
+00:01:06,881 --> 00:01:10,610
+it one more time. Okay.
+
+12
+00:01:10,710 --> 00:01:14,930
+Now its linked. And now if I go back to,
+
+13
+00:01:17,860 --> 00:01:20,990
+yeah, it's from here. Yeah,
+
+14
+00:01:20,991 --> 00:01:23,190
+you did send this. I asked you in,
+
+15
+00:01:23,360 --> 00:01:23,710
+uh,
+
+16
+00:01:33,650 --> 00:01:34,140
+okay.

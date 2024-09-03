@@ -1,0 +1,299 @@
+1
+00:00:00,810 --> 00:00:04,080
+Hi, I wanted to show you two transcripts,
+
+2
+00:00:04,081 --> 00:00:06,540
+two pages that are already created.
+
+3
+00:00:06,541 --> 00:00:08,640
+So for example, for this, for data science,
+
+4
+00:00:09,030 --> 00:00:12,960
+from the science and data engineering, public was a bit late because he was
+
+5
+00:00:12,961 --> 00:00:16,470
+moving countries. So he just sent this transcript.
+
+6
+00:00:16,800 --> 00:00:19,710
+So let me just, uh, show you how to,
+
+7
+00:00:21,570 --> 00:00:26,670
+Uh, to process this. So I first am done unloading this as
+
+8
+00:00:27,060 --> 00:00:31,590
+Microsoft docs. Now let me open it.
+
+9
+00:00:36,220 --> 00:00:40,990
+And by the way, I want
+
+10
+00:00:40,991 --> 00:00:41,290
+to,
+
+11
+00:00:47,320 --> 00:00:49,540
+At this point, so,
+
+12
+00:00:49,541 --> 00:00:54,340
+because Powell sounded, I need to say that it's done,
+
+13
+00:00:55,780 --> 00:00:58,840
+But this is not what I wanted to show you. Um,
+
+14
+00:00:59,320 --> 00:01:03,280
+yeah, so I downloaded it. Let me to name it.
+
+15
+00:01:04,600 --> 00:01:09,190
+I also want to quickly check what is the season seven episode
+
+16
+00:01:09,191 --> 00:01:12,400
+eight season seven,
+
+17
+00:01:12,401 --> 00:01:15,010
+episode eight. And,
+
+18
+00:01:15,100 --> 00:01:19,750
+uh, Of course from the
+
+19
+00:01:19,751 --> 00:01:26,710
+S E D S do You
+
+20
+00:01:27,190 --> 00:01:32,080
+just the short and now what we do is,
+
+21
+00:01:32,230 --> 00:01:37,130
+uh, Applaud to that and get that you
+
+22
+00:01:37,830 --> 00:01:40,530
+remember This transcript,
+
+23
+00:01:42,630 --> 00:01:48,210
+Um, and then just
+
+24
+00:01:48,350 --> 00:01:51,980
+a file, Upload it.
+
+25
+00:01:59,600 --> 00:02:02,240
+Okay. It is committed. Now we see,
+
+26
+00:02:02,990 --> 00:02:05,030
+or sometimes there is a delay,
+
+27
+00:02:05,031 --> 00:02:09,530
+but we see that now that is a check.
+
+28
+00:02:09,880 --> 00:02:14,060
+We go to action and to see now it is being executed.
+
+29
+00:02:14,690 --> 00:02:19,250
+Sometimes these things might turn with one minute delay or something
+
+30
+00:02:19,760 --> 00:02:22,670
+here. We got lucky. It was executed immediately.
+
+31
+00:02:23,270 --> 00:02:26,270
+You see, it's already a green check,
+
+32
+00:02:27,470 --> 00:02:30,650
+So it would go to a transcript.
+
+33
+00:02:30,740 --> 00:02:34,340
+So we're not interested where actually we'll also need to think what's right.
+
+34
+00:02:35,450 --> 00:02:38,300
+So I know we need this one.
+
+35
+00:02:39,980 --> 00:02:44,590
+Um, this one goes to YouTube To
+
+36
+00:02:44,610 --> 00:02:49,010
+you. You already know that Because he already so hard to do this.
+
+37
+00:02:50,330 --> 00:02:53,210
+Um, yeah,
+
+38
+00:02:53,230 --> 00:02:56,600
+this one and it's
+
+39
+00:03:07,900 --> 00:03:07,990
+<v 1>Okay,
+
+40
+00:03:08,500 --> 00:03:11,260
+But this is not the main thing I wanted to show you because I
+
+41
+00:03:11,620 --> 00:03:17,170
+show you sound speeds. And these big coming from
+
+42
+00:03:17,171 --> 00:03:19,690
+dating, saying science, debate engineering.
+
+43
+00:03:20,740 --> 00:03:25,930
+So now let me crawl and then I will just click Selecto.
+
+44
+00:03:26,860 --> 00:03:31,960
+Can I do this? Well, we'll just do control a to select all you
+
+45
+00:03:31,961 --> 00:03:35,020
+see, I selected the entire thing,
+
+46
+00:03:36,930 --> 00:03:41,940
+So I copy. And now I go to,
+
+47
+00:03:43,080 --> 00:03:46,430
+Um, a website, the website,
+
+48
+00:03:47,160 --> 00:03:52,140
+I go to podcasts, And
+
+49
+00:03:52,141 --> 00:03:56,190
+then you find the podcast. So remember,
+
+50
+00:03:56,280 --> 00:03:58,950
+this is a season seven,
+
+51
+00:03:58,980 --> 00:04:03,630
+episode eight. So we find season
+
+52
+00:04:03,720 --> 00:04:06,210
+seven, episode eight from data science, data engineering.
+
+53
+00:04:07,710 --> 00:04:10,620
+And I click this pencil, this pile,
+
+54
+00:04:12,330 --> 00:04:16,860
+And just then I take this thing
+
+55
+00:04:17,070 --> 00:04:21,720
+that I copied. So I press control and now
+
+56
+00:04:21,780 --> 00:04:25,920
+I'm press paste and just to control it.
+
+57
+00:04:26,850 --> 00:04:27,660
+So it basically,
+
+58
+00:04:33,190 --> 00:04:34,450
+I couldn't come in changes.
+
+59
+00:04:38,710 --> 00:04:40,990
+No, this should update the website.
+
+60
+00:04:41,050 --> 00:04:44,410
+So, you know, it has been executed. So in a minute,
+
+61
+00:04:45,520 --> 00:04:47,830
+we should have the transcript.
+
+62
+00:04:49,810 --> 00:04:54,100
+Okay. Say this already. Let me just,
+
+63
+00:04:56,290 --> 00:05:00,910
+I'm just checking that the chapters and the chapters
+
+64
+00:05:00,911 --> 00:05:03,880
+are here, but of course in this,
+
+65
+00:05:05,390 --> 00:05:09,200
+Yeah, it is still being executed, man.
+
+66
+00:05:09,230 --> 00:05:10,670
+Mentor finish.
+
+67
+00:05:17,990 --> 00:05:22,640
+Well, it's doing this. Let me open this page and then
+
+68
+00:05:22,641 --> 00:05:27,410
+I'll just finish it. What cost they
+
+69
+00:05:27,411 --> 00:05:27,950
+spawn
+
+70
+00:05:31,010 --> 00:05:31,910
+It is being deployed.
+
+71
+00:05:39,210 --> 00:05:42,740
+Yeah. Okay.
+
+72
+00:05:42,830 --> 00:05:47,900
+Now we'll have transcript. So this is how we add transcripts to,
+
+73
+00:05:48,650 --> 00:05:53,390
+um, To a podcast event page
+
+74
+00:05:53,420 --> 00:05:55,910
+that we already have existing.
+
+75
+00:05:57,810 --> 00:05:58,560
+So this is called.

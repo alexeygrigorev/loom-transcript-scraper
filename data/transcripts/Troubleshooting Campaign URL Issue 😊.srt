@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:05,429
+So I just noticed that this URL does not work and
+
+2
+00:00:05,509 --> 00:00:09,216
+the reason for that is that we forgot to put the right link.
+
+3
+00:00:10,638 --> 00:00:15,372
+Things happens, but Yeah, of course you need to be more you
+
+4
+00:00:15,373 --> 00:00:20,200
+need to pay more attention to detail. You know that So next time please
+
+5
+00:00:20,321 --> 00:00:25,769
+add this to one of the things to the this document where you
+
+6
+00:00:25,749 --> 00:00:29,976
+keep track of things to watch out for Anyways,
+
+7
+00:00:30,176 --> 00:00:34,979
+so this is actually fixable so I already sent this e-mail to the
+
+8
+00:00:34,980 --> 00:00:39,628
+in the e-mail to Elisabetta but actually it does
+
+9
+00:00:39,588 --> 00:00:44,517
+not work cause the real URL is this one we
+
+10
+00:00:44,518 --> 00:00:49,645
+forgot to update it and uhm
+
+11
+00:00:49,665 --> 00:00:54,433
+so the way I found out is I went to all campaigns in MailChimp
+
+12
+00:00:55,174 --> 00:01:00,532
+so this is all campaigns then I go to uhh
+
+13
+00:01:00,533 --> 00:01:03,065
+it was in March, right?
+
+14
+00:01:04,488 --> 00:01:09,918
+so I find one in weird where
+
+15
+00:01:09,938 --> 00:01:12,057
+is the one in March?
+
+16
+00:01:12,058 --> 00:01:18,996
+should be somewhere here it's
+
+17
+00:01:18,997 --> 00:01:19,477
+weird
+
+18
+00:01:29,023 --> 00:01:33,098
+meh meh meh uh ah k
+
+19
+00:01:41,503 --> 00:01:46,690
+Yeah, so I think this is this one 4th of March Right,
+
+20
+00:01:46,710 --> 00:01:51,413
+so this is the campaign This is 4th of
+
+21
+00:01:51,453 --> 00:01:54,598
+March And this is the campaign.
+
+22
+00:01:54,819 --> 00:01:58,005
+So I go to details, and this is the link that we've updated.
+
+23
+00:01:58,405 --> 00:02:03,067
+It's actually still editable So we can write 103,
+
+24
+00:02:04,087 --> 00:02:08,607
+160, and now it works.
+
+25
+00:02:09,167 --> 00:02:13,724
+So if we forgot to update the URL and send the campaign anyways
+
+26
+00:02:14,085 --> 00:02:18,793
+it's still possible to update it. Now I also want you to go through
+
+27
+00:02:18,973 --> 00:02:23,681
+all the campaigns that we have here and check that
+
+28
+00:02:23,701 --> 00:02:28,267
+all the links are work. And if they do not,
+
+29
+00:02:29,008 --> 00:02:32,436
+update them using what I just showed. And of course we need to create
+
+30
+00:02:32,437 --> 00:02:34,540
+a process document just in case it happens again.

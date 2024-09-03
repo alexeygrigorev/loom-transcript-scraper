@@ -1,0 +1,459 @@
+1
+00:00:00,120 --> 00:00:03,540
+Already talked about book of the week. So now I want to show you
+
+2
+00:00:03,541 --> 00:00:06,630
+how you can add books and authors.
+
+3
+00:00:06,720 --> 00:00:09,240
+Um, I have a special form for that. Um,
+
+4
+00:00:09,241 --> 00:00:15,210
+so the first forum was called people. So let me click open
+
+5
+00:00:15,211 --> 00:00:17,850
+forum. So I sent you this link,
+
+6
+00:00:17,910 --> 00:00:20,910
+so you will be using this link to add people,
+
+7
+00:00:21,330 --> 00:00:24,480
+uh, to this form. And then I will have on my side,
+
+8
+00:00:24,481 --> 00:00:28,500
+a script that pulls data from there and then publishes this to the website.
+
+9
+00:00:29,430 --> 00:00:32,340
+Um, so this is the link. I will send you this link.
+
+10
+00:00:34,170 --> 00:00:38,100
+So now we want to create a personal profile on a data,
+
+11
+00:00:38,101 --> 00:00:40,980
+talks, a club webpage. So in this particular case,
+
+12
+00:00:40,981 --> 00:00:43,950
+it will be an author. Um, but the same process,
+
+13
+00:00:44,010 --> 00:00:48,540
+uh, the process is the same for other people like for podcast
+
+14
+00:00:48,541 --> 00:00:53,160
+guests, for webinars, guests, and so on. So in this particular case,
+
+15
+00:00:53,280 --> 00:00:56,160
+the author is Miller.
+
+16
+00:00:57,450 --> 00:01:01,950
+I hope I pronounce his name correctly, so we need his email.
+
+17
+00:01:02,040 --> 00:01:06,660
+So this will be like, uh, a key that uniquely identifies this person because
+
+18
+00:01:06,690 --> 00:01:09,930
+they might have the, maybe there are two people with the same name.
+
+19
+00:01:10,050 --> 00:01:13,260
+And since we have email, we can uniquely identify them.
+
+20
+00:01:13,810 --> 00:01:14,910
+Then we need his name.
+
+21
+00:01:16,980 --> 00:01:19,050
+So the name is this one.
+
+22
+00:01:20,790 --> 00:01:25,470
+Um, then we need his . So one thing you
+
+23
+00:01:25,471 --> 00:01:27,660
+can ask, uh, usually for speakers,
+
+24
+00:01:27,720 --> 00:01:29,790
+I asked them, Hey, can you send me your view?
+
+25
+00:01:30,510 --> 00:01:34,080
+Um, but because Mayer is a book author, we have a link to his
+
+26
+00:01:34,081 --> 00:01:37,200
+book and usually on books,
+
+27
+00:01:37,230 --> 00:01:40,350
+uh, there is, uh, a description about the author.
+
+28
+00:01:42,330 --> 00:01:45,990
+Um, so where,
+
+29
+00:01:46,020 --> 00:01:50,850
+yeah, so about the author. So
+
+30
+00:01:51,420 --> 00:01:53,910
+I will just copy that. Uh,
+
+31
+00:01:53,911 --> 00:01:58,620
+of course he's my journey. Maybe we can ask him to provide
+
+32
+00:01:58,650 --> 00:02:03,600
+better, um, viewer and
+
+33
+00:02:03,720 --> 00:02:07,290
+yeah, of course each book page has a different layout,
+
+34
+00:02:07,320 --> 00:02:09,570
+so it's not always here. So for example,
+
+35
+00:02:09,571 --> 00:02:11,940
+if we go to mining,
+
+36
+00:02:12,420 --> 00:02:15,300
+so my, for mining, this is another book publisher,
+
+37
+00:02:15,750 --> 00:02:18,270
+the information, uh, let me take, for example,
+
+38
+00:02:18,271 --> 00:02:20,310
+this one. Um,
+
+39
+00:02:20,400 --> 00:02:22,410
+so here the information about the book,
+
+40
+00:02:23,220 --> 00:02:25,290
+sorry, here about the author.
+
+41
+00:02:25,860 --> 00:02:27,330
+So this is what he usually copy.
+
+42
+00:02:27,660 --> 00:02:31,350
+So for mining is in one place for O'Reilly it's in a different place,
+
+43
+00:02:31,770 --> 00:02:35,580
+but, uh, yeah, if you have problems finding the audio book,
+
+44
+00:02:35,581 --> 00:02:39,540
+authors, tell me in any case,
+
+45
+00:02:39,541 --> 00:02:44,460
+you can always ask them and you will need to do that for people
+
+46
+00:02:44,461 --> 00:02:48,270
+who are not book authors. So let me copy that.
+
+47
+00:02:48,570 --> 00:02:52,500
+So I am copying it here the other few.
+
+48
+00:02:53,160 --> 00:02:55,470
+Then we have two fields for pictures.
+
+49
+00:02:55,650 --> 00:02:58,440
+So there are two ways of uploading a picture.
+
+50
+00:02:59,110 --> 00:03:01,870
+So we'll show you the easy way.
+
+51
+00:03:02,860 --> 00:03:04,930
+So we can just,
+
+52
+00:03:04,931 --> 00:03:06,940
+uh, if the author agrees,
+
+53
+00:03:07,390 --> 00:03:12,370
+we can just go to their LinkedIn page and then click
+
+54
+00:03:12,371 --> 00:03:16,360
+one, click on the picture and then right.
+
+55
+00:03:16,361 --> 00:03:21,100
+Click, um, and then copy in which address and what happens is you get
+
+56
+00:03:21,101 --> 00:03:25,420
+an address that is copied to your clipboard,
+
+57
+00:03:25,900 --> 00:03:28,450
+and then this is the image. Um,
+
+58
+00:03:28,840 --> 00:03:33,370
+you can save it or you can put
+
+59
+00:03:33,371 --> 00:03:33,920
+it there.
+
+60
+00:03:34,660 --> 00:03:38,980
+I think you can just do that now.
+
+61
+00:03:39,760 --> 00:03:41,770
+So it should be either this or this.
+
+62
+00:03:41,860 --> 00:03:45,580
+Uh, I will show you how to also do it without with uploading.
+
+63
+00:03:46,390 --> 00:03:49,600
+So this is pretty simple. Um,
+
+64
+00:03:49,660 --> 00:03:53,740
+so this is the, I think we just uploaded so I can do that.
+
+65
+00:03:54,940 --> 00:03:57,100
+I click upload and then if I was there,
+
+66
+00:03:57,640 --> 00:04:01,240
+um, but yeah, it wouldn't be a picture Euro.
+
+67
+00:04:01,540 --> 00:04:03,670
+So if you provide both, so first, uh,
+
+68
+00:04:04,010 --> 00:04:07,120
+the first day we'll check if pictures there, if the picture is there,
+
+69
+00:04:07,480 --> 00:04:09,820
+I will use this. If the picture is not there,
+
+70
+00:04:10,090 --> 00:04:12,610
+I will ups. I will use the link.
+
+71
+00:04:13,870 --> 00:04:19,480
+So, okay. I think here let's go with a link and
+
+72
+00:04:19,481 --> 00:04:23,380
+then we need to fuel some links for this,
+
+73
+00:04:23,410 --> 00:04:27,550
+uh, for the speaker. So we need to get cup LinkedIn profile Twitter and
+
+74
+00:04:27,551 --> 00:04:31,900
+the website. The best thing you can do is just ask the author.
+
+75
+00:04:32,950 --> 00:04:37,180
+Um, or what I sometimes do is a,
+
+76
+00:04:37,690 --> 00:04:40,750
+just use Google. So for example,
+
+77
+00:04:41,200 --> 00:04:43,630
+I go to Google, right? First name, last name,
+
+78
+00:04:43,631 --> 00:04:46,690
+and then get up. And then,
+
+79
+00:04:48,460 --> 00:04:51,310
+yeah, it doesn't seem like , has they get help?
+
+80
+00:04:52,030 --> 00:04:54,310
+They say don't Google it. Doesn't find it.
+
+81
+00:04:54,550 --> 00:04:56,980
+Maybe we can just ask him.
+
+82
+00:04:57,700 --> 00:04:59,740
+No, I will not do this.
+
+83
+00:04:59,770 --> 00:05:03,250
+Uh, um, I will just move on.
+
+84
+00:05:03,340 --> 00:05:06,790
+So if you don't find anything, leave it empty,
+
+85
+00:05:07,510 --> 00:05:11,140
+then LinkedIn, I already have his LinkedIn name.
+
+86
+00:05:11,620 --> 00:05:14,530
+So it should be this part here.
+
+87
+00:05:15,110 --> 00:05:19,150
+Right? So not the whole URL, but just the handle then Teeter,
+
+88
+00:05:19,330 --> 00:05:24,070
+I don't know if he has Twitter, just use Google.
+
+89
+00:05:24,430 --> 00:05:28,080
+Yeah. Things like he has. Uh,
+
+90
+00:05:28,240 --> 00:05:31,780
+don't think this is the right purse.
+
+91
+00:05:33,730 --> 00:05:37,510
+Um, alright,
+
+92
+00:05:37,511 --> 00:05:41,380
+let me check. So at the least,
+
+93
+00:05:41,381 --> 00:05:44,800
+yeah. So you see the picture. It's very easy to see,
+
+94
+00:05:45,520 --> 00:05:47,590
+um, like if this is the same person,
+
+95
+00:05:47,591 --> 00:05:52,510
+because you see the picture, so I'm taking this thing after
+
+96
+00:05:52,600 --> 00:05:55,180
+hit or yeah. They can take it from the hero.
+
+97
+00:05:57,800 --> 00:06:00,610
+Um, and then the website, actually,
+
+98
+00:06:00,611 --> 00:06:04,340
+I don't know what his website is. I guess we can also ask him
+
+99
+00:06:05,480 --> 00:06:07,040
+if he goes to any website or not.
+
+100
+00:06:11,750 --> 00:06:14,180
+I think his website is these key dimensions.
+
+101
+00:06:16,460 --> 00:06:21,020
+Yeah. Yeah.
+
+102
+00:06:21,021 --> 00:06:24,350
+And this is his website and it, um,
+
+103
+00:06:24,950 --> 00:06:28,100
+so I submit,
+
+104
+00:06:28,580 --> 00:06:30,830
+okay, now I have this information.
+
+105
+00:06:30,831 --> 00:06:33,890
+So you will not have access. Maybe you will have access.
+
+106
+00:06:33,920 --> 00:06:36,290
+Uh, I don't know how to actually organize this,
+
+107
+00:06:36,830 --> 00:06:39,980
+but yeah, in this forum now I see this.
+
+108
+00:06:40,130 --> 00:06:44,780
+So all the data that you just submitted it's here and what you don't
+
+109
+00:06:44,781 --> 00:06:48,410
+see you the status. And then this is what they will use to,
+
+110
+00:06:48,890 --> 00:06:51,380
+uh, see the backup in different view to add.
+
+111
+00:06:52,010 --> 00:06:54,590
+So these are all the people who are not added.
+
+112
+00:06:54,650 --> 00:06:59,210
+And once I add them, the status will change to done
+
+113
+00:07:00,350 --> 00:07:04,550
+right now. It's up to you. So this is how you add authors to
+
+114
+00:07:04,551 --> 00:07:06,620
+this form. And then using this form,
+
+115
+00:07:06,650 --> 00:07:08,960
+I will create a page on the website.

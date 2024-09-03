@@ -1,0 +1,263 @@
+1
+00:00:01,920 --> 00:00:04,320
+No, I want it to talk a bit about event.
+
+2
+00:00:07,110 --> 00:00:11,730
+So here, actually, I dunno for some
+
+3
+00:00:11,731 --> 00:00:14,550
+reasons and brought me in LinkedIn,
+
+4
+00:00:14,820 --> 00:00:17,340
+but the, the flow is usually, um,
+
+5
+00:00:17,940 --> 00:00:21,120
+before announcing the winners, like at 10 on Friday,
+
+6
+00:00:21,690 --> 00:00:26,460
+I contact the author and they ask the one or the author or
+
+7
+00:00:26,461 --> 00:00:30,090
+the authors, if they want to select the winners themselves,
+
+8
+00:00:30,210 --> 00:00:33,270
+or I should pick them randomly in this case,
+
+9
+00:00:33,360 --> 00:00:38,160
+actually, if I go to your secure,
+
+10
+00:00:38,161 --> 00:00:43,680
+drop me in LinkedIn, not in slack in a way I usually slack.
+
+11
+00:00:44,280 --> 00:00:48,840
+So yeah, she said, is it chosen by randomly?
+
+12
+00:00:48,870 --> 00:00:53,580
+Or they selected, so actually selected
+
+13
+00:00:53,581 --> 00:00:58,170
+the winners himself. So we should ask the authors if they
+
+14
+00:00:58,171 --> 00:01:01,320
+want to do this. And if they see that random is fine,
+
+15
+00:01:01,620 --> 00:01:07,020
+and then you coachable that procedure that you did for
+
+16
+00:01:07,190 --> 00:01:09,360
+this, in this case as well. Right? So you select,
+
+17
+00:01:11,850 --> 00:01:16,380
+um, yeah, but we need to ask the authors and
+
+18
+00:01:16,381 --> 00:01:20,160
+then I make this announcement for the winners.
+
+19
+00:01:20,820 --> 00:01:23,610
+Um, and then after that, I say that,
+
+20
+00:01:24,000 --> 00:01:27,060
+please send me your emails in text messages,
+
+21
+00:01:27,450 --> 00:01:29,700
+and I will pass them to here to me.
+
+22
+00:01:30,360 --> 00:01:33,930
+Uh, but let's say this book course with pact,
+
+23
+00:01:34,740 --> 00:01:39,330
+I will dry, uh, or with some other publisher that would write something
+
+24
+00:01:39,331 --> 00:01:40,190
+like, uh,
+
+25
+00:01:45,600 --> 00:01:53,010
+let me just scroll past them and
+
+26
+00:01:54,000 --> 00:01:56,460
+they will show the book.
+
+27
+00:01:58,170 --> 00:02:00,900
+Uh, I'm not sure if I mentioned that in the previous video,
+
+28
+00:02:00,990 --> 00:02:05,220
+I just wanted to make sure you will know it. And then now they
+
+29
+00:02:05,221 --> 00:02:07,230
+start sending me their emails.
+
+30
+00:02:07,560 --> 00:02:13,380
+So for that tank or fuel our schedules in
+
+31
+00:02:13,381 --> 00:02:16,920
+this spreadsheet, we have these,
+
+32
+00:02:16,950 --> 00:02:19,260
+uh, yeah,
+
+33
+00:02:19,440 --> 00:02:24,150
+look up the week emails and here for this week,
+
+34
+00:02:24,240 --> 00:02:28,290
+I need to add. And he says,
+
+35
+00:02:28,350 --> 00:02:32,370
+uh,  learning.
+
+36
+00:02:36,570 --> 00:02:41,490
+Yeah. And I need to take the names of the winners without the ad.
+
+37
+00:02:42,780 --> 00:02:45,600
+Um, so that was,
+
+38
+00:02:45,601 --> 00:02:50,630
+yeah. Oops. So
+
+39
+00:02:51,780 --> 00:02:54,060
+now they start sending me the emails.
+
+40
+00:02:54,810 --> 00:02:57,540
+So for example, uh,
+
+41
+00:02:58,740 --> 00:03:01,570
+Allie sent me the email,
+
+42
+00:03:02,230 --> 00:03:06,130
+sent the mail, so then angle here and then check out Kim,
+
+43
+00:03:06,250 --> 00:03:08,860
+this is Holly here.
+
+44
+00:03:10,920 --> 00:03:15,760
+I can flip your case. And then I acknowledge same
+
+45
+00:03:18,580 --> 00:03:23,650
+thing. Then Dustin
+
+46
+00:03:23,770 --> 00:03:28,870
+also wrote me, Dustin's
+
+47
+00:03:29,020 --> 00:03:32,590
+email here as well. I also
+
+48
+00:03:37,930 --> 00:03:39,400
+wrote his email
+
+49
+00:03:51,420 --> 00:03:55,530
+And, and do I have any other emails?
+
+50
+00:03:55,590 --> 00:03:56,970
+So from doing,
+
+51
+00:04:10,110 --> 00:04:12,720
+And then we also need email from,
+
+52
+00:04:14,670 --> 00:04:16,680
+I don't know how to pronounce this actually,
+
+53
+00:04:17,370 --> 00:04:19,680
+but what I also do because you see,
+
+54
+00:04:19,681 --> 00:04:23,070
+I have emails of other people. So what I can do is control the
+
+55
+00:04:23,071 --> 00:04:28,230
+controller and check if this person already one before
+
+56
+00:04:28,830 --> 00:04:31,230
+and the fee already provided their email.
+
+57
+00:04:31,830 --> 00:04:35,100
+So in this case they didn't, for example,
+
+58
+00:04:35,101 --> 00:04:37,710
+if this was, um, DDM,
+
+59
+00:04:39,000 --> 00:04:41,910
+then I would sometimes write to William saying,
+
+60
+00:04:41,911 --> 00:04:45,690
+Hey, I got your email. If it hasn't changed that we'll just use the
+
+61
+00:04:45,691 --> 00:04:50,340
+same one. Yeah. So this email is still pending.
+
+62
+00:04:51,030 --> 00:04:53,580
+And after I have all five emails,
+
+63
+00:04:54,030 --> 00:04:57,560
+I will pop it down and send them to the author,
+
+64
+00:04:57,660 --> 00:05:02,400
+the publisher. So maybe I will record the secrets
+
+65
+00:05:02,460 --> 00:05:06,600
+email for that. Okay. So this is how we collect emails.
+
+66
+00:05:06,601 --> 00:05:09,030
+So we notice for the book of the week about.

@@ -1,0 +1,675 @@
+1
+00:00:00,000 --> 00:00:04,593
+Hi everyone, in this video I want to show my course project Fitness
+
+2
+00:00:04,633 --> 00:00:09,276
+Assistant and before I talk about
+
+3
+00:00:09,316 --> 00:00:11,958
+this I just want to show it in action.
+
+4
+00:00:12,498 --> 00:00:18,002
+So I run it and this is an application to which
+
+5
+00:00:18,062 --> 00:00:20,363
+I can talk about different exercises.
+
+6
+00:00:20,604 --> 00:00:26,688
+So for example I can ask, what are possible
+
+7
+00:00:27,008 --> 00:00:32,160
+alternatives to write Romanian deadlift
+
+8
+00:00:32,161 --> 00:00:36,800
+and then based on the
+
+9
+00:00:36,801 --> 00:00:40,480
+data it has about exercises which is this one.
+
+10
+00:00:40,680 --> 00:00:45,260
+So there's 206 different exercises
+
+11
+00:00:45,261 --> 00:00:47,980
+classified by type of activity,
+
+12
+00:00:48,200 --> 00:00:50,700
+type of equipment, body part,
+
+13
+00:00:51,080 --> 00:00:53,340
+type, whether it's pull or push exercise,
+
+14
+00:00:53,740 --> 00:00:57,260
+which muscles are used and how to perform the exercise.
+
+15
+00:00:57,480 --> 00:01:01,951
+Based that it recommends different exercises.
+
+16
+00:01:02,091 --> 00:01:05,973
+So for example possible alternatives to the Romanian deadlift include deadlift,
+
+17
+00:01:06,094 --> 00:01:09,216
+dumbbell deadlift, kettlebell deadlift and so on.
+
+18
+00:01:09,456 --> 00:01:14,559
+Right and then I can give feedback that this is a positive answer and
+
+19
+00:01:14,880 --> 00:01:20,924
+I can continue talking to this how do I do push-ups.
+
+20
+00:01:22,545 --> 00:01:25,927
+Right and then based on the data it gives me an answer how do
+
+21
+00:01:25,928 --> 00:01:30,550
+I do this. So, this is the app, and this that
+
+22
+00:01:30,570 --> 00:01:35,856
+I built and right now I want to talk about how
+
+23
+00:01:35,916 --> 00:01:40,421
+to run this app. So everything that we need is
+
+24
+00:01:41,001 --> 00:01:45,726
+in this repo of course and yeah
+
+25
+00:01:45,806 --> 00:01:49,380
+here we have the instructions. I started
+
+26
+00:02:00,410 --> 00:02:04,933
+I thought I started a github cospace let me
+
+27
+00:02:04,993 --> 00:02:06,454
+see if I still have it
+
+28
+00:02:10,517 --> 00:02:15,560
+yeah it's a fresh one there
+
+29
+00:02:15,881 --> 00:02:20,644
+is nothing so
+
+30
+00:02:20,684 --> 00:02:25,487
+let's now let me now walk you through preparing everything
+
+31
+00:02:26,128 --> 00:02:30,450
+so I will Now stop.
+
+32
+00:02:30,451 --> 00:02:35,433
+things on my computer so then ports are not occupied
+
+33
+00:02:35,694 --> 00:02:41,958
+when I do this and yeah
+
+34
+00:02:41,998 --> 00:02:42,958
+it needs some time to open
+
+35
+00:02:47,221 --> 00:02:51,764
+and let me open the readme or I can just get the readme
+
+36
+00:02:51,784 --> 00:02:56,647
+from here and we just need to follow the instructions in this
+
+37
+00:02:56,668 --> 00:03:01,890
+readme. So the first thing is we need to get the OpenAI I
+
+38
+00:03:01,910 --> 00:03:07,574
+will do that so we need to copy
+
+39
+00:03:07,874 --> 00:03:12,598
+this thing and create a well this is not what I wanted
+
+40
+00:03:12,618 --> 00:03:18,882
+to do so I needed to rename this right and
+
+41
+00:03:18,942 --> 00:03:22,464
+now we need to put our OpenAI key. I will put it on on
+
+42
+00:03:22,484 --> 00:03:27,048
+pause put the key and then close it so I don't accidentally expose the
+
+43
+00:03:27,049 --> 00:03:29,549
+key. So now the key is there.
+
+44
+00:03:29,950 --> 00:03:35,273
+And I want to, install DRENV which is a tool for
+
+45
+00:03:35,874 --> 00:03:37,895
+loading this A and FRC files.
+
+46
+00:03:39,116 --> 00:03:43,399
+So do apt update.
+
+47
+00:03:44,799 --> 00:03:48,662
+So first I need to because this is a freshly created instance I need
+
+48
+00:03:48,702 --> 00:03:53,345
+to download all the information about packages and then install
+
+49
+00:03:53,385 --> 00:03:57,988
+DRENV. And then after installation I need to
+
+50
+00:03:58,068 --> 00:03:58,729
+install the hook.
+
+51
+00:04:07,068 --> 00:04:12,475
+can now when I create a new terminal it prompts
+
+52
+00:04:12,515 --> 00:04:17,279
+me to allow DRENV to
+
+53
+00:04:17,299 --> 00:04:19,360
+run allow and load the key.
+
+54
+00:04:19,401 --> 00:04:22,623
+So now I have the key and now I can go to the next
+
+55
+00:04:22,643 --> 00:04:27,147
+step which is installing PPENF. PPENF is the tool for managing dependencies
+
+56
+00:04:27,187 --> 00:04:29,429
+that we use in this project. So,
+
+57
+00:04:29,449 --> 00:04:34,493
+this is, these are all, all the dependencies we have here and
+
+58
+00:04:34,573 --> 00:04:37,374
+here. So right now it will,
+
+59
+00:04:39,536 --> 00:04:43,539
+we have PPENF now and I will run PPENF install dev.
+
+60
+00:04:44,159 --> 00:04:48,322
+So then we install not only these dependencies that are needed for running the
+
+61
+00:04:48,323 --> 00:04:53,826
+application but also some dev dependencies that we need for developing
+
+62
+00:04:54,026 --> 00:04:56,647
+like Jupyter Notebook and other things.
+
+63
+00:04:58,649 --> 00:05:01,888
+Okay, so it will take us some time.
+
+64
+00:05:01,889 --> 00:05:07,184
+In the meantime, I will continue doing
+
+65
+00:05:07,185 --> 00:05:10,806
+the next step which is running Docker Compose.
+
+66
+00:05:11,727 --> 00:05:14,309
+Right now in Docker Compose we have three components.
+
+67
+00:05:14,829 --> 00:05:17,271
+The application itself, Postgres and Grafana.
+
+68
+00:05:19,452 --> 00:05:24,255
+Last two things we need for logging
+
+69
+00:05:24,496 --> 00:05:27,418
+and monitoring. So now I need to configure Postgres.
+
+70
+00:05:29,099 --> 00:05:32,111
+Here, I will, just execute that.
+
+71
+00:05:33,452 --> 00:05:36,734
+Yeah, so we did not do dir-env-hello,
+
+72
+00:05:37,174 --> 00:05:39,716
+but OpenAI key is only needed for the application.
+
+73
+00:05:39,816 --> 00:05:42,278
+It's not needed for Postgres.
+
+74
+00:05:44,699 --> 00:05:49,763
+So let's see what we need to do next. Yeah,
+
+75
+00:05:49,843 --> 00:05:54,586
+okay, it's running and we have installed
+
+76
+00:05:54,606 --> 00:05:57,348
+all the dependencies. So I will do pip-env-shell.
+
+77
+00:05:58,068 --> 00:06:01,290
+So now I enter the virtual environment.
+
+78
+00:06:01,291 --> 00:06:06,794
+And I can do go to fitness assistant and
+
+79
+00:06:08,195 --> 00:06:10,596
+we need to do this.
+
+80
+00:06:11,577 --> 00:06:14,099
+So then I can connect from my host machine,
+
+81
+00:06:14,219 --> 00:06:19,763
+which is code spaces, to the container and
+
+82
+00:06:19,783 --> 00:06:22,364
+initialize the database. Okay,
+
+83
+00:06:22,384 --> 00:06:25,326
+the database is initialized.
+
+84
+00:06:25,607 --> 00:06:29,509
+Then you can also check that the database is there.
+
+85
+00:06:29,510 --> 00:06:31,901
+I will skip that part.
+
+86
+00:06:31,902 --> 00:06:36,734
+And I will just run the entire thing by
+
+87
+00:06:36,754 --> 00:06:41,297
+doing docker compose up. So it
+
+88
+00:06:41,437 --> 00:06:46,400
+might take some time to run it because it needs to build the
+
+89
+00:06:46,480 --> 00:06:51,163
+application using this docker file. I will now put
+
+90
+00:06:51,183 --> 00:06:53,685
+it on pause and then when it starts,
+
+91
+00:06:54,666 --> 00:06:57,568
+when it finishes and starts, I'll continue.
+
+92
+00:06:57,569 --> 00:07:00,229
+So it seems to be running,
+
+93
+00:07:00,710 --> 00:07:05,473
+so now. Now I want to check the logs quickly.
+
+94
+00:07:05,474 --> 00:07:08,415
+So now Grafana is doing a lot of stuff.
+
+95
+00:07:08,895 --> 00:07:10,997
+Let me go all the way up.
+
+96
+00:07:11,417 --> 00:07:16,240
+Yeah, let me just open a new terminal and do
+
+97
+00:07:16,280 --> 00:07:21,964
+docker ps to see docker
+
+98
+00:07:22,044 --> 00:07:26,407
+logs. Yeah,
+
+99
+00:07:26,408 --> 00:07:31,550
+it seems to be working. So let me run ppcpk.
+
+100
+00:07:31,551 --> 00:07:37,054
+and pipenv run python cli.py
+
+101
+00:07:39,235 --> 00:07:47,191
+and now I can ask my question which could be um
+
+102
+00:07:47,192 --> 00:07:51,143
+what I can do instead of a pull-up.
+
+103
+00:07:55,426 --> 00:07:59,269
+So instead of pull-up you can perform a banded pull-up where your loop resistance
+
+104
+00:07:59,309 --> 00:08:01,770
+bands, the band around a pull-up bar.
+
+105
+00:08:02,331 --> 00:08:06,854
+Okay, I think this is a good answer and I don't want
+
+106
+00:08:06,855 --> 00:08:11,717
+to continue. Now I just want show how to set up Grafana so
+
+107
+00:08:11,737 --> 00:08:14,139
+then we can see how monitoring works.
+
+108
+00:08:14,140 --> 00:08:18,722
+All right, so I go back and then scroll
+
+109
+00:08:19,102 --> 00:08:19,982
+all the way down to
+
+110
+00:08:24,986 --> 00:08:29,509
+monitoring here. So Grafana should be accessible
+
+111
+00:08:29,589 --> 00:08:34,372
+here. Probably I need to forward the port
+
+112
+00:08:34,412 --> 00:08:37,554
+here. So now let's see.
+
+113
+00:08:39,175 --> 00:08:43,819
+Yeah, it is accessible. The default username and password
+
+114
+00:08:44,119 --> 00:08:49,242
+are admin admin. I don't want to replace it so let's just
+
+115
+00:08:49,282 --> 00:08:53,786
+keep it. Right now we don't have any data sources and dashboards so we
+
+116
+00:08:53,806 --> 00:08:56,467
+need to import the data source and the dashboard.
+
+117
+00:08:58,189 --> 00:09:01,550
+All the Grafana-related stuff is here.
+
+118
+00:09:01,551 --> 00:09:06,113
+There is this init script that allows us to simply import
+
+119
+00:09:06,393 --> 00:09:11,337
+the data source and the dashboard. So I need to do this inside
+
+120
+00:09:11,357 --> 00:09:14,699
+the virtual environment again. So I do pipenv shell.
+
+121
+00:09:16,160 --> 00:09:18,201
+So then I go to Grafana.
+
+122
+00:09:19,422 --> 00:09:24,065
+I want to make sure that because remember when we initialized the database we
+
+123
+00:09:24,066 --> 00:09:28,848
+needed to set Postgres host to localhost because
+
+124
+00:09:29,829 --> 00:09:33,271
+Grafana will connect to Postgres within Docker Compose.
+
+125
+00:09:33,391 --> 00:09:36,193
+It needs to have the original name Postgres,
+
+126
+00:09:36,233 --> 00:09:41,126
+not localhost. I need to make sure that um
+
+127
+00:09:41,127 --> 00:09:47,200
+that we don't overwrite it. So write Postgres here.
+
+128
+00:09:47,421 --> 00:09:49,622
+I can see that Postgres host is Postgres.
+
+129
+00:09:49,623 --> 00:09:53,965
+So this is good. This is what we expect. And right now I will
+
+130
+00:09:54,005 --> 00:09:57,407
+just do Python init. it. Okay.
+
+131
+00:09:57,567 --> 00:10:01,470
+Right now, what I did is created the data source and it created the
+
+132
+00:10:01,600 --> 00:10:03,660
+a dashboard. Right.
+
+133
+00:10:05,340 --> 00:10:10,960
+Now I can just simply refresh it and go to dashboards
+
+134
+00:10:10,961 --> 00:10:13,160
+and see our dashboards.
+
+135
+00:10:13,720 --> 00:10:17,500
+So right now, not much uh has been happening.
+
+136
+00:10:18,300 --> 00:10:22,960
+But I can test
+
+137
+00:10:22,961 --> 00:10:26,300
+it. So let me go one level up.
+
+138
+00:10:27,020 --> 00:10:30,940
+And I'll just run tests. So what test is doing is just selecting the
+
+139
+00:10:30,941 --> 00:10:32,951
+random question. . . and then sends it to you.
+
+140
+00:10:33,551 --> 00:10:35,653
+The delegation and then returns the answer.
+
+141
+00:10:36,954 --> 00:10:39,996
+So I can run multiple tests.
+
+142
+00:10:40,196 --> 00:10:43,998
+So each time there is a different uh question like can you explain the
+
+143
+00:10:44,018 --> 00:10:47,421
+proper form for doing handling. Knee raises.
+
+144
+00:10:48,722 --> 00:10:50,783
+So right now if I refresh.
+
+145
+00:10:52,064 --> 00:10:55,076
+Yeah. So I see a partner element.
+
+146
+00:10:55,077 --> 00:10:57,498
+Umm.
+
+147
+00:10:57,518 --> 00:11:00,810
+What is that? What muscles are primary engaged during the incline?
+
+148
+00:11:00,811 --> 00:11:01,040
+and don't.
+
+149
+00:11:06,367 --> 00:11:08,812
+I don't know why it's partly relevant.
+
+150
+00:11:09,613 --> 00:11:14,617
+Maybe because um it has some information about the muscles
+
+151
+00:11:14,637 --> 00:11:18,480
+that are engaged and things that are actually other muscles.
+
+152
+00:11:18,680 --> 00:11:21,192
+I don't know. Umm.
+
+153
+00:11:21,212 --> 00:11:24,745
+There is probably uh we should have an explanation in the database we just
+
+154
+00:11:24,765 --> 00:11:27,797
+don't show it here. Umm.
+
+155
+00:11:27,817 --> 00:11:30,849
+Okay. Maybe we can actually include that.
+
+156
+00:11:30,850 --> 00:11:37,653
+Right now just to see what
+
+157
+00:11:37,733 --> 00:11:42,437
+is uh the explanation and I just need to quickly
+
+158
+00:11:42,517 --> 00:11:45,859
+see the name. Really not the explanation.
+
+159
+00:11:50,582 --> 00:11:54,185
+So I'll apply that. And.
+
+160
+00:12:00,769 --> 00:12:03,161
+But includes four arms as well. Which is secondary muscle.
+
+161
+00:12:03,162 --> 00:12:05,212
+Uhm. Yeah. I guess.
+
+162
+00:12:05,572 --> 00:12:10,226
+So the thing is like uhm it already knows about fitness a lot.
+
+163
+00:12:10,227 --> 00:12:13,137
+Uhm. That's why I mean it says the part that I don't.
+
+164
+00:12:13,718 --> 00:12:18,631
+But this is good, right? So then we have some uh
+
+165
+00:12:18,651 --> 00:12:22,984
+interesting stuff to show. Okay. So this was my project.
+
+166
+00:12:23,584 --> 00:12:26,526
+I hope you enjoyed it.
+
+167
+00:12:26,947 --> 00:12:31,350
+And you can read more about how it's implemented and what kind of technology
+
+168
+00:12:31,370 --> 00:12:33,838
+is used. used. In this readme file. Okay.
+
+169
+00:12:33,879 --> 00:12:36,229
+That's all from me. Thanks for your attention.

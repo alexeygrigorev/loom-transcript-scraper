@@ -1,0 +1,179 @@
+1
+00:00:02,630 --> 00:00:05,690
+And now I want to show you how to, um,
+
+2
+00:00:05,750 --> 00:00:08,840
+reach out to authors of open source libraries.
+
+3
+00:00:09,050 --> 00:00:13,670
+So this is the library and they want to reach out to people
+
+4
+00:00:14,270 --> 00:00:18,490
+who work on this so they can come to open source spotlight and do
+
+5
+00:00:18,500 --> 00:00:23,060
+them about this. So this is the library I'll be
+
+6
+00:00:23,180 --> 00:00:27,290
+detect. And then to understand who works on this,
+
+7
+00:00:28,340 --> 00:00:31,520
+there's this contributors top.
+
+8
+00:00:31,790 --> 00:00:36,320
+So click on this. You let's
+
+9
+00:00:36,321 --> 00:00:41,360
+go with the first contributor. So I do a control
+
+10
+00:00:41,361 --> 00:00:45,980
+click, and then I'm trying to look for contact
+
+11
+00:00:45,981 --> 00:00:48,590
+information here. So usually, um,
+
+12
+00:00:48,680 --> 00:00:50,750
+you know, here we don't have contact information.
+
+13
+00:00:51,440 --> 00:00:53,450
+So let me open the second one.
+
+14
+00:00:55,760 --> 00:00:59,690
+So for the second one, at least we will have the name and we
+
+15
+00:00:59,691 --> 00:01:03,020
+have a website. So this is the contact information I was talking about.
+
+16
+00:01:03,860 --> 00:01:08,930
+So I open this block
+
+17
+00:01:08,940 --> 00:01:11,370
+of this guy and here we see you,
+
+18
+00:01:11,371 --> 00:01:15,890
+you see what email, or even if we don't this
+
+19
+00:01:15,891 --> 00:01:20,450
+link team that is Twitter. So there are different ways to reach out to
+
+20
+00:01:20,451 --> 00:01:24,200
+this person. So now we have a way to reach out to him.
+
+21
+00:01:24,740 --> 00:01:29,030
+So I'll go email and then I'll,
+
+22
+00:01:30,380 --> 00:01:33,650
+and then I'll just press you an email,
+
+23
+00:01:34,790 --> 00:01:39,170
+or it could be also LinkedIn connection request,
+
+24
+00:01:39,171 --> 00:01:41,360
+for example, um,
+
+25
+00:01:42,710 --> 00:01:44,720
+here, um,
+
+26
+00:01:45,410 --> 00:01:50,360
+I'll talk about, uh, so I want to invite them to even demo about,
+
+27
+00:01:50,450 --> 00:01:54,140
+um, this library.
+
+28
+00:02:02,000 --> 00:02:04,340
+So I ,
+
+29
+00:02:09,120 --> 00:02:13,790
+I think I talk school.
+
+30
+00:02:18,530 --> 00:02:20,540
+Oh, okay.
+
+31
+00:02:24,440 --> 00:02:30,770
+Yeah. And now I want to say that open
+
+32
+00:02:30,771 --> 00:02:32,870
+source offers,
+
+33
+00:02:34,730 --> 00:02:38,780
+give them most about their tools.
+
+34
+00:02:38,900 --> 00:02:42,440
+I saw that you did,
+
+35
+00:02:42,441 --> 00:02:47,330
+he viewed to either be detect
+
+36
+00:02:54,010 --> 00:02:57,710
+I'll link it. I have pressed control key
+
+37
+00:03:04,600 --> 00:03:07,840
+<v 1>And you find
+
+38
+00:03:15,920 --> 00:03:19,570
+here and then I give a link to open source
+
+39
+00:03:24,160 --> 00:03:24,610
+check.
+
+40
+00:03:47,770 --> 00:03:55,030
+Okay. So you contribute to
+
+41
+00:03:55,031 --> 00:03:58,270
+contribute. Would you be interested in giving a demo?
+
+42
+00:04:06,060 --> 00:04:09,240
+Yeah, we can.
+
+43
+00:04:09,241 --> 00:04:14,670
+They reach out to mundane to
+
+44
+00:04:14,671 --> 00:04:17,730
+invite them to do now open source spotlight.
+
+45
+00:04:18,210 --> 00:04:18,600
+Thanks.

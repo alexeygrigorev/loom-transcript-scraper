@@ -1,0 +1,183 @@
+1
+00:00:00,281 --> 00:00:04,818
+Okay, so I was checking the problem you mentioned yesterday about not being
+
+2
+00:00:04,819 --> 00:00:09,727
+able to create multiple events in one event Yeah,
+
+3
+00:00:09,728 --> 00:00:12,560
+so what we can do to fix that?
+
+4
+00:00:12,561 --> 00:00:16,905
+First of all, the reason we needed multiple events and do not forget to
+
+5
+00:00:16,906 --> 00:00:21,832
+also include this in the process document when you update So
+
+6
+00:00:21,833 --> 00:00:26,337
+the reason Okay, let me see So this is
+
+7
+00:00:26,338 --> 00:00:30,473
+what you should include in the context of the process document So we need
+
+8
+00:00:30,474 --> 00:00:35,351
+uhm Project of the week is a multi-day event
+
+9
+00:00:35,352 --> 00:00:40,087
+So it takes the entire week And we want
+
+10
+00:00:40,088 --> 00:00:44,604
+people to get reminders every day about the event and what they
+
+11
+00:00:44,605 --> 00:00:47,928
+need to do during the day Right?
+
+12
+00:00:47,929 --> 00:00:52,385
+So previously we used a multi-multi-event,
+
+13
+00:00:52,386 --> 00:00:55,891
+sorry Or whatever it was called, I don't remember Uhm,
+
+14
+00:00:55,892 --> 00:01:00,808
+so here, as you see, it's no longer available Bummer, but
+
+15
+00:01:00,809 --> 00:01:05,876
+we can work around that By going to emails And
+
+16
+00:01:05,877 --> 00:01:09,207
+then And sending a reminder So here,
+
+17
+00:01:09,887 --> 00:01:14,627
+we can Select Ray So we will need to manually Add
+
+18
+00:01:14,628 --> 00:01:19,327
+10 reminders But you can just copy-paste And we will probably have
+
+19
+00:01:19,328 --> 00:01:25,957
+a template from the previous Like
+
+20
+00:01:25,958 --> 00:01:28,901
+how we created previously. So we have a template So,
+
+21
+00:01:28,902 --> 00:01:34,020
+uhm We're gonna create an event which is in the template we used previously,
+
+22
+00:01:34,021 --> 00:01:39,168
+so please update the process document
+
+23
+00:01:39,169 --> 00:01:43,133
+and instead of using one event,
+
+24
+00:01:43,134 --> 00:01:47,268
+instead of using multiple events, create a new reminders,
+
+25
+00:01:50,012 --> 00:01:52,956
+so this is starting tomorrow,
+
+26
+00:01:52,957 --> 00:01:55,831
+it's fine, starting in one hour,
+
+27
+00:01:55,832 --> 00:02:00,725
+no we don't need that And
+
+28
+00:02:00,726 --> 00:02:04,585
+then we just need to create 7 different emails,
+
+29
+00:02:05,325 --> 00:02:11,485
+so this one we'll remove, so
+
+30
+00:02:11,486 --> 00:02:14,026
+we'll create 7 different emails,
+
+31
+00:02:16,266 --> 00:02:18,546
+so please find out what these emails are,
+
+32
+00:02:18,606 --> 00:02:23,386
+I don't remember, and uhm And
+
+33
+00:02:23,387 --> 00:02:28,115
+yeah, let's have a template for them. And
+
+34
+00:02:28,116 --> 00:02:31,760
+also for this one, so we will need to replace it,
+
+35
+00:02:31,761 --> 00:02:36,167
+I'll send you the link to a video,
+
+36
+00:02:36,168 --> 00:02:40,660
+so we will need to change the URL.
+
+37
+00:02:42,948 --> 00:02:45,222
+But this is, this will be later.
+
+38
+00:02:45,223 --> 00:02:47,325
+So let's update the process documents,
+
+39
+00:02:47,326 --> 00:02:50,871
+send me the process documents for checking, send me the templates we used for
+
+40
+00:02:50,872 --> 00:02:55,886
+checking, they are probably also uhm in
+
+41
+00:02:55,887 --> 00:03:00,243
+the same process document. So let's update that and this is how we do
+
+42
+00:03:00,244 --> 00:03:04,470
+it, do it, we add emails and do not forget that we need to
+
+43
+00:03:04,471 --> 00:03:09,508
+remove this uhm
+
+44
+00:03:09,509 --> 00:03:13,674
+And I'm wondering if we do this, this is something we send immediately,
+
+45
+00:03:13,675 --> 00:03:16,590
+right? Yeah,
+
+46
+00:03:16,591 --> 00:03:19,222
+whatever. So we are interested in scheduled emails.

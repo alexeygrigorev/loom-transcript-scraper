@@ -1,0 +1,463 @@
+1
+00:00:00,500 --> 00:00:05,040
+So I wanted to show how to add images to articles on our
+
+2
+00:00:05,041 --> 00:00:07,720
+blog, in our blog, on our website.
+
+3
+00:00:08,640 --> 00:00:13,300
+So here's an article by Evalerio and we want to add
+
+4
+00:00:13,301 --> 00:00:16,620
+this image to the article.
+
+5
+00:00:17,475 --> 00:00:20,075
+So I want to show you how to do that. First,
+
+6
+00:00:20,475 --> 00:00:25,445
+for that, we will go to the website for
+
+7
+00:00:26,055 --> 00:00:29,215
+repository, GitHub repository for our website,
+
+8
+00:00:30,075 --> 00:00:31,815
+which is Datatalks.
+
+9
+00:00:36,676 --> 00:00:39,116
+So this is the whole URL.
+
+10
+00:00:40,856 --> 00:00:43,756
+And here we have posts.
+
+11
+00:00:44,676 --> 00:00:47,436
+So these are all the posts,
+
+12
+00:00:47,656 --> 00:00:49,655
+and this is the article that we have here, and this is the article
+
+13
+00:00:49,656 --> 00:00:49,801
+that we have here, and this is the article that we have here. And
+
+14
+00:00:49,802 --> 00:00:53,141
+this is where we want to add the image. Data engineering zoom cam. I
+
+15
+00:00:53,142 --> 00:00:57,441
+will now click on edit. We will edit this file right now.
+
+16
+00:00:58,921 --> 00:01:01,301
+And this is how the article looks like.
+
+17
+00:01:01,302 --> 00:01:04,281
+And this is how we add stuff.
+
+18
+00:01:04,689 --> 00:01:06,829
+Wait, this is how we add images.
+
+19
+00:01:07,989 --> 00:01:12,649
+So this is how images look like. And you see the path to
+
+20
+00:01:12,650 --> 00:01:16,989
+the images. So all the images are in the images folder in the posts
+
+21
+00:01:16,990 --> 00:01:20,089
+folder. Then there is a folder for the,
+
+22
+00:01:22,387 --> 00:01:25,787
+article. And then this is the name of the image.
+
+23
+00:01:27,087 --> 00:01:29,487
+So this is the file we want to upload.
+
+24
+00:01:30,367 --> 00:01:32,387
+So we will need to go to that directory.
+
+25
+00:01:33,777 --> 00:01:36,057
+So this thing here is the,
+
+26
+00:01:36,085 --> 00:01:40,125
+the same as the name of this file. So we want to go there.
+
+27
+00:01:40,565 --> 00:01:42,805
+We want to upload this image there. So first of all,
+
+28
+00:01:42,865 --> 00:01:47,095
+I will rename it. I'll call it course over here.
+
+29
+00:01:48,945 --> 00:01:54,399
+And I will go now to images. Posts.
+
+30
+00:01:55,499 --> 00:01:57,979
+Then this is dating genie zoom cam.
+
+31
+00:01:58,599 --> 00:02:03,159
+And they want to upload the image. So I'll just click on add
+
+32
+00:02:03,160 --> 00:02:06,159
+file, upload file. And yeah,
+
+33
+00:02:06,299 --> 00:02:08,659
+I think I can just drag it here, drag and roll.
+
+34
+00:02:08,732 --> 00:02:13,232
+Or you can select the like choose the files here.
+
+35
+00:02:14,942 --> 00:02:17,902
+And this is the name. This is the name of the file.
+
+36
+00:02:19,962 --> 00:02:22,942
+I don't know if I can rename it,
+
+37
+00:02:22,982 --> 00:02:26,117
+but it doesn't matter at all. So I just commit the file.
+
+38
+00:02:29,497 --> 00:02:32,377
+Go back two times.
+
+39
+00:02:32,557 --> 00:02:35,737
+I pressed back two times. We will have this new file.
+
+40
+00:02:36,277 --> 00:02:39,837
+Force Overview to back. Right. So this is the file.
+
+41
+00:02:40,255 --> 00:02:42,855
+Now I will click. First,
+
+42
+00:02:43,415 --> 00:02:47,595
+I will take this thing. So this is how Image Stack looks like.
+
+43
+00:02:48,955 --> 00:02:51,455
+And this is where we will put it.
+
+44
+00:02:51,695 --> 00:02:55,535
+So we'll put it, let's see here. But we can change the position later.
+
+45
+00:02:56,682 --> 00:03:00,762
+And from there, I need to know the file name.
+
+46
+00:03:01,022 --> 00:03:05,462
+Of course, over here, JPEG is the file name because the rest stays the
+
+47
+00:03:05,463 --> 00:03:08,402
+same, right? What if,
+
+48
+00:03:08,802 --> 00:03:10,862
+in an article, there is no image?
+
+49
+00:03:12,362 --> 00:03:17,602
+There still will be a folder, it generates automatically because
+
+50
+00:03:17,603 --> 00:03:22,242
+we will always have this cover, so a folder will always be there
+
+51
+00:03:22,243 --> 00:03:26,362
+with the cover, but we might not have this figure,
+
+52
+00:03:26,482 --> 00:03:29,565
+image, whatever. I think so,
+
+53
+00:03:30,445 --> 00:03:34,825
+you will need to copy it. So we will make sure I was included
+
+54
+00:03:34,826 --> 00:03:38,325
+in the loom video,
+
+55
+00:03:38,825 --> 00:03:43,485
+so then when we if there is nothing to copy paste from,
+
+56
+00:03:43,925 --> 00:03:45,957
+then we'll copy paste from the process document.
+
+57
+00:03:47,357 --> 00:03:50,497
+It's a course over here, and then we can call this,
+
+58
+00:03:51,347 --> 00:03:55,147
+this p here is kind of optional but since others have it,
+
+59
+00:03:55,387 --> 00:03:57,707
+let's include it here, so it's definitely in,
+
+60
+00:03:57,727 --> 00:04:01,371
+in, in this heating. So,
+
+61
+00:04:01,531 --> 00:04:08,171
+I'll, you know, copy it we'll post it in in
+
+62
+00:04:08,172 --> 00:04:12,631
+the comments, but the important part here is the caption,
+
+63
+00:04:13,151 --> 00:04:16,311
+the title under the figure.
+
+64
+00:04:16,575 --> 00:04:20,175
+The image and I'll just take a course over here.
+
+65
+00:04:22,015 --> 00:04:24,755
+I think we don't see here.
+
+66
+00:04:26,835 --> 00:04:29,015
+And I just click commit changes.
+
+67
+00:04:31,075 --> 00:04:35,015
+So in total we'll make eight two commits. The first commit was uploading the
+
+68
+00:04:35,016 --> 00:04:37,995
+image and then the second one was changing.
+
+69
+00:04:38,955 --> 00:04:43,775
+And if there are multiple images, of course, like when we upload files,
+
+70
+00:04:44,095 --> 00:04:48,978
+we can upload multiple files. So I will not this
+
+71
+00:04:48,979 --> 00:04:51,038
+is just an example.
+
+72
+00:04:51,738 --> 00:04:54,948
+So I'll do this thing here,
+
+73
+00:04:55,508 --> 00:04:57,948
+right? And then,
+
+74
+00:04:58,348 --> 00:05:00,958
+yeah, okay. It's just a large file.
+
+75
+00:05:02,628 --> 00:05:07,158
+But, yeah, let's, say I can do something like that.
+
+76
+00:05:08,348 --> 00:05:11,448
+Let's upload multiple files. I don't commit that,
+
+77
+00:05:11,668 --> 00:05:13,928
+but this is how we can upload multiple images.
+
+78
+00:05:15,188 --> 00:05:18,148
+And then, in the second commit, we edit the file.
+
+79
+00:05:18,948 --> 00:05:23,518
+So right now I think if we refresh multiple times,
+
+80
+00:05:24,828 --> 00:05:29,988
+yeah, it takes a file to build so we can follow the
+
+81
+00:05:29,989 --> 00:05:32,068
+progress. Right now,
+
+82
+00:05:32,088 --> 00:05:35,148
+if we go to actions, we see that it's queued.
+
+83
+00:05:35,978 --> 00:05:38,158
+So once it has this check mark,
+
+84
+00:05:39,058 --> 00:05:43,378
+then the site is updated. It's being deployed right now,
+
+85
+00:05:44,498 --> 00:05:46,818
+so now when this is over,
+
+86
+00:05:47,278 --> 00:05:50,858
+then we should have a new updated version of the website.
+
+87
+00:05:53,471 --> 00:05:58,111
+Okay, it's done. Now use Ctrl F5 to
+
+88
+00:05:58,112 --> 00:06:00,251
+make sure we refresh, like,
+
+89
+00:06:00,431 --> 00:06:04,371
+also we don't use the cached version. And now we see the image.
+
+90
+00:06:05,771 --> 00:06:08,551
+Okay, so this is how you add images.
+
+91
+00:06:13,615 --> 00:06:16,975
+And let's say if you want to change the image,
+
+92
+00:06:18,235 --> 00:06:22,275
+so this image, let's say there is a mistake, and we want to update
+
+93
+00:06:22,276 --> 00:06:25,360
+the image, so then you can change the image, so you can change the
+
+94
+00:06:25,361 --> 00:06:27,048
+image. You do
+
+95
+00:06:33,488 --> 00:06:39,498
+it over again, so what you
+
+96
+00:06:39,499 --> 00:06:39,938
+can
+
+97
+00:06:49,759 --> 00:06:52,079
+do is, yeah, I think
+
+98
+00:06:56,724 --> 00:06:39,939
+I lost it, so in images, we can
+
+99
+00:06:57,084 --> 00:06:40,139
+Bye.
+
+100
+00:06:57,084 --> 00:06:56,921
+delete images, so here, hmm, how do I actually do this? There's an option,
+
+101
+00:06:56,922 --> 00:07:00,454
+I think, to delete it. I don't remember how to do this, from the
+
+102
+00:07:00,455 --> 00:07:04,614
+web interface, but yeah,
+
+103
+00:07:04,894 --> 00:07:07,634
+so what we can do is just upload a course overview v2,
+
+104
+00:07:08,834 --> 00:07:11,904
+and then yeah,
+
+105
+00:07:11,944 --> 00:07:15,519
+there should be a way to, to delete it,
+
+106
+00:07:15,639 --> 00:07:19,279
+I don't remember, you know,
+
+107
+00:07:19,499 --> 00:07:24,109
+I guess we should google. Anyways,
+
+108
+00:07:24,289 --> 00:07:26,589
+when we need it we'll find a way,
+
+109
+00:07:27,409 --> 00:07:30,621
+but right now this is how, you would replace it,
+
+110
+00:07:31,001 --> 00:07:33,722
+so you would just upload a new file,
+
+111
+00:07:33,921 --> 00:07:37,001
+of course, over uv2, and then you would go to the post and update
+
+112
+00:07:37,002 --> 00:07:40,191
+the path to the image. Yeah,
+
+113
+00:07:40,311 --> 00:07:44,191
+so please make process documents for uploading a new image.
+
+114
+00:07:44,793 --> 00:07:47,373
+And also for replacing existing images.
+
+115
+00:07:49,493 --> 00:07:53,453
+And please share it with Valeria, the, I mean the the result of the
+
+116
+00:07:53,454 --> 00:07:53,933
+process documents.

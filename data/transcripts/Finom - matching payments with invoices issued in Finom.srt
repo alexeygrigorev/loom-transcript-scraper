@@ -1,0 +1,111 @@
+1
+00:00:00,560 --> 00:00:05,070
+So we, we received the payment, we received the payment from SDB.
+
+2
+00:00:05,640 --> 00:00:10,510
+So I just throw it to cost. You probably saw this cost.
+
+3
+00:00:11,780 --> 00:00:13,790
+Yeah. So just saw that we, the payment,
+
+4
+00:00:14,020 --> 00:00:16,630
+this is something you also do.
+
+5
+00:00:18,580 --> 00:00:21,270
+I actually don't know if you see this, if you get some sort of
+
+6
+00:00:21,271 --> 00:00:24,880
+where notification, uh, yeah.
+
+7
+00:00:24,881 --> 00:00:29,320
+Maybe we can actually, uh, make sure you get some email when we get
+
+8
+00:00:29,321 --> 00:00:32,440
+a payment anyways. Uh,
+
+9
+00:00:32,470 --> 00:00:34,680
+yeah. So this is the payment,
+
+10
+00:00:34,700 --> 00:00:36,800
+but it's not linked to an invoice.
+
+11
+00:00:36,930 --> 00:00:39,560
+So actually there, there should be some sort of link.
+
+12
+00:00:39,910 --> 00:00:42,360
+They did not include any,
+
+13
+00:00:42,390 --> 00:00:46,520
+they didn't include invoice ad. That's why it wasn't automatically linked.
+
+14
+00:00:47,840 --> 00:00:50,190
+Uh, usually it is linked. So for example,
+
+15
+00:00:50,640 --> 00:00:54,790
+um, let's take this one. So the one from infrastructure lines.
+
+16
+00:00:55,240 --> 00:00:58,110
+So they marked in invoice here.
+
+17
+00:00:58,640 --> 00:01:02,430
+So there was like it automatically attached to document invoice.
+
+18
+00:01:02,960 --> 00:01:05,150
+So it knew that the invoice, uh,
+
+19
+00:01:05,450 --> 00:01:08,950
+was paid. So here we need to do this manually.
+
+20
+00:01:09,220 --> 00:01:12,820
+I'll show you how to do this. Um,
+
+21
+00:01:12,821 --> 00:01:16,660
+yeah, so go to this payment and then attach document,
+
+22
+00:01:16,960 --> 00:01:19,500
+and then we just select one of the invoices.
+
+23
+00:01:21,260 --> 00:01:23,650
+So this one, mines DB, Inc.
+
+24
+00:01:26,100 --> 00:01:29,810
+So yeah, this is how we attach the invoice.
+
+25
+00:01:29,811 --> 00:01:35,300
+And now we know that this invoice was actually paid you
+
+26
+00:01:35,450 --> 00:01:37,860
+that's here invoice.
+
+27
+00:01:38,230 --> 00:01:42,780
+So now that's how
+
+28
+00:01:42,781 --> 00:01:45,220
+you attach invoices to payments.

@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:04,880
+Hi, so I wanted to show you how to check if I
+
+2
+00:00:04,881 --> 00:00:08,600
+can do a podcast on Monday.
+
+3
+00:00:09,460 --> 00:00:14,260
+In general, I want to show you how things are organized
+
+4
+00:00:14,261 --> 00:00:17,280
+in my calendar. So now you have access to my calendar.
+
+5
+00:00:18,060 --> 00:00:22,500
+You should be able to edit everything there and see what is there.
+
+6
+00:00:26,702 --> 00:00:30,542
+So I wanted to show you an example when I cannot do a podcast
+
+7
+00:00:30,543 --> 00:00:35,402
+at the usual time. So this is the usual time for the podcast.
+
+8
+00:00:36,342 --> 00:00:39,042
+It's happening. It's 5 p.m.
+
+9
+00:00:39,882 --> 00:00:42,202
+So this is my time, brilliant time, 5 p.m.
+
+10
+00:00:42,782 --> 00:00:44,862
+And I already have this event block.
+
+11
+00:00:45,322 --> 00:00:48,067
+So it happens. I have the block on every Monday,
+
+12
+00:00:48,387 --> 00:00:51,647
+so it's always there. So this is just to make sure that people do
+
+13
+00:00:51,648 --> 00:00:55,387
+not accidentally put anything there or,
+
+14
+00:00:56,167 --> 00:00:58,527
+um, look allenly.
+
+15
+00:00:59,327 --> 00:01:04,087
+Okay, so here next week I'm busy. And by the
+
+16
+00:01:04,088 --> 00:01:06,987
+way, yeah, we need to just get all that to noon,
+
+17
+00:01:07,107 --> 00:01:10,576
+for example. Okay,
+
+18
+00:01:10,776 --> 00:01:13,396
+so here the block is there.
+
+19
+00:01:13,696 --> 00:01:17,836
+It's always there. But I have another event there.
+
+20
+00:01:18,256 --> 00:01:21,476
+So this is the event. That's why I cannot make,
+
+21
+00:01:21,836 --> 00:01:23,976
+cannot do a podcast on this time.
+
+22
+00:01:24,316 --> 00:01:27,496
+So you should be able to see this, and you should be able to
+
+23
+00:01:27,497 --> 00:01:29,856
+see if I can do on this Monday at this time.
+
+24
+00:01:30,496 --> 00:01:34,121
+So by default, we should try to do this. What should be the default
+
+25
+00:01:34,122 --> 00:01:36,421
+time is Monday,
+
+26
+00:01:36,801 --> 00:01:38,921
+5pm. Like previously it was Friday, 5pm.
+
+27
+00:01:41,001 --> 00:01:44,521
+Yeah, but if I already have something in my calendar, then we should try
+
+28
+00:01:44,522 --> 00:01:47,141
+to maybe have it on Tuesday.
+
+29
+00:01:47,142 --> 00:01:49,461
+If there is nothing on Tuesday or no.
+
+30
+00:01:50,401 --> 00:01:54,821
+So Tuesday would be preferred if the speaker can.
+
+31
+00:01:54,964 --> 00:01:57,464
+And not do it in the morning or in the at noon.
+
+32
+00:02:00,204 --> 00:02:03,724
+Because at noon, uh, yeah,
+
+33
+00:02:03,884 --> 00:02:05,904
+like let's say if they are from Central European time,
+
+34
+00:02:06,104 --> 00:02:08,344
+then noon should be fine. But if they are from the States,
+
+35
+00:02:08,584 --> 00:02:11,524
+they can not do it at noon. So then we can try to find
+
+36
+00:02:11,525 --> 00:02:15,024
+it Tuesday. And then on other days I am not available.
+
+37
+00:02:15,025 --> 00:02:18,448
+And uh,
+
+38
+00:02:18,728 --> 00:02:20,828
+yeah, here is another example where,
+
+39
+00:02:21,948 --> 00:02:24,508
+uh, so here, this is an event, right? So,
+
+40
+00:02:24,988 --> 00:02:28,848
+let's make something. And here is another example where I cannot,
+
+41
+00:02:29,088 --> 00:02:34,388
+um, I cannot do it on Monday
+
+42
+00:02:34,389 --> 00:02:38,748
+15th, right? Then we will need to schedule the broadcast at some other time.
+
+43
+00:02:39,568 --> 00:02:41,961
+So this is the after how it works. You should be able to have
+
+44
+00:02:41,962 --> 00:02:44,901
+access to this if you don't let me know. So this is my Gmail
+
+45
+00:02:44,902 --> 00:02:47,981
+account. And yeah,
+
+46
+00:02:48,261 --> 00:02:49,861
+so this is how you can see.

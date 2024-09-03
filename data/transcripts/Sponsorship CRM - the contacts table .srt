@@ -1,0 +1,555 @@
+1
+00:00:00,240 --> 00:00:02,270
+Hi. So yeah, talking, um,
+
+2
+00:00:02,271 --> 00:00:05,230
+about Taylor. So I asked,
+
+3
+00:00:05,320 --> 00:00:07,990
+um, not to do it yourself. I wanted to show you,
+
+4
+00:00:07,991 --> 00:00:10,550
+show you how to do this. So go to LinkedIn.
+
+5
+00:00:10,620 --> 00:00:15,190
+I have his profile. He actually accepted my invitation sometime ago.
+
+6
+00:00:16,040 --> 00:00:18,070
+So just find him, Taylor.
+
+7
+00:00:18,530 --> 00:00:23,230
+All good. So I'll get his profile
+
+8
+00:00:23,370 --> 00:00:26,110
+and then I will go to our,
+
+9
+00:00:26,720 --> 00:00:28,870
+um, air table.
+
+10
+00:00:29,480 --> 00:00:31,670
+We have this sponsorship CRM there,
+
+11
+00:00:32,010 --> 00:00:34,830
+and I'll just open it, uh,
+
+12
+00:00:34,831 --> 00:00:40,150
+sponsorship, CRM contacts and
+
+13
+00:00:41,080 --> 00:00:43,350
+mm, you actually, you already edited this,
+
+14
+00:00:43,351 --> 00:00:45,510
+right? So he's,
+
+15
+00:00:45,520 --> 00:00:48,550
+uh, called, uh,
+
+16
+00:00:48,551 --> 00:00:50,590
+because I already contacted him, but it's,
+
+17
+00:00:50,591 --> 00:00:54,110
+it was a call email, so nobody introduced me to to him.
+
+18
+00:00:54,680 --> 00:00:57,750
+Um, so it was just, uh, I found him,
+
+19
+00:00:58,100 --> 00:01:01,710
+I sent him a connection request. Actually let me open it here.
+
+20
+00:01:01,960 --> 00:01:04,430
+So I sent him a connection request, uh,
+
+21
+00:01:06,120 --> 00:01:08,710
+um, on September 18th.
+
+22
+00:01:08,711 --> 00:01:10,430
+I don't know why there is too.
+
+23
+00:01:13,330 --> 00:01:13,910
+<v 1>Can I,
+
+24
+00:01:15,300 --> 00:01:17,070
+This weird. Should be just one.
+
+25
+00:01:22,210 --> 00:01:25,180
+I will, I cannot remove it.
+
+26
+00:01:25,690 --> 00:01:28,560
+Okay, well what's going on?
+
+27
+00:01:30,390 --> 00:01:32,400
+Okay, so we already have,
+
+28
+00:01:32,401 --> 00:01:35,440
+have him and the last time connected was yesterday.
+
+29
+00:01:35,530 --> 00:01:41,040
+So let's just go here and we
+
+30
+00:01:41,041 --> 00:01:45,560
+select the date from yesterday. Um,
+
+31
+00:01:46,750 --> 00:01:48,760
+then status of the company.
+
+32
+00:01:49,030 --> 00:01:51,480
+Yeah, we don't have any status here.
+
+33
+00:01:52,610 --> 00:01:54,880
+Um, we don't know this one,
+
+34
+00:01:54,881 --> 00:01:57,120
+this one. And uh,
+
+35
+00:01:57,930 --> 00:02:01,800
+so I will also go here and I will say,
+
+36
+00:02:03,210 --> 00:02:09,080
+so I usually just write, sent a connection request
+
+37
+00:02:09,081 --> 00:02:12,640
+and then here in the comments it shows where was it done,
+
+38
+00:02:12,641 --> 00:02:14,840
+where the connection request was done. So for example,
+
+39
+00:02:14,841 --> 00:02:19,360
+for this year, uh, we can see for Yearon the comment
+
+40
+00:02:19,361 --> 00:02:23,480
+was done 12 days ago on September 30.
+
+41
+00:02:23,720 --> 00:02:27,120
+Right. So we know when we sent the connection,
+
+42
+00:02:27,690 --> 00:02:31,720
+Um, yeah, but here I can edit it.
+
+43
+00:02:31,780 --> 00:02:36,200
+Can edit it, send the connection request on September,
+
+44
+00:02:38,570 --> 00:02:39,680
+uh, when was it?
+
+45
+00:02:40,200 --> 00:02:42,960
+<v 1>September 18th.
+
+46
+00:02:47,700 --> 00:02:52,240
+And yeah, so we was the last contact and we were just waiting
+
+47
+00:02:52,241 --> 00:02:55,600
+for him to check and he didn't seem to like usually,
+
+48
+00:02:55,601 --> 00:03:00,080
+for example, um, let me check it.
+
+49
+00:03:01,890 --> 00:03:06,840
+No, we don't, I'm just trying to see how
+
+50
+00:03:06,841 --> 00:03:09,000
+we can see that they saw the message.
+
+51
+00:03:09,480 --> 00:03:12,600
+Cause now we can see that it was sent,
+
+52
+00:03:12,980 --> 00:03:16,400
+but I don't know if what it was actually a received.
+
+53
+00:03:17,190 --> 00:03:17,480
+<v 1>I,
+
+54
+00:03:18,630 --> 00:03:20,760
+Yeah, probably it doesn't show this information,
+
+55
+00:03:20,761 --> 00:03:25,360
+but at least, uh, yeah, at least, at least it was
+
+56
+00:03:25,361 --> 00:03:28,080
+sent. Okay. I'm really worried about this duplicate.
+
+57
+00:03:29,690 --> 00:03:32,200
+Um, but yeah, I think it's fine.
+
+58
+00:03:36,410 --> 00:03:38,680
+So what else did I want to show you here?
+
+59
+00:03:39,990 --> 00:03:44,160
+Yeah, the sponsorships here. There was another woman I talked,
+
+60
+00:03:44,610 --> 00:03:50,040
+he, so is from Varu.
+
+61
+00:03:51,090 --> 00:03:52,720
+So let me add here to,
+
+62
+00:03:54,640 --> 00:03:54,990
+<v 1>Um,
+
+63
+00:03:58,020 --> 00:04:03,060
+LinkedIn. Then your name is this
+
+64
+00:04:03,061 --> 00:04:03,300
+one.
+
+65
+00:04:05,830 --> 00:04:06,180
+<v 1>Um,
+
+66
+00:04:08,100 --> 00:04:10,210
+Account executive. Usually.
+
+67
+00:04:10,211 --> 00:04:14,650
+Account executive is somebody from sales. So this is not a super relevant role,
+
+68
+00:04:15,350 --> 00:04:20,490
+but she invited me to some LinkedIn group and they thought since she initiated
+
+69
+00:04:20,491 --> 00:04:23,650
+the contact, I would, uh, pitch back and say,
+
+70
+00:04:23,651 --> 00:04:27,090
+Hey, like there is this nice community that you can sponsor.
+
+71
+00:04:27,740 --> 00:04:30,090
+So the company is for our room,
+
+72
+00:04:31,180 --> 00:04:33,370
+so somebody will already have them.
+
+73
+00:04:33,560 --> 00:04:38,730
+Good. And wondering why for like,
+
+74
+00:04:38,860 --> 00:04:43,690
+uh, what kind of contact
+
+75
+00:04:43,820 --> 00:04:47,930
+we had with them. Was there some,
+
+76
+00:04:49,990 --> 00:04:53,490
+I'm just wondering, uh, was there some content that we,
+
+77
+00:04:55,400 --> 00:04:58,930
+Okay, nevermind. So the company is already there.
+
+78
+00:04:59,120 --> 00:05:01,530
+Last content contact was,
+
+79
+00:05:01,531 --> 00:05:03,730
+let's say today. Um,
+
+80
+00:05:04,080 --> 00:05:07,170
+I don't have your email yet. And lead status,
+
+81
+00:05:07,810 --> 00:05:10,650
+let's say, um,
+
+82
+00:05:11,370 --> 00:05:15,640
+contacted, she's kind of still called,
+
+83
+00:05:15,641 --> 00:05:20,320
+but, uh, hm. I'm still trying to figure out
+
+84
+00:05:20,321 --> 00:05:23,120
+what's the best way to think about this.
+
+85
+00:05:23,650 --> 00:05:27,400
+Um, this lead status. Um,
+
+86
+00:05:27,401 --> 00:05:31,840
+so let me just show you what we have here. So prospect is when
+
+87
+00:05:31,890 --> 00:05:33,160
+we, um,
+
+88
+00:05:35,440 --> 00:05:37,710
+Uh, prospect is when we just add them to,
+
+89
+00:05:38,560 --> 00:05:41,190
+um, this spreadsheet to,
+
+90
+00:05:41,240 --> 00:05:45,790
+to this table. And then maybe we all sent a connection request
+
+91
+00:05:45,791 --> 00:05:48,310
+in, uh, in,
+
+92
+00:05:48,760 --> 00:05:52,830
+in LinkedIn, but nothing else. So they're potentially interesting.
+
+93
+00:05:53,180 --> 00:05:56,390
+Cold is when we contact them, but it was,
+
+94
+00:05:56,391 --> 00:05:58,440
+it was a called outreach.
+
+95
+00:05:58,570 --> 00:06:02,560
+So we don't know them. Nobody introduced us to them.
+
+96
+00:06:03,260 --> 00:06:06,760
+And uh, yeah, so we just found them on LinkedIn and wrote them a
+
+97
+00:06:06,761 --> 00:06:08,800
+message. Then contacted,
+
+98
+00:06:08,801 --> 00:06:11,800
+I think, yeah, it's kind of not needed because it's the same as called
+
+99
+00:06:12,420 --> 00:06:15,720
+Hot is, uh, when somebody introduced us to them.
+
+100
+00:06:16,490 --> 00:06:21,120
+Or for example, um, if I go on a conference and
+
+101
+00:06:21,121 --> 00:06:23,320
+meet somebody. So then we already have,
+
+102
+00:06:23,410 --> 00:06:27,480
+uh, established contact. So then it would be a follow up from the conference.
+
+103
+00:06:27,481 --> 00:06:30,080
+It would be already hot lit, uh,
+
+104
+00:06:31,040 --> 00:06:35,480
+proposed is, uh, when we talked and when we had,
+
+105
+00:06:35,650 --> 00:06:38,840
+um, on discussion.
+
+106
+00:06:38,841 --> 00:06:42,480
+And then I sent them an offer saying that,
+
+107
+00:06:42,481 --> 00:06:45,720
+uh, this is what we can do and this is how much it costs,
+
+108
+00:06:46,150 --> 00:06:50,800
+then it's proposed and then deal if we they agree and
+
+109
+00:06:50,801 --> 00:06:53,280
+then introduce colleagues. So oftentimes, uh,
+
+110
+00:06:53,281 --> 00:06:55,400
+we talk not to the right people.
+
+111
+00:06:55,610 --> 00:06:58,480
+So for example, this, he, he,
+
+112
+00:06:58,990 --> 00:07:02,040
+yeah, he probably is,
+
+113
+00:07:02,130 --> 00:07:04,920
+uh, not the right person because she's,
+
+114
+00:07:04,970 --> 00:07:07,640
+um, account executive. She's not in marketing.
+
+115
+00:07:07,641 --> 00:07:10,120
+She's not in partnership, right.
+
+116
+00:07:10,121 --> 00:07:14,640
+So probably, um, she does not own the budget for marketing,
+
+117
+00:07:14,980 --> 00:07:19,560
+but if, um, she can introduce us to her colleagues,
+
+118
+00:07:20,490 --> 00:07:23,720
+uh, who are in marketing, who are in partnership management,
+
+119
+00:07:24,550 --> 00:07:26,760
+then, um, yeah,
+
+120
+00:07:26,761 --> 00:07:29,040
+then I, It's good.
+
+121
+00:07:29,041 --> 00:07:32,520
+And we can just change, introduce colleague and then we can,
+
+122
+00:07:33,290 --> 00:07:37,440
+uh, link who is the colleague or just add the colleague here and then
+
+123
+00:07:37,480 --> 00:07:40,160
+write and comments that it was introduced by he.
+
+124
+00:07:40,810 --> 00:07:44,320
+So this is what happened, uh, here,
+
+125
+00:07:45,130 --> 00:07:47,960
+uh, with, um, let me see.
+
+126
+00:07:47,961 --> 00:07:51,280
+It was a company, um,
+
+127
+00:07:53,400 --> 00:07:58,410
+Snow Plow. Yeah. So then I met Jordan at
+
+128
+00:07:58,450 --> 00:08:00,730
+the conference and then she introduced me to Eddie.
+
+129
+00:08:01,110 --> 00:08:03,490
+And then, uh, we already started talking,
+
+130
+00:08:04,780 --> 00:08:07,330
+um, with Eddie, but yeah,
+
+131
+00:08:07,331 --> 00:08:09,010
+I actually need to follow up with him.
+
+132
+00:08:10,600 --> 00:08:15,290
+Yeah, that's, uh, the table contacts in the sponsorship
+
+133
+00:08:15,291 --> 00:08:18,890
+serum and when we find people in,
+
+134
+00:08:19,100 --> 00:08:21,210
+uh, LinkedIn that we want to contact.
+
+135
+00:08:22,020 --> 00:08:24,370
+So we just add them as prospect.
+
+136
+00:08:24,580 --> 00:08:28,010
+We sent them a connection request and then,
+
+137
+00:08:28,140 --> 00:08:31,930
+uh, yeah, we add a note when the connection request was sent.
+
+138
+00:08:32,390 --> 00:08:35,250
+And yeah, that's pretty much it.
+
+139
+00:08:35,840 --> 00:08:38,290
+Okay. That's all for this one for.

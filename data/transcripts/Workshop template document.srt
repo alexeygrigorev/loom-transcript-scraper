@@ -1,0 +1,235 @@
+1
+00:00:00,570 --> 00:00:02,880
+Hi, I wanted to show you alter.
+
+2
+00:00:02,910 --> 00:00:05,940
+We have in the shared folder and workshops.
+
+3
+00:00:06,660 --> 00:00:09,300
+So what we have here is a description of workshops,
+
+4
+00:00:09,630 --> 00:00:14,190
+and then there is a template. So this is a template to use for
+
+5
+00:00:14,191 --> 00:00:18,450
+creating workshops. And workshop is something that is similar to webinars,
+
+6
+00:00:19,620 --> 00:00:24,240
+except it's more, hands-on waiting only
+
+7
+00:00:24,241 --> 00:00:26,670
+one of them to, or channel.
+
+8
+00:00:29,230 --> 00:00:33,350
+There has been only one.
+
+9
+00:00:35,960 --> 00:00:40,100
+Yeah, because it just one, but we'll plan to have more of them.
+
+10
+00:00:40,580 --> 00:00:43,040
+They're very similar to webinars and the flow.
+
+11
+00:00:43,280 --> 00:00:45,440
+If I open the board,
+
+12
+00:00:45,441 --> 00:00:50,030
+I think the floor is mostly
+
+13
+00:00:50,031 --> 00:00:53,060
+the same. So I don't think we need to create like a server separate
+
+14
+00:00:53,061 --> 00:00:55,790
+template, but maybe the will we will,
+
+15
+00:00:56,930 --> 00:01:00,350
+but what these webinars do not have,
+
+16
+00:01:00,770 --> 00:01:05,470
+the workshops is this template maybe actually will
+
+17
+00:01:05,490 --> 00:01:08,360
+need to create a similar template for webinars as well.
+
+18
+00:01:08,540 --> 00:01:09,440
+So I think it's useful.
+
+19
+00:01:11,090 --> 00:01:14,780
+Yeah. So this is a description of a workshop,
+
+20
+00:01:15,080 --> 00:01:19,610
+so it will have title subtitle and date time and so on.
+
+21
+00:01:20,210 --> 00:01:22,970
+So for the description for, for the workshop,
+
+22
+00:01:23,000 --> 00:01:28,010
+usually it's, uh, maybe longer than the workshop and
+
+23
+00:01:28,040 --> 00:01:33,260
+yeah, there is, this is something that we will send to the
+
+24
+00:01:33,261 --> 00:01:36,170
+instructors, what the workshop to feel in.
+
+25
+00:01:36,830 --> 00:01:41,930
+And now I ordered the one, so there will be a workshop with soda.
+
+26
+00:01:42,260 --> 00:01:47,000
+So actually it will be 26th of April and then yeah.
+
+27
+00:01:47,320 --> 00:01:52,820
+Working title sort of core, but who'll be something different and
+
+28
+00:01:52,880 --> 00:01:55,400
+this is something I want to send to them right now.
+
+29
+00:01:56,090 --> 00:01:58,730
+And then, um, ask them to appeal the scene.
+
+30
+00:02:00,350 --> 00:02:03,140
+We will kill this together. And then based on that,
+
+31
+00:02:03,620 --> 00:02:08,780
+we will later create, maybe it's actually a good idea to do
+
+32
+00:02:08,781 --> 00:02:12,680
+something like this for events, or maybe it's a bit cumbersome.
+
+33
+00:02:12,770 --> 00:02:17,390
+I don't know. But for workshops may want to try
+
+34
+00:02:17,391 --> 00:02:20,750
+this for workshops and see how it goes, and then maybe we can do
+
+35
+00:02:20,751 --> 00:02:23,090
+something similar for webinars as well.
+
+36
+00:02:24,230 --> 00:02:27,590
+Okay. So in summary, um,
+
+37
+00:02:27,650 --> 00:02:32,210
+before that it's workshops, we have a template here and I
+
+38
+00:02:32,211 --> 00:02:34,850
+just click on this one, make a copy.
+
+39
+00:02:35,630 --> 00:02:39,050
+Then like in the same way as we do with podcast,
+
+40
+00:02:39,890 --> 00:02:42,410
+um, I click on this,
+
+41
+00:02:42,440 --> 00:02:47,030
+uh, uh, the copy, modify the title and,
+
+42
+00:02:47,060 --> 00:02:49,670
+um, send it to, uh,
+
+43
+00:02:49,730 --> 00:02:52,970
+to the speaker, to being stuck with this book. I will do it right
+
+44
+00:02:52,971 --> 00:02:55,460
+now. Actually. I need to create another one.
+
+45
+00:02:55,670 --> 00:02:56,420
+So let me
+
+46
+00:02:58,820 --> 00:02:59,090
+<v 1>Your,
+
+47
+00:03:04,000 --> 00:03:09,040
+yeah. So template template here
+
+48
+00:03:11,620 --> 00:03:15,010
+for March. Let me check,
+
+49
+00:03:35,370 --> 00:03:38,070
+uh, time is correct.
+
+50
+00:03:39,570 --> 00:03:44,580
+May 17th. So
+
+51
+00:03:44,730 --> 00:03:45,040
+let me just
+
+52
+00:03:53,300 --> 00:03:56,920
+name and company.
+
+53
+00:04:01,980 --> 00:04:04,680
+And now I will send these two documents,
+
+54
+00:04:04,770 --> 00:04:07,170
+uh, based on this,
+
+55
+00:04:07,171 --> 00:04:09,300
+because we plan to do, do you live in ours with them?
+
+56
+00:04:10,020 --> 00:04:14,880
+So we'll send, um,
+
+57
+00:04:15,150 --> 00:04:17,910
+I'll send links to,
+
+58
+00:04:18,270 --> 00:04:22,410
+um, these companies for that. And so we'll take it from there.
+
+59
+00:04:23,100 --> 00:04:27,330
+So yeah, these are the templates for webinars for work.

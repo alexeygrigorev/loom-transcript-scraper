@@ -1,0 +1,191 @@
+1
+00:00:01,380 --> 00:00:06,270
+<v 1>Hi, I want to know for you to start working on newsletter
+
+2
+00:00:07,350 --> 00:00:09,090
+And thread. Now in thriller,
+
+3
+00:00:09,510 --> 00:00:09,870
+I
+
+4
+00:00:11,940 --> 00:00:14,550
+<v 1>Want to add a few points, so you know what them,
+
+5
+00:00:17,730 --> 00:00:18,060
+And
+
+6
+00:00:22,830 --> 00:00:23,310
+can you
+
+7
+00:00:28,410 --> 00:00:28,860
+Smell
+
+8
+00:00:31,510 --> 00:00:33,930
+<v 1>We'll need to this link a doc,
+
+9
+00:00:34,200 --> 00:00:37,380
+I think we have a process document about that.
+
+10
+00:00:37,381 --> 00:00:38,160
+So this
+
+11
+00:00:38,161 --> 00:00:42,540
+Link it, You
+
+12
+00:00:44,040 --> 00:00:44,910
+<v 1>Think it's.
+
+13
+00:00:49,180 --> 00:00:51,820
+Yeah, so basically this happens before,
+
+14
+00:00:54,700 --> 00:01:00,070
+Before the newsletter goes out. So
+
+15
+00:01:00,280 --> 00:01:03,580
+I think every week, um, sometime during the week,
+
+16
+00:01:04,060 --> 00:01:07,990
+maybe, I don't know, on Wednesday or Thursday,
+
+17
+00:01:08,890 --> 00:01:11,350
+it will ask you to start preparing the newsletter.
+
+18
+00:01:11,351 --> 00:01:15,910
+And then one of the points here we'll be feeding in the newsletter
+
+19
+00:01:15,911 --> 00:01:20,920
+announcement. So this is for the book Then
+
+20
+00:01:20,921 --> 00:01:21,670
+for,
+
+21
+00:01:22,180 --> 00:01:22,810
+Um,
+
+22
+00:01:23,410 --> 00:01:23,800
+<v 1>And for,
+
+23
+00:01:30,560 --> 00:01:34,190
+Um, So let me show you
+
+24
+00:01:36,980 --> 00:01:37,130
+For
+
+25
+00:01:37,131 --> 00:01:37,430
+<v 1>That
+
+26
+00:01:40,760 --> 00:01:42,860
+Chimp. Yeah. Excellent.
+
+27
+00:01:44,440 --> 00:01:49,120
+<v 1>To have this podcast section this way in your podcast episode.
+
+28
+00:01:49,840 --> 00:01:53,650
+So this is typically available when we have a podcast page.
+
+29
+00:01:54,370 --> 00:01:56,680
+So it's one of the items here
+
+30
+00:01:59,350 --> 00:02:01,090
+That last
+
+31
+00:02:06,330 --> 00:02:06,910
+Page.
+
+32
+00:02:12,190 --> 00:02:14,890
+<v 1>I think they have fun document about that as well.
+
+33
+00:02:19,990 --> 00:02:20,320
+Sorry.
+
+34
+00:02:21,970 --> 00:02:24,700
+<v 1>So this should happen before. Um,
+
+35
+00:02:25,970 --> 00:02:30,560
+So usually this happens, let's say on Friday we make the podcast
+
+36
+00:02:30,561 --> 00:02:33,830
+page or on Sunday and then on Sunday,
+
+37
+00:02:34,220 --> 00:02:38,840
+because we already have the template or the newsletter.
+
+38
+00:02:40,130 --> 00:02:45,320
+We can just go there and replace one of the things That
+
+39
+00:02:45,321 --> 00:02:47,790
+links there. Yeah.
+
+40
+00:02:47,791 --> 00:02:52,430
+I don't think we need to Do anything else here
+
+41
+00:02:52,431 --> 00:02:57,200
+at some at this point. So I just added one more thing here
+
+42
+00:02:57,800 --> 00:03:02,650
+in the book of the week. And one more thing to
+
+43
+00:03:02,651 --> 00:03:07,000
+the podcast. We'll now separate one for,
+
+44
+00:03:09,730 --> 00:03:12,010
+for the newsletter. Um,
+
+45
+00:03:12,040 --> 00:03:15,190
+so you know how to be ordered not,
+
+46
+00:03:15,280 --> 00:03:19,810
+but they just want to show you how you clone it and leave it
+
+47
+00:03:22,840 --> 00:03:27,610
+for like when we don't get this podcast episode.
+
+48
+00:03:29,110 --> 00:03:29,380
+Okay.

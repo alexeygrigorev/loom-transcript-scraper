@@ -1,0 +1,43 @@
+1
+00:00:00,300 --> 00:00:02,850
+Yeah, I think so this guy,
+
+2
+00:00:03,240 --> 00:00:05,880
+Frederick, he accepted my connection request.
+
+3
+00:00:06,300 --> 00:00:10,980
+So this was like,
+
+4
+00:00:10,981 --> 00:00:15,180
+we sent the connection to the question like accepted, but he didn't say anything.
+
+5
+00:00:16,200 --> 00:00:19,650
+So that's why I kind of follow up.
+
+6
+00:00:20,220 --> 00:00:22,350
+And this is the format I used.
+
+7
+00:00:23,010 --> 00:00:27,930
+So maybe at somewhere in your templates,
+
+8
+00:00:30,170 --> 00:00:32,250
+if you see that somebody accepted the invite,
+
+9
+00:00:32,910 --> 00:00:37,170
+but didn't apply anything so you can use,
+
+10
+00:00:37,830 --> 00:00:39,870
+um, this way. No,
+
+11
+00:00:39,890 --> 00:00:40,560
+for.

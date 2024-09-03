@@ -1,0 +1,319 @@
+1
+00:00:00,660 --> 00:00:03,300
+Hi. So you just,
+
+2
+00:00:03,420 --> 00:00:06,450
+it's this thing, a new event,
+
+3
+00:00:06,480 --> 00:00:08,490
+visualizing mission to,
+
+4
+00:00:09,090 --> 00:00:11,250
+um, have table for them. Say,
+
+5
+00:00:11,260 --> 00:00:14,520
+I wanted to show you how you can actually add this yourself to the
+
+6
+00:00:14,521 --> 00:00:19,500
+website. I created something that will
+
+7
+00:00:19,501 --> 00:00:23,190
+let you at this yourself. So go to the,
+
+8
+00:00:24,000 --> 00:00:27,210
+get help page of the website. It looks plump,
+
+9
+00:00:27,360 --> 00:00:28,230
+uh, GitHub ,
+
+10
+00:00:32,370 --> 00:00:37,470
+I'll send you this link and then you go to
+
+11
+00:00:37,770 --> 00:00:42,420
+options and then in actions use to generate
+
+12
+00:00:42,421 --> 00:00:46,190
+all and hear engineering.
+
+13
+00:00:47,090 --> 00:00:52,010
+You click around and then confirm,
+
+14
+00:00:53,870 --> 00:00:57,080
+and then it will take some time. So it will take a couple of
+
+15
+00:00:57,081 --> 00:01:01,820
+minutes. I can see that the previous thing around two minutes,
+
+16
+00:01:02,670 --> 00:01:04,850
+three minutes. So it takes a bit of time,
+
+17
+00:01:09,110 --> 00:01:12,590
+but yeah. Now after doing this,
+
+18
+00:01:13,310 --> 00:01:17,960
+um, yeah, you, you don't need to wait for me to have this
+
+19
+00:01:18,020 --> 00:01:20,480
+with, uh, uh, itself.
+
+20
+00:01:21,860 --> 00:01:26,480
+Um, maybe I will show you how to actually check that things
+
+21
+00:01:26,570 --> 00:01:30,710
+are edit correctly.
+
+22
+00:01:31,130 --> 00:01:35,690
+So will not call here. I would go to the previous round that just
+
+23
+00:01:35,691 --> 00:01:37,160
+want to show you how it looks like.
+
+24
+00:01:39,210 --> 00:01:42,360
+So here you need to click on this genital.
+
+25
+00:01:44,640 --> 00:01:47,110
+And then, uh, from all those things,
+
+26
+00:01:47,460 --> 00:01:51,210
+there are a bunch of jobs. Most of them prepare the environment.
+
+27
+00:01:51,570 --> 00:01:53,700
+This is a bit technical. So anyways,
+
+28
+00:01:53,730 --> 00:01:55,740
+you are interested in this thing,
+
+29
+00:01:57,610 --> 00:02:03,090
+this may call, and then you see that it
+
+30
+00:02:03,600 --> 00:02:08,640
+says processed zero people. So this is the form first processes
+
+31
+00:02:08,730 --> 00:02:11,250
+in this table. This form people,
+
+32
+00:02:11,880 --> 00:02:13,980
+that's the first group. That's all the people.
+
+33
+00:02:14,820 --> 00:02:18,060
+Then it processes books. Um,
+
+34
+00:02:18,150 --> 00:02:24,180
+so before previously, when I run with zero people edit zero and
+
+35
+00:02:24,181 --> 00:02:30,420
+zero, edit this podcast
+
+36
+00:02:31,080 --> 00:02:34,560
+either. It was actually a podcast and it's one,
+
+37
+00:02:34,561 --> 00:02:37,140
+this processed one podcast,
+
+38
+00:02:37,560 --> 00:02:42,210
+and then it processed zero events. So you actually
+
+39
+00:02:42,211 --> 00:02:44,280
+don't need to go here.
+
+40
+00:02:44,460 --> 00:02:46,950
+Everything should be fine. Um,
+
+41
+00:02:47,280 --> 00:02:52,970
+but just in case, um,  can
+
+42
+00:02:52,980 --> 00:02:56,130
+see what is running. So this is the thing I just executed right now.
+
+43
+00:02:59,260 --> 00:03:03,850
+Um, yeah, I just finished. And then if you go to make all right
+
+44
+00:03:03,851 --> 00:03:08,530
+now and say protest one
+
+45
+00:03:08,531 --> 00:03:12,610
+event, this the event,
+
+46
+00:03:12,940 --> 00:03:17,860
+it took this event from here from
+
+47
+00:03:17,861 --> 00:03:22,180
+this. And yeah.
+
+48
+00:03:22,270 --> 00:03:27,790
+Now if we can back to the main,
+
+49
+00:03:27,850 --> 00:03:30,160
+uh, there is a new commit.
+
+50
+00:03:30,460 --> 00:03:36,760
+So it's coming from GitHub actions and you
+
+51
+00:03:36,990 --> 00:03:39,330
+don't need to do this. All you need to do is just click a
+
+52
+00:03:39,340 --> 00:03:43,980
+button, but this is a bit more information to double check.
+
+53
+00:03:43,981 --> 00:03:46,740
+Maybe that things work. Um,
+
+54
+00:03:46,980 --> 00:03:51,990
+yeah, you see that this thing was added and now
+
+55
+00:03:52,500 --> 00:03:54,810
+in the website is being updated.
+
+56
+00:03:58,520 --> 00:04:01,700
+And once this thing just pages built and deployment,
+
+57
+00:04:02,450 --> 00:04:06,140
+then, then yeah,
+
+58
+00:04:06,170 --> 00:04:07,580
+it will have an updated version
+
+59
+00:04:22,950 --> 00:04:23,970
+this point.
+
+60
+00:04:30,400 --> 00:04:33,750
+Okay. Completed. So now if we,
+
+61
+00:04:34,700 --> 00:04:36,720
+if we, sorry.
+
+62
+00:04:37,260 --> 00:04:41,670
+Yeah, we'll have visualizing machine learning. So in summary,
+
+63
+00:04:41,671 --> 00:04:46,230
+what you need to do is automate your document and
+
+64
+00:04:46,231 --> 00:04:48,870
+process document. You go into actions,
+
+65
+00:04:49,440 --> 00:04:54,700
+you select generate, and you click workflow.
+
+66
+00:04:55,980 --> 00:05:01,230
+That's pretty much it. And then the rest is just a bit more
+
+67
+00:05:01,231 --> 00:05:05,190
+information. You don't need to document it right now.
+
+68
+00:05:06,900 --> 00:05:10,290
+If you want to see if things progressed,
+
+69
+00:05:10,710 --> 00:05:15,510
+you go to January and click
+
+70
+00:05:15,511 --> 00:05:21,900
+my call here to see what actually it protest some,
+
+71
+00:05:21,901 --> 00:05:25,440
+they just call you do this. And if this thing,
+
+72
+00:05:26,190 --> 00:05:28,920
+one of the steps is red becomes red,
+
+73
+00:05:29,550 --> 00:05:31,710
+then we'll not be able to produce an event.
+
+74
+00:05:32,100 --> 00:05:35,310
+Then you will need to let me know that something is important.
+
+75
+00:05:35,820 --> 00:05:38,220
+So I will probably receive an email. It's something that's broken.
+
+76
+00:05:38,760 --> 00:05:42,690
+And just in case, if let's say you run and then five minutes after
+
+77
+00:05:42,691 --> 00:05:46,590
+that, you come back and you see in actions that,
+
+78
+00:05:48,600 --> 00:05:51,240
+that it's all right. So something like this,
+
+79
+00:05:51,840 --> 00:05:54,780
+right? And then you just think, okay,
+
+80
+00:05:54,870 --> 00:05:55,370
+let's hold.

@@ -1,0 +1,171 @@
+1
+00:00:00,150 --> 00:00:02,800
+Also wanted to explain what this company's is.
+
+2
+00:00:02,830 --> 00:00:05,160
+I think I did talk about this last time.
+
+3
+00:00:05,570 --> 00:00:08,560
+So when we add companies, you see that this is empty,
+
+4
+00:00:08,561 --> 00:00:12,320
+right? So these are the companies that we just added.
+
+5
+00:00:12,850 --> 00:00:16,960
+So we need to add status. So if we don't have status for them,
+
+6
+00:00:17,070 --> 00:00:19,720
+they become prospects. So just put,
+
+7
+00:00:19,721 --> 00:00:21,800
+start those prospects actually Jet Brains.
+
+8
+00:00:21,801 --> 00:00:24,120
+I think we add, we have Jet brains already,
+
+9
+00:00:24,850 --> 00:00:28,040
+so let me quickly check if we have Jet.
+
+10
+00:00:29,510 --> 00:00:33,280
+Yeah, so lemme see this one.
+
+11
+00:00:33,281 --> 00:00:36,600
+Jet Brains. Um,
+
+12
+00:00:36,601 --> 00:00:39,160
+yeah, I'll see how to, to merge them later.
+
+13
+00:00:39,770 --> 00:00:41,920
+Um, yeah, but for now,
+
+14
+00:00:42,010 --> 00:00:44,680
+so what we can do apart from the brains,
+
+15
+00:00:44,681 --> 00:00:48,040
+I think I can just remove them because they don't have any content assigned
+
+16
+00:00:48,570 --> 00:00:51,720
+to them. I can just remove them.
+
+17
+00:00:53,810 --> 00:00:56,110
+Uh, yeah.
+
+18
+00:00:56,160 --> 00:01:00,510
+So you can, um, for them actually for weights and biases,
+
+19
+00:01:00,511 --> 00:01:04,990
+we already have it's established content contact.
+
+20
+00:01:05,530 --> 00:01:07,630
+For the rest it is,
+
+21
+00:01:07,840 --> 00:01:10,830
+um, status is,
+
+22
+00:01:10,960 --> 00:01:13,470
+uh, prospect, right?
+
+23
+00:01:13,471 --> 00:01:16,830
+So we haven't contacted them. And then for text,
+
+24
+00:01:16,850 --> 00:01:19,550
+you probably, I don't know,
+
+25
+00:01:19,780 --> 00:01:23,750
+I don't know how much you can put this here for contacts,
+
+26
+00:01:23,870 --> 00:01:27,950
+probably not much too. But what you can put here is the relevancy based
+
+27
+00:01:28,080 --> 00:01:31,830
+on, based on the relevancy of the content,
+
+28
+00:01:31,831 --> 00:01:35,350
+right? So you can just put here the relevance of the company and then,
+
+29
+00:01:35,440 --> 00:01:37,550
+uh, fill in this information. So for example,
+
+30
+00:01:37,560 --> 00:01:39,990
+in the website on that I just showed you,
+
+31
+00:01:40,520 --> 00:01:43,750
+we have the information about the website. Maybe you can have,
+
+32
+00:01:43,751 --> 00:01:45,830
+you can find their LinkedIn account too,
+
+33
+00:01:45,831 --> 00:01:48,110
+Twitter account too, Uh, GI up,
+
+34
+00:01:48,250 --> 00:01:52,190
+not important, just to have a way to find them quickly if,
+
+35
+00:01:52,191 --> 00:01:54,670
+uh, we want to find people who work there.
+
+36
+00:01:55,200 --> 00:01:57,950
+So have enough website and LinkedIn is useful.
+
+37
+00:01:58,960 --> 00:02:01,030
+Um, and then for contacts, uh,
+
+38
+00:02:01,031 --> 00:02:03,870
+we will cover that later. Hmm.
+
+39
+00:02:05,980 --> 00:02:08,350
+Okay. Yeah, I think that's,
+
+40
+00:02:08,400 --> 00:02:12,690
+uh, that's all. Yeah,
+
+41
+00:02:12,691 --> 00:02:15,830
+for text. Um, uh,
+
+42
+00:02:16,090 --> 00:02:18,910
+I'm still thinking how useful texts are. Maybe we'll just,
+
+43
+00:02:18,960 --> 00:02:20,190
+uh, drop them later.

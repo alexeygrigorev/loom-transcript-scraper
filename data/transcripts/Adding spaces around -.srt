@@ -1,0 +1,39 @@
+1
+00:00:01,560 --> 00:00:05,310
+Um, I I'd like to ask you for a favor,
+
+2
+00:00:06,060 --> 00:00:11,150
+please. Places here. So do not leave
+
+3
+00:00:11,160 --> 00:00:16,230
+spaces like that. So there
+
+4
+00:00:16,231 --> 00:00:20,820
+should be spaces around dashes. We
+
+5
+00:00:20,821 --> 00:00:23,190
+missed this one.
+
+6
+00:00:24,720 --> 00:00:27,540
+Yeah. This one was good. And also I noticed that too,
+
+7
+00:00:27,541 --> 00:00:30,540
+this column was like that. So then,
+
+8
+00:00:30,541 --> 00:00:35,190
+because I have three other small screen, if this one column is large,
+
+9
+00:00:35,191 --> 00:00:40,320
+then I can really see others. So please keep it to
+
+10
+00:00:41,140 --> 00:00:41,670
+two white.

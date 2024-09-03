@@ -1,0 +1,47 @@
+1
+00:00:00,270 --> 00:00:02,700
+Instead of grading line breaks.
+
+2
+00:00:03,000 --> 00:00:05,190
+They, I find them give you the line. Sorry.
+
+3
+00:00:05,790 --> 00:00:10,140
+So if you really want to make sure that it's kind of like,
+
+4
+00:00:10,170 --> 00:00:12,960
+you might just stay together is an option that you,
+
+5
+00:00:13,140 --> 00:00:17,190
+and, um, so you can use the page let's set up.
+
+6
+00:00:17,220 --> 00:00:20,570
+So you go to file where you sit up and then you use page
+
+7
+00:00:20,580 --> 00:00:23,530
+plus, and then you see like,
+
+8
+00:00:23,580 --> 00:00:26,430
+uh, it's just one page. Everything is one page.
+
+9
+00:00:26,431 --> 00:00:30,150
+So then you don't really need to have this line rates because like the
+
+10
+00:00:30,151 --> 00:00:33,420
+images are always most to,
+
+11
+00:00:34,560 --> 00:00:36,900
+you know, so yeah.
+
+12
+00:00:36,930 --> 00:00:38,580
+Please don't add line breaks.

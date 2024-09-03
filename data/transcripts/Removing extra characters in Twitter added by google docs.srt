@@ -1,0 +1,31 @@
+1
+00:00:00,780 --> 00:00:03,570
+Okay. I think I know what's going on. So when I ,
+
+2
+00:00:06,330 --> 00:00:10,860
+um, and do it, it's like spaces
+
+3
+00:00:10,861 --> 00:00:15,630
+here. See these, this now when
+
+4
+00:00:15,631 --> 00:00:18,420
+I checked it and now you see the different,
+
+5
+00:00:19,060 --> 00:00:23,220
+and now it is actually within limits and we still have two characters.
+
+6
+00:00:23,820 --> 00:00:26,520
+So I don't know why Google docs is doing this,
+
+7
+00:00:26,910 --> 00:00:29,640
+but yeah, you can be more like bomb to be,
+
+8
+00:00:29,850 --> 00:00:32,250
+or there's like this.

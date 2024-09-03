@@ -1,0 +1,131 @@
+1
+00:00:01,026 --> 00:00:05,273
+I just wanted to show you how to schedule payments.
+
+2
+00:00:05,274 --> 00:00:10,056
+So we have usual payments but some payments are occurring and for example
+
+3
+00:00:10,057 --> 00:00:13,304
+this one that we got from our accountants.
+
+4
+00:00:13,305 --> 00:00:17,936
+So they ask for monthly
+
+5
+00:00:17,937 --> 00:00:20,109
+payment of this amount,
+
+6
+00:00:20,110 --> 00:00:24,826
+right? So they say from this day to this
+
+7
+00:00:24,827 --> 00:00:28,100
+day we have already paid the first one.
+
+8
+00:00:28,101 --> 00:00:32,377
+So I want to show you how we can schedule at that That,
+
+9
+00:00:32,378 --> 00:00:34,520
+Infinum. So Infinum,
+
+10
+00:00:34,521 --> 00:00:39,867
+because we already paid umm.
+
+11
+00:00:39,868 --> 00:00:45,814
+So we already paid umm for January so there is no need to
+
+12
+00:00:45,815 --> 00:00:48,553
+do January anymore. So we start from February.
+
+13
+00:00:48,554 --> 00:00:50,866
+I first of all, yeah, I fill it in.
+
+14
+00:00:50,867 --> 00:00:56,072
+Then I click here schedule and make it regular and frequency is monthly
+
+15
+00:00:56,073 --> 00:01:00,658
+and then start date is first of February and date is
+
+16
+00:01:00,659 --> 00:01:04,798
+end of December. And they say the payment will be made every month until
+
+17
+00:01:04,799 --> 00:01:07,898
+blah blah blah included the starting from February 1.
+
+18
+00:01:08,098 --> 00:01:10,178
+This is 11 times so this is exactly what we need.
+
+19
+00:01:10,838 --> 00:01:15,618
+Out of 12 we paid once so we need 11 and
+
+20
+00:01:15,619 --> 00:01:20,472
+yeah and the reason for payment as usual is
+
+21
+00:01:20,473 --> 00:01:22,825
+the invoice number right.
+
+22
+00:01:24,948 --> 00:01:29,874
+So now I can just click continue and click schedule and
+
+23
+00:01:29,875 --> 00:01:35,171
+then now I confirm it. Confirm
+
+24
+00:01:35,172 --> 00:01:38,457
+and now it is scheduled.
+
+25
+00:01:38,458 --> 00:01:42,272
+So I don't think it will happen often but at least in one year
+
+26
+00:01:42,273 --> 00:01:46,187
+when they sent an invoice. We want you to do this and I'll just
+
+27
+00:01:46,188 --> 00:01:50,884
+forward you this email. Google is quite good at translating
+
+28
+00:01:50,885 --> 00:01:55,906
+German but I think it's more or less clear what's happening here.
+
+29
+00:01:55,907 --> 00:02:00,553
+Yeah we already have here in our
+
+30
+00:02:00,554 --> 00:02:03,707
+uhh address book.
+
+31
+00:02:03,708 --> 00:02:08,712
+So yeah. Okay that's how we
+
+32
+00:02:08,713 --> 00:02:11,442
+schedule regular payments.
+
+33
+00:02:11,443 --> 00:02:12,182
+Thanks for watching!

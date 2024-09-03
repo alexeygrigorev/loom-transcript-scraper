@@ -1,0 +1,99 @@
+1
+00:00:00,090 --> 00:00:02,700
+Oh, hi. I just noticed that the file,
+
+2
+00:00:02,730 --> 00:00:07,590
+this picture that you submitted recently is quite large to max.
+
+3
+00:00:08,310 --> 00:00:12,830
+And then if I open it, it's also open it
+
+4
+00:00:12,850 --> 00:00:13,920
+with a different editor.
+
+5
+00:00:16,620 --> 00:00:21,200
+It's also quite large. So this is like,
+
+6
+00:00:21,230 --> 00:00:23,510
+um, I don't know,
+
+7
+00:00:23,570 --> 00:00:26,750
+100, um, basically it's just a huge,
+
+8
+00:00:27,230 --> 00:00:30,350
+um, I think what we should do is in general,
+
+9
+00:00:30,351 --> 00:00:34,160
+we should prefer smaller images.
+
+10
+00:00:34,700 --> 00:00:38,420
+Everything like that, like 400 by 600 is enough.
+
+11
+00:00:39,260 --> 00:00:42,170
+Um, we do not need a bigger one. So please,
+
+12
+00:00:42,171 --> 00:00:46,220
+next time when you upload an image and if you get as like a
+
+13
+00:00:46,221 --> 00:00:49,550
+large one resize it because we do not need to be key much.
+
+14
+00:00:50,060 --> 00:00:54,430
+And then now I will save it saved on the,
+
+15
+00:00:54,440 --> 00:00:56,850
+see it's like instead of two, two gigs,
+
+16
+00:00:56,930 --> 00:00:59,810
+two megabytes, it's 84 kilobytes.
+
+17
+00:01:00,290 --> 00:01:02,420
+It's important because for the page,
+
+18
+00:01:02,660 --> 00:01:05,120
+but right now let's say if I open the website,
+
+19
+00:01:06,710 --> 00:01:08,870
+um, I'm gonna go to books,
+
+20
+00:01:09,710 --> 00:01:12,860
+like actually takes time to load this image.
+
+21
+00:01:12,890 --> 00:01:16,070
+So this is the same image and it, uh, it is to max it's
+
+22
+00:01:16,071 --> 00:01:19,220
+Barch. So now it will build faster.
+
+23
+00:01:19,670 --> 00:01:22,940
+So please, next time when you upload an image,
+
+24
+00:01:23,000 --> 00:01:26,660
+uh, please try to briefly size it tight to make it,
+
+25
+00:01:26,720 --> 00:01:28,130
+uh, not way to launch.

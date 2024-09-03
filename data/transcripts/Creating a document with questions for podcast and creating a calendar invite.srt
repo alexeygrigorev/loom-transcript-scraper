@@ -1,0 +1,563 @@
+1
+00:00:00,240 --> 00:00:02,250
+Okay. Now I want to show you,
+
+2
+00:00:02,460 --> 00:00:05,760
+um, how I create documents for podcasts.
+
+3
+00:00:05,820 --> 00:00:08,010
+So Rahul reached out to me.
+
+4
+00:00:08,310 --> 00:00:11,220
+He wants to be a guest on a podcast. Well,
+
+5
+00:00:11,310 --> 00:00:16,020
+here, it doesn't matter who reached out to, but we agreed that he
+
+6
+00:00:16,110 --> 00:00:21,720
+will be a guest on the podcast doesn't
+
+7
+00:00:21,721 --> 00:00:26,910
+work. Yeah. So we talked about different topics that he talk
+
+8
+00:00:26,911 --> 00:00:29,160
+about and we chose this,
+
+9
+00:00:29,190 --> 00:00:34,050
+uh, transitioning from data engineer to data engineering manager.
+
+10
+00:00:34,920 --> 00:00:39,660
+Yeah. And then went on a date and
+
+11
+00:00:39,690 --> 00:00:44,400
+what they want to show you. So this is specific for podcast needed for
+
+12
+00:00:44,460 --> 00:00:46,890
+other types of plants. So for that,
+
+13
+00:00:46,950 --> 00:00:52,380
+we need to, I am going to actually,
+
+14
+00:00:52,860 --> 00:00:55,110
+I should share with video.
+
+15
+00:00:57,580 --> 00:01:00,670
+Sure. Let me share this whole folder with you.
+
+16
+00:01:09,240 --> 00:01:12,330
+Yeah. In editor, sorry.
+
+17
+00:01:12,331 --> 00:01:15,300
+In this four halter, what he needs is,
+
+18
+00:01:15,330 --> 00:01:19,860
+uh, what cost in this
+
+19
+00:01:19,861 --> 00:01:23,010
+podcast. Yeah. I have a lot of copies of copies,
+
+20
+00:01:23,430 --> 00:01:25,770
+but this is all you name it.
+
+21
+00:01:26,220 --> 00:01:28,290
+We don't need to put this in documented.
+
+22
+00:01:28,320 --> 00:01:31,920
+This is just a template that I use all this piles at the same.
+
+23
+00:01:36,720 --> 00:01:39,960
+So all these names, uh, they follow the same format,
+
+24
+00:01:40,260 --> 00:01:45,150
+August documents. So you see, this is a document that I prepared for the
+
+25
+00:01:45,151 --> 00:01:49,890
+podcast tomorrow. So this is that
+
+26
+00:01:50,040 --> 00:01:52,260
+the name is the date when it happens,
+
+27
+00:01:52,770 --> 00:01:57,390
+the name of the person and then the topic. So let
+
+28
+00:01:57,391 --> 00:02:00,480
+me take, uh, take this copy of compete,
+
+29
+00:02:00,870 --> 00:02:05,010
+open it. And I add in name,
+
+30
+00:02:05,130 --> 00:02:10,110
+item of this template. And then the date
+
+31
+00:02:10,500 --> 00:02:15,480
+is, were agreed on February 18th.
+
+32
+00:02:17,100 --> 00:02:20,340
+So it will be February.
+
+33
+00:02:25,370 --> 00:02:28,100
+Then the name will be a full chain.
+
+34
+00:02:33,880 --> 00:02:39,220
+Yeah. Please do with capital case and
+
+35
+00:02:39,221 --> 00:02:42,220
+then topic, uh, still to be discussed.
+
+36
+00:02:43,480 --> 00:02:48,250
+Um, inquiry time, we agreed on transitioning
+
+37
+00:02:48,251 --> 00:02:50,350
+from data engineer, data, new manager.
+
+38
+00:02:51,760 --> 00:02:56,620
+Um, and then, so because I already have his email
+
+39
+00:02:57,400 --> 00:03:00,130
+and, um, shared with him,
+
+40
+00:03:05,970 --> 00:03:10,890
+sorry, say it there. Or usually what I do is I just click share
+
+41
+00:03:10,980 --> 00:03:13,980
+and then, um, probably link.
+
+42
+00:03:15,270 --> 00:03:18,870
+So change to 31 with a link, then make an editor,
+
+43
+00:03:19,920 --> 00:03:22,230
+write them down.
+
+44
+00:03:22,680 --> 00:03:27,630
+And then I write know I
+
+45
+00:03:27,631 --> 00:03:32,760
+asked that question or are,
+
+46
+00:03:36,270 --> 00:03:40,870
+oh, and if you just start with
+
+47
+00:03:41,430 --> 00:03:45,720
+questions, there can,
+
+48
+00:03:45,721 --> 00:03:50,910
+now I will not send it yet because I now want to add
+
+49
+00:03:53,220 --> 00:03:54,900
+two special guests today.
+
+50
+00:03:57,150 --> 00:04:01,380
+See here. Welcome.
+
+51
+00:04:04,700 --> 00:04:10,070
+Um, and I think that topic will be from
+
+52
+00:04:11,060 --> 00:04:15,890
+date, uh, each year to date,
+
+53
+00:04:15,980 --> 00:04:19,550
+uh, gee, this is you.
+
+54
+00:04:19,580 --> 00:04:21,620
+Could we discussed, uh,
+
+55
+00:04:21,770 --> 00:04:25,430
+what I think this is what we agreed on and we will need to
+
+56
+00:04:26,720 --> 00:04:29,450
+agree on the outline. And,
+
+57
+00:04:29,510 --> 00:04:35,030
+um, here we will hear
+
+58
+00:04:36,080 --> 00:04:38,510
+these questions.
+
+59
+00:04:38,780 --> 00:04:43,040
+So also think of some questions and I will put them here,
+
+60
+00:04:43,600 --> 00:04:49,190
+but also we wanted to put the questions he wants to get
+
+61
+00:04:49,191 --> 00:04:51,650
+me to ask him then.
+
+62
+00:04:51,800 --> 00:04:54,170
+So this is what I sent,
+
+63
+00:05:00,230 --> 00:05:05,900
+uh, sign on
+
+64
+00:05:06,530 --> 00:05:11,330
+my side as well. And
+
+65
+00:05:12,050 --> 00:05:14,090
+yeah, so now we have this,
+
+66
+00:05:14,150 --> 00:05:16,790
+then we also, I also need, even before that,
+
+67
+00:05:16,850 --> 00:05:19,730
+I think I didn't do, I should go down this.
+
+68
+00:05:20,660 --> 00:05:25,730
+So, uh, I need to add him to the spreadsheet sort
+
+69
+00:05:25,731 --> 00:05:28,160
+of chain. And then topic is,
+
+70
+00:05:28,190 --> 00:05:30,200
+uh, uh,
+
+71
+00:05:30,920 --> 00:05:35,870
+from that engineer to that HD manager management and we
+
+72
+00:05:36,410 --> 00:05:41,000
+forwarded a few, the date system
+
+73
+00:05:41,001 --> 00:05:41,750
+is terrible.
+
+74
+00:05:43,520 --> 00:05:48,470
+Um, so that we have a document that
+
+75
+00:05:48,471 --> 00:05:50,750
+I sent that already has,
+
+76
+00:05:51,980 --> 00:05:56,030
+by the way, this is called the document or the final document looks like,
+
+77
+00:05:57,110 --> 00:05:59,720
+so what kind of title here? We accept title.
+
+78
+00:06:01,040 --> 00:06:05,780
+We have outlined here and we have
+
+79
+00:06:07,610 --> 00:06:11,840
+like some view, some interim, and then this,
+
+80
+00:06:11,870 --> 00:06:14,510
+uh, everyone, all the speakers get this question,
+
+81
+00:06:14,600 --> 00:06:18,330
+like before we go into the main topic of something that starts with your
+
+82
+00:06:18,331 --> 00:06:23,030
+background, and then these are custom questions that I add
+
+83
+00:06:23,031 --> 00:06:25,610
+to set, and then this way speakers,
+
+84
+00:06:25,670 --> 00:06:29,600
+uh, just know what exactly I am going to ask them on the podcast.
+
+85
+00:06:34,670 --> 00:06:38,300
+Yeah. And, uh, this document should attend a book,
+
+86
+00:06:38,301 --> 00:06:41,840
+something like that. Um,
+
+87
+00:06:42,680 --> 00:06:46,430
+and this is for me to do for me and for the guest,
+
+88
+00:06:46,490 --> 00:06:48,530
+not for you, but you will,
+
+89
+00:06:48,531 --> 00:06:53,300
+we'll ask you to help me usually create this document with this document.
+
+90
+00:06:53,301 --> 00:06:57,410
+What we need to do next is we need to create an event.
+
+91
+00:06:58,040 --> 00:07:00,500
+Uh, we need to send the calendar invite,
+
+92
+00:07:00,501 --> 00:07:03,530
+sorry. So we'll go to calendar.
+
+93
+00:07:04,340 --> 00:07:08,030
+And then this is something next week. So this happens.
+
+94
+00:07:09,230 --> 00:07:16,880
+So the title will be that at docs. What cost then?
+
+95
+00:07:16,881 --> 00:07:20,360
+Uh, so description is here.
+
+96
+00:07:21,290 --> 00:07:26,570
+Questions, questions here.
+
+97
+00:07:28,540 --> 00:07:33,270
+Hmm. Then I will add you as
+
+98
+00:07:33,271 --> 00:07:37,800
+well. So you can modify the event in case you need it
+
+99
+00:07:39,300 --> 00:07:41,970
+in case let's say a speaker just has to,
+
+100
+00:07:41,971 --> 00:07:45,510
+to cancel it or to move it. Then,
+
+101
+00:07:45,511 --> 00:07:48,990
+uh, it always starts five minutes before the actual start.
+
+102
+00:07:49,110 --> 00:07:53,790
+So this way now to make sure that we don't have
+
+103
+00:07:53,791 --> 00:07:58,770
+any technical problems, then I actually need to add the
+
+104
+00:07:59,240 --> 00:08:01,380
+guest excuse, email
+
+105
+00:08:06,790 --> 00:08:11,880
+email is here. And then yeah.
+
+106
+00:08:11,881 --> 00:08:14,520
+Then we need to add this link ups or
+
+107
+00:08:19,430 --> 00:08:21,650
+so I will to get the link.
+
+108
+00:08:23,460 --> 00:08:25,610
+I'll save it, but do not send the event.
+
+109
+00:08:28,550 --> 00:08:31,010
+Then I go, oops, this one.
+
+110
+00:08:33,140 --> 00:08:37,730
+But yeah, you will have this link. I think I already covered
+
+111
+00:08:37,731 --> 00:08:41,000
+it in notion, but all the events,
+
+112
+00:08:41,660 --> 00:08:44,810
+the webinars and all the podcasts, they have the same zoom link.
+
+113
+00:08:45,620 --> 00:08:48,980
+And then I, yeah.
+
+114
+00:08:49,030 --> 00:08:51,860
+Then I add there's one link here in the location.
+
+115
+00:08:52,670 --> 00:08:54,740
+And I also have, I
+
+116
+00:08:54,741 --> 00:08:58,080
+<v 1>Also have a document. I also edit to the document.
+
+117
+00:09:00,030 --> 00:09:02,550
+So the ink is always the same.
+
+118
+00:09:03,390 --> 00:09:06,300
+I will also send you this link, uh, and knowing what's up.
+
+119
+00:09:09,780 --> 00:09:14,160
+Yeah. And the important thing here is that just the emissions is that they
+
+120
+00:09:14,161 --> 00:09:18,930
+can modify events when you will create these events at me as
+
+121
+00:09:18,960 --> 00:09:22,200
+a, as a guest. So then I can modify it,
+
+122
+00:09:22,260 --> 00:09:27,090
+define it. Yeah.
+
+123
+00:09:27,091 --> 00:09:30,210
+I think that's all we need. So now I click save and then now
+
+124
+00:09:30,211 --> 00:09:33,900
+I click centers and now the guest will receive an education.
+
+125
+00:09:38,320 --> 00:09:41,410
+Yeah. So this is all of that.
+
+126
+00:09:47,620 --> 00:09:52,390
+<v 1>And I think that's all I wanted to show you. Let me check.
+
+127
+00:09:53,410 --> 00:09:55,510
+Yeah. Wow. Maybe I'll just,
+
+128
+00:09:55,630 --> 00:09:58,000
+uh, all right.
+
+129
+00:09:58,001 --> 00:10:01,330
+And I think
+
+130
+00:10:07,480 --> 00:10:10,960
+you will probably do this through email, but maybe it's really not as well.
+
+131
+00:10:11,050 --> 00:10:14,710
+I dunno. Or slack would be usually I use for that.
+
+132
+00:10:14,920 --> 00:10:19,480
+Um, LinkedIn, I use for that email I use for that slack
+
+133
+00:10:19,510 --> 00:10:20,440
+sometimes Twitter.
+
+134
+00:10:25,400 --> 00:10:28,520
+Okay. So that's how I do this.
+
+135
+00:10:29,330 --> 00:10:32,150
+So this is how I create the document.
+
+136
+00:10:33,440 --> 00:10:37,430
+And by the way, the first part of this video was specific to podcasts.
+
+137
+00:10:37,760 --> 00:10:42,350
+So the part with, um, creating a document and then sharing that with
+
+138
+00:10:42,351 --> 00:10:46,520
+the speaker, with a guest, but the second part of creating the calendar invite
+
+139
+00:10:47,690 --> 00:10:52,460
+this one, it is not specific to a podcast or
+
+140
+00:10:52,760 --> 00:10:55,280
+an African business. It is the same process.
+
+141
+00:10:57,530 --> 00:11:00,350
+Okay. That's all from me, please.

@@ -1,0 +1,287 @@
+1
+00:00:00,260 --> 00:00:02,410
+Hi. I came across an issue today,
+
+2
+00:00:03,210 --> 00:00:05,320
+so this, uh, player wasn't working.
+
+3
+00:00:06,410 --> 00:00:09,160
+Um, so it was, uh, playing a different,
+
+4
+00:00:09,290 --> 00:00:11,720
+uh, episode. It was playing episode with Kai,
+
+5
+00:00:11,721 --> 00:00:14,040
+Kate, Katie, uh,
+
+6
+00:00:14,041 --> 00:00:19,600
+instead of this one. And the problem there was that we accidentally
+
+7
+00:00:20,340 --> 00:00:23,080
+use strong url and the reason we use strong url,
+
+8
+00:00:23,090 --> 00:00:25,280
+so this is the URL you submitted in the form.
+
+9
+00:00:25,820 --> 00:00:28,200
+And the reason this is, uh, a wrong hero.
+
+10
+00:00:28,340 --> 00:00:33,070
+Now, if I go to Anchor and let's
+
+11
+00:00:33,071 --> 00:00:35,590
+say get one of the episodes,
+
+12
+00:00:37,070 --> 00:00:39,200
+this is I think how we do it, right?
+
+13
+00:00:40,250 --> 00:00:40,600
+<v 1>Um,
+
+14
+00:00:41,450 --> 00:00:44,760
+So open a text editor. So this is how the,
+
+15
+00:00:44,870 --> 00:00:47,160
+this looks like, right? So it's, uh,
+
+16
+00:00:47,161 --> 00:00:49,840
+different now. So what,
+
+17
+00:00:49,841 --> 00:00:52,200
+uh, you can do, there are actually multiple options.
+
+18
+00:00:52,201 --> 00:00:56,120
+The first one, we just go to our public page,
+
+19
+00:00:56,550 --> 00:01:01,320
+this listen on anchor, and we have,
+
+20
+00:01:03,090 --> 00:01:07,480
+you know, we have this one, right? So just click on this one and
+
+21
+00:01:07,620 --> 00:01:09,880
+use this. So when you, uh,
+
+22
+00:01:09,881 --> 00:01:10,800
+put it in the form,
+
+23
+00:01:12,230 --> 00:01:12,720
+<v 1>Like
+
+24
+00:01:12,721 --> 00:01:13,640
+Where's k
+
+25
+00:01:14,190 --> 00:01:14,480
+<v 1>K?
+
+26
+00:01:15,810 --> 00:01:18,770
+So when you fill the form here,
+
+27
+00:01:18,771 --> 00:01:21,690
+table form. So you put this link here.
+
+28
+00:01:24,320 --> 00:01:26,670
+So this link goes here to anchor,
+
+29
+00:01:27,120 --> 00:01:30,950
+right? Not this one. So you can compare these students,
+
+30
+00:01:30,951 --> 00:01:33,750
+right? So it should be not this Spotify anchor web,
+
+31
+00:01:33,751 --> 00:01:37,270
+blah, blah, blah, but anchor found data doc stop episodes and this one,
+
+32
+00:01:37,390 --> 00:01:41,430
+right? And then if the URL looks like that,
+
+33
+00:01:41,940 --> 00:01:45,510
+then uh, we will not have problems,
+
+34
+00:01:45,800 --> 00:01:46,150
+uh,
+
+35
+00:01:46,770 --> 00:01:47,260
+<v 1>Well
+
+36
+00:01:47,900 --> 00:01:50,990
+With, um, you know, the player because,
+
+37
+00:01:51,160 --> 00:01:54,910
+um, the, the script that you execute when you submit a form,
+
+38
+00:01:56,100 --> 00:02:00,710
+it's actually, I don't know what's
+
+39
+00:02:00,711 --> 00:02:04,750
+happening with my computer. Yeah, it's actually looking at this URL and uh,
+
+40
+00:02:04,751 --> 00:02:08,270
+extracting this part. So that's why,
+
+41
+00:02:09,390 --> 00:02:12,240
+yeah, instead of, uh, doing it the old way,
+
+42
+00:02:12,770 --> 00:02:16,480
+go to our public website webpage of anchor,
+
+43
+00:02:16,810 --> 00:02:21,700
+which is, um, this one,
+
+44
+00:02:21,701 --> 00:02:22,300
+or it is,
+
+45
+00:02:23,940 --> 00:02:24,290
+<v 1>Um,
+
+46
+00:02:25,360 --> 00:02:28,610
+Yeah, but I usually go it from here.
+
+47
+00:02:29,150 --> 00:02:32,290
+But this it's anchor.fm/data Talk Club.
+
+48
+00:02:32,291 --> 00:02:34,610
+This is our public page,
+
+49
+00:02:35,080 --> 00:02:38,080
+right? And then copy the D.
+
+50
+00:02:38,170 --> 00:02:41,840
+So in the same way you do from Apple or from Spotify,
+
+51
+00:02:42,690 --> 00:02:45,320
+um, we also need to do it this way from Anchor Now,
+
+52
+00:02:45,560 --> 00:02:48,000
+cause the, the D that anchor give are,
+
+53
+00:02:48,940 --> 00:02:51,690
+uh, different, they and also work.
+
+54
+00:02:51,700 --> 00:02:55,130
+So maybe this one is simpler for you. So you can just paste it
+
+55
+00:02:55,131 --> 00:03:00,210
+here in the browser and you see that it redirects and then it's,
+
+56
+00:03:00,340 --> 00:03:05,090
+it becomes very long. So we need to remove everything after the question mark.
+
+57
+00:03:05,100 --> 00:03:09,330
+So we don't need any, everything, anything that comes after the question mark.
+
+58
+00:03:09,470 --> 00:03:13,050
+And then at end we end up with the same Euro.
+
+59
+00:03:13,540 --> 00:03:16,850
+So these are the two ways you can get the right euro.
+
+60
+00:03:18,420 --> 00:03:20,810
+So next time when I you upload, um,
+
+61
+00:03:21,180 --> 00:03:25,690
+um, when you create a page, please use one of these two.
+
+62
+00:03:26,540 --> 00:03:31,170
+So right now, what you will need to do is update the process doc
+
+63
+00:03:31,940 --> 00:03:34,010
+to include, um, yeah,
+
+64
+00:03:34,011 --> 00:03:36,090
+you can include both, uh, both options,
+
+65
+00:03:36,650 --> 00:03:40,330
+right? Uh, actually maybe it's simpler,
+
+66
+00:03:40,780 --> 00:03:43,570
+uh, if you just say about the public page,
+
+67
+00:03:43,571 --> 00:03:47,970
+right? I think this way it's consistent with others like how you get it,
+
+68
+00:03:47,980 --> 00:03:50,170
+uh, from uh, Apple Podcast,
+
+69
+00:03:50,180 --> 00:03:53,650
+Spotify, then the same way you get it from Anchor.
+
+70
+00:03:54,060 --> 00:03:57,970
+So yeah, please mention only that one and the second one is more like
+
+71
+00:03:57,971 --> 00:04:00,730
+for your information. Okay,
+
+72
+00:04:00,731 --> 00:04:01,250
+That's fine.

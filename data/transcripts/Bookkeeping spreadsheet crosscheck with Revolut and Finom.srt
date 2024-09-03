@@ -1,0 +1,547 @@
+1
+00:00:01,261 --> 00:00:05,833
+So I wanted to show you how we do this what
+
+2
+00:00:05,853 --> 00:00:10,056
+you what you asked like how we check Revolute and Phenom.
+
+3
+00:00:10,997 --> 00:00:15,160
+So here we have money in the section with money and this is our
+
+4
+00:00:15,540 --> 00:00:20,003
+history the transactions right. So we go to the month we want to build
+
+5
+00:00:20,023 --> 00:00:25,027
+a report for and this is July and you look at all the expenses
+
+6
+00:00:25,387 --> 00:00:30,525
+and incomes right. So here we have some incoming transactions
+
+7
+00:00:30,526 --> 00:00:35,223
+and I don't know if we actually have
+
+8
+00:00:35,463 --> 00:00:37,125
+them in the spreadsheet
+
+9
+00:00:41,828 --> 00:00:42,238
+check
+
+10
+00:00:47,221 --> 00:00:50,213
+yeah I think you figured this out right.
+
+11
+00:00:50,574 --> 00:00:55,387
+So first of all um uh
+
+12
+00:00:55,407 --> 00:00:58,439
+the ones that I sent to me,
+
+13
+00:00:58,879 --> 00:01:00,934
+we don't,
+
+14
+00:01:00,935 --> 00:01:06,915
+no yeah we don't uh include
+
+15
+00:01:07,496 --> 00:01:13,080
+so this one please remove them all
+
+16
+00:01:13,081 --> 00:01:16,223
+right so this uh TK, Technicare Krankenkasse,
+
+17
+00:01:16,224 --> 00:01:21,167
+this is my uh health insurance so this should go to this
+
+18
+00:01:21,187 --> 00:01:24,620
+thing so let's uh move it
+
+19
+00:01:30,480 --> 00:01:36,484
+so this Community Launch, I'll just call it Alex um
+
+20
+00:01:36,485 --> 00:01:41,037
+it's not OpenAI Invoice, it's OpenAI so the correct spelling
+
+21
+00:01:41,117 --> 00:01:45,500
+is um yeah so Valeria,
+
+22
+00:01:45,501 --> 00:01:47,562
+Phenome, Phenome, Phi, Phenome Sound,
+
+23
+00:01:47,882 --> 00:01:52,425
+also make sure that the minus sign is correct here so
+
+24
+00:01:52,426 --> 00:01:57,168
+right now here what we have is uh um not a minus but
+
+25
+00:01:57,208 --> 00:02:00,730
+like I don't know.
+
+26
+00:02:00,731 --> 00:02:05,573
+Dash or whatever so it has to be proper minus and then for Valeria
+
+27
+00:02:05,574 --> 00:02:10,737
+I think am I looking at the last month yeah this
+
+28
+00:02:11,057 --> 00:02:18,242
+one zero then
+
+29
+00:02:18,342 --> 00:02:20,723
+OpenAI should be OpenAI,
+
+30
+00:02:21,184 --> 00:02:25,687
+AI Usage um so
+
+31
+00:02:25,867 --> 00:02:29,249
+yeah and then like for each of these records So we should have an
+
+32
+00:02:29,250 --> 00:02:37,124
+invoice, right? So I think you already figured it out um
+
+33
+00:02:37,144 --> 00:02:41,738
+I cannot just so as I said it always has to be
+
+34
+00:02:42,398 --> 00:02:51,834
+minus like that and then uh
+
+35
+00:02:51,854 --> 00:02:56,908
+yeah like that so yeah make sure that the
+
+36
+00:02:56,909 --> 00:03:01,560
+formatting is always like it treats it as a digit so here instead
+
+37
+00:03:01,561 --> 00:03:06,240
+of comma you use I am right now a bit confused
+
+38
+00:03:06,241 --> 00:03:11,280
+with what you did and what you did not do here so
+
+39
+00:03:11,281 --> 00:03:17,040
+again records this is when I sent money to me it
+
+40
+00:03:17,041 --> 00:03:21,920
+shouldn't be included so replace
+
+41
+00:03:21,921 --> 00:03:26,980
+all the minuses all the commas with dots and
+
+42
+00:03:26,981 --> 00:03:29,720
+when a comma is here you don't you remove foot.
+
+43
+00:03:30,140 --> 00:03:35,753
+1 so here remove dot here remove
+
+44
+00:03:35,754 --> 00:03:40,377
+zeros dot here and yeah either remove zeros or just
+
+45
+00:03:40,417 --> 00:03:46,302
+put a dot there so it has to be like American formatting
+
+46
+00:03:47,463 --> 00:03:51,986
+so this one uh their name is
+
+47
+00:03:52,366 --> 00:03:55,859
+like where does it actually come from? Like 7-3?
+
+48
+00:04:00,880 --> 00:04:03,112
+Do you take it from here or?
+
+49
+00:04:03,113 --> 00:04:05,773
+Okay, I don't understand.
+
+50
+00:04:05,774 --> 00:04:08,395
+Okay, yeah,
+
+51
+00:04:08,735 --> 00:04:09,256
+right, so they
+
+52
+00:04:17,301 --> 00:04:22,424
+create invoice. Okay.
+
+53
+00:04:27,868 --> 00:04:29,949
+So you remove,
+
+54
+00:04:29,950 --> 00:04:34,231
+you don't include this. This one. And make sure that for each of these
+
+55
+00:04:34,271 --> 00:04:36,292
+records, we have a,
+
+56
+00:04:38,593 --> 00:04:42,754
+we have a document, we have a PDF. So this one,
+
+57
+00:04:42,794 --> 00:04:45,345
+I think their right name is like, you need to find,
+
+58
+00:04:45,346 --> 00:04:56,679
+um, incoming
+
+59
+00:04:56,759 --> 00:05:00,140
+voices. Yeah,
+
+60
+00:05:00,141 --> 00:05:02,951
+like you need to, you put what, why,
+
+61
+00:05:03,011 --> 00:05:05,353
+what is actually here. So for Southern Cloud,
+
+62
+00:05:05,413 --> 00:05:08,315
+like when you find the invoice, you will find what it is for.
+
+63
+00:05:08,316 --> 00:05:11,978
+So you need to add here. So this is consulting.
+
+64
+00:05:11,979 --> 00:05:15,180
+This is actually taxes.
+
+65
+00:05:15,420 --> 00:05:17,691
+So here you put, uh,
+
+66
+00:05:17,711 --> 00:05:20,243
+taxes, uh, July,
+
+67
+00:05:20,583 --> 00:05:22,605
+July. Now yeah,
+
+68
+00:05:22,625 --> 00:05:25,146
+you can always look at the previous months, right?
+
+69
+00:05:26,407 --> 00:05:30,920
+and Southern Cloud, yeah, you also write.
+
+70
+00:05:30,921 --> 00:05:33,402
+What for you will find it in the invoices,
+
+71
+00:05:33,403 --> 00:05:35,653
+uh, Google Workspace,
+
+72
+00:05:35,673 --> 00:05:40,566
+Cloud. Um,
+
+73
+00:05:40,567 --> 00:05:43,278
+do we have an invoice? There, there should be a process document for finding
+
+74
+00:05:43,279 --> 00:05:46,951
+the invoice from Meetup. Uh, virtual assistant,
+
+75
+00:05:46,952 --> 00:05:51,544
+um, business launch. If I use
+
+76
+00:05:51,764 --> 00:05:54,666
+community launch. Yeah,
+
+77
+00:05:54,667 --> 00:05:59,169
+this looks correct. So this Cambridge Mercantile Corporation
+
+78
+00:05:59,549 --> 00:06:04,322
+should be, should actually be here. Be, um,
+
+79
+00:06:04,342 --> 00:06:07,184
+Arise Inc. They just use,
+
+80
+00:06:07,185 --> 00:06:10,797
+uh, some sort of proxy for which they pay.
+
+81
+00:06:10,798 --> 00:06:13,198
+So the invoice was sent to Arise.
+
+82
+00:06:13,458 --> 00:06:19,062
+So we need to rename it to Arise.
+
+83
+00:06:19,063 --> 00:06:21,324
+Where is Arise?
+
+84
+00:06:22,564 --> 00:06:26,407
+Can't find them. Arise.
+
+85
+00:06:26,907 --> 00:06:31,630
+Yeah. So this is Arise AI. And
+
+86
+00:06:31,650 --> 00:06:34,472
+then check the, using the invoice number,
+
+87
+00:06:34,512 --> 00:06:39,285
+what it was actually for. Right. Uh,
+
+88
+00:06:39,286 --> 00:06:44,039
+so here again should be dot. So now we can check that everything
+
+89
+00:06:44,059 --> 00:06:47,601
+works. If we can look at this, if we select everything and we see
+
+90
+00:06:47,602 --> 00:06:49,822
+the sum. Right. So something is still wrong.
+
+91
+00:06:51,083 --> 00:06:54,386
+So this one is wrong. All right,
+
+92
+00:06:54,406 --> 00:07:01,060
+so now when we select, something is still not correct.
+
+93
+00:07:03,611 --> 00:07:05,332
+Ah, here, the sum.
+
+94
+00:07:13,738 --> 00:07:15,739
+So I don't know what this R is.
+
+95
+00:07:16,059 --> 00:07:19,212
+So you need to fill this in and this in too.
+
+96
+00:07:19,213 --> 00:07:23,084
+Uh, and
+
+97
+00:07:27,247 --> 00:07:29,459
+like these ones are needed to,
+
+98
+00:07:29,460 --> 00:07:33,932
+um, be able to. To know how many documents should be in the zip
+
+99
+00:07:33,952 --> 00:07:36,283
+file that we sent. So usually this one,
+
+100
+00:07:36,284 --> 00:07:40,896
+uh, we don't include invoices from our accountants.
+
+101
+00:07:41,197 --> 00:07:44,779
+So this, uh, uh, is consulting is our accountants.
+
+102
+00:07:45,119 --> 00:07:47,341
+So we don't send our accounts, accountants,
+
+103
+00:07:47,381 --> 00:07:50,803
+the invoices from our accountants. The rest of the invoices we sent.
+
+104
+00:07:51,604 --> 00:07:53,645
+So then it's all ones here.
+
+105
+00:07:56,727 --> 00:07:59,629
+Right. And then I just look at the number of ones here.
+
+106
+00:08:00,389 --> 00:08:02,820
+and I see that's okay. There should be 20 invoices.
+
+107
+00:08:03,060 --> 00:08:06,300
+And when we prepare the zip archive, we need to make sure.
+
+108
+00:08:06,620 --> 00:08:08,640
+So for example, this is for the previous month,
+
+109
+00:08:09,260 --> 00:08:15,020
+right? So there are 12 invoices. And I can check in
+
+110
+00:08:15,021 --> 00:08:19,860
+this folder that there are also 12 files,
+
+111
+00:08:19,980 --> 00:08:22,600
+right? So this, this much, uh,
+
+112
+00:08:22,601 --> 00:08:25,680
+these two numbers much, right? So we want to have the same.
+
+113
+00:08:26,020 --> 00:08:28,420
+So we want to make sure that we sent all the invoices to our
+
+114
+00:08:28,421 --> 00:08:32,391
+accountants. and then for Finansamt,
+
+115
+00:08:32,931 --> 00:08:36,003
+we'll put it here. So please put it in the same,
+
+116
+00:08:36,004 --> 00:08:39,115
+uh, format as here. And
+
+117
+00:08:44,799 --> 00:08:47,681
+to know what it is for, you can go to Finom. Yeah.
+
+118
+00:08:48,281 --> 00:08:52,394
+And then, um,
+
+119
+00:08:52,414 --> 00:08:54,565
+this is the thing we need to put here.
+
+120
+00:08:54,566 --> 00:08:58,938
+So this should be something.
+
+121
+00:09:01,440 --> 00:09:05,233
+Something like this. Yeah,
+
+122
+00:09:05,253 --> 00:09:09,616
+right. And then the same with Tekka.
+
+123
+00:09:20,703 --> 00:09:23,525
+So, so this here,
+
+124
+00:09:23,585 --> 00:09:26,087
+this Tekka and Finansamt are that access.
+
+125
+00:09:30,050 --> 00:09:34,942
+Yeah. So you need to fill this in for incoming
+
+126
+00:09:34,943 --> 00:09:37,023
+invoices. And I think you figured this out,
+
+127
+00:09:37,024 --> 00:09:42,087
+right? So how do you go through all the payments
+
+128
+00:09:42,107 --> 00:09:44,188
+here? And the same with Revolut.
+
+129
+00:09:49,852 --> 00:09:52,254
+Come on. Well,
+
+130
+00:09:52,334 --> 00:09:54,695
+it's basically the same and I think you figured it out.
+
+131
+00:09:54,696 --> 00:09:58,798
+So like there's an overview of all the transactions and you go through them
+
+132
+00:09:58,918 --> 00:10:03,472
+and see if any of the incoming transactions or outcoming transactions are missing.
+
+133
+00:10:04,172 --> 00:10:08,777
+And if they are, you make sure you add invoice to the Dropbox folder.
+
+134
+00:10:09,317 --> 00:10:11,900
+Okay, this was a long video. I hope it was useful.
+
+135
+00:10:12,681 --> 00:10:16,304
+So let me know if you have any questions and let's please document everything
+
+136
+00:10:16,644 --> 00:10:20,308
+that is not documented yet. So then it's way clearer,
+
+137
+00:10:20,848 --> 00:10:22,620
+let's say, when we want to onboard a new person.

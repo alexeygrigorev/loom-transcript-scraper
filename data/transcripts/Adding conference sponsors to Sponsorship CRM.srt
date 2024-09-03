@@ -1,0 +1,303 @@
+1
+00:00:00,150 --> 00:00:02,710
+Okay. Another thing I wanted to show you, um,
+
+2
+00:00:02,920 --> 00:00:05,630
+is, uh, companies who sponsor conferences.
+
+3
+00:00:06,480 --> 00:00:09,190
+So typically if a company is sponsoring a conference,
+
+4
+00:00:09,191 --> 00:00:12,030
+then they might also consider a sponsor in our community.
+
+5
+00:00:12,600 --> 00:00:16,470
+So there is a conference called Data Natives and they have a bunch of
+
+6
+00:00:16,471 --> 00:00:18,670
+sponsors. And for this,
+
+7
+00:00:18,760 --> 00:00:20,990
+uh, oops. Um,
+
+8
+00:00:20,991 --> 00:00:23,150
+so they have a page, special page with, uh,
+
+9
+00:00:23,151 --> 00:00:24,190
+sponsors Go
+
+10
+00:00:24,191 --> 00:00:24,390
+<v 1>Away.
+
+11
+00:00:25,700 --> 00:00:28,710
+I come back. Okay. Um,
+
+12
+00:00:28,880 --> 00:00:31,430
+so they have some sponsors here,
+
+13
+00:00:31,431 --> 00:00:34,270
+right? Um, Diamond Partners,
+
+14
+00:00:34,480 --> 00:00:37,230
+uh, whatever. And uh,
+
+15
+00:00:37,710 --> 00:00:41,800
+yeah, so I wanted to get some of them that are relevant for us.
+
+16
+00:00:42,390 --> 00:00:44,540
+So for example, uh,
+
+17
+00:00:44,541 --> 00:00:47,180
+I don't know, quick maybe is relevant.
+
+18
+00:00:47,950 --> 00:00:51,340
+So we can, uh, let's add them.
+
+19
+00:00:53,730 --> 00:00:56,200
+So I will just go and add here.
+
+20
+00:00:56,550 --> 00:01:01,080
+Date, uh, natives 2002 conference.
+
+21
+00:01:03,820 --> 00:01:06,610
+So here Link would be, I don't know,
+
+22
+00:01:06,611 --> 00:01:10,530
+just this one. This one.
+
+23
+00:01:10,680 --> 00:01:13,810
+Then, uh, so that's product service.
+
+24
+00:01:13,811 --> 00:01:17,970
+They are, yeah,
+
+25
+00:01:17,971 --> 00:01:20,210
+it's actually, I have confidence sponsorship, right?
+
+26
+00:01:20,211 --> 00:01:22,370
+A special, like a separate category for this.
+
+27
+00:01:22,790 --> 00:01:26,250
+And then, so this one, Data natives was an offline event.
+
+28
+00:01:26,300 --> 00:01:29,330
+So the category, category is confidence event offline.
+
+29
+00:01:30,040 --> 00:01:33,410
+Then relevance is, um,
+
+30
+00:01:33,560 --> 00:01:35,690
+I don't know if they're super relevant. Um,
+
+31
+00:01:35,960 --> 00:01:38,250
+I think if something is high relevant, uh,
+
+32
+00:01:38,251 --> 00:01:41,450
+relevancy, then I will edit here is high.
+
+33
+00:01:42,280 --> 00:01:46,890
+Okay. And then the company I wanted to add is this Quicks,
+
+34
+00:01:47,110 --> 00:01:48,410
+Let me check the spelling.
+
+35
+00:01:52,810 --> 00:01:53,420
+<v 1>Quicks,
+
+36
+00:01:53,421 --> 00:01:55,820
+How do I, It's like capital and X.
+
+37
+00:01:58,310 --> 00:02:00,900
+So I don't have, I don't think we have them quicks.
+
+38
+00:02:01,270 --> 00:02:04,020
+So let's add anyone, right?
+
+39
+00:02:04,021 --> 00:02:08,940
+And uh, comment is they are a diamond partner.
+
+40
+00:02:12,470 --> 00:02:14,580
+So this, uh, what kind of partner they are,
+
+41
+00:02:14,581 --> 00:02:17,860
+what kind of sponsorship package they have might be important because actually for data
+
+42
+00:02:17,861 --> 00:02:21,540
+natives, I know how much it costs them to,
+
+43
+00:02:21,630 --> 00:02:23,660
+to do this. So that helps.
+
+44
+00:02:24,720 --> 00:02:27,100
+And then maybe what you can do now is,
+
+45
+00:02:27,670 --> 00:02:28,020
+uh,
+
+46
+00:02:34,960 --> 00:02:37,210
+this sap, I don't know what Persis,
+
+47
+00:02:37,230 --> 00:02:39,530
+SAP amplitude,
+
+48
+00:02:40,820 --> 00:02:42,010
+uh, native, what is it?
+
+49
+00:02:42,560 --> 00:02:43,890
+<v 1>Blockchain? No,
+
+50
+00:02:44,400 --> 00:02:46,330
+Native, Uh, what is that
+
+51
+00:02:48,280 --> 00:02:48,770
+<v 1>Also
+
+52
+00:02:48,771 --> 00:02:50,980
+Not interesting. And ibm.
+
+53
+00:02:51,270 --> 00:02:54,300
+So this two sap, uh,
+
+54
+00:02:54,301 --> 00:02:57,100
+amplitude, ibm. So Amplitude,
+
+55
+00:02:57,350 --> 00:02:59,960
+uh, maybe elements.
+
+56
+00:02:59,961 --> 00:03:02,480
+And this ones are like medium relevance.
+
+57
+00:03:02,830 --> 00:03:05,240
+This one, I don't know. What is that? Yeah,
+
+58
+00:03:05,241 --> 00:03:09,040
+I think I checked that. So you can add them.
+
+59
+00:03:09,540 --> 00:03:11,760
+And the way you do this is,
+
+60
+00:03:11,761 --> 00:03:15,920
+uh, because we already have this thing, right? So we can just duplicate records.
+
+61
+00:03:16,980 --> 00:03:19,280
+And then here, instead of Quicks,
+
+62
+00:03:20,020 --> 00:03:22,920
+you add, uh, I b M,
+
+63
+00:03:23,550 --> 00:03:27,560
+right? IBM again,
+
+64
+00:03:27,561 --> 00:03:30,000
+not here. And what kind of partner?
+
+65
+00:03:30,210 --> 00:03:31,280
+They're just partner.
+
+66
+00:03:33,760 --> 00:03:34,430
+<v 1>Partner,
+
+67
+00:03:35,310 --> 00:03:39,550
+Right? So then you will need to let me remove copy here.
+
+68
+00:03:40,280 --> 00:03:44,790
+So then you'll need to do this for SAP and
+
+69
+00:03:44,791 --> 00:03:49,430
+uploaded the rest.
+
+70
+00:03:49,431 --> 00:03:54,150
+I don't think they're super other one. Okay.
+
+71
+00:03:56,660 --> 00:03:57,150
+<v 1>Yeah.
+
+72
+00:03:57,151 --> 00:04:00,030
+Let me just check what, what do we have here?
+
+73
+00:04:00,031 --> 00:04:03,470
+Yeah, I think that's all for this. So I will sometimes send you conferences
+
+74
+00:04:03,690 --> 00:04:06,710
+and we'll say, Okay, like, these companies seem relevant.
+
+75
+00:04:07,300 --> 00:04:09,870
+Please put them in the, in this thing,
+
+76
+00:04:10,610 --> 00:04:11,280
+in this table.

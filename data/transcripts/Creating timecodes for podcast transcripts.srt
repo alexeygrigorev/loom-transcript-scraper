@@ -1,0 +1,259 @@
+1
+00:00:00,316 --> 00:00:02,333
+Okay, so I played with the prompt a little bit,
+
+2
+00:00:02,334 --> 00:00:07,262
+uh so here the prompt I also uh
+
+3
+00:00:07,282 --> 00:00:10,267
+updated them, uh updated the file so when do you record, when you create,
+
+4
+00:00:10,268 --> 00:00:14,222
+uh sorry, when you create process documents,
+
+5
+00:00:14,242 --> 00:00:18,831
+make sure that you, uh take screenshots from this updated
+
+6
+00:00:18,871 --> 00:00:21,797
+one, um so here we have like their,
+
+7
+00:00:21,817 --> 00:00:24,449
+how to say, it's easy easier to spot them,
+
+8
+00:00:24,450 --> 00:00:26,473
+I guess, so prompt for correcting,
+
+9
+00:00:26,474 --> 00:00:29,338
+this is what we did before, prompt for titles,
+
+10
+00:00:29,339 --> 00:00:35,481
+this is what I created, right, so we copy the prompt
+
+11
+00:00:35,482 --> 00:00:38,663
+I put the prompt to chat.gpt and hit enter,
+
+12
+00:00:38,884 --> 00:00:44,416
+now it says yeah, okay, send it, and then I take the entire transcript
+
+13
+00:00:46,455 --> 00:00:51,975
+and send it to chatgpt, now uhm
+
+14
+00:00:51,995 --> 00:00:56,563
+yeah, so this is actually, we can already take
+
+15
+00:00:56,583 --> 00:01:03,846
+this and copy it copy this to to
+
+16
+00:01:03,926 --> 00:01:08,840
+youtube, right? we will just need to remove
+
+17
+00:01:08,841 --> 00:01:12,628
+the uh this line breaks,
+
+18
+00:01:12,629 --> 00:01:17,337
+right? um but okay so this is one thing
+
+19
+00:01:17,357 --> 00:01:21,986
+that's good we will uh but we already have
+
+20
+00:01:22,126 --> 00:01:27,435
+a flow for for creating timecodes which we can
+
+21
+00:01:28,117 --> 00:01:31,443
+reuse so we don't have to copy it here but we can if we
+
+22
+00:01:31,444 --> 00:01:36,211
+want so then uh
+
+23
+00:01:36,231 --> 00:01:40,979
+introduction and guest introduction okay yeah we can we can just do this like
+
+24
+00:01:40,999 --> 00:01:45,552
+it's kind of stupid but like i don't think it anyways
+
+25
+00:01:45,553 --> 00:01:50,112
+yeah let's not uh spend too much time checking
+
+26
+00:01:50,113 --> 00:01:55,304
+it so we see that for 147 this
+
+27
+00:01:55,305 --> 00:02:00,273
+is the title right so what we do here add oops add
+
+28
+00:02:00,293 --> 00:02:05,102
+the title here if you want you can make a heading i
+
+29
+00:02:05,103 --> 00:02:09,800
+don't think think that our uhm like
+
+30
+00:02:09,801 --> 00:02:13,447
+the script that we use for transcribing actually cares whether there is title or
+
+31
+00:02:13,448 --> 00:02:17,988
+not okay so we added this so for me it will be simple simpler
+
+32
+00:02:17,989 --> 00:02:21,988
+if i just remove it right so then i it's clear to me what
+
+33
+00:02:21,989 --> 00:02:29,306
+i added what i did not so 229 we
+
+34
+00:02:29,307 --> 00:02:34,146
+have it here um right then
+
+35
+00:02:34,147 --> 00:02:43,758
+uh or 56 I
+
+36
+00:02:43,759 --> 00:02:46,955
+think here yeah let's use that
+
+37
+00:02:51,947 --> 00:02:54,987
+so 7.35
+
+38
+00:03:03,232 --> 00:03:05,612
+Okay, and so on. I think you've got the point,
+
+39
+00:03:05,732 --> 00:03:07,092
+like 9.03.
+
+40
+00:03:13,072 --> 00:03:15,691
+Okay, I think I need to tune the prompt, because like,
+
+41
+00:03:16,572 --> 00:03:18,916
+it's actually too granular,
+
+42
+00:03:18,936 --> 00:03:22,983
+too small, but you will see changes here in the prompt.
+
+43
+00:03:23,023 --> 00:03:27,032
+So I'll adjust the prompt, I'll try to ask it to speed to make
+
+44
+00:03:27,033 --> 00:03:31,781
+not so small sections, uh
+
+45
+00:03:31,801 --> 00:03:35,428
+yeah, I'll probably adjust that, because right now it's just too,
+
+46
+00:03:35,448 --> 00:03:39,433
+like, basically every exchange,
+
+47
+00:03:39,434 --> 00:03:43,340
+uh, it marks as uhm,
+
+48
+00:03:43,360 --> 00:03:45,825
+yeah, but that's not, that's not important for the video.
+
+49
+00:03:46,466 --> 00:03:49,785
+I think you get the point, right? So now, now you basically looked,
+
+50
+00:03:50,005 --> 00:03:52,625
+look at this, uh, point,
+
+51
+00:03:53,065 --> 00:03:55,425
+uh, let me do it for the next one, right?
+
+52
+00:03:55,505 --> 00:03:58,885
+So you look at this timestamp, 12.45,
+
+53
+00:03:59,485 --> 00:04:02,994
+you find it. You it here,
+
+54
+00:04:03,074 --> 00:04:06,039
+you take the thing,
+
+55
+00:04:06,260 --> 00:04:08,604
+put it here as a title,
+
+56
+00:04:09,085 --> 00:04:13,675
+and you do it for all, uhm for all the titles here,
+
+57
+00:04:14,517 --> 00:04:17,983
+and then you just download as Microsoft Word document,
+
+58
+00:04:18,864 --> 00:04:23,212
+and then you go through the same process as we did before with PAL,
+
+59
+00:04:23,232 --> 00:04:26,731
+okay? So this is how we can come up with titles,
+
+60
+00:04:27,732 --> 00:04:30,337
+I'll tweak the prompt a little bit,
+
+61
+00:04:31,399 --> 00:04:34,584
+but yeah, so every time you do it, there will be an updated prompt
+
+62
+00:04:34,585 --> 00:04:39,090
+here, so just take it from here, from uhm from this part,
+
+63
+00:04:39,070 --> 00:04:41,394
+cause I think I might be tweaking the prompt,
+
+64
+00:04:42,076 --> 00:04:45,002
+prompts. Okay, so that's it,
+
+65
+00:04:45,003 --> 00:04:47,406
+uhm let's use it.

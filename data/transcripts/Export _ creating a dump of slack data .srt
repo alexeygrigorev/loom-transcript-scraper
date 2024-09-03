@@ -1,0 +1,167 @@
+1
+00:00:01,060 --> 00:00:04,810
+Hi, I wanted to show you how to create slack dumps.
+
+2
+00:00:04,900 --> 00:00:07,490
+So slack dump is, um,
+
+3
+00:00:08,360 --> 00:00:10,690
+like a backup sort of like,
+
+4
+00:00:10,820 --> 00:00:15,210
+uh, all the information. All the conversations from slack is,
+
+5
+00:00:15,820 --> 00:00:17,850
+uh, are exported in a file.
+
+6
+00:00:17,851 --> 00:00:22,610
+So I wanted to show you how to get this data and,
+
+7
+00:00:22,700 --> 00:00:27,130
+um, for this, um, so we click on this icon here or not icon
+
+8
+00:00:27,131 --> 00:00:30,760
+with the, the thing and then tools.
+
+9
+00:00:31,220 --> 00:00:36,190
+And I think we go to actually workplace settings.
+
+10
+00:00:36,900 --> 00:00:39,980
+Yeah, that's right. So, uh,
+
+11
+00:00:40,020 --> 00:00:42,660
+workplace setting, setting, seminar administration,
+
+12
+00:00:42,661 --> 00:00:47,220
+workplace settings, and then here we click on import expert data.
+
+13
+00:00:50,440 --> 00:00:55,020
+So then it's expert here and then here
+
+14
+00:00:55,490 --> 00:00:58,540
+expert data, entire history,
+
+15
+00:00:59,860 --> 00:01:04,170
+and then start, this usually takes some time.
+
+16
+00:01:05,210 --> 00:01:08,720
+So I will, um, put this on,
+
+17
+00:01:09,450 --> 00:01:11,600
+on pause and once it finishes,
+
+18
+00:01:11,730 --> 00:01:15,400
+it can take some time. So it actually says that,
+
+19
+00:01:15,490 --> 00:01:18,480
+uh, yeah, so that it will be an email.
+
+20
+00:01:19,010 --> 00:01:22,200
+So right now I will just put it on pause and then come back.
+
+21
+00:01:23,290 --> 00:01:26,180
+It finishes. Okay.
+
+22
+00:01:26,181 --> 00:01:28,900
+So I got this email from slack. Uh,
+
+23
+00:01:29,130 --> 00:01:31,660
+also usually they send,
+
+24
+00:01:31,830 --> 00:01:36,060
+um, bot notifi.
+
+25
+00:01:38,870 --> 00:01:42,900
+So either way we can just go links,
+
+26
+00:01:42,901 --> 00:01:45,620
+lead to the same thing, this page,
+
+27
+00:01:45,621 --> 00:01:49,070
+where we initiated here,
+
+28
+00:01:50,150 --> 00:01:51,380
+we just downloaded.
+
+29
+00:01:54,920 --> 00:01:57,230
+So I dunno how much time it took, uh,
+
+30
+00:01:58,860 --> 00:02:00,870
+five, 10 minutes maybe to do this.
+
+31
+00:02:02,390 --> 00:02:02,740
+Uh
+
+32
+00:02:13,440 --> 00:02:17,870
+doesn't to do when it opens.
+
+33
+00:02:17,871 --> 00:02:20,750
+Um, let me just go to thes. Yeah,
+
+34
+00:02:21,100 --> 00:02:24,030
+this is this thing. So now I want to go,
+
+35
+00:02:24,031 --> 00:02:27,950
+I just created a special channel. I also added a you here.
+
+36
+00:02:29,080 --> 00:02:34,180
+So in this channel, I want to upload this down so
+
+37
+00:02:34,181 --> 00:02:37,460
+other people can also use it. Uh,
+
+38
+00:02:42,520 --> 00:02:44,870
+so go first down with all the data
+
+39
+00:02:49,420 --> 00:02:54,050
+and yeah, so now I just put the down
+
+40
+00:02:54,051 --> 00:02:59,570
+here so people can use it. So this is how you expert
+
+41
+00:02:59,910 --> 00:03:04,530
+the slack data [Inaudible] and this is how you're shared with the rest of
+
+42
+00:03:04,531 --> 00:03:04,930
+the community.

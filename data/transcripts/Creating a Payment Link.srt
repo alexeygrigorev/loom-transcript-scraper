@@ -1,0 +1,243 @@
+1
+00:00:00,760 --> 00:00:05,680
+Hi, so here in this email Anna is asking for payment through
+
+2
+00:00:05,681 --> 00:00:09,300
+a payment link and I wanted to show you how to do this.
+
+3
+00:00:10,140 --> 00:00:14,940
+So first you go to Fino and you create an invoice as usual but
+
+4
+00:00:14,941 --> 00:00:18,340
+in addition to what we typically do you add 2%.
+
+5
+00:00:24,410 --> 00:00:27,110
+1,500 plus 2%.
+
+6
+00:00:27,111 --> 00:00:30,590
+So yeah, it's 30, 30 euros extra.
+
+7
+00:00:31,170 --> 00:00:33,870
+And then since Double Cloud is in Germany,
+
+8
+00:00:34,090 --> 00:00:36,430
+you will add VAT, but yeah,
+
+9
+00:00:36,530 --> 00:00:40,390
+that's, that's a part of the different process that you already know of.
+
+10
+00:00:40,790 --> 00:00:43,954
+So this is the price that we will see. Send them in the invoice
+
+11
+00:00:43,955 --> 00:00:48,654
+that we create in Phenom. So this is like you create invoices as usual,
+
+12
+00:00:48,894 --> 00:00:51,174
+but then for the payment link,
+
+13
+00:00:51,434 --> 00:00:55,294
+we will actually need to go to Revolut,
+
+14
+00:00:56,554 --> 00:01:01,294
+Revolut business. I think you should have access to
+
+15
+00:01:01,295 --> 00:01:03,594
+Revolut business if you do not let.
+
+16
+00:01:05,412 --> 00:01:10,812
+You know, it's
+
+17
+00:01:12,052 --> 00:01:16,612
+it was a while ago since I joined since I used it.
+
+18
+00:01:16,613 --> 00:01:21,712
+Okay. I'll put this on post to figure out how do I login.
+
+19
+00:01:22,332 --> 00:01:24,692
+Okay. So it was just not the right year.
+
+20
+00:01:25,639 --> 00:01:30,179
+The right URL is the revolute.com slash business and then enter
+
+21
+00:01:30,180 --> 00:01:34,899
+the extra business account and then login. And I
+
+22
+00:01:34,900 --> 00:01:37,899
+am just continuing with my email.
+
+23
+00:01:38,359 --> 00:01:41,759
+I think you should have your own account. Okay.
+
+24
+00:01:41,760 --> 00:01:43,859
+I'll confirm it now.
+
+25
+00:01:44,219 --> 00:01:46,699
+Okay. I can turn the login from my app.
+
+26
+00:01:47,514 --> 00:01:52,094
+And here I
+
+27
+00:01:52,095 --> 00:01:56,934
+think we need to go to merchant and create a request
+
+28
+00:01:56,935 --> 00:01:59,334
+payment link.
+
+29
+00:02:00,174 --> 00:02:02,794
+And with the payment link,
+
+30
+00:02:02,795 --> 00:02:06,494
+we put.
+
+31
+00:02:08,488 --> 00:02:13,108
+So it, it will be this one plus 19% because
+
+32
+00:02:13,109 --> 00:02:17,768
+it's in Germany. It's VAT,
+
+33
+00:02:18,548 --> 00:02:23,008
+but yeah, it will be different for different entities.
+
+34
+00:02:23,009 --> 00:02:26,628
+So since these ones are in Germany, this is the price.
+
+35
+00:02:28,939 --> 00:02:33,939
+I'll
+
+36
+00:02:49,559 --> 00:02:52,040
+try. Integration,
+
+37
+00:02:52,580 --> 00:02:56,080
+integration, and then it's next week,
+
+38
+00:02:56,340 --> 00:02:56,380
+right?
+
+39
+00:03:04,140 --> 00:03:08,700
+Something like that. So this is what you will need to create.
+
+40
+00:03:12,003 --> 00:03:14,123
+Yeah. So this is the payment link.
+
+41
+00:03:14,483 --> 00:03:19,323
+We click create and this is the link we
+
+42
+00:03:19,324 --> 00:03:24,523
+sent. So I will send this link to you right now and
+
+43
+00:03:24,524 --> 00:03:29,123
+you will create an invoice to double
+
+44
+00:03:29,124 --> 00:03:35,078
+data. So you will ask, you will need to ask them for or I
+
+45
+00:03:35,079 --> 00:03:39,598
+can know all this like
+
+46
+00:03:39,599 --> 00:03:41,718
+company details and so on.
+
+47
+00:03:43,358 --> 00:03:45,938
+Right. And yeah.
+
+48
+00:03:46,038 --> 00:03:50,238
+So once you have them, you send them the invoice from Phenom and then
+
+49
+00:03:50,239 --> 00:03:53,381
+you send them this payment link. Right.
+
+50
+00:03:53,421 --> 00:03:57,161
+I will send you the link right now in Slack or in sorry,
+
+51
+00:03:57,341 --> 00:04:00,301
+in Telegram. So you have it, then you will send it and now you
+
+52
+00:04:00,302 --> 00:04:03,581
+will create a document, describing how to create payment links.
+
+53
+00:04:04,401 --> 00:04:07,141
+And yeah. Okay.
+
+54
+00:04:08,401 --> 00:04:12,321
+And I think let me quickly check if when we create invoices,
+
+55
+00:04:12,421 --> 00:04:13,921
+we can actually add some comments.
+
+56
+00:04:19,408 --> 00:04:23,808
+Yeah. So let's add this to terms payment link.
+
+57
+00:04:24,368 --> 00:04:27,768
+So yeah, we will add this to the payment link, to the terms and
+
+58
+00:04:27,769 --> 00:04:31,128
+notes. Okay.
+
+59
+00:04:31,748 --> 00:04:34,768
+So this is how we do this. Please create a.
+
+60
+00:04:35,219 --> 00:04:37,579
+Process document and please send it to Anna.
+
+61
+00:04:37,899 --> 00:04:38,219
+That's it.

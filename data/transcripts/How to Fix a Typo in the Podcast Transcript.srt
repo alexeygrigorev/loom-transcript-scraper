@@ -1,0 +1,207 @@
+1
+00:00:00,100 --> 00:00:04,820
+Hi, so Valeria pointed out that there is a typo in the name,
+
+2
+00:00:05,060 --> 00:00:07,500
+so I wanted to show you how to fix that.
+
+3
+00:00:08,100 --> 00:00:11,280
+So we go to our website in GitHub repo,
+
+4
+00:00:12,140 --> 00:00:17,120
+which is this one, and we go to this
+
+5
+00:00:17,121 --> 00:00:21,820
+underscore podcast directory. And we here we find,
+
+6
+00:00:22,700 --> 00:00:28,580
+when it loads, we find the podcast
+
+7
+00:00:28,581 --> 00:00:31,800
+episode. So for us, I think it's this one.
+
+8
+00:00:32,192 --> 00:00:35,792
+Other ones for everyone, right? So we go there.
+
+9
+00:00:40,552 --> 00:00:43,852
+And here we click on this edit as well.
+
+10
+00:00:47,592 --> 00:00:53,532
+And now we just need to find this and replace,
+
+11
+00:00:53,932 --> 00:00:56,432
+I think, yeah, here this is the transcript.
+
+12
+00:00:58,332 --> 00:01:01,152
+So let me check if this one is correct.
+
+13
+00:01:04,687 --> 00:01:08,087
+The part, let me open it.
+
+14
+00:01:09,267 --> 00:01:11,327
+So in the transcript, we usually,
+
+15
+00:01:12,007 --> 00:01:17,107
+like for each line, we want to show who is the speaker.
+
+16
+00:01:20,827 --> 00:01:24,147
+Yeah, so here there is also a mistake.
+
+17
+00:01:25,627 --> 00:01:28,347
+So it should be Miriam, not Miriam.
+
+18
+00:01:31,327 --> 00:01:33,747
+And this actually, like we can, of course,
+
+19
+00:01:34,067 --> 00:01:36,107
+detect this before we upload.
+
+20
+00:01:36,127 --> 00:01:41,927
+We can also use the transcript here, so we can ask Pavel to fix
+
+21
+00:01:41,928 --> 00:01:46,927
+that. But now it's kinda late. And now I want to see how we,
+
+22
+00:01:46,928 --> 00:01:51,807
+So right now I pressed Ctrl F and we have this
+
+23
+00:01:51,808 --> 00:01:56,327
+part, right? So what I want to do is to get medium
+
+24
+00:01:56,328 --> 00:01:59,287
+and replace it with medium.
+
+25
+00:02:00,227 --> 00:02:03,187
+And you see it highlights already.
+
+26
+00:02:08,021 --> 00:02:10,661
+I don't know why there's,
+
+27
+00:02:10,662 --> 00:02:14,141
+Yeah, there's also should be brackets.
+
+28
+00:02:17,461 --> 00:02:22,121
+But yeah, this is less important. So basically
+
+29
+00:02:22,122 --> 00:02:26,541
+here we can change everything in this,
+
+30
+00:02:26,542 --> 00:02:28,661
+In this document.
+
+31
+00:02:29,241 --> 00:02:32,221
+And all these changes that we do will be reflected in this page.
+
+32
+00:02:32,841 --> 00:02:35,021
+So basically this is the source code for that page.
+
+33
+00:02:35,261 --> 00:02:37,341
+And right now I will just,
+
+34
+00:02:37,342 --> 00:02:39,921
+Yeah, it highlights all the changes and,
+
+35
+00:02:39,957 --> 00:02:44,957
+I click replace all. And let's say if there was one,
+
+36
+00:02:44,958 --> 00:02:49,357
+One typo, right? Just one place with the mistake.
+
+37
+00:02:49,837 --> 00:02:54,477
+We can find this place somewhere here and just go and,
+
+38
+00:02:54,478 --> 00:02:57,337
+Change it. I don't know. Let's say there is a typo.
+
+39
+00:02:58,097 --> 00:03:00,657
+Here, Maria Magris. And then,
+
+40
+00:03:00,658 --> 00:03:05,517
+yeah, we change it. So this is how you find the podcast page
+
+41
+00:03:05,518 --> 00:03:10,497
+in our GitHub repository. This is how you edit
+
+42
+00:03:10,498 --> 00:03:15,193
+changes. This is how you, So, I'm going to replace typos in the
+
+43
+00:03:15,194 --> 00:03:21,613
+name and this is how you replace,
+
+44
+00:03:21,614 --> 00:03:25,773
+I don't know, maybe, let's skip it with square brackets,
+
+45
+00:03:25,953 --> 00:03:30,533
+this is how you just replace things in
+
+46
+00:03:30,534 --> 00:03:33,513
+the transcript. Now I just click commit changes,
+
+47
+00:03:34,733 --> 00:03:37,833
+like commit message, and you can just leave it like that,
+
+48
+00:03:37,834 --> 00:03:42,433
+and press commit, so now it updates the
+
+49
+00:03:42,434 --> 00:03:47,142
+page. And in a few minutes
+
+50
+00:03:47,143 --> 00:03:49,362
+this page will be updated,
+
+51
+00:03:50,362 --> 00:03:54,102
+when of course it actually saves.
+
+52
+00:03:55,582 --> 00:03:58,182
+Okay, so this is how you do this.

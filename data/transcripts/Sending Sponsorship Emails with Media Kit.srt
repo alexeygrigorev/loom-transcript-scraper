@@ -1,0 +1,171 @@
+1
+00:00:00,261 --> 00:00:04,950
+Hi, so I want to show you how to send emails with
+
+2
+00:00:06,613 --> 00:00:08,787
+sponsorship, it's not a sponsorship tag,
+
+3
+00:00:08,788 --> 00:00:12,636
+but like with our media kit. So there is the link,
+
+4
+00:00:12,637 --> 00:00:14,683
+I will send you this link right now,
+
+5
+00:00:14,684 --> 00:00:16,818
+or I will include it.
+
+6
+00:00:16,819 --> 00:00:19,449
+I will get, I guess I'll add it to the loom video.
+
+7
+00:00:19,450 --> 00:00:23,502
+So this is the link I usually send to potential sponsors that describes what
+
+8
+00:00:23,503 --> 00:00:28,106
+the community is about and what kind of things we can offer to
+
+9
+00:00:28,107 --> 00:00:32,656
+potential sponsors. And this guy is a potential
+
+10
+00:00:32,657 --> 00:00:37,244
+sponsor. So what I want to do is send him an email
+
+11
+00:00:37,245 --> 00:00:40,752
+that, with this thing basically.
+
+12
+00:00:40,753 --> 00:00:45,413
+Uhm, and I want in the future you to help me do that.
+
+13
+00:00:45,414 --> 00:00:49,649
+So what we can say is eh hey name,
+
+14
+00:00:49,650 --> 00:00:54,525
+so hey Jim following up and then here
+
+15
+00:00:54,526 --> 00:00:56,828
+we would insert on that,
+
+16
+00:00:56,829 --> 00:01:02,134
+usually it would be our conversation in LinkedIn or our conversation
+
+17
+00:01:02,135 --> 00:01:07,089
+in Slack or whatever, here is the document
+
+18
+00:01:07,090 --> 00:01:11,329
+that describes things we can potentially do together,
+
+19
+00:01:11,330 --> 00:01:16,172
+please take a look and let me know if anything there is interesting
+
+20
+00:01:16,173 --> 00:01:18,899
+for you. So in this case,
+
+21
+00:01:18,900 --> 00:01:22,274
+let us know, so when you write instead of writing,
+
+22
+00:01:22,275 --> 00:01:24,486
+let me know, let us know.
+
+23
+00:01:24,487 --> 00:01:28,912
+And then perhaps, so since the email will be from you,
+
+24
+00:01:28,913 --> 00:01:33,317
+you can say, hey Jim, following up on our conversation from LinkedIn,
+
+25
+00:01:33,318 --> 00:01:35,540
+I want to send you this document, uhm,
+
+26
+00:01:35,541 --> 00:01:37,929
+one more time. Hey Jim,
+
+27
+00:01:37,930 --> 00:01:44,671
+I'm Francis from DataDocsClub and
+
+28
+00:01:44,672 --> 00:01:49,293
+I wanted to follow up on the conversation we started in LinkedIn and
+
+29
+00:01:49,294 --> 00:01:54,132
+we want to send you this document that describes things that we can potentially
+
+30
+00:01:54,133 --> 00:01:58,352
+do together yeah,
+
+31
+00:01:58,353 --> 00:02:03,054
+if you want to talk more about anything there please let us know.
+
+32
+00:02:03,055 --> 00:02:05,896
+So that would be the template, we will reiterate on that,
+
+33
+00:02:05,897 --> 00:02:08,000
+but please send it to Jim.
+
+34
+00:02:10,433 --> 00:02:14,748
+Why it's him? Jim. Uhm,
+
+35
+00:02:14,749 --> 00:02:19,033
+it's probably Jim, not him, because like J and H are close.
+
+36
+00:02:19,034 --> 00:02:24,343
+So send it to Jim at hopsworks.ie
+
+37
+00:02:24,344 --> 00:02:29,150
+and send this document. And I will include the links in the comments of
+
+38
+00:02:29,151 --> 00:02:31,644
+this sloom. And yeah,
+
+39
+00:02:31,645 --> 00:02:33,786
+before sending this, run it by me,
+
+40
+00:02:33,787 --> 00:02:35,883
+then let's create a template.
+
+41
+00:02:35,884 --> 00:02:40,829
+And then we will send sometimes like
+
+42
+00:02:40,830 --> 00:02:44,464
+I reach out to somebody and they say okay send an email and then
+
+43
+00:02:44,465 --> 00:02:46,029
+I'll just ask you to do that.

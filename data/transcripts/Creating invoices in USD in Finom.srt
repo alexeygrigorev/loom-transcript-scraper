@@ -1,0 +1,175 @@
+1
+00:00:00,350 --> 00:00:03,680
+I wanted to show you how to create invoices in U s D in
+
+2
+00:00:03,681 --> 00:00:08,520
+United States dollars. So first we go to our Revolut account and
+
+3
+00:00:08,521 --> 00:00:10,760
+we copy this, uh, I one,
+
+4
+00:00:11,910 --> 00:00:14,760
+then we go to here,
+
+5
+00:00:14,910 --> 00:00:17,640
+main page, go to documents.
+
+6
+00:00:17,641 --> 00:00:22,080
+Oh yeah, we don't need to go together documents and just click new document.
+
+7
+00:00:22,190 --> 00:00:24,440
+Like this is the usual way we create invoices,
+
+8
+00:00:24,940 --> 00:00:27,600
+you know, that. And here we select currency,
+
+9
+00:00:27,660 --> 00:00:33,400
+not euroes. So usually it's heroes, but here we select US dollars and
+
+10
+00:00:33,401 --> 00:00:37,840
+here we click edit. So we don't change anything except this thing.
+
+11
+00:00:38,810 --> 00:00:42,080
+Oh, actually, like we didn't even need to copy.
+
+12
+00:00:42,490 --> 00:00:45,760
+So yeah, we can just select that we want to have to use the
+
+13
+00:00:45,761 --> 00:00:47,800
+account, right? So yeah,
+
+14
+00:00:47,801 --> 00:00:50,320
+you can disregard the first step, uh,
+
+15
+00:00:50,321 --> 00:00:52,920
+before, so we can just select from the dropdown list.
+
+16
+00:00:52,950 --> 00:00:55,360
+That's way better, right?
+
+17
+00:00:55,361 --> 00:00:58,600
+And then you just click save, right?
+
+18
+00:00:59,020 --> 00:01:02,170
+And that's enough to,
+
+19
+00:01:02,171 --> 00:01:05,610
+and then yeah, you do the rest as usual, but this is how you
+
+20
+00:01:05,611 --> 00:01:07,410
+can create an invoice in dollars.
+
+21
+00:01:10,250 --> 00:01:10,740
+<v 1>Yeah.
+
+22
+00:01:11,760 --> 00:01:15,580
+And I think next time you create, you might need to change this back.
+
+23
+00:01:15,670 --> 00:01:18,340
+Uh, so if invoice is in Euros,
+
+24
+00:01:18,341 --> 00:01:20,660
+so you need to make sure that, um,
+
+25
+00:01:21,800 --> 00:01:24,330
+yeah, the here is the main one,
+
+26
+00:01:24,710 --> 00:01:27,810
+but if it's not Euros, if it's dollars, then it's uh,
+
+27
+00:01:27,811 --> 00:01:30,170
+Revolut. Mm-hmm.
+
+28
+00:01:30,171 --> 00:01:32,450
+Yeah. And yeah. Yeah,
+
+29
+00:01:32,451 --> 00:01:34,930
+because Phenomen model always remembers the last transaction.
+
+30
+00:01:34,931 --> 00:01:38,050
+So the next time you do, you need to pay attention that it's actually
+
+31
+00:01:38,051 --> 00:01:42,530
+Euros. So be careful about that to not accidentally send something in dollars when
+
+32
+00:01:42,531 --> 00:01:45,130
+it has to be indoors. Uh,
+
+33
+00:01:45,131 --> 00:01:47,370
+perhaps we need to do, uh,
+
+34
+00:01:47,420 --> 00:01:50,770
+in our process document is the last step that verifi verify that the currency
+
+35
+00:01:50,771 --> 00:01:55,180
+is correct. And yeah,
+
+36
+00:01:56,630 --> 00:01:58,860
+perhaps when you finish, uh,
+
+37
+00:02:00,230 --> 00:02:03,220
+uh, what are you gonna do? Instead of creating a new process document,
+
+38
+00:02:03,380 --> 00:02:06,780
+you can update the existing one. And there you can,
+
+39
+00:02:06,990 --> 00:02:11,500
+uh, mention at the beginning you can mention how you select the currency
+
+40
+00:02:11,501 --> 00:02:13,540
+and how you select the right account, right?
+
+41
+00:02:13,541 --> 00:02:18,940
+And then there's the last step on that process. You add
+
+42
+00:02:18,941 --> 00:02:22,700
+validating that, uh, the currency and the account are correct ones.
+
+43
+00:02:23,230 --> 00:02:26,820
+So please update the existing process document and send it,
+
+44
+00:02:27,030 --> 00:02:28,020
+um, for check.

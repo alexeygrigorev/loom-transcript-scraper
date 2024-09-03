@@ -1,0 +1,319 @@
+1
+00:00:01,400 --> 00:00:06,247
+So I want to show you how to actually deal with issues like that
+
+2
+00:00:06,248 --> 00:00:08,690
+So when we see that something failed,
+
+3
+00:00:08,691 --> 00:00:13,206
+let me start from the beginning So it fails right and then we
+
+4
+00:00:13,207 --> 00:00:17,499
+click on this thing and we see where it failed on this tab,
+
+5
+00:00:17,759 --> 00:00:21,159
+right? And we see that it processed 0 people So ok,
+
+6
+00:00:21,319 --> 00:00:26,099
+there are So these logs indicate where exactly the problem
+
+7
+00:00:26,100 --> 00:00:29,139
+is It usually helps us So,
+
+8
+00:00:29,199 --> 00:00:31,559
+let's see So, processed 0 people,
+
+9
+00:00:31,799 --> 00:00:36,408
+so there were no problems problems with people And people come from this
+
+10
+00:00:36,409 --> 00:00:42,015
+tab And here we have this
+
+11
+00:00:42,016 --> 00:00:45,268
+to add, right? So this is the part that it goes,
+
+12
+00:00:45,269 --> 00:00:50,278
+it fetches So it fetches all the people People from that you add
+
+13
+00:00:50,279 --> 00:00:53,221
+And there are zero people So yeah,
+
+14
+00:00:53,222 --> 00:00:57,728
+it didn't process anything Now it processes books
+
+15
+00:00:57,729 --> 00:01:02,634
+Then we see that this is the book it tries to process And
+
+16
+00:01:02,635 --> 00:01:07,459
+it's It's successful But
+
+17
+00:01:07,460 --> 00:01:11,284
+because it Failed later.
+
+18
+00:01:11,285 --> 00:01:15,609
+We will need to re-add this book. I'll show you how Okay, but then
+
+19
+00:01:15,610 --> 00:01:17,652
+we have a process podcast.
+
+20
+00:01:17,653 --> 00:01:21,396
+So it processes processed zero podcast events.
+
+21
+00:01:21,397 --> 00:01:26,473
+Again, uhm it comes from podcast here.
+
+22
+00:01:26,474 --> 00:01:28,555
+There was nothing to process.
+
+23
+00:01:28,556 --> 00:01:31,830
+If we were to do it, there was nothing to process.
+
+24
+00:01:31,831 --> 00:01:35,734
+That's why it was zero. And then it tries to process events.
+
+25
+00:01:35,735 --> 00:01:38,882
+And this is where the error happens,
+
+26
+00:01:38,883 --> 00:01:43,147
+right? Um, so it says key error email,
+
+27
+00:01:43,148 --> 00:01:45,420
+whatever, right? So for you,
+
+28
+00:01:45,421 --> 00:01:47,883
+it's not important which error is,
+
+29
+00:01:47,884 --> 00:01:50,407
+but that the error is with events.
+
+30
+00:01:50,408 --> 00:01:52,804
+We see that here.
+
+31
+00:01:52,805 --> 00:01:55,318
+The last thing, events. So we can go to events,
+
+32
+00:01:55,319 --> 00:02:00,214
+we can go to to add, and we see that this last thing
+
+33
+00:02:00,215 --> 00:02:03,388
+is weird, right? So what we're going to do is we can just delete
+
+34
+00:02:03,389 --> 00:02:08,533
+it, or let's say here the error is that this field
+
+35
+00:02:08,534 --> 00:02:11,587
+email is empty, right?
+
+36
+00:02:11,588 --> 00:02:13,849
+And yeah, it's empty because there's nothing.
+
+37
+00:02:13,850 --> 00:02:16,393
+So if there was an error,
+
+38
+00:02:16,394 --> 00:02:19,187
+a record with an empty email,
+
+39
+00:02:19,188 --> 00:02:22,100
+this is what we would see.
+
+40
+00:02:22,101 --> 00:02:25,949
+But now I will just delete it.
+
+41
+00:02:25,950 --> 00:02:28,041
+It should solve the problem, though.
+
+42
+00:02:28,042 --> 00:02:31,385
+It should solve the problem, although there is still one issue,
+
+43
+00:02:31,386 --> 00:02:33,758
+right? So if we go to to add,
+
+44
+00:02:33,759 --> 00:02:35,991
+there is nothing. There is empty, right?
+
+45
+00:02:35,992 --> 00:02:41,003
+Because this thing processed, but because it failed at a later step,
+
+46
+00:02:41,004 --> 00:02:45,268
+it will not be added. So what we need to do is we need
+
+47
+00:02:45,269 --> 00:02:49,944
+to go to book of the week and we know from the logs which
+
+48
+00:02:49,945 --> 00:02:54,520
+book we need to change. So this is
+
+49
+00:02:54,521 --> 00:02:58,093
+the book from Andy. So we just go to go and change from done
+
+50
+00:02:58,094 --> 00:03:02,830
+to to do. And now we should be able to
+
+51
+00:03:02,831 --> 00:03:07,726
+re-execute it. Rename it all,
+
+52
+00:03:07,727 --> 00:03:10,766
+run workflow, let's see,
+
+53
+00:03:10,767 --> 00:03:14,967
+I think it's running.
+
+54
+00:03:19,534 --> 00:03:24,050
+Yeah, so I'll put a pause now and when it finishes I'll
+
+55
+00:03:24,051 --> 00:03:28,085
+show the results. Okay, it's successful.
+
+56
+00:03:28,086 --> 00:03:31,119
+Let's take a look at the logs.
+
+57
+00:03:31,120 --> 00:03:33,772
+So you will see how good logs look like.
+
+58
+00:03:33,773 --> 00:03:36,526
+So it processed zero people like last time.
+
+59
+00:03:36,527 --> 00:03:40,120
+Then, okay, now it's running the book.
+
+60
+00:03:40,121 --> 00:03:42,483
+So this is the description of the book.
+
+61
+00:03:42,484 --> 00:03:44,681
+So it's processed one book.
+
+62
+00:03:44,682 --> 00:03:47,255
+Processed zero podcasts, processed zero events.
+
+63
+00:03:47,966 --> 00:03:52,722
+So, um, I think what we can do is we should create a document
+
+64
+00:03:52,723 --> 00:03:57,659
+how to debug, um,
+
+65
+00:03:57,660 --> 00:04:00,041
+this adding, um, content to the website.
+
+66
+00:04:00,042 --> 00:04:02,464
+Events, podcasts, um,
+
+67
+00:04:02,465 --> 00:04:07,180
+books, and so on. Uh, and mentioned there
+
+68
+00:04:07,181 --> 00:04:11,846
+the previous loom that the information from the previous loom that I
+
+69
+00:04:11,847 --> 00:04:14,900
+added, um,
+
+70
+00:04:14,901 --> 00:04:17,647
+like we can perhaps. make a link to,
+
+71
+00:04:17,648 --> 00:04:21,352
+um,
+
+72
+00:04:21,353 --> 00:04:24,856
+to this loom where I show how to add people like Andy,
+
+73
+00:04:24,857 --> 00:04:29,172
+right? And yeah, this one. And we will,
+
+74
+00:04:29,173 --> 00:04:32,459
+like, if more error appears,
+
+75
+00:04:32,460 --> 00:04:37,015
+we, I, I will take a look and then we can
+
+76
+00:04:37,016 --> 00:04:39,379
+populate this document. But for now,
+
+77
+00:04:39,380 --> 00:04:41,772
+at least if there is an error like that,
+
+78
+00:04:41,773 --> 00:04:44,065
+you should be able to figure it out yourself,
+
+79
+00:04:44,066 --> 00:04:46,359
+hopefully. Okay,
+
+80
+00:04:46,360 --> 00:04:46,670
+thank you.

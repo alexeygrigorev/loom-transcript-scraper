@@ -1,0 +1,43 @@
+1
+00:00:01,890 --> 00:00:04,770
+I just added this to the website.
+
+2
+00:00:05,070 --> 00:00:06,720
+So now I want to go to MailChimp.
+
+3
+00:00:11,340 --> 00:00:12,870
+So looking through,
+
+4
+00:00:18,180 --> 00:00:18,540
+yeah.
+
+5
+00:00:25,460 --> 00:00:32,120
+Alright. So this is the draft design
+
+6
+00:00:36,790 --> 00:00:41,240
+at the link. Yeah.
+
+7
+00:00:41,330 --> 00:00:42,440
+Thanks for, I think that,
+
+8
+00:00:49,670 --> 00:00:51,470
+Okay, so let's just, or I do this,
+
+9
+00:00:56,250 --> 00:01:00,990
+um, yeah. Now anything else
+
+10
+00:01:00,991 --> 00:01:05,880
+right now? So how you add links to already required
+
+11
+00:01:05,881 --> 00:01:08,280
+pages, podcast links?

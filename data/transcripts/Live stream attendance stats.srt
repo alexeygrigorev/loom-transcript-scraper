@@ -1,0 +1,87 @@
+1
+00:00:00,090 --> 00:00:04,680
+Um, hi, I am not sure where this number comes from and this
+
+2
+00:00:04,681 --> 00:00:07,320
+is not correct. Um,
+
+3
+00:00:07,710 --> 00:00:11,340
+but, um, so I want to show you how to actually show how many
+
+4
+00:00:11,341 --> 00:00:16,290
+people attended the webinars. So you go to the link and
+
+5
+00:00:16,291 --> 00:00:17,190
+then here
+
+6
+00:00:23,360 --> 00:00:28,150
+And then the X And in analytics,
+
+7
+00:00:28,151 --> 00:00:31,900
+you see how many people actually watched this.
+
+8
+00:00:32,110 --> 00:00:36,520
+So I usually take a screenshot of that when people ask me how many
+
+9
+00:00:36,521 --> 00:00:41,020
+people attended the webinars and send it,
+
+10
+00:00:43,360 --> 00:00:44,740
+Um, I mean,
+
+11
+00:00:56,260 --> 00:01:00,370
+And also the total number, what do you do,
+
+12
+00:01:01,210 --> 00:01:05,680
+um, Is 19.
+
+13
+00:01:29,150 --> 00:01:33,800
+So yeah, this is how you get statistics about how many people actually
+
+14
+00:01:33,801 --> 00:01:36,770
+attended, because you were probably sharing,
+
+15
+00:01:37,070 --> 00:01:40,550
+I'm not sure where this number comes from, but this is quite misleading.
+
+16
+00:01:41,000 --> 00:01:45,410
+So, yeah.
+
+17
+00:01:47,520 --> 00:01:47,760
+<v 1>Yeah.
+
+18
+00:01:48,860 --> 00:01:53,030
+Please don't do that. It's better to like when they ask how many attended
+
+19
+00:01:53,420 --> 00:01:56,180
+actually say how many attended,
+
+20
+00:01:56,181 --> 00:02:00,650
+not stations because many people register,
+
+21
+00:02:00,651 --> 00:02:03,980
+but to not show up. So Yeah,
+
+22
+00:02:04,850 --> 00:02:05,930
+this is what.

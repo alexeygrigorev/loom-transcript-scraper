@@ -1,0 +1,283 @@
+1
+00:00:00,150 --> 00:00:04,170
+Show you how to add extra information to book of the week pages.
+
+2
+00:00:04,980 --> 00:00:09,150
+So I created, I created a page,
+
+3
+00:00:10,990 --> 00:00:14,520
+which for this book as one visual direction,
+
+4
+00:00:16,630 --> 00:00:21,310
+and I added this one so that the author give
+
+5
+00:00:21,520 --> 00:00:26,260
+to our community. So first they wanted to show you how I edit this.
+
+6
+00:00:27,250 --> 00:00:32,080
+So for that, you need to go to book and
+
+7
+00:00:32,081 --> 00:00:35,470
+then there is a long case, two books, and then,
+
+8
+00:00:35,500 --> 00:00:39,430
+uh, you need to find the proper one.
+
+9
+00:00:39,550 --> 00:00:44,490
+Yeah. I'm by the way, on get half sweat beach or
+
+10
+00:00:45,070 --> 00:00:48,220
+upset, this is the location.
+
+11
+00:00:49,480 --> 00:00:54,130
+Location is get hub accommodated and data docs pop up.
+
+12
+00:00:55,210 --> 00:00:58,060
+And then there, I selected the folder and physical books.
+
+13
+00:00:58,630 --> 00:01:02,410
+And then here, I need to find this visual introduction to the permit.
+
+14
+00:01:03,880 --> 00:01:06,520
+And usually it will be one of the last books, right?
+
+15
+00:01:06,850 --> 00:01:11,020
+Because this will be the books that we have in the pipeline.
+
+16
+00:01:12,220 --> 00:01:15,190
+And you can see the date here.
+
+17
+00:01:15,191 --> 00:01:19,870
+So this is the book of the week on 14 February and here,
+
+18
+00:01:19,871 --> 00:01:24,610
+okay. This date, after you find this book,
+
+19
+00:01:25,630 --> 00:01:30,610
+click on us, then click edit.
+
+20
+00:01:31,510 --> 00:01:36,460
+And so, and then there was some texts and this
+
+21
+00:01:36,490 --> 00:01:41,230
+thing wasn't here. So what I did is I added a few line breaks
+
+22
+00:01:42,160 --> 00:01:47,140
+and we did there and then click commit changes.
+
+23
+00:01:47,710 --> 00:01:49,720
+Okay, I won't do this because it's already done.
+
+24
+00:01:49,780 --> 00:01:51,850
+You just wanted to show you how I do this.
+
+25
+00:01:53,170 --> 00:01:56,620
+And then the other thing, all right now,
+
+26
+00:01:56,710 --> 00:02:00,880
+or sent me a sample. So he sent me a PDF file.
+
+27
+00:02:03,130 --> 00:02:06,520
+I cannot just include a PDF file easily.
+
+28
+00:02:08,380 --> 00:02:13,120
+So , so what I did
+
+29
+00:02:13,210 --> 00:02:15,820
+is I asked him,
+
+30
+00:02:15,850 --> 00:02:18,580
+can you please support this samples somewhere?
+
+31
+00:02:18,581 --> 00:02:22,690
+And then I will add this to then the one page  page as well.
+
+32
+00:02:22,691 --> 00:02:25,960
+I needed direct link. So I can just take this,
+
+33
+00:02:26,050 --> 00:02:30,610
+uh, PDF and, and this. So that's why I need a
+
+34
+00:02:30,611 --> 00:02:38,830
+direct link and your edit this link to
+
+35
+00:02:39,400 --> 00:02:43,990
+his Google drive. And now I want to add this
+
+36
+00:02:43,991 --> 00:02:46,780
+direct link that he created to the website,
+
+37
+00:02:48,220 --> 00:02:51,490
+to our page. So on that page,
+
+38
+00:02:51,520 --> 00:02:54,040
+we have please think this section talk links,
+
+39
+00:02:54,850 --> 00:02:58,930
+and there's a lot of the one link to the website.
+
+40
+00:02:59,200 --> 00:03:03,160
+Say, I want to add another one. And yeah,
+
+41
+00:03:03,161 --> 00:03:05,860
+it was called each would hold the same structure.
+
+42
+00:03:07,240 --> 00:03:10,300
+So first it will be link. So business link,
+
+43
+00:03:10,420 --> 00:03:14,650
+uh, actual income, and then there will be,
+
+44
+00:03:15,370 --> 00:03:19,960
+um, so, so she us the same structure.
+
+45
+00:03:20,020 --> 00:03:24,160
+So first minus indicating that this is a new item in new link,
+
+46
+00:03:24,910 --> 00:03:27,970
+and then this new item has two things there,
+
+47
+00:03:28,660 --> 00:03:32,620
+the link itself. So this is where the in goals and then,
+
+48
+00:03:34,330 --> 00:03:36,370
+uh, the, the title.
+
+49
+00:03:36,820 --> 00:03:40,210
+So this will be here, another bullet point.
+
+50
+00:03:40,330 --> 00:03:44,860
+So bookworm site is created using this thing,
+
+51
+00:03:45,580 --> 00:03:48,040
+and then there will be another bullet point.
+
+52
+00:03:48,070 --> 00:03:51,640
+Now it'd be this here.
+
+53
+00:03:52,510 --> 00:03:55,180
+So now let me click can be changes.
+
+54
+00:03:58,460 --> 00:03:59,630
+So now, yeah,
+
+55
+00:04:04,190 --> 00:04:08,540
+then so now we created a comet and now if I go to actual
+
+56
+00:04:08,550 --> 00:04:12,650
+2, 1, 2, sorry.
+
+57
+00:04:15,110 --> 00:04:18,500
+So now I go to actions. Um,
+
+58
+00:04:20,030 --> 00:04:22,790
+and then yeah, I, I want to see,
+
+59
+00:04:23,090 --> 00:04:28,190
+to monitor the progress what's happening right
+
+60
+00:04:28,191 --> 00:04:32,810
+now. He hasn't updated yet and
+
+61
+00:04:32,811 --> 00:04:37,440
+she hasn't once we get some
+
+62
+00:04:37,441 --> 00:04:40,650
+attention and just one second. Um,
+
+63
+00:04:40,680 --> 00:04:43,800
+okay, so it is cute. So it will be to give it's one.
+
+64
+00:04:50,230 --> 00:04:52,480
+So yeah, we just need to, it's a progress now.
+
+65
+00:04:52,600 --> 00:04:55,270
+So here, the purpose of this thing is to see,
+
+66
+00:04:55,271 --> 00:05:00,160
+well, actually it will get updated. So right now I see an actions.
+
+67
+00:05:00,220 --> 00:05:04,960
+This thing is, as this check needs to be inserted this updated.
+
+68
+00:05:08,230 --> 00:05:12,460
+Now we'll have this on the beach. So this is how you get extra
+
+69
+00:05:12,461 --> 00:05:17,140
+information. Like this is a picture of the book and this is how
+
+70
+00:05:17,141 --> 00:05:20,360
+you, it links. Yeah.
+
+71
+00:05:20,420 --> 00:05:20,660
+So.

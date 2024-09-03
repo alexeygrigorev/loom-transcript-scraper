@@ -1,0 +1,63 @@
+1
+00:00:00,360 --> 00:00:04,320
+Um, hi. Yeah know, just wanted to show you how to actually do this.
+
+2
+00:00:04,830 --> 00:00:08,490
+So when you go to an event to dashboard,
+
+3
+00:00:08,910 --> 00:00:11,430
+there is this thing responses to custom questions.
+
+4
+00:00:11,431 --> 00:00:16,110
+So click on this. It will open another page
+
+5
+00:00:17,250 --> 00:00:21,450
+and in this page. Yeah. So we select the event we want.
+
+6
+00:00:21,600 --> 00:00:23,700
+Right. And then, uh,
+
+7
+00:00:23,790 --> 00:00:28,560
+so yeah, this is statement, uh, this is the data we have and we,
+
+8
+00:00:28,561 --> 00:00:31,740
+as you see, we actually have this thing here.
+
+9
+00:00:32,280 --> 00:00:35,190
+Right? So this is fair. They think we want,
+
+10
+00:00:35,310 --> 00:00:37,380
+right. So now I just download it as CSV,
+
+11
+00:00:38,220 --> 00:00:43,770
+open it, like usually, and oh,
+
+12
+00:00:43,830 --> 00:00:48,590
+we have this data here a while.
+
+13
+00:00:48,910 --> 00:00:51,600
+So like a lot of new stuff,
+
+14
+00:00:51,601 --> 00:00:55,040
+I guess they kind of separated it. So now we need to go to
+
+15
+00:00:55,260 --> 00:00:59,310
+custom questions and yeah,
+
+16
+00:01:00,000 --> 00:01:02,900
+you have it all here. So do this call.

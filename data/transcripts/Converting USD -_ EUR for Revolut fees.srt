@@ -1,0 +1,59 @@
+1
+00:00:00,819 --> 00:00:03,696
+Hi, so uhm,
+
+2
+00:00:03,716 --> 00:00:08,485
+we had quite a bunch of US dollars which I just converted
+
+3
+00:00:08,545 --> 00:00:13,264
+to Euros and I just added a fee
+
+4
+00:00:14,146 --> 00:00:18,714
+PDF to our uhm Dropbox,
+
+5
+00:00:18,754 --> 00:00:22,540
+right? And what I wanted to record in this video is That's how we
+
+6
+00:00:22,560 --> 00:00:24,896
+should put this, the euro amount.
+
+7
+00:00:25,717 --> 00:00:28,342
+So for this one, we see that there is an exchange rate.
+
+8
+00:00:28,343 --> 00:00:33,771
+So what we can do is uh, so this is what
+
+9
+00:00:33,772 --> 00:00:38,399
+we use. This is the exchange rate, and this is the amount of dollars
+
+10
+00:00:38,539 --> 00:00:41,324
+for the fee. So what I put,
+
+11
+00:00:42,987 --> 00:00:47,736
+I just multiply one by another, and this is actually what we put to
+
+12
+00:00:50,721 --> 00:00:54,468
+our bookkeeping spreadsheet, right? So this is the amount of euros that we put
+
+13
+00:00:54,448 --> 00:00:57,655
+when we bookkeep it, because we have it here.
+
+14
+00:00:58,397 --> 00:01:01,205
+We don't always have it, but when we do it in Revolut,
+
+15
+00:01:01,707 --> 00:01:03,853
+we can, we can see it.

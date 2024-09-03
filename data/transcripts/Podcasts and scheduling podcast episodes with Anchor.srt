@@ -1,0 +1,943 @@
+1
+00:00:00,090 --> 00:00:03,060
+Oh, it could be the board podcast. So podcast is,
+
+2
+00:00:03,330 --> 00:00:06,960
+I think that we'll have data pub.
+
+3
+00:00:07,170 --> 00:00:10,260
+We've got this inquiries podcast podcast.
+
+4
+00:00:10,650 --> 00:00:14,910
+So the podcast published to apple podcast,
+
+5
+00:00:14,911 --> 00:00:19,380
+Spotify and other platforms. So there is quite a bunch of platforms where we
+
+6
+00:00:19,381 --> 00:00:23,160
+publish, and this is audio on diversion.
+
+7
+00:00:24,030 --> 00:00:24,990
+If I click here,
+
+8
+00:00:30,240 --> 00:00:31,350
+<v 1>We're not making money in.
+
+9
+00:00:31,440 --> 00:00:34,080
+We're trying to figure the is not video.
+
+10
+00:00:34,500 --> 00:00:37,740
+And there is a video on diversion if I go to YouTube.
+
+11
+00:00:39,630 --> 00:00:41,670
+So this is a with Greg,
+
+12
+00:00:42,390 --> 00:00:44,610
+I can find it here. This is one of the last,
+
+13
+00:00:44,850 --> 00:00:49,290
+uh, last year, this one do welcome to our event
+
+14
+00:00:50,460 --> 00:00:51,240
+<v 1>Available to us
+
+15
+00:00:54,300 --> 00:00:59,020
+Podcast. So we published last week. So see that there are no time codes
+
+16
+00:00:59,280 --> 00:01:02,250
+it's already on the platform. So I want to show you,
+
+17
+00:01:02,850 --> 00:01:05,730
+um, not the entire process, but some of the process.
+
+18
+00:01:06,660 --> 00:01:10,350
+So, um,
+
+19
+00:01:10,380 --> 00:01:14,940
+so the process, yes, your  and
+
+20
+00:01:14,941 --> 00:01:17,280
+the actual event, the podcast event happens.
+
+21
+00:01:17,310 --> 00:01:19,680
+Usually it is on Friday, could be other date.
+
+22
+00:01:20,400 --> 00:01:24,090
+So then we streamed YouTube. And this is the video that you just saw
+
+23
+00:01:24,630 --> 00:01:27,240
+this video with Greg. So it was themed life.
+
+24
+00:01:27,270 --> 00:01:30,630
+Welcome to say it was  life,
+
+25
+00:01:30,690 --> 00:01:32,730
+uh, on January 21.
+
+26
+00:01:33,660 --> 00:01:37,650
+Yeah, but it's usually a bit of a delay between it is themed and
+
+27
+00:01:37,651 --> 00:01:41,130
+it is published on a podcast as a podcast,
+
+28
+00:01:41,131 --> 00:01:44,730
+as an audio on leadership. I felt this actually in the schedule.
+
+29
+00:01:45,000 --> 00:01:50,340
+So we see it. It was a live podcast was on 21st of January.
+
+30
+00:01:51,150 --> 00:01:53,280
+And then, so this column,
+
+31
+00:01:53,640 --> 00:01:58,470
+uh, this bunch of columns is, or where we publish this as audio
+
+32
+00:01:58,471 --> 00:01:59,250
+only version.
+
+33
+00:01:59,640 --> 00:02:03,360
+And we publish this 4th of February.
+
+34
+00:02:03,361 --> 00:02:07,920
+So there are there's two weeks delay between when it goes live.
+
+35
+00:02:08,160 --> 00:02:12,000
+And when it is published as audio, only because after that,
+
+36
+00:02:12,120 --> 00:02:14,310
+we need to do a bunch of things.
+
+37
+00:02:14,340 --> 00:02:17,610
+So that's why we need this delayed, well cut in the beginning,
+
+38
+00:02:17,611 --> 00:02:19,650
+you probably saw it's the easiest part.
+
+39
+00:02:19,680 --> 00:02:24,420
+Doesn't take very much time, but then I sent this video to a freelancer
+
+40
+00:02:24,510 --> 00:02:26,550
+and the freelancer transcribes it.
+
+41
+00:02:26,551 --> 00:02:31,230
+So it turns, want into text. And then what he sends is something
+
+42
+00:02:31,231 --> 00:02:35,190
+like this. So this is the video I want to applaud right now.
+
+43
+00:02:35,191 --> 00:02:38,700
+So there's a video from Lindsey about career coaching.
+
+44
+00:02:39,180 --> 00:02:41,370
+So he sends a document that looks like that.
+
+45
+00:02:42,630 --> 00:02:44,640
+And so this is a transcription,
+
+46
+00:02:44,670 --> 00:02:47,580
+and then now I need to put this transcription to the website.
+
+47
+00:02:49,290 --> 00:02:53,130
+So this is that transcript. So I need to turn this document into,
+
+48
+00:02:53,820 --> 00:02:56,610
+uh, this also from this document,
+
+49
+00:02:57,750 --> 00:03:00,820
+I see that the 10 quotes for each phrase,
+
+50
+00:03:01,150 --> 00:03:04,270
+we have, uh, a timestamp when this occurs.
+
+51
+00:03:04,870 --> 00:03:09,010
+So because there are others like for each kind of block or section,
+
+52
+00:03:09,370 --> 00:03:11,980
+and the freelancer also, uh,
+
+53
+00:03:12,010 --> 00:03:15,760
+use the name of the section so we can extract 10 quotes.
+
+54
+00:03:15,880 --> 00:03:18,040
+So this is a skier,
+
+55
+00:03:18,100 --> 00:03:20,830
+the title. And then after the title,
+
+56
+00:03:20,831 --> 00:03:24,160
+there is a timestamp. So what I do, I have a script that there
+
+57
+00:03:24,161 --> 00:03:26,710
+are a, that does this automatically.
+
+58
+00:03:27,790 --> 00:03:29,950
+And for now I will need to do this,
+
+59
+00:03:29,951 --> 00:03:32,680
+I guess, but then I will also need to pick it out how you
+
+60
+00:03:32,681 --> 00:03:35,050
+can help me with that without,
+
+61
+00:03:35,110 --> 00:03:37,330
+um, Kevin, around this, uh,
+
+62
+00:03:37,660 --> 00:03:42,250
+without, uh, yeah, maybe I can put this online somewhere so you can just
+
+63
+00:03:42,251 --> 00:03:45,850
+upload this file and get this.
+
+64
+00:03:46,510 --> 00:03:49,120
+Okay. Yeah. So you don't need to document what I'm saying now.
+
+65
+00:03:49,121 --> 00:03:51,820
+It's more like for you to understand the process.
+
+66
+00:03:52,720 --> 00:03:57,490
+Okay. So we have this document and the next
+
+67
+00:03:57,610 --> 00:04:01,450
+step is at the same time, extend that to the editors.
+
+68
+00:04:01,870 --> 00:04:06,130
+And this happens to the Dropbox. I think I just shared a access video.
+
+69
+00:04:06,670 --> 00:04:09,700
+It's in my Dropbox, they have this custom folder.
+
+70
+00:04:10,540 --> 00:04:15,470
+And then after the event, what I do is I create a folder with
+
+71
+00:04:16,330 --> 00:04:18,520
+the date timestamp when, uh,
+
+72
+00:04:18,550 --> 00:04:22,570
+the podcast was themed life. And I bought,
+
+73
+00:04:22,630 --> 00:04:26,350
+uh, the files there. I do this because they are on my computer.
+
+74
+00:04:26,620 --> 00:04:29,950
+I don't think you will be able to do this. Um,
+
+75
+00:04:31,060 --> 00:04:35,920
+yeah. And then there's this folder called edited and yeah,
+
+76
+00:04:35,921 --> 00:04:40,480
+I need to move. So this, uh, so the editors who take care of
+
+77
+00:04:40,540 --> 00:04:44,500
+editing the podcast, they would in this podcast folder.
+
+78
+00:04:44,560 --> 00:04:47,290
+And then, because they're one with Greg,
+
+79
+00:04:47,380 --> 00:04:51,100
+I uploaded one. We could go, I need to put this two uploaded folder.
+
+80
+00:04:52,600 --> 00:04:54,670
+And now there is this podcast with, uh,
+
+81
+00:04:54,790 --> 00:04:57,820
+uh, Lindsey. So it is already edited.
+
+82
+00:04:57,910 --> 00:05:00,370
+So if I open it, there is some
+
+83
+00:05:06,670 --> 00:05:09,670
+already. So, uh, I will need to upload this.
+
+84
+00:05:11,860 --> 00:05:14,950
+So first. Yeah. So these two things actually happened in parallel.
+
+85
+00:05:15,220 --> 00:05:18,340
+So I sent the video to a freelancer and then the next week he
+
+86
+00:05:18,370 --> 00:05:23,380
+usually gets back with a transcription and then I sent this
+
+87
+00:05:23,381 --> 00:05:27,610
+to the editor and then they also get back next week,
+
+88
+00:05:28,000 --> 00:05:31,270
+the app for the file to this folder.
+
+89
+00:05:32,950 --> 00:05:35,140
+And then also from this time scripts,
+
+90
+00:05:35,200 --> 00:05:38,620
+now I want to extract 10 calls. Um,
+
+91
+00:05:39,040 --> 00:05:41,170
+but to be done, Lord this again,
+
+92
+00:05:41,200 --> 00:05:46,000
+you do not need to, uh, during the scene to your
+
+93
+00:05:46,001 --> 00:05:49,510
+process document, because I don't think you will have to do this.
+
+94
+00:05:50,170 --> 00:05:52,840
+So maybe some of these parts,
+
+95
+00:05:52,841 --> 00:05:57,190
+but not in this form. So I got the document.
+
+96
+00:05:57,200 --> 00:06:02,090
+This is a doc document. I'll just rename it to say Lindsey.
+
+97
+00:06:03,620 --> 00:06:09,020
+Then I have a script that, and
+
+98
+00:06:11,000 --> 00:06:14,330
+I don't know, where did it go? Okay.
+
+99
+00:06:14,390 --> 00:06:16,880
+Yeah. So good to hear, um,
+
+100
+00:06:17,720 --> 00:06:22,100
+that term, this dockings document into a format that they can use.
+
+101
+00:06:22,820 --> 00:06:27,560
+So I know that leaves in download and then let's
+
+102
+00:06:27,561 --> 00:06:32,270
+see. Yeah. So this clip now we'll extract time codes and then
+
+103
+00:06:32,271 --> 00:06:36,800
+create two. So I need to say where the results
+
+104
+00:06:36,801 --> 00:06:41,360
+should go. So it will go to TMP slash results
+
+105
+00:06:42,620 --> 00:06:45,230
+again, do you see what it does it, first of all,
+
+106
+00:06:45,231 --> 00:06:47,780
+creates this file, open it.
+
+107
+00:06:49,730 --> 00:06:54,950
+This is just for your information again. So that is all team result,
+
+108
+00:06:55,640 --> 00:06:57,950
+but this is the file card. It looks like.
+
+109
+00:06:58,730 --> 00:07:03,530
+So this is something that we'll use for the website and it also
+
+110
+00:07:03,860 --> 00:07:10,190
+puts the timecards. So I need to take this one in
+
+111
+00:07:10,191 --> 00:07:14,930
+copilot to YouTube, you
+
+112
+00:07:14,931 --> 00:07:18,530
+to then find the video for which this transcript was created.
+
+113
+00:07:19,250 --> 00:07:21,650
+Some video with an engineer,
+
+114
+00:07:23,240 --> 00:07:24,560
+click edit video.
+
+115
+00:07:29,240 --> 00:07:32,120
+I think I need to follow up with her because she sent me some
+
+116
+00:07:32,121 --> 00:07:35,600
+links to center things,
+
+117
+00:07:36,230 --> 00:07:39,650
+but here, I want to show you that I need to insert of time
+
+118
+00:07:39,651 --> 00:07:44,510
+quotes. So these are the 10 quotes and the essay leader talked
+
+119
+00:07:44,600 --> 00:07:47,090
+about. And then,
+
+120
+00:07:47,300 --> 00:07:51,950
+yeah, I just copy the time course here. And then yeah,
+
+121
+00:07:51,980 --> 00:07:54,020
+let me just in case at, uh,
+
+122
+00:07:55,460 --> 00:07:56,060
+LinkedIn
+
+123
+00:08:03,700 --> 00:08:09,580
+nicotine. So we
+
+124
+00:08:09,581 --> 00:08:12,310
+made sure it properly spoke your name. Say
+
+125
+00:08:16,450 --> 00:08:19,600
+then I think she sent me a link that I needed to include this
+
+126
+00:08:19,601 --> 00:08:22,330
+and I forgot. Um,
+
+127
+00:08:22,960 --> 00:08:25,240
+yeah. Imposter.
+
+128
+00:08:37,770 --> 00:08:40,440
+Okay. Yeah. So these are the links, um,
+
+129
+00:08:40,770 --> 00:08:44,640
+here, is that the timestamps?
+
+130
+00:08:47,550 --> 00:08:50,370
+Okay. Yeah. Let me just save it.
+
+131
+00:08:52,900 --> 00:08:57,630
+Now, if I go back to the video, I studied
+
+132
+00:08:57,631 --> 00:09:02,070
+engineering. You see that we have a time course right now we have this
+
+133
+00:09:02,071 --> 00:09:04,830
+chapters and we can jump,
+
+134
+00:09:05,040 --> 00:09:06,270
+jump from one to another.
+
+135
+00:09:10,650 --> 00:09:14,700
+No. So now we are done with time codes and they want to show
+
+136
+00:09:14,701 --> 00:09:17,850
+you how to upload videos to Concord.
+
+137
+00:09:18,450 --> 00:09:23,120
+So go to the anchor and
+
+138
+00:09:23,121 --> 00:09:27,380
+I click on new episode. I think I applaud this.
+
+139
+00:09:27,920 --> 00:09:31,340
+Um, ideally this would happen not on the day.
+
+140
+00:09:31,370 --> 00:09:34,550
+So right now it's Friday on Friday. I usually publish them.
+
+141
+00:09:35,180 --> 00:09:39,620
+So ideally I should do this immediately after,
+
+142
+00:09:40,430 --> 00:09:44,400
+uh, it is edited. So no.
+
+143
+00:09:48,510 --> 00:09:55,860
+Yeah. And then I go to Dropbox,
+
+144
+00:09:58,320 --> 00:10:02,370
+Dropbox, I'm in Dropbox and then edited.
+
+145
+00:10:02,460 --> 00:10:05,310
+And this is the episode Lindsay.
+
+146
+00:10:06,840 --> 00:10:09,600
+So click on this. Um,
+
+147
+00:10:09,720 --> 00:10:14,730
+and then the title and I just copy from here.
+
+148
+00:10:17,100 --> 00:10:20,400
+Now, this is the title. And then since we already have,
+
+149
+00:10:20,520 --> 00:10:23,060
+uh, uh, time quotes, the chapter names,
+
+150
+00:10:23,070 --> 00:10:27,540
+I also we'll put it here. So I'll say that we talk about,
+
+151
+00:10:27,630 --> 00:10:30,540
+and then this will be a list of things we talked about.
+
+152
+00:10:32,210 --> 00:10:37,320
+Let me copy this. So we'll go to a text editor and
+
+153
+00:10:38,700 --> 00:10:42,300
+I have a little more this time codes. Sometimes seeing the time codes.
+
+154
+00:10:42,450 --> 00:10:47,160
+There is another one let's say I'm prepping up,
+
+155
+00:10:47,370 --> 00:10:50,010
+which I also remove if it's there.
+
+156
+00:10:51,060 --> 00:10:54,660
+And then so in vs code,
+
+157
+00:10:54,661 --> 00:10:58,560
+I can like all these things at the same time.
+
+158
+00:10:59,370 --> 00:11:04,200
+Okay. If you use like the usual notepad,
+
+159
+00:11:04,500 --> 00:11:11,520
+you can remove them one by one like that to
+
+160
+00:11:11,521 --> 00:11:12,750
+be vs quote on windows.
+
+161
+00:11:13,200 --> 00:11:18,360
+I just need to press control then down
+
+162
+00:11:19,800 --> 00:11:22,110
+to a one course or in multiple lines.
+
+163
+00:11:22,770 --> 00:11:25,410
+And then I select this, I just did it.
+
+164
+00:11:26,760 --> 00:11:29,370
+So now I take this text without the time,
+
+165
+00:11:29,920 --> 00:11:34,440
+uh, timestamps, I take it and paste
+
+166
+00:11:34,441 --> 00:11:40,710
+it to Ortiz to anchor it
+
+167
+00:11:41,880 --> 00:11:45,270
+and then add links here. So these are the links that,
+
+168
+00:11:45,460 --> 00:11:47,790
+uh, uh, uh,
+
+169
+00:11:48,000 --> 00:11:53,190
+sense some of these links should already be in a YouTube
+
+170
+00:11:53,200 --> 00:11:53,530
+video
+
+171
+00:11:57,670 --> 00:12:00,160
+put down. It should also be like,
+
+172
+00:12:00,161 --> 00:12:04,030
+at least. So now you see when I do control V it basic like
+
+173
+00:12:04,031 --> 00:12:08,410
+in one line. So of course it can, it's like this.
+
+174
+00:12:08,920 --> 00:12:11,440
+What I usually do is I do control shift.
+
+175
+00:12:12,490 --> 00:12:15,760
+So then it sorts it like that. I still need to edit it a
+
+176
+00:12:15,761 --> 00:12:16,270
+little bit.
+
+177
+00:12:20,650 --> 00:12:26,350
+And finally, I also take these two things and
+
+178
+00:12:26,470 --> 00:12:31,000
+put them at . So
+
+179
+00:12:31,001 --> 00:12:35,590
+I'm, this is the format. So first we talked about coma,
+
+180
+00:12:35,920 --> 00:12:40,570
+then line break. Then this is a bulleted list
+
+181
+00:12:40,870 --> 00:12:45,550
+with things we talked about, then links that speaker sense.
+
+182
+00:12:46,750 --> 00:12:48,790
+Also bulleted list in this too.
+
+183
+00:12:50,430 --> 00:12:53,980
+And yeah, the publication date is Friday.
+
+184
+00:12:54,250 --> 00:12:59,560
+So we'll have this. Yeah,
+
+185
+00:12:59,770 --> 00:13:04,000
+I have it here. So I think repeat this here too.
+
+186
+00:13:07,660 --> 00:13:13,180
+Yeah. So this should be today.
+
+187
+00:13:14,230 --> 00:13:19,630
+And then CSUN is the same as previous and then three,
+
+188
+00:13:20,050 --> 00:13:23,860
+this would be for say, so this one is season seven,
+
+189
+00:13:24,100 --> 00:13:30,850
+episode four, published on 11 February books
+
+190
+00:13:30,910 --> 00:13:36,790
+here to anchor. So I select 11 and then it should be 7:00 PM
+
+191
+00:13:36,970 --> 00:13:41,320
+central European time. So for your, probably to be a different time.
+
+192
+00:13:42,370 --> 00:13:48,340
+So it's 7:00 PM central European time click confirm and
+
+193
+00:13:48,430 --> 00:13:51,310
+season number. And this is from here.
+
+194
+00:13:51,940 --> 00:13:54,460
+So seven and then,
+
+195
+00:13:56,860 --> 00:13:59,680
+um, yes, right now I don't, uh,
+
+196
+00:14:00,220 --> 00:14:05,260
+I'll probably record a separate video later to have it
+
+197
+00:14:05,261 --> 00:14:07,750
+be so dark right now we can just leave it like that.
+
+198
+00:14:11,260 --> 00:14:14,770
+Don't think I need to do anything else.
+
+199
+00:14:16,780 --> 00:14:18,940
+So it's five, right? No, it's four.
+
+200
+00:14:21,220 --> 00:14:23,890
+It is four. Yeah.
+
+201
+00:14:24,190 --> 00:14:28,750
+And I click schedule and
+
+202
+00:14:28,751 --> 00:14:32,680
+then a forgot to results. They should see that.
+
+203
+00:14:32,830 --> 00:14:37,360
+Yeah. This episode about career coaching with Lindsay is scheduled for
+
+204
+00:14:37,420 --> 00:14:41,320
+today. And then ideally,
+
+205
+00:14:41,321 --> 00:14:44,650
+as I said, the moment the pilot is here.
+
+206
+00:14:45,220 --> 00:14:47,770
+We should go ahead and put this on,
+
+207
+00:14:47,800 --> 00:14:52,430
+uh, end core and scheduled and what we might not
+
+208
+00:14:52,431 --> 00:14:55,640
+have. So maybe this, um, the editor,
+
+209
+00:14:55,641 --> 00:14:57,790
+our pastor, and we don't have, uh,
+
+210
+00:14:57,800 --> 00:15:01,250
+at the time codes yet, we still go here,
+
+211
+00:15:01,410 --> 00:15:03,740
+click on new episode, we upload the file,
+
+212
+00:15:03,830 --> 00:15:07,910
+which has gone there. We talked about section and we put the links with,
+
+213
+00:15:08,330 --> 00:15:11,090
+uh, uh, yeah, the link sometime with ScaleIO,
+
+214
+00:15:11,450 --> 00:15:13,740
+which has don't have, um, uh,
+
+215
+00:15:14,090 --> 00:15:18,590
+we talked about section and we add this later into it this later.
+
+216
+00:15:19,370 --> 00:15:22,190
+Yeah. You can just click on this then.
+
+217
+00:15:22,310 --> 00:15:27,020
+Is this the edit button? And we add these things
+
+218
+00:15:27,021 --> 00:15:32,480
+here. I think I even might have this call
+
+219
+00:15:32,481 --> 00:15:37,160
+to edit podcasts. I don't remember if I recorded
+
+220
+00:15:37,161 --> 00:15:37,550
+this.
+
+221
+00:15:48,590 --> 00:15:51,200
+Um, yeah. I don't know. Maybe you saw this all today.
+
+222
+00:15:53,750 --> 00:15:55,910
+Hey. Yeah.
+
+223
+00:15:55,940 --> 00:15:59,300
+It's we don't need to it because we don't change it.
+
+224
+00:16:01,490 --> 00:16:03,680
+Yeah. This is how we schedule, um,
+
+225
+00:16:04,400 --> 00:16:06,680
+podcast episodes with inquiry.
+
+226
+00:16:10,100 --> 00:16:14,660
+And then what I will need to do now is after this episode
+
+227
+00:16:14,661 --> 00:16:17,200
+is scheduled for me to,
+
+228
+00:16:17,750 --> 00:16:23,720
+uh, to create this page here,
+
+229
+00:16:23,960 --> 00:16:26,600
+podcast page, it's a little bit technical so far now,
+
+230
+00:16:27,230 --> 00:16:29,240
+uh, you will probably not need to do this.
+
+231
+00:16:29,241 --> 00:16:31,520
+Maybe I will create some form that you will need to,
+
+232
+00:16:32,570 --> 00:16:37,130
+um, if you in, and then I will execute your comments on
+
+233
+00:16:37,131 --> 00:16:39,980
+my end to make it easier for me to generate it.
+
+234
+00:16:41,420 --> 00:16:43,760
+But for now, this is what you need to do.
+
+235
+00:16:44,060 --> 00:16:49,200
+So this are your videos to Encore and
+
+236
+00:16:50,520 --> 00:16:51,300
+yeah, it's all.

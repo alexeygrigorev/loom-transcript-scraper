@@ -1,0 +1,635 @@
+1
+00:00:00,000 --> 00:00:04,587
+So I've been working on this tool that can edit podcasts
+
+2
+00:00:04,647 --> 00:00:10,637
+for us so we don't need to rely on freelancers and
+
+3
+00:00:10,697 --> 00:00:14,557
+this is how it works so I will send this link I will add
+
+4
+00:00:14,577 --> 00:00:19,406
+it to loom and then here again it also works
+
+5
+00:00:19,446 --> 00:00:24,012
+through GitHub actions like other things we have have used before
+
+6
+00:00:24,734 --> 00:00:29,441
+so you go to actions and here we have two
+
+7
+00:00:29,902 --> 00:00:34,450
+actions first is submit and then the second so check to submit
+
+8
+00:00:34,470 --> 00:00:38,562
+is what we use and check is automatic but we can also trigger it
+
+9
+00:00:39,344 --> 00:00:43,351
+so the way it works is we use an external service for creating a
+
+10
+00:00:43,371 --> 00:00:48,901
+transcript uh and these transcripts are not
+
+11
+00:00:48,902 --> 00:00:53,650
+really good we need to edit them later so first
+
+12
+00:00:53,811 --> 00:00:59,028
+i'll show you how to submit a transcript job so i click
+
+13
+00:00:59,029 --> 00:01:03,775
+here run workflow and we select
+
+14
+00:01:03,776 --> 00:01:09,504
+the video we want to transcribe so this would be a podcast episode uh
+
+15
+00:01:09,524 --> 00:01:14,233
+let's see uh yeah so i wanted to take this one
+
+16
+00:01:14,593 --> 00:01:19,100
+with savina right so now we are interested in
+
+17
+00:01:19,120 --> 00:01:24,126
+this id that goes after e and for this
+
+18
+00:01:24,127 --> 00:01:29,225
+so basically this part everything going that goes uh between v and this
+
+19
+00:01:29,346 --> 00:01:33,854
+ampersand this is what we're interested in right so we can check if
+
+20
+00:01:34,896 --> 00:01:39,629
+this is the right one by using this url without anything
+
+21
+00:01:39,830 --> 00:01:44,598
+just a question mark v equals and then oops putting
+
+22
+00:01:45,019 --> 00:01:49,946
+the id there right so this should work still okay
+
+23
+00:01:49,926 --> 00:01:54,753
+it works and now i again i am here actions
+
+24
+00:01:55,474 --> 00:02:00,181
+i select submit transcribe job i click on run workflow run
+
+25
+00:02:00,241 --> 00:02:06,582
+workflow and put the idea here and then i click run what
+
+26
+00:02:06,583 --> 00:02:11,229
+will happen is actually i run it already let me do it for another
+
+27
+00:02:11,289 --> 00:02:15,293
+one but i want to continue all it already finished so i want to
+
+28
+00:02:15,313 --> 00:02:20,001
+show using this example but let me also do it with another
+
+29
+00:02:20,041 --> 00:02:25,919
+one so let's say
+
+30
+00:02:25,920 --> 00:02:30,987
+we want to take um i'll just take some so
+
+31
+00:02:31,047 --> 00:02:35,975
+one i'm just thinking which one did i not because i did some experiments
+
+32
+00:02:35,976 --> 00:02:40,538
+and already uh processed i think this one ones so
+
+33
+00:02:40,539 --> 00:02:44,044
+uh let's take this one with daniel
+
+34
+00:02:48,851 --> 00:02:54,261
+again we're interested only in the part after b so
+
+35
+00:02:54,321 --> 00:03:00,050
+i put the id here and click run run workflow right
+
+36
+00:03:00,051 --> 00:03:04,617
+now it will appear here okay so it
+
+37
+00:03:04,618 --> 00:03:09,545
+appears here uhm and then yeah it
+
+38
+00:03:09,565 --> 00:03:13,031
+does some technical things well at the And it should success,
+
+39
+00:03:13,212 --> 00:03:15,947
+succeed out.
+
+40
+00:03:15,948 --> 00:03:19,172
+Let's just put it on pause for now and then let's wait till it
+
+41
+00:03:19,392 --> 00:03:23,078
+finishes. Okay, it took some time,
+
+42
+00:03:23,098 --> 00:03:27,705
+so it finished. Now I go again back to
+
+43
+00:03:28,266 --> 00:03:33,274
+the repo. And what happens is
+
+44
+00:03:33,415 --> 00:03:36,881
+it creates a file here in the jobs directory.
+
+45
+00:03:38,704 --> 00:03:41,492
+So this is technical, we don't need to know what exactly it is here,
+
+46
+00:03:41,472 --> 00:03:43,556
+this is some technical information,
+
+47
+00:03:44,758 --> 00:03:48,324
+but the fact is that we should have a file,
+
+48
+00:03:48,325 --> 00:03:54,488
+podcast, miners, and the idea of the thing that we want
+
+49
+00:03:54,468 --> 00:03:58,575
+to transcribe, right? And now there is another action.
+
+50
+00:03:58,555 --> 00:04:02,603
+Right now, we just submitted a job and then in the background,
+
+51
+00:04:02,723 --> 00:04:04,866
+the transcribed transcription. will happen,
+
+52
+00:04:05,666 --> 00:04:10,266
+right? And then this submit transcribe job runs periodically,
+
+53
+00:04:10,267 --> 00:04:13,906
+like every 5 to 10 minutes, maybe like every 20 minutes.
+
+54
+00:04:14,546 --> 00:04:16,860
+Uhm. I don't know, well,
+
+55
+00:04:17,301 --> 00:04:19,585
+it runs periodically, right?
+
+56
+00:04:20,587 --> 00:04:23,092
+So what can happen is maybe you submit it,
+
+57
+00:04:23,553 --> 00:04:26,078
+then you can uhm do some other things.
+
+58
+00:04:26,902 --> 00:04:29,062
+Then maybe in 10 minutes,
+
+59
+00:04:30,602 --> 00:04:32,922
+uh, it should run, uh,
+
+60
+00:04:33,362 --> 00:04:36,022
+it should run automatically, if it does not,
+
+61
+00:04:36,482 --> 00:04:39,920
+because it sometimes may take longer, like after 10 minutes,
+
+62
+00:04:39,940 --> 00:04:44,588
+the transcription should be on. So you can go
+
+63
+00:04:45,289 --> 00:04:47,332
+and click on this check transcribe jobs,
+
+64
+00:04:50,457 --> 00:04:53,890
+run workflow, again run workflow. And now it will use this file,
+
+65
+00:04:53,891 --> 00:04:56,755
+this json file that we created previously.
+
+66
+00:04:57,115 --> 00:05:00,341
+It created automatically this with some technical information.
+
+67
+00:05:01,363 --> 00:05:07,190
+In order to check the status of the transcription okay
+
+68
+00:05:07,191 --> 00:05:13,323
+let's see if it run anything so
+
+69
+00:05:13,324 --> 00:05:18,152
+um yeah we can see that this is uh is still in progress
+
+70
+00:05:18,153 --> 00:05:21,819
+right so I'll put it on pause give it some time and come back
+
+71
+00:05:22,200 --> 00:05:26,728
+like in five to ten minutes and then we'll see what to
+
+72
+00:05:26,748 --> 00:05:31,577
+do after that okay hopefully enough time has passed
+
+73
+00:05:31,678 --> 00:05:36,205
+let me see what happened uh so it was still a manual job that
+
+74
+00:05:36,266 --> 00:05:41,172
+I run so it didn't run the scheduled job
+
+75
+00:05:41,173 --> 00:05:44,478
+um so what I can do now is try to run it one more
+
+76
+00:05:44,458 --> 00:05:50,269
+time one more time so run workflow and
+
+77
+00:05:50,289 --> 00:05:55,365
+then let's see see what happens there
+
+78
+00:05:55,366 --> 00:06:00,895
+should be here we go so we just check
+
+79
+00:06:01,155 --> 00:06:07,149
+again the same like this one is not interesting uh
+
+80
+00:06:07,169 --> 00:06:12,378
+let me just collapse it so this this one is interesting so
+
+81
+00:06:12,398 --> 00:06:17,194
+it says that transcription it uh transcript saved to
+
+82
+00:06:17,174 --> 00:06:21,842
+this directory right so now this is the location where
+
+83
+00:06:22,062 --> 00:06:26,968
+it's saved let me copy paste it to my clipboard
+
+84
+00:06:26,969 --> 00:06:31,855
+now i go here transcripts
+
+85
+00:06:31,876 --> 00:06:36,603
+row and this is i just use search and
+
+86
+00:06:36,623 --> 00:06:42,039
+this is now we can also see that it is updated now right so
+
+87
+00:06:42,040 --> 00:06:46,728
+this is the transcription and
+
+88
+00:06:47,349 --> 00:06:52,351
+this transcription is not really good so we need to edit it and
+
+89
+00:06:52,352 --> 00:06:59,562
+for that i have a prompt for charge bt uh
+
+90
+00:06:59,563 --> 00:07:03,892
+so this is the prompt so there are multiple options prompts here we are
+
+91
+00:07:04,012 --> 00:07:08,821
+interested in the first one and we will probably keep updating
+
+92
+00:07:08,822 --> 00:07:14,531
+this prompt so i create a new chat
+
+93
+00:07:14,532 --> 00:07:19,600
+and here we need to uh replace a few things so
+
+94
+00:07:19,601 --> 00:07:24,109
+there are placeholders first guest name i think it was
+
+95
+00:07:24,110 --> 00:07:25,487
+uh
+
+96
+00:07:33,297 --> 00:07:40,212
+daniel right um the one so
+
+97
+00:07:40,974 --> 00:07:45,582
+let's put his name here guest name is
+
+98
+00:07:45,663 --> 00:07:50,585
+daniel and here we take the entire document
+
+99
+00:07:50,586 --> 00:07:55,403
+that we uh prepared and
+
+100
+00:07:55,483 --> 00:08:01,648
+put it here questions right and
+
+101
+00:08:01,649 --> 00:08:07,008
+now we execute that so
+
+102
+00:08:07,009 --> 00:08:11,416
+now it says okay i'm ready to edit the transcript so this is the
+
+103
+00:08:11,396 --> 00:08:16,196
+transcript all and i'll just copy the entire transcript
+
+104
+00:08:17,499 --> 00:08:22,067
+i actually haven't tried to run the entire transcript let's see
+
+105
+00:08:22,087 --> 00:08:26,664
+what happens before i did this in chunks uhm
+
+106
+00:08:26,684 --> 00:08:28,548
+but let's see, okay
+
+107
+00:08:32,616 --> 00:08:37,389
+so typically yeah
+
+108
+00:08:37,409 --> 00:08:42,017
+we're not really interested in that part so we start from
+
+109
+00:08:42,157 --> 00:08:46,805
+from this one right um and okay I'll let
+
+110
+00:08:46,785 --> 00:08:51,316
+it finish so I'll put it on pause right now and I
+
+111
+00:08:51,296 --> 00:08:57,007
+don't know how long it will take um but let's wait okay
+
+112
+00:08:57,008 --> 00:09:00,281
+now you see it stopped generating so it did not take finish and then
+
+113
+00:09:00,642 --> 00:09:05,690
+it offers me continue generating so I just click on that and
+
+114
+00:09:05,831 --> 00:09:10,358
+now it continues yeah so probably
+
+115
+00:09:10,338 --> 00:09:14,387
+it will finish soon so it of course we would we gave it a
+
+116
+00:09:14,367 --> 00:09:19,015
+lot of text so that's why it takes a bit of time uh
+
+117
+00:09:19,016 --> 00:09:23,921
+to to do that what I did in my past previous experiments is
+
+118
+00:09:23,922 --> 00:09:28,522
+I took it in chunks of 10 minutes so let's say I go to
+
+119
+00:09:28,523 --> 00:09:33,342
+I don't know 15 minutes maybe up to to
+
+120
+00:09:33,343 --> 00:09:36,711
+that point doesn't matter right so I take chunks and then I feed it
+
+121
+00:09:36,811 --> 00:09:41,458
+chunk by chunk so if in the future um
+
+122
+00:09:41,459 --> 00:09:45,945
+it happens that ChargerBT cannot take the entire thing we can split it into
+
+123
+00:09:45,946 --> 00:09:50,477
+chunks and do that okay so it finished
+
+124
+00:09:52,561 --> 00:09:58,977
+now uh I go here and copy
+
+125
+00:09:58,957 --> 00:10:05,567
+it I will create a new file uh
+
+126
+00:10:05,587 --> 00:10:08,652
+so we can call it like do we have a place where we store
+
+127
+00:10:08,653 --> 00:10:16,153
+transcripts maybe we do but we'll see transcript daniel
+
+128
+00:10:16,513 --> 00:10:21,381
+we can also put season name and episode name whatever
+
+129
+00:10:21,382 --> 00:10:25,700
+I don't remember which one and I copy the entire thing here or I
+
+130
+00:10:25,760 --> 00:10:30,268
+use ctrl um edit paste without
+
+131
+00:10:30,248 --> 00:10:34,759
+formatting right this is not
+
+132
+00:10:34,760 --> 00:10:39,589
+uhm yet ready ok so first I
+
+133
+00:10:39,789 --> 00:10:45,079
+remove the intro ok this week ok
+
+134
+00:10:45,080 --> 00:10:49,768
+apart from that we don't need to do any editing this is not ready
+
+135
+00:10:49,748 --> 00:10:54,476
+yet where is the name script
+
+136
+00:10:55,398 --> 00:11:00,349
+daniel uh something like that okay
+
+137
+00:11:00,589 --> 00:11:05,317
+it's saved um it's not ready yet i will record another video
+
+138
+00:11:05,477 --> 00:11:11,033
+of how to finish it what okay
+
+139
+00:11:11,034 --> 00:11:15,602
+um so we still need to add a few touches it's
+
+140
+00:11:15,603 --> 00:11:20,316
+almost ready uh we uh remember in what Pavel says
+
+141
+00:11:20,757 --> 00:11:26,004
+do we have uh his transcripts okay
+
+142
+00:11:28,688 --> 00:11:34,352
+so in his transcripts what he also makes is he
+
+143
+00:11:34,353 --> 00:11:39,381
+adds these captions right there for each chapter there is a caption so
+
+144
+00:11:39,401 --> 00:11:43,769
+this is what we will do next I don't have a video yet so
+
+145
+00:11:43,830 --> 00:11:47,931
+I will prepare uh that and we'll share it with you too but this
+
+146
+00:11:47,932 --> 00:11:52,038
+is how we create uh this is how we submit a transcript job this
+
+147
+00:11:52,039 --> 00:11:56,601
+is how we get the results and this is how we edit
+
+148
+00:11:56,602 --> 00:12:01,098
+the results with chargebt and by the way one thing i did not mention
+
+149
+00:12:01,739 --> 00:12:06,488
+that the file remember we had here this jobs
+
+150
+00:12:06,489 --> 00:12:11,249
+uh one of the jobs this json file with daniel's podcast it's
+
+151
+00:12:11,250 --> 00:12:16,009
+gone so after it successfully processes it it removes that
+
+152
+00:12:16,010 --> 00:12:20,582
+from this jobs directory and it places © The Bulletproof 2013 transcript in
+
+153
+00:12:20,562 --> 00:12:25,530
+the role folder okay so that's uh
+
+154
+00:12:25,550 --> 00:12:28,875
+the main part i would say now we just need to i'll just need
+
+155
+00:12:28,895 --> 00:12:33,793
+to figure out how to add um captions the titles for sections
+
+156
+00:12:33,794 --> 00:12:39,007
+and then from that we will be able to create the same documents
+
+157
+00:12:39,027 --> 00:12:42,212
+in the same format as pavel creates so then we will be able to
+
+158
+00:12:42,352 --> 00:12:46,832
+use it for the rest of the flow that we have so yeah,
+
+159
+00:12:46,833 --> 00:12:47,258
+see you around

@@ -1,0 +1,135 @@
+1
+00:00:00,000 --> 00:00:04,505
+uh so we have this new article by Valeria,
+
+2
+00:00:04,506 --> 00:00:09,401
+a guide to free online courses. And here we have this table
+
+3
+00:00:09,402 --> 00:00:12,005
+with information about the courses, right?
+
+4
+00:00:12,006 --> 00:00:16,516
+And here in particular what is interesting right now is the starting date
+
+5
+00:00:16,517 --> 00:00:20,047
+of the next cohort, which quite,
+
+6
+00:00:20,048 --> 00:00:22,134
+which changes over time,
+
+7
+00:00:22,135 --> 00:00:24,954
+right? And I now noticed a mistake here,
+
+8
+00:00:24,955 --> 00:00:27,605
+so I wanted to fix it, and I also wanted to show you how
+
+9
+00:00:27,606 --> 00:00:29,905
+to change it later,
+
+10
+00:00:29,906 --> 00:00:32,262
+let's say when we run this course.
+
+11
+00:00:32,263 --> 00:00:34,580
+For the next time, this course, this course,
+
+12
+00:00:34,581 --> 00:00:37,661
+and so on. So we wouldn't, we would need to change it,
+
+13
+00:00:40,111 --> 00:00:42,280
+so I want to show it how to find it, so for that we
+
+14
+00:00:42,281 --> 00:00:45,785
+need, we go to our repo,
+
+15
+00:00:45,786 --> 00:00:48,667
+website repository, we go to Boston.
+
+16
+00:00:50,776 --> 00:00:53,141
+And we go to this article,
+
+17
+00:00:53,142 --> 00:00:55,497
+so this is the, this article,
+
+18
+00:00:55,498 --> 00:00:58,263
+Guide to Free Online Courses at Data Talks Club.
+
+19
+00:00:58,264 --> 00:01:00,338
+All right, and you probably know,
+
+20
+00:01:00,339 --> 00:01:03,939
+we click edit, and this course.
+
+21
+00:01:04,277 --> 00:01:06,597
+mess is the table that we saw.
+
+22
+00:01:07,457 --> 00:01:11,877
+So what we need to find here is this,
+
+23
+00:01:12,137 --> 00:01:14,637
+this is what we want to change, Machine Learning Zoom Camp,
+
+24
+00:01:15,417 --> 00:01:17,957
+and we need to update it. Actually,
+
+25
+00:01:18,017 --> 00:01:20,809
+it was right, it was September 2024. Of course,
+
+26
+00:01:20,969 --> 00:01:25,829
+this is now 2024, um so actually I don't need to change
+
+27
+00:01:25,830 --> 00:01:27,909
+it, but uh yeah,
+
+28
+00:01:29,029 --> 00:01:31,589
+yeah, so this was right, but now you know how to,
+
+29
+00:01:31,769 --> 00:01:34,489
+if we needed to change it here to 2025,
+
+30
+00:01:35,029 --> 00:01:38,084
+this is how we do this. And then we click and it changes,
+
+31
+00:01:38,085 --> 00:01:40,251
+right. And my mistake,
+
+32
+00:01:40,252 --> 00:01:42,267
+uh yeah, we don't need to change it,
+
+33
+00:01:42,268 --> 00:01:47,053
+but yeah, so this is how we update the,
+
+34
+00:01:47,054 --> 00:01:48,152
+this article.

@@ -1,0 +1,367 @@
+1
+00:00:00,090 --> 00:00:03,480
+Show you how to add books. So in the previous video,
+
+2
+00:00:03,481 --> 00:00:06,450
+I show you how to add authors or people in general.
+
+3
+00:00:06,750 --> 00:00:09,090
+Now I want to show you how to add books.
+
+4
+00:00:10,050 --> 00:00:12,390
+So, uh, there is another, uh,
+
+5
+00:00:12,450 --> 00:00:15,870
+table here, another form. So this form is eight in the book.
+
+6
+00:00:16,050 --> 00:00:18,480
+So let me copy this. I will also send it to you.
+
+7
+00:00:19,830 --> 00:00:23,190
+And here we again, meet author CMIO.
+
+8
+00:00:23,280 --> 00:00:26,760
+So this way I can match, uh, in this author with,
+
+9
+00:00:26,761 --> 00:00:30,240
+uh, the profile we just created so I can close it.
+
+10
+00:00:30,480 --> 00:00:33,000
+So this is the same person we did last time.
+
+11
+00:00:33,270 --> 00:00:35,520
+So email is here,
+
+12
+00:00:35,610 --> 00:00:40,140
+uh, and then since he's the only author we live with
+
+13
+00:00:40,141 --> 00:00:43,380
+empty, if he wasn't, then this is how we would add them.
+
+14
+00:00:44,880 --> 00:00:47,790
+So now let's feel the rest of the things.
+
+15
+00:00:48,000 --> 00:00:50,920
+Of course, you can just ask the author to,
+
+16
+00:00:51,360 --> 00:00:53,580
+um, to give you all this information,
+
+17
+00:00:53,581 --> 00:00:56,170
+like the title of the book description. Um,
+
+18
+00:00:56,190 --> 00:01:00,720
+but usually you don't need to do this because all the information is available
+
+19
+00:01:00,750 --> 00:01:04,050
+on the book page. So first of all,
+
+20
+00:01:04,590 --> 00:01:08,340
+the title, visual introduction to deep learning.
+
+21
+00:01:09,690 --> 00:01:12,300
+So this is the title then description.
+
+22
+00:01:13,770 --> 00:01:16,100
+Um, there's no worries here. Um,
+
+23
+00:01:23,280 --> 00:01:26,130
+Yeah, maybe this fine. So,
+
+24
+00:01:27,810 --> 00:01:30,090
+uh, this is not super concise. Uh,
+
+25
+00:01:30,270 --> 00:01:33,480
+I think it's fine. Let's give show then a book page.
+
+26
+00:01:33,540 --> 00:01:38,610
+I think this is the main book page. So these a book is self-published
+
+27
+00:01:38,611 --> 00:01:42,180
+so there is no, uh, publisher speech,
+
+28
+00:01:42,390 --> 00:01:46,890
+but, uh, yeah. Publisher is this mining or pact or a righty,
+
+29
+00:01:47,010 --> 00:01:51,720
+usually on their pages. So this would be a publisher's page
+
+30
+00:01:51,750 --> 00:01:54,210
+on mining. Um,
+
+31
+00:01:56,880 --> 00:01:59,250
+came about here. We did not feel it then books,
+
+32
+00:01:59,251 --> 00:02:02,850
+patron, Amazon, actually, I don't know if this book has a patron,
+
+33
+00:02:02,851 --> 00:02:07,230
+Amazon. Okay. We can check it on Google with usual introduction to deep learning.
+
+34
+00:02:08,370 --> 00:02:10,470
+Uh, no, I don't see it.
+
+35
+00:02:11,490 --> 00:02:15,360
+So, uh, and this in quotes to make sure that,
+
+36
+00:02:16,140 --> 00:02:16,860
+uh, we get it.
+
+37
+00:02:22,320 --> 00:02:25,770
+No, they're just not on Amazon. So this is actually this book,
+
+38
+00:02:27,600 --> 00:02:29,910
+but this is not an Amazon. Okay.
+
+39
+00:02:30,600 --> 00:02:33,510
+I think it means that this book doesn't have a patron,
+
+40
+00:02:33,511 --> 00:02:36,090
+Amazon, uh, books.
+
+41
+00:02:36,091 --> 00:02:39,600
+Good cop report. Yeah. We can also check that quickly.
+
+42
+00:02:41,070 --> 00:02:44,850
+Uh, let me get hot again.
+
+43
+00:02:44,880 --> 00:02:46,950
+There is no page on GitHub, but, uh,
+
+44
+00:02:47,370 --> 00:02:51,900
+yeah, if there was, maybe this book is because this is a self-published book,
+
+45
+00:02:51,901 --> 00:02:54,150
+this is not a good example, maybe for another book.
+
+46
+00:02:54,750 --> 00:02:59,290
+Um, I will show you how to find all the other fields.
+
+47
+00:03:00,010 --> 00:03:02,080
+Um, but yeah, so this is how you add this.
+
+48
+00:03:02,081 --> 00:03:06,610
+You click submit and then now I should see it
+
+49
+00:03:06,760 --> 00:03:09,190
+here. Yeah, no, I have it here.
+
+50
+00:03:09,820 --> 00:03:13,060
+So this is called you submit a book. Um,
+
+51
+00:03:13,180 --> 00:03:15,820
+actually this is weird.
+
+52
+00:03:17,860 --> 00:03:21,430
+Um, the date is invade is missing.
+
+53
+00:03:21,550 --> 00:03:27,790
+I don't know where it, uh, what
+
+54
+00:03:27,791 --> 00:03:31,000
+happened, but let me quickly add, uh, so here,
+
+55
+00:03:31,240 --> 00:03:34,870
+um, you ignored this part, so this is not something you need to document
+
+56
+00:03:34,990 --> 00:03:37,420
+you just fast forward this,
+
+57
+00:03:37,450 --> 00:03:39,550
+uh, uh, yeah,
+
+58
+00:03:39,551 --> 00:03:42,580
+so I want to edit date here field.
+
+59
+00:03:43,450 --> 00:03:45,850
+So don't pay attention to this.
+
+60
+00:03:46,660 --> 00:03:49,870
+So this will be the start date.
+
+61
+00:03:49,871 --> 00:03:52,180
+And, um, we need to end this,
+
+62
+00:03:54,130 --> 00:03:57,220
+let's see here, book breach.
+
+63
+00:03:58,180 --> 00:04:01,090
+Yeah. That description, um,
+
+64
+00:04:01,240 --> 00:04:06,190
+their week, then one day a week
+
+65
+00:04:06,250 --> 00:04:10,090
+when the, uh, around how class.
+
+66
+00:04:11,440 --> 00:04:13,690
+So yeah, so this is pretty important.
+
+67
+00:04:14,350 --> 00:04:17,770
+Um, so let me open this form again,
+
+68
+00:04:18,670 --> 00:04:22,390
+and that will show you how to heal in this particular field.
+
+69
+00:04:22,570 --> 00:04:26,890
+So you just click on this field and then we have the schedule two
+
+70
+00:04:26,891 --> 00:04:31,630
+and schedule, we have this mentor who is on 14th of February.
+
+71
+00:04:32,770 --> 00:04:35,160
+So yeah.
+
+72
+00:04:36,700 --> 00:04:40,270
+So then here you select 14th of February.
+
+73
+00:04:40,600 --> 00:04:44,050
+So this will be there Monday of the week where it starts.
+
+74
+00:04:44,080 --> 00:04:46,390
+So here in, uh,
+
+75
+00:04:46,990 --> 00:04:50,530
+this schedule, we'll have it here,
+
+76
+00:04:50,890 --> 00:04:54,190
+send these is when it starts. So you just need to put it there
+
+77
+00:04:57,130 --> 00:05:02,440
+and yeah, no, you click submit and yeah.
+
+78
+00:05:02,500 --> 00:05:06,670
+And I will just manually add this and you can pretend that they added
+
+79
+00:05:06,671 --> 00:05:08,800
+this through, uh,
+
+80
+00:05:09,360 --> 00:05:12,760
+through the form. Okay. So now I have this and database,
+
+81
+00:05:13,300 --> 00:05:16,900
+so it's actually through the form. And then the next thing you need to
+
+82
+00:05:16,901 --> 00:05:19,990
+do is you need to tell me, forum is there for ready,
+
+83
+00:05:20,440 --> 00:05:23,800
+and then I will execute the script. And then after it script is executed,
+
+84
+00:05:24,460 --> 00:05:29,050
+we have, sorry, we can mark
+
+85
+00:05:29,051 --> 00:05:34,210
+this as announced. So now maybe the status could be a forum
+
+86
+00:05:35,740 --> 00:05:38,800
+or something like this. So now I know that forms fields.
+
+87
+00:05:38,840 --> 00:05:41,590
+I need to execute this my best after you do this,
+
+88
+00:05:41,591 --> 00:05:46,210
+you just ping me saying, Hey, this is field and you will
+
+89
+00:05:46,660 --> 00:05:49,480
+wait for an action from me. I do this,
+
+90
+00:05:49,840 --> 00:05:52,510
+and then I will pick you again. Um,
+
+91
+00:05:54,550 --> 00:05:57,190
+you can just change it to announced after I do this.
+
+92
+00:05:58,750 --> 00:06:01,270
+Okay. That's all I wanted to show you. No,

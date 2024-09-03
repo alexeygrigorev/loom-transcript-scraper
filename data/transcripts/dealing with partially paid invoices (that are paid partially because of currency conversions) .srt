@@ -1,0 +1,183 @@
+1
+00:00:00,200 --> 00:00:03,480
+<affirmative>. Um, yeah. So you saw that,
+
+2
+00:00:03,490 --> 00:00:06,000
+uh, perfect. Paid partially. I don't know.
+
+3
+00:00:06,001 --> 00:00:08,480
+For some reasons it's always a problem with them.
+
+4
+00:00:08,750 --> 00:00:11,080
+Like we probably need to make invoices,
+
+5
+00:00:11,081 --> 00:00:13,360
+uh, send them invoice and dollars so it's easier.
+
+6
+00:00:14,450 --> 00:00:18,520
+Um, because what we need to do now is either ask them to pay
+
+7
+00:00:19,150 --> 00:00:24,200
+500 more, but then it'll always be problems with converting currencies.
+
+8
+00:00:24,730 --> 00:00:30,480
+So what we can do is we can just take this number mm,
+
+9
+00:00:32,870 --> 00:00:37,490
+and edit this. So we need to put
+
+10
+00:00:37,491 --> 00:00:38,530
+here this value
+
+11
+00:00:39,330 --> 00:00:39,410
+<v 1><affirmative>.
+
+12
+00:00:42,900 --> 00:00:45,680
+All right. And then, uh, here,
+
+13
+00:00:46,790 --> 00:00:49,160
+wait, this one. But what we also need to do,
+
+14
+00:00:49,161 --> 00:00:51,240
+so now it's fully paid, uh,
+
+15
+00:00:51,520 --> 00:00:56,080
+download PDF and send them, uh, send this to perfect saying that,
+
+16
+00:00:56,130 --> 00:00:58,440
+uh, okay, because of the currency conversion,
+
+17
+00:00:58,530 --> 00:01:00,560
+uh, we received only this amount.
+
+18
+00:01:01,260 --> 00:01:05,800
+And to understand that it's a bit of hassle to ask you four or
+
+19
+00:01:05,801 --> 00:01:09,320
+500 more. So what we do instead is we create an invoice on this
+
+20
+00:01:09,321 --> 00:01:11,620
+number, uh,
+
+21
+00:01:11,621 --> 00:01:13,820
+right now. And, um,
+
+22
+00:01:14,250 --> 00:01:16,980
+this is what we'll use in our tax report.
+
+23
+00:01:16,981 --> 00:01:21,020
+And if you need, this is the something you can use in your report.
+
+24
+00:01:22,080 --> 00:01:24,500
+And for the next one, you can also write,
+
+25
+00:01:24,501 --> 00:01:27,220
+uh, that the next one we will, uh,
+
+26
+00:01:30,440 --> 00:01:33,670
+uh, let me think. So the next one we will issue in,
+
+27
+00:01:33,671 --> 00:01:36,190
+uh, esd. So for them it's simpler.
+
+28
+00:01:36,480 --> 00:01:40,550
+So we will do the conversion or on our side and instead of,
+
+29
+00:01:40,551 --> 00:01:44,310
+uh, creating invoice for 15,000 euros.
+
+30
+00:01:44,320 --> 00:01:48,950
+So we'll do the conversion. We'll send them an amount in dollars that
+
+31
+00:01:48,951 --> 00:01:51,390
+they will need to send to us. And then,
+
+32
+00:01:51,460 --> 00:01:55,950
+yeah, we'll figure this out on our side.
+
+33
+00:01:56,140 --> 00:01:58,390
+Okay, that's, uh, all I wanted to,
+
+34
+00:01:58,400 --> 00:02:02,950
+to say. So perhaps what you can do right now is create
+
+35
+00:02:02,951 --> 00:02:05,110
+a process document describing how to,
+
+36
+00:02:05,800 --> 00:02:08,150
+um, retroactively edit the,
+
+37
+00:02:08,800 --> 00:02:10,910
+um, the invoices.
+
+38
+00:02:11,500 --> 00:02:16,350
+Then you will need to update the invoice that we have here before
+
+39
+00:02:16,351 --> 00:02:20,110
+you send the report. So, and then it'll be not partially paid,
+
+40
+00:02:20,111 --> 00:02:22,750
+but paid. Um,
+
+41
+00:02:22,990 --> 00:02:26,350
+so it'll in be included on our February report.
+
+42
+00:02:27,530 --> 00:02:29,790
+And, um, yeah.
+
+43
+00:02:29,791 --> 00:02:30,150
+Here.
+
+44
+00:02:32,820 --> 00:02:35,390
+What else? And yeah,
+
+45
+00:02:35,391 --> 00:02:37,550
+please write an email, uh,
+
+46
+00:02:37,680 --> 00:02:41,590
+to perfect explaining what, what happened. That's all.

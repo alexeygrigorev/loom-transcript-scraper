@@ -1,0 +1,255 @@
+1
+00:00:00,150 --> 00:00:03,340
+Oh, hi. So I wanted to change this,
+
+2
+00:00:03,430 --> 00:00:06,100
+um, sponsorship CRM a little bit.
+
+3
+00:00:06,101 --> 00:00:11,140
+So instead of sponsored content, I'll name it just content because
+
+4
+00:00:11,141 --> 00:00:14,060
+sometimes the content is, uh, not sponsored,
+
+5
+00:00:14,061 --> 00:00:16,860
+but still I want to reach out to the company who organizes,
+
+6
+00:00:17,110 --> 00:00:19,140
+uh, something and, um,
+
+7
+00:00:20,420 --> 00:00:24,940
+offer them sponsorships. So a good example is this Snowflake
+
+8
+00:00:24,941 --> 00:00:28,970
+built, right?
+
+9
+00:00:28,971 --> 00:00:31,090
+So Snowflake is, uh,
+
+10
+00:00:31,430 --> 00:00:35,170
+let me remove this part. Um,
+
+11
+00:00:35,171 --> 00:00:38,610
+so Snowflake is, um, a company we already have them in,
+
+12
+00:00:38,740 --> 00:00:41,260
+um, Oops,
+
+13
+00:00:41,770 --> 00:00:44,500
+here, and they organize the conference.
+
+14
+00:00:44,710 --> 00:00:49,540
+So I want to add the conference here so we can offer
+
+15
+00:00:49,541 --> 00:00:51,900
+them sponsorship, uh,
+
+16
+00:00:51,901 --> 00:00:54,660
+promotion of this conference. So I'll do,
+
+17
+00:00:55,630 --> 00:00:59,300
+uh, the data Snowflake Bill 22?
+
+18
+00:01:00,710 --> 00:01:01,060
+No,
+
+19
+00:01:02,170 --> 00:01:02,660
+<v 1>Like
+
+20
+00:01:04,140 --> 00:01:06,700
+Build 22. What's the,
+
+21
+00:01:07,320 --> 00:01:09,460
+the data cloud of Summit.
+
+22
+00:01:10,080 --> 00:01:10,740
+The data
+
+23
+00:01:11,460 --> 00:01:12,020
+<v 1>Cloud
+
+24
+00:01:13,150 --> 00:01:16,420
+Of Summit, right? So content type is,
+
+25
+00:01:16,550 --> 00:01:18,570
+um, conference.
+
+26
+00:01:19,140 --> 00:01:22,330
+So it's Event. Event,
+
+27
+00:01:22,530 --> 00:01:24,730
+right? Source.
+
+28
+00:01:25,140 --> 00:01:28,090
+Uh, it's kind of newsletter,
+
+29
+00:01:28,230 --> 00:01:31,730
+but, uh, yeah, here since for the source,
+
+30
+00:01:31,731 --> 00:01:34,090
+let's only keep the source that is,
+
+31
+00:01:34,100 --> 00:01:36,370
+uh, like, you know, paid source.
+
+32
+00:01:36,750 --> 00:01:39,170
+And so here it's their own newsletter.
+
+33
+00:01:39,260 --> 00:01:43,490
+So here I'll just, uh, maybe have an option,
+
+34
+00:01:43,491 --> 00:01:45,930
+something like, uh, organic.
+
+35
+00:01:49,450 --> 00:01:51,940
+Yeah, so it means it's, uh, their own stuff.
+
+36
+00:01:52,380 --> 00:01:56,780
+Relevance is, uh, let's say Medium and companies Northlake.
+
+37
+00:01:56,781 --> 00:02:00,220
+We already have them. It's Snowflake and Comment is,
+
+38
+00:02:00,221 --> 00:02:04,060
+uh, so when is it?
+
+39
+00:02:05,640 --> 00:02:06,130
+<v 1>It's
+
+40
+00:02:06,730 --> 00:02:06,930
+November.
+
+41
+00:02:08,600 --> 00:02:09,090
+<v 1>Just
+
+42
+00:02:11,080 --> 00:02:15,570
+Then. Uh, we don't have anyone from Snowflake yet,
+
+43
+00:02:16,530 --> 00:02:21,360
+so we probably should. Uh, cause I see that they are sponsoring
+
+44
+00:02:21,361 --> 00:02:24,200
+quite many things. So some of these,
+
+45
+00:02:24,290 --> 00:02:27,080
+uh, content is organics because it's their own.
+
+46
+00:02:27,270 --> 00:02:30,480
+Some of the content is, uh, like they're actually sponsoring.
+
+47
+00:02:30,930 --> 00:02:34,880
+So it would be a good idea to get in touch with somebody from
+
+48
+00:02:34,881 --> 00:02:37,680
+Snowflake and offer them some,
+
+49
+00:02:38,810 --> 00:02:41,720
+um, like some help with promoting content.
+
+50
+00:02:44,000 --> 00:02:48,970
+Okay. So yeah, the way I think I wanted to show you here is
+
+51
+00:02:48,971 --> 00:02:53,610
+that, uh, previously I intended to use this thing only as a,
+
+52
+00:02:55,350 --> 00:02:58,490
+You know, a way to capture all sponsored content,
+
+53
+00:02:58,980 --> 00:03:03,560
+but sometimes there is also organic content that could also be relevant because this
+
+54
+00:03:03,561 --> 00:03:05,760
+is something we want to help them promote. Right.
+
+55
+00:03:06,710 --> 00:03:09,400
+Okay. And, um, I don't think you need to,
+
+56
+00:03:10,930 --> 00:03:13,840
+uh, like maybe in the process doc,
+
+57
+00:03:13,841 --> 00:03:16,240
+when you say how exactly they need to select,
+
+58
+00:03:16,450 --> 00:03:18,920
+um, content, type, and source,
+
+59
+00:03:19,780 --> 00:03:23,600
+you can mention that, uh, like organic should be if it's,
+
+60
+00:03:24,100 --> 00:03:26,440
+you know, their own, um,
+
+61
+00:03:26,840 --> 00:03:30,400
+their own content. And an example of that would be a newsletter,
+
+62
+00:03:30,401 --> 00:03:33,360
+their own newsletter that they use for sponsoring this stuff.
+
+63
+00:03:33,361 --> 00:03:36,120
+Or for, not, sorry, sponsoring but promoting this stuff.
+
+64
+00:03:39,200 --> 00:03:39,690
+Okay.

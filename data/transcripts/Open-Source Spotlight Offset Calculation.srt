@@ -1,0 +1,391 @@
+1
+00:00:00,300 --> 00:00:04,620
+Okay. So regarding this officer think here,
+
+2
+00:00:04,860 --> 00:00:09,420
+so indeed they contract with support that this is relative to the beginning
+
+3
+00:00:09,480 --> 00:00:12,750
+of the meeting, not to the beginning of the recording.
+
+4
+00:00:12,810 --> 00:00:17,280
+That's why it's all. So the recording is shorter than this thing.
+
+5
+00:00:18,660 --> 00:00:20,880
+Um, and Yeah,
+
+6
+00:00:20,881 --> 00:00:24,090
+so I want to show you, so I asked them to fix this,
+
+7
+00:00:24,091 --> 00:00:28,680
+but before they fix this in zoom, we can do a workaround.
+
+8
+00:00:28,950 --> 00:00:33,450
+So what I did Say it a
+
+9
+00:00:33,451 --> 00:00:36,570
+quarter to another one. So what I will do,
+
+10
+00:00:37,200 --> 00:00:40,080
+um, For the next months,
+
+11
+00:00:40,170 --> 00:00:44,430
+I will write that in the chat. So we'll have a timestamp when we
+
+12
+00:00:44,431 --> 00:00:49,140
+actually started recording And towards the we'll deal with this
+
+13
+00:00:49,410 --> 00:00:52,740
+for the staff, You will go see here,
+
+14
+00:00:53,070 --> 00:00:56,250
+this is the spreadsheet they just created and shared with you.
+
+15
+00:00:57,510 --> 00:00:57,990
+<v 1>Let's see here,
+
+16
+00:00:59,100 --> 00:00:59,910
+This is the
+
+17
+00:00:59,911 --> 00:01:00,450
+<v 1>Location.
+
+18
+00:01:01,260 --> 00:01:03,660
+And here you need to, in this,
+
+19
+00:01:04,410 --> 00:01:09,030
+in this cell, you will need to add this timestamp in this format.
+
+20
+00:01:11,130 --> 00:01:15,960
+and then minutes and seconds, And then it will change the format
+
+21
+00:01:16,020 --> 00:01:18,420
+of the Madigan. But this is important.
+
+22
+00:01:18,421 --> 00:01:23,700
+Two hours here. Otherwise Google later
+
+23
+00:01:24,120 --> 00:01:28,710
+will not know how to what's this. So this is
+
+24
+00:01:28,711 --> 00:01:31,170
+the start. And then we write the regional timestamps.
+
+25
+00:01:31,171 --> 00:01:33,780
+Yeah. So the regional timestamps here,
+
+26
+00:01:34,440 --> 00:01:37,170
+so this is the laptops we need for editing.
+
+27
+00:01:39,150 --> 00:01:39,750
+So,
+
+28
+00:01:46,290 --> 00:01:51,930
+And what we do next is we use a formula here And
+
+29
+00:01:52,020 --> 00:01:57,990
+we, so the formula is B2 and resell a minus
+
+30
+00:01:58,110 --> 00:02:00,340
+a to B cell. But when we,
+
+31
+00:02:00,390 --> 00:02:02,400
+we need to change eight to a little bit.
+
+32
+00:02:02,490 --> 00:02:05,820
+So we need to add some dollars here, Aren't you?
+
+33
+00:02:06,090 --> 00:02:09,120
+So the formula is B two minus a dollar,
+
+34
+00:02:09,121 --> 00:02:13,770
+a dollar. And the reason we need this dollar is when
+
+35
+00:02:13,771 --> 00:02:16,050
+we make this formula dome,
+
+36
+00:02:17,550 --> 00:02:21,510
+is that you see it changes to obesity and so on,
+
+37
+00:02:21,750 --> 00:02:25,810
+but eight to stays the same. So you don't Wait.
+
+38
+00:02:26,070 --> 00:02:28,500
+So that's why we need it. And yes,
+
+39
+00:02:28,510 --> 00:02:33,240
+it'll be spotless. Maybe they can just do all the way down.
+
+40
+00:02:33,570 --> 00:02:36,360
+So you don't actually need to worry about this foremost,
+
+41
+00:02:36,361 --> 00:02:40,140
+or you wouldn't need to do is just put the stuff here in original
+
+42
+00:02:40,141 --> 00:02:42,180
+timestamps. And,
+
+43
+00:02:42,210 --> 00:02:42,840
+um,
+
+44
+00:02:44,550 --> 00:02:49,920
+You know, it's, the team will,  Also,
+
+45
+00:02:49,921 --> 00:02:52,230
+I contacted support and ask them,
+
+46
+00:02:52,500 --> 00:02:56,130
+um, what was the beginning or when the meeting started and when the recording
+
+47
+00:02:56,131 --> 00:02:58,710
+started recording started what the, this one,
+
+48
+00:03:00,930 --> 00:03:03,120
+This file, but the one who said problems with,
+
+49
+00:03:04,780 --> 00:03:09,040
+and they told me that the meeting started at this time and important started
+
+50
+00:03:09,041 --> 00:03:13,570
+at this time. So here it means that the
+
+51
+00:03:13,571 --> 00:03:16,240
+actual meetings to the minutes,
+
+52
+00:03:16,900 --> 00:03:19,570
+so the start should be this one.
+
+53
+00:03:22,540 --> 00:03:27,130
+And now what we'll do is we will just takes these
+
+54
+00:03:27,131 --> 00:03:31,750
+timestamps. And The
+
+55
+00:03:31,751 --> 00:03:35,800
+first one, This is the second one.
+
+56
+00:03:38,680 --> 00:03:40,280
+There is one.
+
+57
+00:03:49,560 --> 00:03:52,800
+Yeah, let me check it the sexually timestamps,
+
+58
+00:03:52,801 --> 00:03:57,000
+make sense. So I'll go now to three 11,
+
+59
+00:04:02,490 --> 00:04:05,130
+<v 2>We are building an, also a new language that we are building,
+
+60
+00:04:05,520 --> 00:04:07,710
+uh, that is called sort of seal, uh, which is,
+
+61
+00:04:07,740 --> 00:04:10,170
+um, sorta checks language and,
+
+62
+00:04:10,171 --> 00:04:12,660
+um, the tool that is going to, uh,
+
+63
+00:04:13,260 --> 00:04:17,190
+evaluate everything that is written and sort of seal is called sort of core.
+
+64
+00:04:17,490 --> 00:04:20,730
+So what is sort of seal, uh, sort of seal as a DSL for
+
+65
+00:04:20,731 --> 00:04:25,350
+data reliability? So
+
+66
+00:04:25,351 --> 00:04:27,840
+what are we going to show today? Uh,
+
+67
+00:04:27,850 --> 00:04:30,300
+I'd like to show, uh, a new,
+
+68
+00:04:30,390 --> 00:04:33,930
+um, a tool that we're building and also a new language that we are
+
+69
+00:04:33,940 --> 00:04:36,360
+building, uh, that is called sort of seal,
+
+70
+00:04:36,600 --> 00:04:39,450
+which is, um, sorta checks language and,
+
+71
+00:04:39,451 --> 00:04:41,910
+um, the tool that is going to, uh,
+
+72
+00:04:42,510 --> 00:04:46,470
+evaluate everything that is written and sort of seal it's called sort of core.
+
+73
+00:04:46,770 --> 00:04:49,980
+So what is sort of seal, uh, sort of seal as a DSL for
+
+74
+00:04:49,981 --> 00:04:52,770
+data reliability, TSLP, the domain specific language?
+
+75
+00:04:54,070 --> 00:04:56,290
+I do not think it is correct.
+
+76
+00:04:58,540 --> 00:04:58,990
+Um,
+
+77
+00:05:03,530 --> 00:05:08,210
+I'm wondering the why Let's check this seven
+
+78
+00:05:08,330 --> 00:05:08,690
+15.
+
+79
+00:05:23,030 --> 00:05:27,720
+<v 2>Uh, you can see that
+
+80
+00:05:27,721 --> 00:05:29,850
+I created already, uh, with,
+
+81
+00:05:29,940 --> 00:05:32,250
+um, the tool installed for the sake of,
+
+82
+00:05:32,340 --> 00:05:35,640
+uh, time. Uh, so like me activate
+
+83
+00:05:39,810 --> 00:05:41,790
+Or so here, you can see.
+
+84
+00:05:42,420 --> 00:05:47,130
+Yeah, I think this is not working it because this is
+
+85
+00:05:47,131 --> 00:05:51,540
+not right. The, probably something is wrong.
+
+86
+00:05:53,160 --> 00:05:55,380
+I don't know what, um,
+
+87
+00:05:55,680 --> 00:06:00,500
+but I can see, uh, like from this calculation,
+
+88
+00:06:00,560 --> 00:06:02,870
+if you subtract six, uh, five,
+
+89
+00:06:03,050 --> 00:06:06,200
+uh, you do you pick a plate,
+
+90
+00:06:06,590 --> 00:06:08,990
+so this looks correct. So five,
+
+91
+00:06:10,040 --> 00:06:13,640
+so this should be the correct time stamp. I think the problem is with
+
+92
+00:06:13,641 --> 00:06:16,160
+that. So trying to figure out what the stat is,
+
+93
+00:06:16,700 --> 00:06:19,850
+and then you're going to use this timestamps for editing.
+
+94
+00:06:21,050 --> 00:06:27,260
+And then after that, or the nuance will always ankles
+
+95
+00:06:27,261 --> 00:06:29,630
+too, but they will always also write to that.
+
+96
+00:06:29,930 --> 00:06:32,570
+So then you know that this will be a,
+
+97
+00:06:32,960 --> 00:06:37,700
+and to see that say like when the
+
+98
+00:06:37,701 --> 00:06:38,540
+recording started.

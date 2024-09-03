@@ -1,0 +1,331 @@
+1
+00:00:03,170 --> 00:00:08,120
+I want to show you how to generate generate time
+
+2
+00:00:08,121 --> 00:00:11,240
+codes from transcripts.
+
+3
+00:00:12,050 --> 00:00:16,730
+So here I'm
+
+4
+00:00:16,731 --> 00:00:17,900
+hearing the transcript.
+
+5
+00:00:23,980 --> 00:00:26,170
+So this is the transcript.
+
+6
+00:00:27,460 --> 00:00:28,690
+So now I don't want it
+
+7
+00:00:32,800 --> 00:00:35,350
+to have a 10, my download folder.
+
+8
+00:00:35,860 --> 00:00:39,100
+So open it. Um,
+
+9
+00:00:43,750 --> 00:00:47,170
+yeah. Now I need to rename it. So I need to know what kind
+
+10
+00:00:47,171 --> 00:00:52,450
+of name I should give it. So go to our schedule
+
+11
+00:00:53,980 --> 00:00:56,980
+document, and then, yeah,
+
+12
+00:00:57,010 --> 00:01:00,340
+please. Don't forget to add spaces here.
+
+13
+00:01:01,150 --> 00:01:05,890
+So this is the podcast
+
+14
+00:01:06,130 --> 00:01:11,440
+for which we add. And then what I do is,
+
+15
+00:01:12,670 --> 00:01:15,160
+so there's a season seven episode, six
+
+16
+00:01:19,210 --> 00:01:21,910
+episode six is four months,
+
+17
+00:01:22,420 --> 00:01:27,490
+and then the name is Amy tests. So this is the name of
+
+18
+00:01:27,491 --> 00:01:34,680
+this document. And then I go to this transcript
+
+19
+00:01:34,690 --> 00:01:37,150
+details. I already edit.
+
+20
+00:01:39,640 --> 00:01:42,190
+So I'm sorry, I'm in the code now.
+
+21
+00:01:42,790 --> 00:01:45,160
+So go to docs folder,
+
+22
+00:01:46,390 --> 00:01:51,490
+and here I click add file and upload
+
+23
+00:01:51,491 --> 00:01:56,200
+the file. Then I
+
+24
+00:01:56,210 --> 00:01:59,440
+go to the final edge of the loaded. It should be in this format.
+
+25
+00:02:00,310 --> 00:02:04,920
+So click open, and then I can
+
+26
+00:02:04,921 --> 00:02:10,720
+change this. So now the file is uploaded and
+
+27
+00:02:13,490 --> 00:02:17,630
+no, all this,
+
+28
+00:02:18,650 --> 00:02:24,670
+uh, refresh it. So now I need to go to auctions and
+
+29
+00:02:24,680 --> 00:02:28,310
+connections. I see that now they have to think,
+
+30
+00:02:28,580 --> 00:02:30,980
+I just edit this, add files,
+
+31
+00:02:30,981 --> 00:02:33,110
+the upload. So it is doing something.
+
+32
+00:02:33,140 --> 00:02:37,700
+And so you see now it's green and what happened
+
+33
+00:02:38,180 --> 00:02:42,740
+is now you come back to tasks and now you
+
+34
+00:02:42,741 --> 00:02:47,120
+go to task and now this file appeared there.
+
+35
+00:02:47,960 --> 00:02:53,540
+So it was automatically added. So what happens is when
+
+36
+00:02:53,541 --> 00:02:56,210
+you add a file to this folder,
+
+37
+00:02:56,270 --> 00:02:58,370
+to the equivalents, when you upload this,
+
+38
+00:02:58,880 --> 00:03:03,660
+there an action that is automatically ticket that analyzes
+
+39
+00:03:03,661 --> 00:03:07,090
+this document document,
+
+40
+00:03:07,480 --> 00:03:10,810
+and then it clicks. So then you go to this transcript,
+
+41
+00:03:11,920 --> 00:03:18,820
+you copied this, and then you called and
+
+42
+00:03:18,821 --> 00:03:19,810
+then YouTube.
+
+43
+00:03:27,780 --> 00:03:28,140
+Yes.
+
+44
+00:03:35,390 --> 00:03:35,570
+Yeah.
+
+45
+00:03:40,910 --> 00:03:45,710
+This is a list of topics that we talked about.
+
+46
+00:03:46,480 --> 00:03:51,160
+Then I save now there's
+
+47
+00:03:51,730 --> 00:03:52,480
+time coats
+
+48
+00:03:58,540 --> 00:04:00,940
+all the time quotes are here, groups.
+
+49
+00:04:05,200 --> 00:04:10,090
+Yeah. So they are here. Now I know that you also
+
+50
+00:04:10,091 --> 00:04:12,340
+already scheduled podcast episodes.
+
+51
+00:04:12,670 --> 00:04:17,350
+So because that time available when you were killing
+
+52
+00:04:17,351 --> 00:04:21,490
+them, and now we can add the time quotes,
+
+53
+00:04:28,480 --> 00:04:30,840
+let me go two episodes.
+
+54
+00:04:31,860 --> 00:04:37,170
+And this one I'll give you
+
+55
+00:04:37,171 --> 00:04:39,180
+details and then edit.
+
+56
+00:04:41,860 --> 00:04:45,670
+Hmm. Yeah.
+
+57
+00:04:45,970 --> 00:04:51,100
+That's an edge. And
+
+58
+00:04:51,101 --> 00:04:54,100
+then the list of things from here.
+
+59
+00:05:11,940 --> 00:05:17,280
+Yeah. Usually it is finding somebody online because
+
+60
+00:05:17,281 --> 00:05:22,770
+we talked about that every episode,
+
+61
+00:05:31,530 --> 00:05:37,470
+because that's the list that we put now to anchor and
+
+62
+00:05:37,471 --> 00:05:42,120
+to use control sheets. If I just do control
+
+63
+00:05:42,121 --> 00:05:45,570
+V yeah.
+
+64
+00:05:45,580 --> 00:05:50,550
+It doesn't do any work. Yeah.
+
+65
+00:05:52,560 --> 00:05:56,730
+Anyways. Yeah. I also noticed that the
+
+66
+00:05:56,731 --> 00:05:58,790
+<v 1>Links placed it and not right.
+
+67
+00:05:59,030 --> 00:06:02,270
+So you see that this thinks here,
+
+68
+00:06:02,750 --> 00:06:05,270
+so I think you copied it from,
+
+69
+00:06:07,480 --> 00:06:11,420
+from here because there are these dots.
+
+70
+00:06:11,900 --> 00:06:15,930
+You actually need to copy this from the description when you click.
+
+71
+00:06:16,640 --> 00:06:20,690
+So the links are all there.
+
+72
+00:06:22,250 --> 00:06:24,680
+Um, yeah. So let me do this right now.
+
+73
+00:06:24,681 --> 00:06:30,140
+Let me fix it. So I copied and
+
+74
+00:06:30,141 --> 00:06:32,990
+cool and replace it.
+
+75
+00:06:33,070 --> 00:06:37,190
+And now I need to this next.
+
+76
+00:06:43,180 --> 00:06:45,340
+Yeah, I think it's fine.
+
+77
+00:06:46,540 --> 00:06:51,110
+So clickable Davis and
+
+78
+00:06:51,111 --> 00:06:53,980
+tiny too, to make sure it's still scheduled.
+
+79
+00:06:56,050 --> 00:07:00,430
+It's scheduled for 7:00 PM.
+
+80
+00:07:01,090 --> 00:07:05,740
+So, so yeah, this is how you get 10 codes.
+
+81
+00:07:06,460 --> 00:07:11,080
+So you use this transcript details. You put this upload a file to topics
+
+82
+00:07:12,130 --> 00:07:16,840
+and then to docs, and then it automatically appears in this folder
+
+83
+00:07:16,841 --> 00:07:17,350
+after.

@@ -1,0 +1,15 @@
+1
+00:00:00,150 --> 00:00:02,370
+One other thing is, um,
+
+2
+00:00:03,450 --> 00:00:06,390
+you know, actually links should have this format.
+
+3
+00:00:06,420 --> 00:00:08,760
+Right. So it's like a sort of, at least,
+
+4
+00:00:10,230 --> 00:00:11,250
+so, yeah, don't forget that.

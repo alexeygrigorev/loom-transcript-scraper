@@ -1,0 +1,603 @@
+1
+00:00:00,150 --> 00:00:03,240
+To show you how I create events,
+
+2
+00:00:03,300 --> 00:00:05,370
+how I can make announcement for the events,
+
+3
+00:00:05,460 --> 00:00:07,740
+but the events. So, first of all,
+
+4
+00:00:07,741 --> 00:00:10,260
+we have two types of events. Well, actually there are more,
+
+5
+00:00:10,290 --> 00:00:13,110
+but two main ones are webinars and live podcasts.
+
+6
+00:00:13,890 --> 00:00:16,200
+So right now I want to create a lifeboat customer.
+
+7
+00:00:17,190 --> 00:00:20,040
+Um, there are no, there are not so many.
+
+8
+00:00:20,041 --> 00:00:23,820
+They are not so many different when it comes to creating announcements.
+
+9
+00:00:24,540 --> 00:00:27,180
+Um, but for podcasts, we have documents like that,
+
+10
+00:00:27,240 --> 00:00:29,310
+that, uh, roughly outline, uh,
+
+11
+00:00:29,430 --> 00:00:31,800
+what podcast will be about in here.
+
+12
+00:00:31,801 --> 00:00:35,610
+We have title and subtitle. So,
+
+13
+00:00:35,611 --> 00:00:38,040
+uh, for the title, this is the title of payment.
+
+14
+00:00:42,810 --> 00:00:45,180
+Um, sorry. I needed to answer to make it,
+
+15
+00:00:45,690 --> 00:00:50,040
+uh, anyways, so this is the event that we need to create right now.
+
+16
+00:00:50,490 --> 00:00:55,260
+So for that, I'll go to Canva. So
+
+17
+00:00:55,261 --> 00:00:58,380
+first we need to create a visual for the event for that we use
+
+18
+00:00:58,381 --> 00:01:02,980
+Commonwealth and the
+
+19
+00:01:03,280 --> 00:01:06,550
+title is quite short. That's why,
+
+20
+00:01:06,580 --> 00:01:11,050
+so there are two options, two line title and one line title.
+
+21
+00:01:11,500 --> 00:01:14,020
+So we need to, this is a short title,
+
+22
+00:01:14,080 --> 00:01:17,860
+so we need one line. So it goes here and paste it.
+
+23
+00:01:18,190 --> 00:01:21,100
+I already created it. Um, but yeah,
+
+24
+00:01:21,880 --> 00:01:24,550
+there was something different. It just double click on this.
+
+25
+00:01:25,060 --> 00:01:27,100
+And then based on the title,
+
+26
+00:01:27,101 --> 00:01:29,800
+then download selected backpack clicked on lot.
+
+27
+00:01:30,490 --> 00:01:33,190
+So this is how you create a visual for the events. This process is
+
+28
+00:01:33,191 --> 00:01:37,930
+the same for both webinars and interviews with
+
+29
+00:01:37,931 --> 00:01:42,790
+costs. And now next we need to go to Eventbrite
+
+30
+00:01:42,850 --> 00:01:45,310
+seven, right? Is the platform we use for creating events.
+
+31
+00:01:47,720 --> 00:01:50,810
+Um, so I'm on the ride.com/my events.
+
+32
+00:01:50,930 --> 00:01:53,090
+Then it rejects to this organization events.
+
+33
+00:01:54,230 --> 00:01:58,040
+And yeah, so these are the events that we have E upcoming events.
+
+34
+00:01:58,520 --> 00:02:03,530
+So this, uh, uh, this game that we have here and
+
+35
+00:02:03,830 --> 00:02:05,870
+yeah, none of these events you see,
+
+36
+00:02:05,900 --> 00:02:09,800
+so one of them is a webinars. It has this TV thing here,
+
+37
+00:02:10,100 --> 00:02:14,120
+and the other one is a workshop. What we need to get an event
+
+38
+00:02:14,180 --> 00:02:18,740
+that is what customer, but that we go to past events.
+
+39
+00:02:21,560 --> 00:02:25,100
+And so this product management essential is for data professionals.
+
+40
+00:02:25,490 --> 00:02:27,590
+This was at podcast,
+
+41
+00:02:27,710 --> 00:02:32,390
+we'll have microphones here. So I click on this product management
+
+42
+00:02:32,600 --> 00:02:36,470
+essentials. Oops, I don't need to click on this.
+
+43
+00:02:36,530 --> 00:02:41,060
+So you move it, I think. Or so what I wanted to
+
+44
+00:02:41,061 --> 00:02:44,030
+do is past,
+
+45
+00:02:44,360 --> 00:02:47,930
+again, what I want to do click is here,
+
+46
+00:02:47,960 --> 00:02:51,710
+these dots, and then I want to click copy.
+
+47
+00:02:55,050 --> 00:02:59,830
+So no, they went is copied. So now go back to this document and
+
+48
+00:02:59,831 --> 00:03:05,270
+then I quickly the title. And then I copy the
+
+49
+00:03:07,430 --> 00:03:12,230
+subtitle as well. The subtitle subtitle also
+
+50
+00:03:12,530 --> 00:03:15,350
+contains the name of the person,
+
+51
+00:03:16,070 --> 00:03:19,340
+and then we need to select the date. So the date for this event
+
+52
+00:03:19,880 --> 00:03:23,450
+is here in the title 28,
+
+53
+00:03:23,720 --> 00:03:27,410
+this Friday, start on.
+
+54
+00:03:27,411 --> 00:03:30,560
+That should be the same. Usually we have events at 5:00 PM,
+
+55
+00:03:31,460 --> 00:03:34,010
+but this one is a little bit different.
+
+56
+00:03:34,040 --> 00:03:36,620
+So we agreed to have this at 1:00 PM.
+
+57
+00:03:37,040 --> 00:03:40,190
+And then in time is usually the events take one hour.
+
+58
+00:03:40,610 --> 00:03:42,830
+So that's why it's one hour.
+
+59
+00:03:43,040 --> 00:03:45,260
+And then I click here, copy them line event page.
+
+60
+00:03:45,560 --> 00:03:49,040
+So it will copy everything from there, from that previous event.
+
+61
+00:03:49,250 --> 00:03:50,210
+Okay. Copy event.
+
+62
+00:03:58,830 --> 00:04:02,040
+Okay. Now I caught two details
+
+63
+00:04:08,060 --> 00:04:10,400
+in details. I need to, first of all,
+
+64
+00:04:11,090 --> 00:04:13,820
+change the image to click delete,
+
+65
+00:04:13,910 --> 00:04:17,870
+then click on this thing and go to download and then select this one
+
+66
+00:04:18,410 --> 00:04:23,330
+could hear coaching. And then now
+
+67
+00:04:23,331 --> 00:04:26,930
+I need to change the outline. So mine is here
+
+68
+00:04:33,820 --> 00:04:37,750
+and then information about the guests. Uh,
+
+69
+00:04:39,450 --> 00:04:42,870
+yeah, I don't think I, Hmm.
+
+70
+00:04:44,760 --> 00:04:49,590
+Okay. I don't feel like a, typically I would have a larger biography here.
+
+71
+00:04:50,250 --> 00:04:52,320
+I don't think I got this from Lynsay.
+
+72
+00:04:54,390 --> 00:04:56,610
+So let me just copy that.
+
+73
+00:04:56,760 --> 00:04:58,770
+That works. Then we can later updated
+
+74
+00:05:03,810 --> 00:05:07,080
+then. Yeah. Let's not make the gap too large.
+
+75
+00:05:07,081 --> 00:05:11,670
+And then I click save. So that sometimes happens
+
+76
+00:05:11,671 --> 00:05:13,770
+that, you know, it looks a bit ugly.
+
+77
+00:05:13,890 --> 00:05:15,540
+I need to clean it a little bit.
+
+78
+00:05:18,180 --> 00:05:21,030
+So that's more Alliance for whatever reasons I don't know.
+
+79
+00:05:21,031 --> 00:05:25,330
+Right. And I click safe again.
+
+80
+00:05:25,360 --> 00:05:30,450
+This time it should be a pain. Then
+
+81
+00:05:30,660 --> 00:05:32,670
+I go to online event page.
+
+82
+00:05:33,630 --> 00:05:35,820
+So first of all, let me check that everything's updated.
+
+83
+00:05:35,970 --> 00:05:38,760
+So main event images, updated description,
+
+84
+00:05:38,790 --> 00:05:42,900
+some of these updated descriptions of data next take or two line on page.
+
+85
+00:05:43,830 --> 00:05:49,050
+And here, this is a link to our previous,
+
+86
+00:05:50,430 --> 00:05:52,920
+to our previous event. So we need to update this one.
+
+87
+00:05:53,970 --> 00:05:58,760
+Uh, so for that correct link should be YouTube dot slash C slash Datadog's
+
+88
+00:05:58,761 --> 00:06:02,000
+club. This is the URL for our YouTube channel.
+
+89
+00:06:02,600 --> 00:06:06,500
+And I just paste it here, PS,
+
+90
+00:06:07,620 --> 00:06:11,180
+then this one, probably with the www.
+
+91
+00:06:11,720 --> 00:06:13,820
+It works. Yeah.
+
+92
+00:06:14,540 --> 00:06:19,430
+So then I click save and then
+
+93
+00:06:19,760 --> 00:06:24,680
+she gets a one thing we need to check in tickets
+
+94
+00:06:24,920 --> 00:06:28,750
+to make sure that yeah,
+
+95
+00:06:29,170 --> 00:06:33,250
+so it depends on, uh, January at 2:00 PM.
+
+96
+00:06:33,280 --> 00:06:35,920
+So it should end after the event and score later,
+
+97
+00:06:35,980 --> 00:06:40,390
+but not before, because sometimes there is an error and for whatever reason,
+
+98
+00:06:40,870 --> 00:06:44,470
+um, ticket sale finishes before the event starts.
+
+99
+00:06:45,010 --> 00:06:47,170
+So I always double check that it's not the case here.
+
+100
+00:06:47,260 --> 00:06:49,300
+So here it's not the case. It,
+
+101
+00:06:49,420 --> 00:06:51,460
+the sale ends after the payment ends,
+
+102
+00:06:51,520 --> 00:06:55,090
+which is, uh, the correct behavior they expect to be here.
+
+103
+00:06:56,890 --> 00:07:01,540
+Now I click on publish and here I see it's,
+
+104
+00:07:01,570 --> 00:07:04,090
+uh, three public published now.
+
+105
+00:07:04,780 --> 00:07:07,090
+So yeah, here and I think for change, I just click,
+
+106
+00:07:07,091 --> 00:07:07,540
+publish.
+
+107
+00:07:16,550 --> 00:07:18,560
+Okay, cool. Now, uh,
+
+108
+00:07:18,561 --> 00:07:22,430
+we use, uh, was that there for integration?
+
+109
+00:07:22,431 --> 00:07:25,520
+So what happens is now in slack,
+
+110
+00:07:25,880 --> 00:07:30,470
+we should have this announcement channel and to see that even bright
+
+111
+00:07:30,590 --> 00:07:34,310
+creates this announcement saying that we've just created a new event,
+
+112
+00:07:34,340 --> 00:07:39,110
+career coaching, and it describes everything by WhatsApp.
+
+113
+00:07:39,111 --> 00:07:41,750
+It also does is if go to eat up.
+
+114
+00:07:45,020 --> 00:07:48,560
+If I go to meet up, then I go to the group,
+
+115
+00:07:48,920 --> 00:07:53,000
+I organize and then go click,
+
+116
+00:07:53,390 --> 00:07:58,880
+click, click treatment. And
+
+117
+00:07:58,881 --> 00:08:03,590
+they did a saved draft, actually had recently received
+
+118
+00:08:03,591 --> 00:08:06,500
+an email from meetup saying that from Zapier,
+
+119
+00:08:06,530 --> 00:08:11,540
+saying that they are going to stop supporting integration with meetup sometime
+
+120
+00:08:11,541 --> 00:08:17,480
+in the future. So probably after sometime this video will not be actual.
+
+121
+00:08:18,680 --> 00:08:22,460
+It will need updating, but it at least to give you an idea of
+
+122
+00:08:22,461 --> 00:08:26,570
+what exactly now, how exactly you can create an event in meetup.
+
+123
+00:08:26,810 --> 00:08:31,880
+So right now we have a draft here. Now I click edit and
+
+124
+00:08:31,881 --> 00:08:34,340
+here is here. It already has a title. It has a date.
+
+125
+00:08:34,880 --> 00:08:36,950
+It has a time duration,
+
+126
+00:08:36,951 --> 00:08:39,140
+one hour, it doesn't have a picture.
+
+127
+00:08:39,410 --> 00:08:44,060
+So I need to upload a picture. So there's the same picture
+
+128
+00:08:44,150 --> 00:08:47,210
+we used. So it needs a bit of cropping.
+
+129
+00:08:48,770 --> 00:08:51,050
+And then the text here is not formatted.
+
+130
+00:08:51,080 --> 00:08:54,830
+I need to format it. So responsibilities
+
+131
+00:08:55,050 --> 00:08:57,270
+<v 1>To go, coach what's called problems.
+
+132
+00:08:59,820 --> 00:09:02,610
+It's not then about the guests.
+
+133
+00:09:02,640 --> 00:09:04,860
+And then I usually remove this thing.
+
+134
+00:09:04,861 --> 00:09:09,780
+Can just leave this joint. And yeah,
+
+135
+00:09:10,020 --> 00:09:13,530
+yeah, this is pretty arbitrary, but a leave it like that,
+
+136
+00:09:14,310 --> 00:09:18,090
+then make this event online. And then I select our YouTube channel,
+
+137
+00:09:18,210 --> 00:09:22,170
+the sending cause we used in right then here,
+
+138
+00:09:22,350 --> 00:09:24,570
+I don't know to all guests. I don't know why is up here,
+
+139
+00:09:24,630 --> 00:09:28,380
+keeps creating it like that. And then yeah,
+
+140
+00:09:28,400 --> 00:09:30,960
+click publish. So that period here,
+
+141
+00:09:31,230 --> 00:09:34,860
+just copy some information. So then I need to edit it a little bit,
+
+142
+00:09:35,280 --> 00:09:39,540
+but not more than that. And when this integration with Zapier stops working,
+
+143
+00:09:41,010 --> 00:09:43,140
+I'll probably need to put this main area,
+
+144
+00:09:43,530 --> 00:09:47,610
+which probably will be quite annoying. But yeah,
+
+145
+00:09:47,640 --> 00:09:52,200
+I think I just noticed, I just clicked also on an osteo
+
+146
+00:09:52,201 --> 00:09:56,070
+lens. So this is also an important step because now everyone who is in
+
+147
+00:09:56,071 --> 00:09:59,730
+our meetup group will get an education that are one is created.
+
+148
+00:10:02,540 --> 00:10:06,950
+Okay. I think that's all. So this is how we create events in Eventbrite
+
+149
+00:10:06,980 --> 00:10:10,280
+and meetup. And yeah.
+
+150
+00:10:10,490 --> 00:10:13,580
+So now we have this event here, um,
+
+151
+00:10:14,180 --> 00:10:15,590
+and that's, that's all.

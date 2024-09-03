@@ -1,0 +1,843 @@
+1
+00:00:01,740 --> 00:00:05,250
+Hi. I want to show you one more thing,
+
+2
+00:00:05,280 --> 00:00:08,910
+but before I do this, so I want to talk about this open source
+
+3
+00:00:08,911 --> 00:00:10,980
+spotlighting. But before I do this,
+
+4
+00:00:10,981 --> 00:00:14,610
+I want to give you a quick recap of what we have so far,
+
+5
+00:00:14,640 --> 00:00:19,380
+what we've discussed so far, because I understand this may be causing
+
+6
+00:00:19,381 --> 00:00:22,890
+a lot of confusions, so have a lot of different activities.
+
+7
+00:00:22,920 --> 00:00:26,970
+So we have weekly life events. So this events that happen every week,
+
+8
+00:00:27,600 --> 00:00:31,140
+that I've ever been those events with slides that we have on Tuesdays.
+
+9
+00:00:31,770 --> 00:00:33,780
+And we have flap interviews on Fridays.
+
+10
+00:00:33,900 --> 00:00:35,940
+I already show it to you and these things.
+
+11
+00:00:36,750 --> 00:00:39,630
+And then we have book off the week thing. This is where in white
+
+12
+00:00:39,720 --> 00:00:44,520
+book authors in slack. So the event is kinda it's happening in slack.
+
+13
+00:00:45,000 --> 00:00:49,680
+Um, people ask questions in slack and then podcast is when we
+
+14
+00:00:49,681 --> 00:00:54,420
+record live in through use and take these interviews and release
+
+15
+00:00:54,421 --> 00:00:59,010
+them as audio only versions. You probably remember this page podcast
+
+16
+00:00:59,070 --> 00:01:03,780
+on the, on our website. And then the other thing I haven't talked about
+
+17
+00:01:03,781 --> 00:01:08,280
+is this open source spotlight. So if we go to our YouTube channel,
+
+18
+00:01:09,720 --> 00:01:13,650
+one of the playlist, there we go to playlist to one of the playlist.
+
+19
+00:01:13,680 --> 00:01:15,720
+There is this open source spotlight spotlighting.
+
+20
+00:01:16,470 --> 00:01:19,140
+So there are quite a few different things there.
+
+21
+00:01:19,560 --> 00:01:24,450
+So this are, uh, we invite authors of different open source libraries
+
+22
+00:01:24,451 --> 00:01:27,630
+to give a talk, uh, to give a presentation about Dave,
+
+23
+00:01:27,650 --> 00:01:32,460
+to, for example, the environment running on AWS
+
+24
+00:01:32,461 --> 00:01:32,600
+or .
+
+25
+00:01:36,600 --> 00:01:41,220
+Um, yeah, and now I recently had one
+
+26
+00:01:41,221 --> 00:01:44,250
+of the authors also who presented their tool.
+
+27
+00:01:44,820 --> 00:01:47,850
+And now I want to upload this to YouTube and I want to show
+
+28
+00:01:47,851 --> 00:01:51,750
+you that. So I have it somewhere.
+
+29
+00:01:51,780 --> 00:01:55,440
+Yeah. So we use zoom for recording.
+
+30
+00:01:56,850 --> 00:02:00,840
+So you see this link. So probably after this recording is done,
+
+31
+00:02:00,870 --> 00:02:03,570
+I will forward to you such a link. So you will have a link
+
+32
+00:02:04,020 --> 00:02:08,340
+also with passcode. So let me open it in incognito.
+
+33
+00:02:08,341 --> 00:02:13,200
+So you see how to look for you. So I
+
+34
+00:02:13,201 --> 00:02:17,460
+will copy the link and then it will ask for password.
+
+35
+00:02:18,600 --> 00:02:21,420
+So now I need to copy this password.
+
+36
+00:02:23,370 --> 00:02:24,960
+Yes. Except cookies.
+
+37
+00:02:27,900 --> 00:02:32,760
+And then we have this recording. So this is the demo
+
+38
+00:02:32,761 --> 00:02:35,790
+that, uh, uh, our own gave.
+
+39
+00:02:36,360 --> 00:02:38,970
+So now I am going to click on download.
+
+40
+00:02:39,690 --> 00:02:43,470
+So it is being saved right now. Um,
+
+41
+00:02:43,740 --> 00:02:45,750
+he is saving a lot of things.
+
+42
+00:02:45,810 --> 00:02:50,400
+We only need one. So now I don't
+
+43
+00:02:50,401 --> 00:02:53,940
+know which of them. So let me wait till everything downloads.
+
+44
+00:02:54,990 --> 00:02:59,530
+I will, uh, open them folder.
+
+45
+00:03:00,610 --> 00:03:04,810
+So yeah, there are two things. So one is gallery and then just one,
+
+46
+00:03:04,811 --> 00:03:09,370
+the other one is just recording. So gallery is when we have you see,
+
+47
+00:03:09,371 --> 00:03:12,220
+it's like phase by phase or like say by site.
+
+48
+00:03:13,120 --> 00:03:16,210
+So me on one side and then on the other side,
+
+49
+00:03:17,590 --> 00:03:20,040
+and there's just a,
+
+50
+00:03:20,980 --> 00:03:23,440
+where it's you see, it's not side by side.
+
+51
+00:03:23,650 --> 00:03:26,710
+I have those insights. Um,
+
+52
+00:03:26,740 --> 00:03:28,750
+so we are interested in this. Oops.
+
+53
+00:03:30,520 --> 00:03:32,800
+I don't know why it doing that.
+
+54
+00:03:33,040 --> 00:03:35,680
+So on one account, my, as my account,
+
+55
+00:03:35,681 --> 00:03:38,170
+it's not doing this gallery thing on another.
+
+56
+00:03:38,171 --> 00:03:41,650
+It is doing this, but we're interested in this thing.
+
+57
+00:03:42,250 --> 00:03:46,810
+So now I go to YouTube and then on YouTube,
+
+58
+00:03:46,840 --> 00:03:50,230
+there is this create and to make sure that you are in Datadog's club
+
+59
+00:03:50,300 --> 00:03:56,410
+account. So I click upload video lead
+
+60
+00:03:56,411 --> 00:04:01,000
+brings me to the studio and now I just drag and drop it.
+
+61
+00:04:03,160 --> 00:04:06,730
+So now it starts uploading. Now I need to give it a name.
+
+62
+00:04:07,240 --> 00:04:09,520
+So the name should be, uh,
+
+63
+00:04:09,550 --> 00:04:11,800
+let me open, uh,
+
+64
+00:04:11,801 --> 00:04:14,740
+other, uh, other events in this,
+
+65
+00:04:14,980 --> 00:04:17,950
+uh, open source spotlight. You will see the pattern.
+
+66
+00:04:19,300 --> 00:04:23,260
+So the pattern is open source spotlight when dash the name of the tube
+
+67
+00:04:23,261 --> 00:04:25,390
+and dash the name of the presenter.
+
+68
+00:04:26,500 --> 00:04:31,450
+So it is open source book,
+
+69
+00:04:31,540 --> 00:04:34,780
+LOTE, and dash the name of the tool.
+
+70
+00:04:36,340 --> 00:04:40,960
+Now what's the name of the tool it's cast lit.
+
+71
+00:04:42,970 --> 00:04:46,660
+Yeah. Cool way. Um,
+
+72
+00:04:48,550 --> 00:04:53,620
+let me into this nuttin Castile IO.
+
+73
+00:04:53,800 --> 00:04:58,360
+Yeah. This one. So this has the name of the tool cost,
+
+74
+00:05:00,100 --> 00:05:02,410
+uh, cost lit.
+
+75
+00:05:03,460 --> 00:05:07,660
+And then the name of this person.
+
+76
+00:05:07,661 --> 00:05:10,060
+Let me check. Uh,
+
+77
+00:05:11,230 --> 00:05:19,060
+yeah, so this is his name. So let me copy it and
+
+78
+00:05:19,061 --> 00:05:23,410
+paste it here. And now we need to give a,
+
+79
+00:05:23,440 --> 00:05:27,070
+some description. So usually it falls this way,
+
+80
+00:05:27,130 --> 00:05:30,250
+uh, that this formats months first the name of the two,
+
+81
+00:05:30,640 --> 00:05:33,130
+then a colon, and then,
+
+82
+00:05:34,240 --> 00:05:37,570
+um, some description of the tool,
+
+83
+00:05:37,630 --> 00:05:41,860
+what the tool was doing. So thinking get happy.
+
+84
+00:05:41,861 --> 00:05:44,560
+Usually they have this one liner. Uh,
+
+85
+00:05:44,860 --> 00:05:49,540
+so this is open source solution or diversity of solution
+
+86
+00:05:49,541 --> 00:05:51,670
+that helps you periodically sync the data.
+
+87
+00:05:52,630 --> 00:05:56,470
+Um, now let me just take that.
+
+88
+00:05:58,070 --> 00:06:00,650
+Yeah. Uh,
+
+89
+00:06:01,290 --> 00:06:04,310
+sort of CTL solution, uh,
+
+90
+00:06:09,230 --> 00:06:13,160
+Yeah, that's a long description, but the key who can live it like that,
+
+91
+00:06:13,970 --> 00:06:16,250
+and then we have some links.
+
+92
+00:06:16,280 --> 00:06:18,680
+So this links, uh, ask, uh,
+
+93
+00:06:20,310 --> 00:06:24,890
+ask their guest, Jay usually should ask the
+
+94
+00:06:24,891 --> 00:06:27,920
+guest, Hey, what are the links you want to include? And they sent me
+
+95
+00:06:27,921 --> 00:06:31,640
+the links. Usually it's the link to get her page.
+
+96
+00:06:31,820 --> 00:06:36,620
+So let me conclude it right away up.
+
+97
+00:06:37,400 --> 00:06:41,480
+And then yeah, ask the, I guess first, and then here will be time
+
+98
+00:06:41,481 --> 00:06:43,850
+codes, time codes.
+
+99
+00:06:43,900 --> 00:06:46,220
+Uh, yeah, so basically,
+
+100
+00:06:46,221 --> 00:06:49,880
+uh, you know, what 10 codes are, and this is something I also ask
+
+101
+00:06:50,330 --> 00:06:53,000
+the guest to provide.
+
+102
+00:06:54,320 --> 00:06:57,980
+Um, yeah, you see it actually already is uploaded right now.
+
+103
+00:06:57,981 --> 00:07:00,410
+I do not select any playlist. This will,
+
+104
+00:07:00,440 --> 00:07:02,660
+I will do all the activity end,
+
+105
+00:07:02,930 --> 00:07:05,270
+but, uh, the playlist will be open source spotlight.
+
+106
+00:07:05,540 --> 00:07:08,420
+I do not select it right now, monetization.
+
+107
+00:07:08,450 --> 00:07:12,980
+Or then I go to  because
+
+108
+00:07:13,010 --> 00:07:15,530
+ads are quite annoying. And then this isn't listed,
+
+109
+00:07:16,010 --> 00:07:20,780
+this isn't listed because they want the author to the guests
+
+110
+00:07:20,810 --> 00:07:26,780
+to be able to review it. So I click save and
+
+111
+00:07:26,781 --> 00:07:28,940
+then let me copy the link.
+
+112
+00:07:29,870 --> 00:07:31,970
+So get shareable link.
+
+113
+00:07:32,030 --> 00:07:34,070
+So now it is copied to clipboard.
+
+114
+00:07:35,240 --> 00:07:36,290
+Now we'll copy it here.
+
+115
+00:07:39,590 --> 00:07:42,470
+And, uh, what I want to do now,
+
+116
+00:07:42,530 --> 00:07:44,750
+I don't know if it's a possible right now.
+
+117
+00:07:45,140 --> 00:07:47,660
+Uh, maybe it is not yet possible.
+
+118
+00:07:47,900 --> 00:07:52,310
+I actually am lucky. It is usually it takes a bit of time before
+
+119
+00:07:52,400 --> 00:07:56,150
+the edit. Uh, now option is available.
+
+120
+00:07:56,420 --> 00:07:59,570
+Maybe this video was quite small. Um,
+
+121
+00:07:59,750 --> 00:08:04,340
+so I'll show it right away. Usually what I do is
+
+122
+00:08:05,000 --> 00:08:08,270
+no. Hello. Hi Lexi. Yeah.
+
+123
+00:08:08,300 --> 00:08:13,100
+Can you tell us if you want, uh where's I need to trim,
+
+124
+00:08:14,630 --> 00:08:19,280
+so, and then in 3m, I want to remove silence
+
+125
+00:08:19,281 --> 00:08:20,030
+at the beginning.
+
+126
+00:08:24,110 --> 00:08:27,830
+So silence at the beginning. Now I click preview to check.
+
+127
+00:08:28,880 --> 00:08:32,420
+No. Hello. So little bit more.
+
+128
+00:08:39,010 --> 00:08:42,370
+Yeah. Can you tell us a few words about yourself and about the tool
+
+129
+00:08:42,371 --> 00:08:45,280
+you want to show us? Sure. Yeah,
+
+130
+00:08:45,370 --> 00:08:49,930
+that is okay. Maybe actually to start with hello?
+
+131
+00:08:54,280 --> 00:08:58,410
+No. Hello. I want to enlarge it to leave a bit.
+
+132
+00:09:00,020 --> 00:09:00,240
+Oh
+
+133
+00:09:04,960 --> 00:09:07,500
+yeah. I like that. Hello? Hi Lexi.
+
+134
+00:09:08,610 --> 00:09:11,940
+Yeah. Can you tell us a few words about yourself and about the two
+
+135
+00:09:11,941 --> 00:09:16,410
+of you? Okay. So that we remove this from the beginning,
+
+136
+00:09:16,800 --> 00:09:19,350
+and then I also want to make sure that at the end,
+
+137
+00:09:19,380 --> 00:09:21,660
+there is also no silence.
+
+138
+00:09:22,170 --> 00:09:24,780
+Yep. Bye bye everyone. Bye.
+
+139
+00:09:26,700 --> 00:09:29,490
+So yeah, we don't need this bit at the end as well.
+
+140
+00:09:30,120 --> 00:09:32,970
+That's usually all I need to remove.
+
+141
+00:09:33,090 --> 00:09:36,390
+Sometimes maybe there is something in the middle in this one.
+
+142
+00:09:36,391 --> 00:09:38,670
+We do not need to remove anything from the middle.
+
+143
+00:09:40,170 --> 00:09:46,680
+So I click preview and now I click save paid
+
+144
+00:09:46,681 --> 00:09:48,960
+will take some time to upload, but,
+
+145
+00:09:48,961 --> 00:09:52,230
+uh, I ordered you not to upload to update.
+
+146
+00:09:52,590 --> 00:09:55,110
+I already have a link. So once these link,
+
+147
+00:09:55,290 --> 00:10:00,180
+once the video is updated, I will send this to the guests.
+
+148
+00:10:01,740 --> 00:10:06,420
+Um, so I usually do this from my work account because in my
+
+149
+00:10:06,421 --> 00:10:08,820
+work account, they have a zoom that,
+
+150
+00:10:08,821 --> 00:10:12,330
+uh, uh, that is better basically.
+
+151
+00:10:12,360 --> 00:10:14,640
+So it is more expensive, but at work,
+
+152
+00:10:14,670 --> 00:10:17,250
+uh, I can use it for, for these things as well.
+
+153
+00:10:18,150 --> 00:10:22,950
+Um, oh, actually, you see, I run already provided the links.
+
+154
+00:10:23,550 --> 00:10:28,350
+So let me just go ahead and put them, I don't need this anymore,
+
+155
+00:10:29,490 --> 00:10:34,140
+so, and not what
+
+156
+00:10:34,141 --> 00:10:36,990
+they wanted. Yeah.
+
+157
+00:10:36,991 --> 00:10:41,100
+This one. So in details links.
+
+158
+00:10:41,280 --> 00:10:43,470
+So we already asked the guest for links.
+
+159
+00:10:43,980 --> 00:10:46,380
+He already sent, so we don't need,
+
+160
+00:10:47,340 --> 00:10:49,230
+I can get her because I already did edit this.
+
+161
+00:10:51,870 --> 00:10:54,990
+Okay. Click save. And now this link,
+
+162
+00:10:56,820 --> 00:10:59,880
+copy this link and send it to the guest.
+
+163
+00:11:01,620 --> 00:11:04,860
+And, uh, I, I don't,
+
+164
+00:11:05,160 --> 00:11:08,970
+uh, because for me took a bit of time to process this.
+
+165
+00:11:09,820 --> 00:11:12,000
+I'm going to say, sorry.
+
+166
+00:11:13,420 --> 00:11:15,450
+Apologies for the delay.
+
+167
+00:11:16,470 --> 00:11:21,090
+Um, here is that we do,
+
+168
+00:11:22,290 --> 00:11:26,670
+uh, please, uh, sent me that time.
+
+169
+00:11:26,940 --> 00:11:29,460
+What's oh,
+
+170
+00:11:30,060 --> 00:11:32,220
+maybe I should be a bit more polite and say,
+
+171
+00:11:32,760 --> 00:11:36,000
+thanks again for presenting,
+
+172
+00:11:37,140 --> 00:11:39,150
+presenting the tourists,
+
+173
+00:11:39,300 --> 00:11:43,860
+CAS lit, please send
+
+174
+00:11:43,861 --> 00:11:48,120
+me the time cones. Good time. Cause when you have time,
+
+175
+00:11:50,160 --> 00:11:52,980
+um, yeah, have a great week. Something like this.
+
+176
+00:11:53,650 --> 00:11:58,480
+I will probably add you as well. So let me copy your
+
+177
+00:11:58,481 --> 00:11:59,020
+email.
+
+178
+00:12:03,430 --> 00:12:04,930
+I will copy your email as well.
+
+179
+00:12:13,600 --> 00:12:13,840
+<v 1>Yeah.
+
+180
+00:12:18,280 --> 00:12:20,770
+Um, yeah, so let's all.
+
+181
+00:12:20,860 --> 00:12:25,300
+And because it takes a bit of time to update,
+
+182
+00:12:25,330 --> 00:12:27,400
+uh, for YouTube to update it.
+
+183
+00:12:27,430 --> 00:12:29,650
+So what I will do is I will click here,
+
+184
+00:12:29,860 --> 00:12:31,930
+let me check a usual Gaetan g-mail has it.
+
+185
+00:12:32,800 --> 00:12:35,680
+So if I click reply, the usual Jamail also has it.
+
+186
+00:12:36,250 --> 00:12:38,500
+So, um,
+
+187
+00:12:38,650 --> 00:12:40,960
+so here are the skid schedule sent.
+
+188
+00:12:41,200 --> 00:12:43,630
+So I do schedule time,
+
+189
+00:12:44,290 --> 00:12:47,650
+um, peak date and time.
+
+190
+00:12:47,680 --> 00:12:50,650
+So right now for me, it's 5:00 PM.
+
+191
+00:12:50,920 --> 00:12:53,800
+So what I'll do is I will send it at,
+
+192
+00:12:53,830 --> 00:12:56,800
+uh, let's say tomorrow,
+
+193
+00:12:57,310 --> 00:12:59,950
+uh, I think he's in India. Um,
+
+194
+00:12:59,980 --> 00:13:02,740
+so tomorrow maybe, um,
+
+195
+00:13:03,550 --> 00:13:05,710
+6:00 AM we're mourning for him.
+
+196
+00:13:06,700 --> 00:13:10,090
+Um, so yeah, by tomorrow I am sure.
+
+197
+00:13:10,600 --> 00:13:14,320
+Uh, it will be ready. Okay.
+
+198
+00:13:15,910 --> 00:13:16,810
+Yeah. Skillset.
+
+199
+00:13:19,630 --> 00:13:21,640
+Yeah. You don't have to do this for tomorrow.
+
+200
+00:13:21,641 --> 00:13:23,950
+You don't need to know where they are. Exactly.
+
+201
+00:13:24,280 --> 00:13:27,190
+This is just a thought that if I send it right now,
+
+202
+00:13:27,430 --> 00:13:30,790
+uh, in two hours it will be like midnight for him,
+
+203
+00:13:30,820 --> 00:13:35,260
+even a middle of the night. So I hope of course he's notifications are
+
+204
+00:13:35,261 --> 00:13:38,170
+turned off just in case I did this for morning.
+
+205
+00:13:38,380 --> 00:13:41,440
+So then in the morning he will see this, uh,
+
+206
+00:13:41,500 --> 00:13:44,380
+he will check this. He will reply with,
+
+207
+00:13:44,410 --> 00:13:48,460
+uh, time codes. And then I think there is a lot of the video
+
+208
+00:13:48,461 --> 00:13:50,830
+that shows how to add time coats.
+
+209
+00:13:51,220 --> 00:13:55,840
+So once he sends them, you will just need to place
+
+210
+00:13:55,841 --> 00:13:58,630
+them here. Okay.
+
+211
+00:13:58,690 --> 00:14:00,890
+That's all I wanted to show you.

@@ -1,0 +1,155 @@
+1
+00:00:00,870 --> 00:00:05,850
+Um, there is another thing I wanted to show you in MailChimp is
+
+2
+00:00:05,851 --> 00:00:10,860
+experts in audience to all the emails that
+
+3
+00:00:10,861 --> 00:00:13,080
+we have. So you need to, this is,
+
+4
+00:00:13,440 --> 00:00:18,630
+first of all, I usually just start with MailChimp website and
+
+5
+00:00:18,720 --> 00:00:23,400
+I'm already logged in. So usually when you log in,
+
+6
+00:00:23,401 --> 00:00:26,590
+you end up in this, okay.
+
+7
+00:00:26,920 --> 00:00:29,680
+This dashboard, but then you go to audience.
+
+8
+00:00:30,790 --> 00:00:33,100
+And so the audiences data docs,
+
+9
+00:00:33,490 --> 00:00:38,740
+you click on you contacts, and
+
+10
+00:00:38,920 --> 00:00:41,350
+then you click on experts, audience.
+
+11
+00:00:42,250 --> 00:00:49,350
+So click on this and it starts expediting the audience and
+
+12
+00:00:50,070 --> 00:00:52,260
+yeah. Then you will receive an email.
+
+13
+00:00:53,040 --> 00:00:55,020
+So I already just deepest,
+
+14
+00:00:55,950 --> 00:00:56,280
+<v 1>Um,
+
+15
+00:00:57,750 --> 00:01:00,900
+I click on this one, so you should receive an email.
+
+16
+00:01:01,740 --> 00:01:02,910
+Do you think click on something.
+
+17
+00:01:03,300 --> 00:01:03,840
+<v 1>Oh, okay.
+
+18
+00:01:04,560 --> 00:01:06,840
+I could take some time, um,
+
+19
+00:01:07,330 --> 00:01:10,200
+one minute or something like this and then,
+
+20
+00:01:10,230 --> 00:01:14,100
+uh, yeah, this expert, this radio. I can just click on this button,
+
+21
+00:01:14,160 --> 00:01:17,280
+I think. Yeah. And then he'd done lots of file.
+
+22
+00:01:18,750 --> 00:01:23,460
+So we open this file and we put the name,
+
+23
+00:01:23,461 --> 00:01:28,680
+it would say 20, 22, 0 5 or 17.
+
+24
+00:01:28,681 --> 00:01:33,120
+What's the day to day 27 97.
+
+25
+00:01:33,510 --> 00:01:36,060
+Um, members export. Yeah, that's fine.
+
+26
+00:01:36,270 --> 00:01:40,380
+Oh, we'll kind of just leave it like this, just to,
+
+27
+00:01:40,560 --> 00:01:43,980
+so, and then,
+
+28
+00:01:44,040 --> 00:01:48,060
+um, then we upload this to Google drive,
+
+29
+00:01:49,170 --> 00:01:52,470
+so we'll just create a folder that Google use for this.
+
+30
+00:01:55,830 --> 00:01:58,590
+So create a folder that,
+
+31
+00:01:58,650 --> 00:01:59,040
+uh,
+
+32
+00:02:00,630 --> 00:02:01,650
+<v 1>Oh cool.
+
+33
+00:02:06,150 --> 00:02:06,870
+Least.
+
+34
+00:02:14,610 --> 00:02:17,700
+All right. So you're going to need to upload to this folder data,
+
+35
+00:02:17,701 --> 00:02:22,320
+top slot made in these backups and just take this thing and upload
+
+36
+00:02:22,321 --> 00:02:26,340
+it here. Now it should be applauded.
+
+37
+00:02:30,240 --> 00:02:34,530
+Okay. This is how you take a backup of the audience from MailChimp.
+
+38
+00:02:35,940 --> 00:02:39,300
+Um, yeah. And this is how you save it to Google drive.
+
+39
+00:02:40,770 --> 00:02:41,400
+That's all I wanted.

@@ -1,0 +1,755 @@
+1
+00:00:00,440 --> 00:00:05,470
+Hi. So I wanted to talk to you about this sponsorship CRM table that
+
+2
+00:00:05,471 --> 00:00:07,190
+we have, an air table or database.
+
+3
+00:00:08,610 --> 00:00:12,720
+So here, what we do, what I do is I keep track of all
+
+4
+00:00:12,721 --> 00:00:15,080
+the sponsored content I see online,
+
+5
+00:00:15,390 --> 00:00:18,040
+like in LinkedIn and Twitter, um,
+
+6
+00:00:18,041 --> 00:00:20,320
+everywhere. And, um,
+
+7
+00:00:20,390 --> 00:00:22,800
+like an example of this would be, so for example,
+
+8
+00:00:22,801 --> 00:00:27,000
+when I look, um, a world of Word demos,
+
+9
+00:00:27,001 --> 00:00:29,400
+you see this advertisement,
+
+10
+00:00:29,401 --> 00:00:34,160
+right? So potentially all these companies who run their
+
+11
+00:00:34,161 --> 00:00:37,440
+advertisement, they could be hm,
+
+12
+00:00:38,410 --> 00:00:40,960
+um, potential, um,
+
+13
+00:00:40,961 --> 00:00:43,200
+potential sponsors for the community, right?
+
+14
+00:00:44,090 --> 00:00:47,560
+Um, so what I do is,
+
+15
+00:00:47,561 --> 00:00:51,690
+um, I capture all these content,
+
+16
+00:00:51,691 --> 00:00:54,370
+sponsored content in this table.
+
+17
+00:00:55,500 --> 00:01:00,170
+So it's called sponsored content. And then here we also have companies.
+
+18
+00:01:00,260 --> 00:01:02,850
+So these are the companies who, um,
+
+19
+00:01:03,350 --> 00:01:06,130
+who produce this sponsored content, you know.
+
+20
+00:01:06,131 --> 00:01:09,250
+And then, um, so here we have links. So I know that,
+
+21
+00:01:09,251 --> 00:01:11,490
+uh, um, so Neptune,
+
+22
+00:01:11,491 --> 00:01:14,090
+for example, had this sponsored content,
+
+23
+00:01:14,170 --> 00:01:16,770
+right? So we can link this databases,
+
+24
+00:01:16,820 --> 00:01:20,530
+um, we can link this, uh, um,
+
+25
+00:01:21,320 --> 00:01:23,330
+tables in the database,
+
+26
+00:01:23,500 --> 00:01:25,530
+uh, with each other, right?
+
+27
+00:01:26,770 --> 00:01:31,010
+Maybe platform.
+
+28
+00:01:31,960 --> 00:01:35,280
+Okay. So yeah,
+
+29
+00:01:35,281 --> 00:01:39,120
+it's, it's linkable. Did I save it or how do I save it?
+
+30
+00:01:42,270 --> 00:01:42,760
+<v 1>Okay.
+
+31
+00:01:44,170 --> 00:01:46,820
+Yeah, I think it was saved. Um,
+
+32
+00:01:46,821 --> 00:01:48,860
+and then also we here,
+
+33
+00:01:48,861 --> 00:01:51,100
+so we have a list of companies and, um,
+
+34
+00:01:51,130 --> 00:01:55,460
+each company has a status. So Prospect is a company which we have not
+
+35
+00:01:55,461 --> 00:01:57,820
+yet reached out. Um,
+
+36
+00:01:58,220 --> 00:02:00,660
+remember I was showing you how to reach out to companies.
+
+37
+00:02:01,470 --> 00:02:06,220
+Um, so this companies we haven't reached out yet to then
+
+38
+00:02:06,221 --> 00:02:10,100
+contacted is when we reached out, but we didn't get any response back.
+
+39
+00:02:10,240 --> 00:02:14,980
+And established contact is when they actually replied something back and we started talking.
+
+40
+00:02:15,880 --> 00:02:20,060
+And then client is when they actually decided to sponsor us to pay for
+
+41
+00:02:20,061 --> 00:02:22,100
+a newsletter or to run, um,
+
+42
+00:02:22,490 --> 00:02:24,700
+a workshop with us or sponsor the community.
+
+43
+00:02:26,110 --> 00:02:30,660
+So for example, scale, um, we run a campaign with them like a couple
+
+44
+00:02:30,661 --> 00:02:33,420
+of weeks ago, maybe you remember? And,
+
+45
+00:02:33,421 --> 00:02:35,980
+uh, then we also have past clients. So people who are,
+
+46
+00:02:36,680 --> 00:02:40,020
+who were our clients, but in the past.
+
+47
+00:02:40,750 --> 00:02:44,060
+So perhaps we need to reestablish contact with them.
+
+48
+00:02:46,550 --> 00:02:50,690
+And then we have last, uh, statuses loss declined is when,
+
+49
+00:02:50,740 --> 00:02:53,450
+uh, yeah, when we made a suggestion,
+
+50
+00:02:53,451 --> 00:02:58,330
+but they, uh, made it didn't answer anything or explicitly declined the,
+
+51
+00:02:59,410 --> 00:03:01,920
+um, sponsor in the community. Okay, So we have that,
+
+52
+00:03:01,921 --> 00:03:04,040
+the sponsored content I already showed you.
+
+53
+00:03:04,270 --> 00:03:07,680
+Then we have contacts. So this is the information about,
+
+54
+00:03:07,890 --> 00:03:12,040
+uh, um, about contacts,
+
+55
+00:03:12,041 --> 00:03:14,240
+about people who we talk to.
+
+56
+00:03:14,290 --> 00:03:17,360
+So like, I actually need to populate this more,
+
+57
+00:03:17,430 --> 00:03:20,720
+like, to add more data. I will probably ask,
+
+58
+00:03:20,770 --> 00:03:22,400
+uh, for your help with this.
+
+59
+00:03:24,210 --> 00:03:26,640
+Um, yeah. And then finally deals is,
+
+60
+00:03:26,641 --> 00:03:30,360
+uh, when we actually managed to somehow close,
+
+61
+00:03:30,590 --> 00:03:34,640
+like with, who was it? So here maybe I will add,
+
+62
+00:03:34,730 --> 00:03:39,530
+um, uh, mines to be workshop,
+
+63
+00:03:39,690 --> 00:03:44,570
+right? So the type would be workshop,
+
+64
+00:03:45,400 --> 00:03:50,370
+then company would be mines db and
+
+65
+00:03:50,371 --> 00:03:54,630
+contact would be Costa I an execution date.
+
+66
+00:03:55,250 --> 00:03:57,470
+Was it, um, last week?
+
+67
+00:03:58,230 --> 00:03:58,720
+Oops,
+
+68
+00:04:02,910 --> 00:04:05,930
+let me check. Yeah, it was six days ago.
+
+69
+00:04:05,931 --> 00:04:09,610
+What's the date? So September 21.
+
+70
+00:04:12,070 --> 00:04:17,390
+So would be September 21,
+
+71
+00:04:17,391 --> 00:04:20,470
+right? Um, yeah,
+
+72
+00:04:20,600 --> 00:04:25,110
+so this is called like CRM or client Relationship
+
+73
+00:04:25,111 --> 00:04:27,470
+Management. I think it stands for that.
+
+74
+00:04:28,120 --> 00:04:30,990
+Um, or customer relationship management. So here,
+
+75
+00:04:31,160 --> 00:04:33,790
+um, so I just want to keep track of,
+
+76
+00:04:33,840 --> 00:04:36,990
+um, everything we do for sponsorship.
+
+77
+00:04:37,570 --> 00:04:41,910
+And the way it starts is I find some sponsored content online,
+
+78
+00:04:43,570 --> 00:04:45,750
+and then I, um,
+
+79
+00:04:47,460 --> 00:04:50,090
+so this sponsored content belongs to some company.
+
+80
+00:04:50,400 --> 00:04:53,250
+Then we try to find somebody from this company to contact,
+
+81
+00:04:54,140 --> 00:04:56,410
+um, I already showed you how to do this, right?
+
+82
+00:04:56,411 --> 00:04:59,930
+And then, um, sometimes it goes well and we get a deal.
+
+83
+00:05:00,130 --> 00:05:03,010
+Sometimes they don't reply and then yeah,
+
+84
+00:05:03,011 --> 00:05:05,290
+well we, um,
+
+85
+00:05:07,140 --> 00:05:09,890
+no, well, sometimes they reply and decline too,
+
+86
+00:05:10,290 --> 00:05:12,850
+right? So it is just to keep track of all that.
+
+87
+00:05:13,990 --> 00:05:18,250
+And I wanted to show you how to add content here to sponsored content.
+
+88
+00:05:18,360 --> 00:05:21,010
+I actually wanted to show you,
+
+89
+00:05:21,100 --> 00:05:24,490
+So I recently saw, um,
+
+90
+00:05:24,880 --> 00:05:27,170
+some sponsored content from a newsletter.
+
+91
+00:05:29,030 --> 00:05:31,220
+So here I would probably just,
+
+92
+00:05:31,430 --> 00:05:34,750
+uh, forward you, mm,
+
+93
+00:05:35,330 --> 00:05:39,350
+now I need to find it. Uh, I would just probably forward you an
+
+94
+00:05:39,351 --> 00:05:44,950
+email or send you a link, and then you will fill it in and
+
+95
+00:05:45,040 --> 00:05:47,110
+uh, um, where it is,
+
+96
+00:05:47,320 --> 00:05:52,070
+um, sequence. So this
+
+97
+00:05:52,071 --> 00:05:55,230
+company that I'm looking for, they run,
+
+98
+00:05:56,500 --> 00:05:59,770
+um, a paid advertisement in a newsletter,
+
+99
+00:05:59,900 --> 00:06:03,370
+in some other newsletter, right? And, uh, because they did this in the other
+
+100
+00:06:03,371 --> 00:06:07,970
+newsletter, mm, I want to offer them to do it with us
+
+101
+00:06:07,971 --> 00:06:10,290
+too. So I will pause it for a sec.
+
+102
+00:06:10,291 --> 00:06:13,330
+Second, uh, I will find it and then I will continue.
+
+103
+00:06:14,550 --> 00:06:17,400
+Okay, I found this. So this is the guest post.
+
+104
+00:06:17,570 --> 00:06:20,640
+So this is, uh, is a sponsored post,
+
+105
+00:06:20,641 --> 00:06:23,720
+even though I don't think they explicitly say that this is sponsored,
+
+106
+00:06:24,300 --> 00:06:27,110
+but yeah, I think, um, yeah,
+
+107
+00:06:27,120 --> 00:06:29,510
+we thank a Leo for the support of the sequence.
+
+108
+00:06:29,511 --> 00:06:34,590
+So this was a sponsored post. So yeah,
+
+109
+00:06:34,780 --> 00:06:39,030
+I, um, I will not forward it right now to you because,
+
+110
+00:06:39,031 --> 00:06:41,830
+uh, well I will in the future, but,
+
+111
+00:06:42,000 --> 00:06:45,750
+so I will open it in the browser. So I will take this post
+
+112
+00:06:46,290 --> 00:06:48,590
+and I will go and open it in,
+
+113
+00:06:48,591 --> 00:06:50,990
+sponsor it content. So this would be the link,
+
+114
+00:06:51,550 --> 00:06:52,630
+actually, let me open it in this.
+
+115
+00:06:54,320 --> 00:06:59,290
+So then it's uh, let me just copy
+
+116
+00:07:00,420 --> 00:07:03,360
+for types of data errors. You can fix it now,
+
+117
+00:07:03,410 --> 00:07:05,480
+Content type is,
+
+118
+00:07:05,570 --> 00:07:08,360
+uh, hmm. Uh,
+
+119
+00:07:08,361 --> 00:07:10,720
+let me go with article. So it's guest post,
+
+120
+00:07:10,721 --> 00:07:14,080
+so kind of article. So then it's newsletter,
+
+121
+00:07:14,360 --> 00:07:18,480
+right? And then relevancy, let's say medium,
+
+122
+00:07:19,910 --> 00:07:23,280
+then company [Inaudible].
+
+123
+00:07:23,930 --> 00:07:26,400
+So we don't have this company, so we will add this.
+
+124
+00:07:26,401 --> 00:07:30,190
+So let me make sure I type it correctly.
+
+125
+00:07:31,360 --> 00:07:33,430
+So gle, so I just,
+
+126
+00:07:33,431 --> 00:07:38,070
+because, uh, there is no record in this company table with
+
+127
+00:07:38,110 --> 00:07:42,190
+Galeo. So I just created, and then content is,
+
+128
+00:07:42,240 --> 00:07:46,950
+um, let me just say guest post in the,
+
+129
+00:07:47,780 --> 00:07:48,270
+<v 1>Oops,
+
+130
+00:07:50,660 --> 00:07:53,590
+A guest post in the
+
+131
+00:07:54,540 --> 00:07:57,110
+<v 1>Sequence newsletter.
+
+132
+00:08:00,650 --> 00:08:05,340
+Okay? Yeah. So this is how we add content
+
+133
+00:08:05,341 --> 00:08:08,520
+to this table. And,
+
+134
+00:08:08,610 --> 00:08:11,070
+um, yeah,
+
+135
+00:08:11,071 --> 00:08:13,470
+perhaps I will also show you this one.
+
+136
+00:08:14,600 --> 00:08:16,990
+Mm, so how to do it with,
+
+137
+00:08:17,080 --> 00:08:19,510
+uh, um,
+
+138
+00:08:19,511 --> 00:08:22,910
+with Google search. So I will,
+
+139
+00:08:22,911 --> 00:08:27,540
+so this, so I will copy
+
+140
+00:08:27,541 --> 00:08:30,500
+this link and I will just,
+
+141
+00:08:30,590 --> 00:08:35,260
+um, put it here too. So probably
+
+142
+00:08:35,261 --> 00:08:37,620
+I will not send you this, uh,
+
+143
+00:08:38,130 --> 00:08:43,060
+Google search links. I will probably send you links from Twitter or LinkedIn.
+
+144
+00:08:43,630 --> 00:08:46,020
+Um, but uh,
+
+145
+00:08:46,021 --> 00:08:48,740
+for now, let me just, uh, also for completeness,
+
+146
+00:08:49,710 --> 00:08:52,460
+um, put this to, in,
+
+147
+00:08:52,590 --> 00:08:56,830
+in this spreadsheet. So I will,
+
+148
+00:08:58,680 --> 00:09:01,990
+so how do I do this for Google searches?
+
+149
+00:09:02,520 --> 00:09:05,590
+So I think here we have a source with Google search,
+
+150
+00:09:06,130 --> 00:09:10,450
+right? And then I usually write here in the comment what kind of word
+
+151
+00:09:10,640 --> 00:09:15,450
+search term was it? So then it is product
+
+152
+00:09:15,451 --> 00:09:18,410
+service here. This is not go away.
+
+153
+00:09:19,180 --> 00:09:21,330
+So this is not an ebook,
+
+154
+00:09:21,331 --> 00:09:24,810
+this is not an article. This is like a landing page for day product,
+
+155
+00:09:26,000 --> 00:09:30,240
+right? So then that's why the classification is product service.
+
+156
+00:09:32,150 --> 00:09:34,760
+Then source would be Google search.
+
+157
+00:09:34,840 --> 00:09:38,080
+Relevance is, um, well let's go with Medium.
+
+158
+00:09:38,860 --> 00:09:42,080
+And then company, Company is,
+
+159
+00:09:42,170 --> 00:09:44,760
+uh, let me close this one company.
+
+160
+00:09:44,890 --> 00:09:49,510
+Is Google Aios such
+
+161
+00:09:49,511 --> 00:09:50,070
+a long hero
+
+162
+00:09:51,330 --> 00:09:55,980
+And go com. Yeah,
+
+163
+00:09:56,170 --> 00:09:58,700
+I guess this is how you type it with,
+
+164
+00:10:03,350 --> 00:10:07,880
+I don't know if I have them. Did I type it correctly?
+
+165
+00:10:10,310 --> 00:10:13,440
+Yeah, so we create a new one because it doesn't exist.
+
+166
+00:10:13,820 --> 00:10:18,360
+And then the term ML ops search
+
+167
+00:10:18,361 --> 00:10:21,560
+journal. And then I will do the same for other things.
+
+168
+00:10:21,860 --> 00:10:23,880
+And then maybe at some point later,
+
+169
+00:10:24,070 --> 00:10:27,520
+I will show you how I do this for mm,
+
+170
+00:10:28,420 --> 00:10:31,800
+for LinkedIn, for Twitter, and also for YouTube.
+
+171
+00:10:31,810 --> 00:10:34,760
+So for YouTube, sometimes I get advertisement like,
+
+172
+00:10:34,761 --> 00:10:37,640
+do I have it now? No, but sometimes,
+
+173
+00:10:37,810 --> 00:10:41,780
+uh, like there are some I am watching for some videos,
+
+174
+00:10:41,781 --> 00:10:46,060
+and then there is an advertisement also for some relevant company,
+
+175
+00:10:46,100 --> 00:10:49,420
+right? And then the source would be YouTube in this case.
+
+176
+00:10:51,390 --> 00:10:53,460
+Mm. Okay. So yeah,
+
+177
+00:10:53,461 --> 00:10:55,700
+I think that's, um, that's what I wanted to show you.
+
+178
+00:10:56,510 --> 00:10:59,780
+So, okay, go away. So that's what I wanted to show you.
+
+179
+00:10:59,910 --> 00:11:04,420
+So this, uh, CRM table and that we have
+
+180
+00:11:04,450 --> 00:11:06,540
+four tabs, um, um,
+
+181
+00:11:06,541 --> 00:11:11,140
+here, four tables. And then maybe what you can do is you
+
+182
+00:11:11,141 --> 00:11:15,740
+can create an overview document of all these tabs and what they are needed
+
+183
+00:11:15,741 --> 00:11:20,860
+for. Um, and then also create process document
+
+184
+00:11:20,880 --> 00:11:24,260
+for, uh, adding stuff to this,
+
+185
+00:11:24,310 --> 00:11:28,300
+to sponsored content tap. And then for contacts and for deals,
+
+186
+00:11:28,910 --> 00:11:31,620
+we will talk about this later. I will also record,
+
+187
+00:11:31,690 --> 00:11:33,780
+record the video and,
+
+188
+00:11:33,950 --> 00:11:36,220
+uh, yeah, we will cover it there too.
+
+189
+00:11:36,550 --> 00:11:37,140
+So that's a.

@@ -1,0 +1,687 @@
+1
+00:00:01,000 --> 00:00:06,010
+Um, right. So I wanted to show you how to add the expenses
+
+2
+00:00:06,040 --> 00:00:09,940
+to this spreadsheet and this spreadsheet keeping,
+
+3
+00:00:10,510 --> 00:00:13,030
+send this spreadsheet. I keep all the expenses.
+
+4
+00:00:15,350 --> 00:00:20,920
+Yeah. So this is basically a bid date. When the
+
+5
+00:00:20,921 --> 00:00:23,860
+invoice was issued, this is the date when it was paid,
+
+6
+00:00:24,490 --> 00:00:27,280
+but typically, um, for all the expenses,
+
+7
+00:00:27,281 --> 00:00:30,610
+the dates, you shoot them. Date weight is the same.
+
+8
+00:00:31,210 --> 00:00:34,030
+Usually sometimes, uh, my it's invoice from,
+
+9
+00:00:34,031 --> 00:00:36,130
+for example, um,
+
+10
+00:00:36,880 --> 00:00:39,580
+Bayer or invoice from Pablo.
+
+11
+00:00:40,210 --> 00:00:44,200
+Sometimes it takes a date, but usually that way on the same day for
+
+12
+00:00:44,201 --> 00:00:48,520
+all the automated services, like the one I am going to show you now.
+
+13
+00:00:49,270 --> 00:00:51,940
+So for all these sources, usually the date is the same.
+
+14
+00:00:52,840 --> 00:00:54,940
+So what I want to show you is, uh,
+
+15
+00:00:55,000 --> 00:00:57,730
+right now I paid for this thing, Uber suggest,
+
+16
+00:00:57,820 --> 00:01:02,440
+so this is a service, almost like a uterus
+
+17
+00:01:02,441 --> 00:01:06,130
+for that. And it's actually, you can see it here.
+
+18
+00:01:07,220 --> 00:01:10,930
+Hope you can see it on how it looks like on your end.
+
+19
+00:01:12,460 --> 00:01:16,540
+So this is the payment and how I want to now add this to
+
+20
+00:01:18,950 --> 00:01:23,170
+this spreadsheet. Right? So of course it's possible to do it manually,
+
+21
+00:01:24,190 --> 00:01:27,310
+but I want to show you an automated way to do this.
+
+22
+00:01:28,420 --> 00:01:31,420
+So there's the full I will probably,
+
+23
+00:01:31,421 --> 00:01:33,760
+when you get it, it will be like,
+
+24
+00:01:33,790 --> 00:01:34,300
+I will.
+
+25
+00:01:39,330 --> 00:01:42,690
+So when you will get it, maybe I will forward it to you or
+
+26
+00:01:42,691 --> 00:01:45,300
+something that is so let me just do four words.
+
+27
+00:01:45,990 --> 00:01:50,910
+Uh it's and I'll forward
+
+28
+00:01:50,911 --> 00:01:51,900
+it to myself to,
+
+29
+00:01:59,110 --> 00:02:02,740
+yeah. So I we'll do that now.
+
+30
+00:02:04,030 --> 00:02:08,410
+And yeah, so now you see the payment and usually the,
+
+31
+00:02:08,500 --> 00:02:11,020
+what you can do to turn this into a PDF.
+
+32
+00:02:11,080 --> 00:02:14,530
+So we need PDFs here,
+
+33
+00:02:14,650 --> 00:02:18,430
+support each line here. We need it with the actual expense,
+
+34
+00:02:18,431 --> 00:02:22,570
+like to, uh, to prove that the infection,
+
+35
+00:02:22,870 --> 00:02:26,650
+somehow I want to create a video from this.
+
+36
+00:02:27,100 --> 00:02:30,250
+So in g-mail I just do print,
+
+37
+00:02:34,430 --> 00:02:37,400
+um, yeah. Uh,
+
+38
+00:02:39,500 --> 00:02:39,920
+save it
+
+39
+00:02:44,270 --> 00:02:47,180
+Sometimes. So for many things,
+
+40
+00:02:47,530 --> 00:02:51,860
+EDF will be generated automatically by the service in something stable,
+
+41
+00:02:51,861 --> 00:02:54,800
+not so you need to, um,
+
+42
+00:02:55,010 --> 00:02:57,350
+pay it immediately. So,
+
+43
+00:02:57,440 --> 00:03:02,080
+um, I will save this file and now I
+
+44
+00:03:02,081 --> 00:03:04,520
+have a special email channel.
+
+45
+00:03:04,521 --> 00:03:08,800
+We'll now use it's called voice.
+
+46
+00:03:08,980 --> 00:03:11,260
+So respond through books in west attachment.
+
+47
+00:03:11,290 --> 00:03:13,390
+I will send you the, this, uh,
+
+48
+00:03:15,760 --> 00:03:20,980
+um, this email. So this is an automation that will automatically
+
+49
+00:03:20,981 --> 00:03:26,350
+say file to pro books. I will show you to occasional and Alliance.
+
+50
+00:03:26,380 --> 00:03:29,890
+Yeah. So now with this invoice,
+
+51
+00:03:30,700 --> 00:03:35,590
+I will attach it, this invoice,
+
+52
+00:03:35,650 --> 00:03:37,690
+we just paid it
+
+53
+00:03:42,770 --> 00:03:46,400
+and here in the topics I need to drive to.
+
+54
+00:03:48,570 --> 00:03:52,050
+So what would it be also file name.
+
+55
+00:03:52,410 --> 00:03:58,010
+So I will show you throw books in
+
+56
+00:03:58,020 --> 00:03:58,860
+drug books,
+
+57
+00:04:03,380 --> 00:04:07,940
+voices folder, you see the way invoices look like the
+
+58
+00:04:07,941 --> 00:04:12,200
+way I own names look pike he's first is date then minus then there
+
+59
+00:04:12,201 --> 00:04:16,160
+is a to here I would suggest.
+
+60
+00:04:16,850 --> 00:04:21,590
+And what book the file in Dropbox
+
+61
+00:04:22,340 --> 00:04:27,710
+with date minus. So
+
+62
+00:04:27,711 --> 00:04:32,090
+let me just send it, uh,
+
+63
+00:04:34,550 --> 00:04:36,950
+I will, uh,
+
+64
+00:04:37,280 --> 00:04:40,940
+so it might take a bit of time before it works.
+
+65
+00:04:42,260 --> 00:04:46,850
+Let me see, like maybe one minute or something
+
+66
+00:04:46,851 --> 00:04:47,360
+like this.
+
+67
+00:04:56,380 --> 00:04:58,540
+Yeah. We'll just put it on pause.
+
+68
+00:05:00,890 --> 00:05:03,650
+Okay. So we see that this thing appears here.
+
+69
+00:05:03,830 --> 00:05:06,770
+It didn't appear yet in a Dropbox.
+
+70
+00:05:06,800 --> 00:05:08,930
+Maybe they just need to adjust the question.
+
+71
+00:05:10,100 --> 00:05:15,080
+So now either in robots I'm
+
+72
+00:05:15,090 --> 00:05:15,560
+open it
+
+73
+00:05:20,820 --> 00:05:23,400
+and we see them some ways.
+
+74
+00:05:25,940 --> 00:05:30,900
+Okay. Now you see like
+
+75
+00:05:31,020 --> 00:05:34,220
+edit this line here. So I need to change it's five minutes.
+
+76
+00:05:34,221 --> 00:05:37,370
+So Uber suggest. Yeah. And then,
+
+77
+00:05:37,460 --> 00:05:40,580
+so this is the provider. This is the company that they should,
+
+78
+00:05:40,581 --> 00:05:42,740
+the invoice in this form,
+
+79
+00:05:42,950 --> 00:05:46,670
+what we need to write, what exactly was the thing that,
+
+80
+00:05:48,680 --> 00:05:53,360
+so I will open it and I will see that we paid
+
+81
+00:05:53,600 --> 00:05:56,480
+or this month set up.
+
+82
+00:05:58,460 --> 00:05:58,760
+Um,
+
+83
+00:06:11,330 --> 00:06:15,590
+So now we need to do this. So this one,
+
+84
+00:06:15,591 --> 00:06:20,360
+the invoice is in euros. That's why we don't need anything in this column.
+
+85
+00:06:20,510 --> 00:06:25,130
+So in this column would have the price in the United States.
+
+86
+00:06:25,970 --> 00:06:29,210
+So we only care about response. So for this one,
+
+87
+00:06:29,211 --> 00:06:32,150
+the price is 419.
+
+88
+00:06:32,840 --> 00:06:37,550
+So I need to write minus four condoms because
+
+89
+00:06:37,551 --> 00:06:40,070
+this is paid for this.
+
+90
+00:06:40,220 --> 00:06:42,590
+That's why it's negative. So when it's income,
+
+91
+00:06:42,591 --> 00:06:45,140
+it's positive when it's expense,
+
+92
+00:06:45,141 --> 00:06:49,210
+it's negative. And so,
+
+93
+00:06:49,720 --> 00:06:52,120
+yeah. Let me also show you too.
+
+94
+00:06:52,270 --> 00:06:55,120
+Uh, you will be seen. So usually the way I do,
+
+95
+00:06:55,540 --> 00:07:01,650
+I just send email to this address to
+
+96
+00:07:01,651 --> 00:07:07,170
+be S suggest, where
+
+97
+00:07:07,171 --> 00:07:10,360
+did they send it to
+
+98
+00:07:17,010 --> 00:07:20,600
+this one? And then,
+
+99
+00:07:20,660 --> 00:07:24,860
+um, I send it and then let's say at the end of the day,
+
+100
+00:07:24,861 --> 00:07:28,730
+or the end of the week, I come to the spreadsheet and it will
+
+101
+00:07:28,731 --> 00:07:31,250
+be sent. So now I want to show you how to deal.
+
+102
+00:07:31,700 --> 00:07:36,320
+So go and I want to do,
+
+103
+00:07:36,800 --> 00:07:40,270
+oops, sorry.
+
+104
+00:07:40,271 --> 00:07:43,520
+I want to take care of this one.
+
+105
+00:07:47,240 --> 00:07:50,210
+So I want to care this slide. All right.
+
+106
+00:07:51,050 --> 00:07:55,640
+So in norm we see slide off and we
+
+107
+00:07:55,641 --> 00:07:56,090
+pay
+
+108
+00:08:03,690 --> 00:08:08,490
+again. It was uterus since here.
+
+109
+00:08:08,940 --> 00:08:14,130
+Let me check here.
+
+110
+00:08:14,220 --> 00:08:16,410
+I just opened the inwards,
+
+111
+00:08:18,780 --> 00:08:23,760
+All the noise and here
+
+112
+00:08:23,880 --> 00:08:28,050
+is engage in OPA.
+
+113
+00:08:36,360 --> 00:08:38,850
+Um, yeah, let me show you how I feel.
+
+114
+00:08:39,690 --> 00:08:45,480
+So MailChimp should be like
+
+115
+00:08:45,481 --> 00:08:50,160
+capital. So usually, so this like automatically gets their file
+
+116
+00:08:50,161 --> 00:08:55,110
+name here, and then I manually change it in the spreadsheet.
+
+117
+00:08:55,800 --> 00:08:57,960
+So MailChimp and what's
+
+118
+00:09:02,360 --> 00:09:03,320
+so standard plan.
+
+119
+00:09:10,250 --> 00:09:10,460
+Yeah.
+
+120
+00:09:17,660 --> 00:09:21,740
+And then I want to show you these two things like how I see.
+
+121
+00:09:22,130 --> 00:09:26,720
+So it's actually in the, I think
+
+122
+00:09:26,721 --> 00:09:29,360
+it should be here. So MailChimp, you see,
+
+123
+00:09:29,361 --> 00:09:33,920
+because MailChimp charges in the dollars and then there is a
+
+124
+00:09:33,921 --> 00:09:39,680
+conversion to uterus. So I take this one and
+
+125
+00:09:39,770 --> 00:09:44,210
+we'll here and it seems is European.
+
+126
+00:09:44,211 --> 00:09:49,580
+It's a German thing. So it dots in
+
+127
+00:09:49,581 --> 00:09:52,010
+numbers. So I need to replace the dot.
+
+128
+00:09:53,180 --> 00:09:59,120
+And here, I think here
+
+129
+00:09:59,121 --> 00:10:05,070
+I've looked at things in uterus. All
+
+130
+00:10:05,071 --> 00:10:09,750
+the bookkeeping was
+
+131
+00:10:09,751 --> 00:10:11,910
+in Germany and in dollars.
+
+132
+00:10:13,740 --> 00:10:16,950
+And then for this type of fury, let me see what's into,
+
+133
+00:10:21,900 --> 00:10:24,600
+um, it's update,
+
+134
+00:10:25,410 --> 00:10:26,580
+email updated.
+
+135
+00:10:44,400 --> 00:10:47,730
+And then for this one, unfortunately I didn't pay it wrong.
+
+136
+00:10:48,300 --> 00:10:51,480
+You know, I paid it from my other car,
+
+137
+00:10:51,750 --> 00:10:56,730
+just my personal one. I don't know for some reasons or high-purity it
+
+138
+00:10:56,731 --> 00:10:58,830
+was attached.
+
+139
+00:10:59,970 --> 00:11:02,160
+Um, it will save.
+
+140
+00:11:02,161 --> 00:11:05,670
+So I didn't use this one so that one I will have to,
+
+141
+00:11:05,880 --> 00:11:08,550
+uh, to feel and myself.
+
+142
+00:11:11,020 --> 00:11:14,620
+Yeah. So this is how this looks like.
+
+143
+00:11:16,180 --> 00:11:20,110
+Um, they have a system that they use for even the same,
+
+144
+00:11:23,170 --> 00:11:26,980
+usually. So for example, let me show you how I do with this with
+
+145
+00:11:26,981 --> 00:11:29,410
+MailChimp. I don't know if you folks have access to this.
+
+146
+00:11:29,950 --> 00:11:30,610
+Maybe you will,
+
+147
+00:11:36,150 --> 00:11:40,560
+students in MailChimp.
+
+148
+00:11:42,810 --> 00:11:45,870
+So when I get the notification that MailChimp charters,
+
+149
+00:11:45,871 --> 00:11:48,870
+something, so these is the MailChimp,
+
+150
+00:11:49,230 --> 00:11:53,860
+right? So then they usually send invoice.
+
+151
+00:11:54,130 --> 00:11:58,780
+So the invoice is often billing,
+
+152
+00:12:06,490 --> 00:12:07,270
+reading history.
+
+153
+00:12:11,680 --> 00:12:13,780
+And I can see this one,
+
+154
+00:12:14,440 --> 00:12:16,660
+I suppose, be the latest payment.
+
+155
+00:12:16,810 --> 00:12:18,550
+So I can just click view.
+
+156
+00:12:24,670 --> 00:12:30,160
+And then like, it's the same, the same thing as we did last
+
+157
+00:12:30,161 --> 00:12:34,470
+time, as I showed you, you see my,
+
+158
+00:12:34,630 --> 00:12:39,040
+to, uh, you send this email to this email,
+
+159
+00:12:39,220 --> 00:12:43,740
+so I will actually send it to
+
+160
+00:12:43,741 --> 00:12:44,310
+you right now.
+
+161
+00:12:57,710 --> 00:13:02,390
+I will include this. Yeah. So you send
+
+162
+00:13:02,391 --> 00:13:05,300
+it to email central box.
+
+163
+00:13:08,830 --> 00:13:12,680
+So I think that it will be moral. So what I think when you
+
+164
+00:13:12,710 --> 00:13:18,760
+now make sense to you, maybe be R and
+
+165
+00:13:18,761 --> 00:13:23,740
+R documents in our process
+
+166
+00:13:23,741 --> 00:13:26,290
+docs, come on log.
+
+167
+00:13:31,830 --> 00:13:36,490
+So maybe the older keeping
+
+168
+00:13:38,920 --> 00:13:44,590
+Voices and let's start there.
+
+169
+00:13:46,610 --> 00:13:51,800
+And I think from this video, you will a like
+
+170
+00:13:51,860 --> 00:13:55,840
+Tuesday may be, so yeah,
+
+171
+00:13:56,200 --> 00:13:58,810
+I hope it wasn't too much. Yeah.
+
+172
+00:13:59,260 --> 00:13:59,620
+Diesel.

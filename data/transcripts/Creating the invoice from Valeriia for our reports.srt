@@ -1,0 +1,143 @@
+1
+00:00:00,500 --> 00:00:04,930
+Hi. So this is the invoice that Valeria created or template,
+
+2
+00:00:06,510 --> 00:00:10,770
+and I wanted, um, so we need to pay here every month.
+
+3
+00:00:10,820 --> 00:00:15,410
+So every month there will be an automatic transfer to your account from
+
+4
+00:00:15,590 --> 00:00:18,210
+our pH, right? Uh,
+
+5
+00:00:18,211 --> 00:00:20,410
+but for the report, for our tax report,
+
+6
+00:00:20,420 --> 00:00:24,890
+we need an invoice, right? So this is the invoice for the first month,
+
+7
+00:00:24,891 --> 00:00:27,410
+and I want to show you what we need to do, what we will
+
+8
+00:00:27,411 --> 00:00:30,050
+need to do every month to, um,
+
+9
+00:00:32,310 --> 00:00:37,500
+to include, uh, like what we will need to change in this invoice to
+
+10
+00:00:37,501 --> 00:00:40,060
+include it in our report, right?
+
+11
+00:00:40,430 --> 00:00:45,540
+So, um, the only thing we will need to do is change
+
+12
+00:00:45,541 --> 00:00:50,180
+this part. So this is where the invoice number and
+
+13
+00:00:50,181 --> 00:00:52,500
+dates are. So here, uh,
+
+14
+00:00:52,501 --> 00:00:55,540
+for example, for the next month, uh, when the report will be,
+
+15
+00:00:56,190 --> 00:00:58,220
+uh, when the invoice will be generated in March.
+
+16
+00:00:58,221 --> 00:01:01,100
+So we change this thing, we change this thing.
+
+17
+00:01:01,230 --> 00:01:04,820
+So this is the prefix for the invoice, this is the date for the
+
+18
+00:01:04,821 --> 00:01:09,580
+invoice. And then services provided in March would be February,
+
+19
+00:01:09,581 --> 00:01:12,940
+March, right?
+
+20
+00:01:12,941 --> 00:01:17,100
+And in, um, April it would be March,
+
+21
+00:01:17,101 --> 00:01:21,620
+April, and so on, right? So for every month there will be the
+
+22
+00:01:22,020 --> 00:01:24,500
+previous month and the current month. And then,
+
+23
+00:01:24,501 --> 00:01:27,260
+yeah. So these are the three things we need to change. Now let me
+
+24
+00:01:28,050 --> 00:01:32,140
+unchange them, and then now you just,
+
+25
+00:01:32,430 --> 00:01:34,740
+uh, download a PDF
+
+26
+00:01:39,550 --> 00:01:42,170
+And include it in our, um,
+
+27
+00:01:42,860 --> 00:01:47,650
+in our report, like usual. So now I will include this invoice and
+
+28
+00:01:47,651 --> 00:01:50,810
+it'll have today's date. I guess it's not,
+
+29
+00:01:50,860 --> 00:01:53,810
+uh, really a big problem, right? Um,
+
+30
+00:01:54,080 --> 00:01:57,090
+okay, I will just send you the invoice and then you will take care
+
+31
+00:01:57,091 --> 00:01:59,250
+of that, or no,
+
+32
+00:01:59,251 --> 00:02:02,610
+I will send it through the usual process,
+
+33
+00:02:02,611 --> 00:02:05,650
+right? And then, uh, you will see it in the,
+
+34
+00:02:06,540 --> 00:02:08,810
+uh, in the bookkeeping report.
+
+35
+00:02:09,190 --> 00:02:12,770
+But for the next month, when you see that there is a line in
+
+36
+00:02:12,771 --> 00:02:14,530
+our phenome, then you know what to do.

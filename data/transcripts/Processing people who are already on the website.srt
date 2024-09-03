@@ -1,0 +1,399 @@
+1
+00:00:00,060 --> 00:00:02,490
+Okay, so the garden, the area posted.
+
+2
+00:00:02,790 --> 00:00:07,260
+So I see that you added Moran to the table.
+
+3
+00:00:07,890 --> 00:00:11,340
+So just wanted to tell you that if we already have somebody or somebody
+
+4
+00:00:11,341 --> 00:00:14,670
+on the website, you do not need to add them to be stable.
+
+5
+00:00:15,360 --> 00:00:18,720
+So you can quickly check this. If you go to data docs,
+
+6
+00:00:18,721 --> 00:00:23,430
+Klopp to people, and here you can find,
+
+7
+00:00:23,460 --> 00:00:27,030
+uh, um, Moran.
+
+8
+00:00:27,031 --> 00:00:30,090
+Yes. So he's here, he's already on the website and in DTO,
+
+9
+00:00:30,091 --> 00:00:32,220
+right? That this is the reason would have,
+
+10
+00:00:32,280 --> 00:00:35,190
+uh, and narrow in there.
+
+11
+00:00:35,940 --> 00:00:39,870
+So we have from Moran here and now I will show you what to
+
+12
+00:00:39,871 --> 00:00:44,520
+do in case. Now we have a user already a person
+
+13
+00:00:44,550 --> 00:00:46,680
+on the website. Um,
+
+14
+00:00:47,310 --> 00:00:50,310
+yeah. So we will need to go to data talks club,
+
+15
+00:00:50,400 --> 00:00:56,040
+uh, YouTube, this one, and Dan
+
+16
+00:00:56,041 --> 00:01:01,350
+would go to scripts and data and
+
+17
+00:01:01,351 --> 00:01:04,110
+hashes. So here we store people.
+
+18
+00:01:04,500 --> 00:01:09,300
+Um, so this is a sort of encrypted email and this is their
+
+19
+00:01:09,301 --> 00:01:12,120
+ID. So ID is the thing we have here,
+
+20
+00:01:12,810 --> 00:01:16,950
+like, uh, after slash so people slash this is the idea of a Moran
+
+21
+00:01:18,940 --> 00:01:22,210
+and here we have a sort of a mapping from,
+
+22
+00:01:23,080 --> 00:01:25,930
+um, email to a person.
+
+23
+00:01:26,980 --> 00:01:29,590
+Right. And do you see that Moran is not here?
+
+24
+00:01:29,770 --> 00:01:33,430
+And it usually what happens when you feel a forum and to execute there
+
+25
+00:01:33,431 --> 00:01:37,720
+is there is an Euro here to go from an email to person,
+
+26
+00:01:39,520 --> 00:01:42,700
+right. Um, because this thing is relatively,
+
+27
+00:01:43,150 --> 00:01:46,270
+like I created it recently, um,
+
+28
+00:01:47,420 --> 00:01:51,790
+long ago before, long before I had Moran.
+
+29
+00:01:53,410 --> 00:01:56,350
+Hm. Yeah. So here what he needs to do to add him manually.
+
+30
+00:01:56,380 --> 00:01:59,320
+So first of all, you do not need to create this record.
+
+31
+00:01:59,321 --> 00:02:03,940
+So we at least have somebody, you do not need to create a record
+
+32
+00:02:03,970 --> 00:02:06,220
+in, uh, in this database, in the form.
+
+33
+00:02:08,530 --> 00:02:12,460
+Um, but what we need, need to do is soon we need to have
+
+34
+00:02:12,461 --> 00:02:15,910
+this mapping between the email and the person.
+
+35
+00:02:16,570 --> 00:02:20,380
+So click edit here. And,
+
+36
+00:02:20,560 --> 00:02:22,690
+um, now I need to have this encryption,
+
+37
+00:02:22,840 --> 00:02:27,880
+right? So I need to go from this email to
+
+38
+00:02:27,881 --> 00:02:30,100
+this hash. And for that, um,
+
+39
+00:02:30,130 --> 00:02:32,710
+there is a website that I can use, um,
+
+40
+00:02:33,430 --> 00:02:36,760
+this one, Shaw one minus online.com.
+
+41
+00:02:38,200 --> 00:02:41,530
+And I put the email here that I want to encrypt.
+
+42
+00:02:42,700 --> 00:02:47,040
+And it's important to hear that there are no spaces at the beginning and
+
+43
+00:02:47,041 --> 00:02:49,570
+at the end, and it's only lowercase letters.
+
+44
+00:02:49,600 --> 00:02:52,360
+So let's say if email looked like this,
+
+45
+00:02:54,640 --> 00:02:57,580
+and then let's say a space here, so we need to remove a space
+
+46
+00:02:57,581 --> 00:03:00,550
+here and we need, um,
+
+47
+00:03:00,580 --> 00:03:05,800
+make it lowercase, right? Although that there must be lower case and
+
+48
+00:03:05,801 --> 00:03:08,200
+then important that it's,
+
+49
+00:03:08,201 --> 00:03:11,680
+Shajuan here, it's by default and then I could cash.
+
+50
+00:03:12,580 --> 00:03:18,040
+And this is the result. So I take this series out and
+
+51
+00:03:18,041 --> 00:03:21,250
+I put it here at the end, uh,
+
+52
+00:03:21,310 --> 00:03:24,730
+this, and then I need to have the ID of this person.
+
+53
+00:03:25,660 --> 00:03:30,940
+And they  everything like between people slash something and then HTML.
+
+54
+00:03:31,240 --> 00:03:36,190
+So they ID is distinct. So I click here and
+
+55
+00:03:36,191 --> 00:03:40,210
+then it's important to add another line. So always there should be an empty
+
+56
+00:03:40,211 --> 00:03:43,540
+line at the end. So this is what I edit,
+
+57
+00:03:44,080 --> 00:03:47,710
+edit this line. And then I made sure that there is any way on
+
+58
+00:03:47,711 --> 00:03:50,800
+the one, um, which means ya,
+
+59
+00:03:50,860 --> 00:03:53,380
+I'm just key tender here.
+
+60
+00:03:53,950 --> 00:03:56,170
+And then yeah, just,
+
+61
+00:03:56,200 --> 00:03:58,330
+uh, could, can we change this?
+
+62
+00:04:00,210 --> 00:04:04,710
+And, uh, what the next thing I need to do is because you edit
+
+63
+00:04:05,100 --> 00:04:10,290
+already Moran. So I will go to air table and
+
+64
+00:04:10,291 --> 00:04:16,420
+I will mark him as edit ah,
+
+65
+00:04:16,870 --> 00:04:19,810
+people and yeah,
+
+66
+00:04:19,900 --> 00:04:23,290
+Moran. I am mark him as,
+
+67
+00:04:23,770 --> 00:04:28,640
+um, Don and
+
+68
+00:04:29,000 --> 00:04:31,190
+yeah, by the way, since we have three, three here,
+
+69
+00:04:31,191 --> 00:04:35,090
+and we didn't add Twitter before, so I can also show you how to
+
+70
+00:04:35,091 --> 00:04:35,690
+editor.
+
+71
+00:04:38,630 --> 00:04:42,710
+So for that, we need to go to the root here,
+
+72
+00:04:43,280 --> 00:04:45,410
+narrow to three separate repository, then people,
+
+73
+00:04:46,250 --> 00:04:49,130
+and here we look for,
+
+74
+00:04:50,420 --> 00:04:52,910
+um, Mariah. Yeah. He was him.
+
+75
+00:04:53,840 --> 00:04:58,450
+Then we click edit and we just tried
+
+76
+00:04:58,630 --> 00:05:01,510
+to be thorough. And then this is his Twitter handle.
+
+77
+00:05:03,590 --> 00:05:06,950
+And yeah. And just say,
+
+78
+00:05:08,020 --> 00:05:10,700
+let me check if we have the same bio,
+
+79
+00:05:14,050 --> 00:05:18,750
+uh, I think this is the same buyer,
+
+80
+00:05:18,780 --> 00:05:20,880
+right? Yeah. It is the same buyer.
+
+81
+00:05:21,870 --> 00:05:25,410
+So I just click commit changes.
+
+82
+00:05:27,630 --> 00:05:31,740
+Yeah. Here we mark him as edit already.
+
+83
+00:05:31,830 --> 00:05:34,200
+So I changed the status. So this way,
+
+84
+00:05:34,710 --> 00:05:37,950
+this clip to have, will not try to process this record.
+
+85
+00:05:38,010 --> 00:05:40,860
+So it will only process records that we need to add.
+
+86
+00:05:41,070 --> 00:05:43,500
+And there is nothing because every, everything is processed.
+
+87
+00:05:44,640 --> 00:05:47,010
+Um, so yeah,
+
+88
+00:05:47,520 --> 00:05:49,890
+probably. Yeah. So we have this event with Ryan.
+
+89
+00:05:51,150 --> 00:05:54,480
+This is email. And now, because we edit this mapping manually,
+
+90
+00:05:55,140 --> 00:05:59,120
+now it will be able to see that for this email.
+
+91
+00:05:59,390 --> 00:06:03,140
+So it will apply the same thing to the sea mail.
+
+92
+00:06:03,440 --> 00:06:05,870
+And it will find the record for this email,
+
+93
+00:06:05,960 --> 00:06:09,710
+but this is the ID and it will just create an event.
+
+94
+00:06:10,340 --> 00:06:16,550
+So let me now go to actions and three
+
+95
+00:06:16,551 --> 00:06:17,630
+gear generate all,
+
+96
+00:06:21,960 --> 00:06:25,920
+and now in three minutes, each should hopefully work fine.
+
+97
+00:06:27,300 --> 00:06:30,380
+Okay. Let's uh, this is what I wanted to show you,
+
+98
+00:06:30,390 --> 00:06:35,220
+how, how you add emails to this list if people
+
+99
+00:06:35,221 --> 00:06:39,060
+are already, uh, on our website now.
+
+100
+00:06:39,180 --> 00:06:39,570
+So by.

@@ -1,0 +1,163 @@
+1
+00:00:00,345 --> 00:00:04,723
+Hi, so we have this event on next Monday.
+
+2
+00:00:05,824 --> 00:00:08,806
+What we also do for course events is to add them to the course
+
+3
+00:00:08,807 --> 00:00:11,027
+calendar. So we have a bunch of course calendars,
+
+4
+00:00:11,087 --> 00:00:14,089
+I think I added you to all of them. So here we have Data
+
+5
+00:00:14,090 --> 00:00:16,351
+Engineering Zoom Camp, LLM Zoom Camp,
+
+6
+00:00:16,431 --> 00:00:18,432
+Machine Learning Zoom Camp, ML Ops Zoom Camp.
+
+7
+00:00:18,452 --> 00:00:21,154
+So these are calendars for the respective courses.
+
+8
+00:00:22,155 --> 00:00:26,698
+And what I want to do now is to add this thing to the
+
+9
+00:00:26,718 --> 00:00:30,280
+course calendar. So this is a reminder for course participants.
+
+10
+00:00:30,281 --> 00:00:32,912
+To those who are subscribed to the events,
+
+11
+00:00:32,932 --> 00:00:36,594
+so they want to also get notified. And by the way,
+
+12
+00:00:36,654 --> 00:00:40,457
+when we, when you create a process document, like all the context information I
+
+13
+00:00:40,477 --> 00:00:43,199
+give at the beginning, do not forget to put this in the process document.
+
+14
+00:00:43,200 --> 00:00:47,702
+This is very important. Later, it will help us to actually understand why
+
+15
+00:00:47,703 --> 00:00:51,344
+a certain process document exists, what kind of thing it's used for.
+
+16
+00:00:51,965 --> 00:00:54,226
+Anyways, so I wanted to show you how to,
+
+17
+00:00:54,967 --> 00:00:58,589
+how we create events for course calendars.
+
+18
+00:00:59,089 --> 00:01:03,812
+So this one, I think it's, It's called MLZoomCamp Pre-Course
+
+19
+00:01:03,973 --> 00:01:08,656
+Q&A, right? Then the link,
+
+20
+00:01:08,756 --> 00:01:11,197
+the location link, as always,
+
+21
+00:01:11,438 --> 00:01:14,880
+is our YouTube.
+
+22
+00:01:14,980 --> 00:01:17,842
+We don't have any guests. And then when it comes to the calendar,
+
+23
+00:01:18,322 --> 00:01:20,844
+you select Machine Learning Zoom Camp,
+
+24
+00:01:20,845 --> 00:01:22,925
+because this is for Machine Learning Zoom Camp.
+
+25
+00:01:23,406 --> 00:01:26,287
+If it's for another course,
+
+26
+00:01:26,327 --> 00:01:29,329
+then we select the course, right? So right now it's for Machine Learning Zoom
+
+27
+00:01:29,330 --> 00:01:31,482
+Camp, so we make.
+
+28
+00:01:31,483 --> 00:01:36,093
+We select this calendar. Okay, so I
+
+29
+00:01:36,113 --> 00:01:40,196
+think that's it. We can also add descriptions.
+
+30
+00:01:40,197 --> 00:01:42,398
+So in this case, we actually have a Luma event.
+
+31
+00:01:42,399 --> 00:01:44,659
+We can also add that.
+
+32
+00:01:48,482 --> 00:01:53,585
+Where is it? I don't remember actually what we usually
+
+33
+00:01:54,926 --> 00:02:00,070
+write there, but the important thing is like at least we have a
+
+34
+00:02:00,071 --> 00:02:03,792
+rebuttal. Mind that for people who are subscribed to the calendar,
+
+35
+00:02:04,273 --> 00:02:09,436
+they see this. And also the actual start over
+
+36
+00:02:09,456 --> 00:02:12,418
+here. I've already created them.
+
+37
+00:02:12,478 --> 00:02:16,681
+I also amp course launch.
+
+38
+00:02:18,102 --> 00:02:22,845
+So I'll add it and
+
+39
+00:02:22,865 --> 00:02:25,747
+then of course I also need to add this.
+
+40
+00:02:25,748 --> 00:02:30,774
+Okay, so this is how we add course how
+
+41
+00:02:30,794 --> 00:02:32,280
+we add events to course calendars.

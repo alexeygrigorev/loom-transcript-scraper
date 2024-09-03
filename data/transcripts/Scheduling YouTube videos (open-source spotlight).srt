@@ -1,0 +1,111 @@
+1
+00:00:00,510 --> 00:00:04,500
+I want to show how to schedule videos in this particular case,
+
+2
+00:00:04,530 --> 00:00:08,220
+I'm going to schedule a open-source spotlight video,
+
+3
+00:00:10,350 --> 00:00:13,770
+this one. So I'm going to click on details.
+
+4
+00:00:14,910 --> 00:00:18,540
+And first of all, time code, this was like a placeholder.
+
+5
+00:00:18,560 --> 00:00:20,730
+This is the place where time calls will go.
+
+6
+00:00:20,790 --> 00:00:23,850
+So we don't need that. Um,
+
+7
+00:00:25,620 --> 00:00:30,660
+yeah. Then for open source spotlight, we need to select playlist playlist
+
+8
+00:00:30,661 --> 00:00:33,990
+should be open source spotlight done.
+
+9
+00:00:34,840 --> 00:00:36,990
+Then PTO then, uh,
+
+10
+00:00:38,440 --> 00:00:40,590
+to I click here,
+
+11
+00:00:40,650 --> 00:00:45,180
+visibility clicks, Cato, and I'm going to schedule it
+
+12
+00:00:45,210 --> 00:00:49,770
+for today 5:00 PM.
+
+13
+00:00:51,480 --> 00:00:56,220
+And this is central European time. And
+
+14
+00:00:56,600 --> 00:00:59,130
+I just click down. So now scheduled.
+
+15
+00:01:04,040 --> 00:01:09,350
+Yeah, I think that's all I needed to do was,
+
+16
+00:01:09,410 --> 00:01:13,100
+uh, sorry. Now we don't have a 10 table when exactly we should,
+
+17
+00:01:13,850 --> 00:01:17,690
+but at least this typically happens on Wednesdays.
+
+18
+00:01:17,840 --> 00:01:22,190
+So, so typically it happens on Wednesdays.
+
+19
+00:01:22,820 --> 00:01:27,500
+Uh, for example, the next one, this aim open source
+
+20
+00:01:27,501 --> 00:01:32,090
+spotlight about aim. Once we have time codes and
+
+21
+00:01:32,091 --> 00:01:36,770
+links from the speaker, we will release it for
+
+22
+00:01:36,771 --> 00:01:40,400
+the next Wednesday. Yeah.
+
+23
+00:01:40,700 --> 00:01:46,820
+Which is 23, 20
+
+24
+00:01:46,821 --> 00:01:48,860
+third. I will not go in.
+
+25
+00:01:48,980 --> 00:01:51,350
+I am not going to release it right now.
+
+26
+00:01:52,220 --> 00:01:54,620
+So once we have 10 calls, then we can schedule it.
+
+27
+00:01:55,100 --> 00:01:59,920
+Okay. Some things, this is how your schedule
+
+28
+00:01:59,930 --> 00:02:00,560
+will be just.

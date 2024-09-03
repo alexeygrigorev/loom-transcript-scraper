@@ -1,0 +1,615 @@
+1
+00:00:00,420 --> 00:00:04,980
+I want to show you around MailChimp MailChimp to
+
+2
+00:00:04,981 --> 00:00:07,410
+create a campaign, a newsletter,
+
+3
+00:00:07,860 --> 00:00:10,320
+we need to go to campaigns and then, or complaints.
+
+4
+00:00:11,550 --> 00:00:14,310
+And here I have a template which is called like that.
+
+5
+00:00:14,430 --> 00:00:16,500
+So the easiest way to find it out.
+
+6
+00:00:16,530 --> 00:00:21,120
+So go to all campaigns and then we'll have this
+
+7
+00:00:21,150 --> 00:00:23,850
+draft. And so this template,
+
+8
+00:00:24,900 --> 00:00:31,500
+so let me also keep the old one from
+
+9
+00:00:31,501 --> 00:00:32,580
+this and a new link.
+
+10
+00:00:37,830 --> 00:00:40,440
+This is dropped complaints.
+
+11
+00:00:41,280 --> 00:00:44,190
+Okay. So to create a new campaign,
+
+12
+00:00:44,400 --> 00:00:46,830
+I used this template from droughts,
+
+13
+00:00:47,130 --> 00:00:52,050
+which started with this template and I click here
+
+14
+00:00:52,080 --> 00:00:55,170
+on this thing and replicate
+
+15
+00:01:01,460 --> 00:01:07,130
+now here, when it implicate, the first thing I need to change is the
+
+16
+00:01:07,131 --> 00:01:09,230
+name. So be clear email.
+
+17
+00:01:09,590 --> 00:01:14,480
+So usually there is a number And then the last one was 68.
+
+18
+00:01:14,510 --> 00:01:17,300
+So 69,
+
+19
+00:01:18,110 --> 00:01:20,270
+then the date, this is when it goes out.
+
+20
+00:01:20,990 --> 00:01:25,040
+So it goes out on Mondays. So tomorrow will be 11th,
+
+21
+00:01:25,730 --> 00:01:28,340
+so 11th, and then next 18th 25.
+
+22
+00:01:29,600 --> 00:01:34,580
+So this will be a real
+
+23
+00:01:34,880 --> 00:01:40,760
+2022. So this copy and
+
+24
+00:01:40,761 --> 00:01:42,920
+this sponsored and book of the week is,
+
+25
+00:01:43,640 --> 00:01:45,710
+are like features of this newsletter.
+
+26
+00:01:46,250 --> 00:01:50,270
+I'll explain later on for now. What can keep it out of this big
+
+27
+00:01:50,271 --> 00:01:53,090
+safe, and then immediately after that.
+
+28
+00:01:53,150 --> 00:01:55,820
+So it's 69, the goals here,
+
+29
+00:01:56,480 --> 00:01:58,430
+this combined link and change
+
+30
+00:01:59,780 --> 00:02:02,330
+This, this thing here,
+
+31
+00:02:02,990 --> 00:02:07,610
+2 69  will
+
+32
+00:02:07,611 --> 00:02:11,090
+be my old team data docs quo slash weekly six to nine.
+
+33
+00:02:14,300 --> 00:02:16,660
+And Yeah,
+
+34
+00:02:16,690 --> 00:02:21,460
+so now the template and
+
+35
+00:02:21,670 --> 00:02:23,440
+we need to edit design
+
+36
+00:02:31,080 --> 00:02:33,120
+and here in edit design, I,
+
+37
+00:02:34,470 --> 00:02:37,140
+there is no sponsored block this week.
+
+38
+00:02:39,290 --> 00:02:43,400
+Um, I will put something here, but I'm anti this.
+
+39
+00:02:43,670 --> 00:02:46,640
+I will not maybe record a separate video for that.
+
+40
+00:02:47,540 --> 00:02:49,910
+Um, and, um,
+
+41
+00:02:50,990 --> 00:02:53,030
+yeah, so for book of the week,
+
+42
+00:02:53,540 --> 00:02:56,570
+um, I think next week we'll have something,
+
+43
+00:02:57,470 --> 00:03:02,200
+let me check on the upside. So if we didn't
+
+44
+00:03:02,201 --> 00:03:05,950
+have any book of the week on the book,
+
+45
+00:03:06,040 --> 00:03:08,650
+so we'll click, just click delete block,
+
+46
+00:03:09,370 --> 00:03:12,820
+and then there will be no the week in the newsletter,
+
+47
+00:03:14,020 --> 00:03:18,670
+But we have something to the book of the
+
+48
+00:03:18,671 --> 00:03:22,000
+next week is interpretable machine learning by Christophe.
+
+49
+00:03:23,410 --> 00:03:26,830
+So I, what I do is I copy this link,
+
+50
+00:03:27,430 --> 00:03:32,320
+so I copy it. And then I go here,
+
+51
+00:03:33,550 --> 00:03:38,080
+click this Pen and
+
+52
+00:03:38,081 --> 00:03:42,310
+then say, look this And just paste.
+
+53
+00:03:43,840 --> 00:03:46,810
+And then it's important that there is no place with them.
+
+54
+00:03:49,600 --> 00:03:53,740
+And now we need to insert the image and image of the image of
+
+55
+00:03:53,741 --> 00:03:56,440
+the book. So according to the book, I right,
+
+56
+00:03:56,441 --> 00:03:58,240
+click copy image address.
+
+57
+00:03:59,410 --> 00:04:03,670
+And now this course away You,
+
+58
+00:04:03,671 --> 00:04:08,860
+we need to insert an image, the image and year,
+
+59
+00:04:09,160 --> 00:04:11,980
+instead of board, I click on this,
+
+60
+00:04:12,130 --> 00:04:17,490
+uh, from dropdown list input from Euro And
+
+61
+00:04:17,500 --> 00:04:22,330
+I put the other assay here. I
+
+62
+00:04:22,331 --> 00:04:25,250
+am important. Oh,
+
+63
+00:04:25,310 --> 00:04:30,890
+wow. It's huge. So we don't need it that
+
+64
+00:04:30,891 --> 00:04:35,540
+week. So the beat will be 160 and then
+
+65
+00:04:35,541 --> 00:04:38,870
+you automatically adjust the height.
+
+66
+00:04:39,860 --> 00:04:43,370
+And then the link is actually incredible.
+
+67
+00:04:44,960 --> 00:04:49,700
+So yes, open in a new window And I just saved.
+
+68
+00:04:51,680 --> 00:04:56,060
+So I also want to check the correct link once.
+
+69
+00:04:56,090 --> 00:05:00,800
+So keep pressing control and then click it
+
+70
+00:05:00,801 --> 00:05:03,200
+doesn't work. Okay. LinkedIn,
+
+71
+00:05:03,201 --> 00:05:07,640
+your top. Yeah.
+
+72
+00:05:07,790 --> 00:05:12,490
+So again, right-click open Lincoln in your top five
+
+73
+00:05:12,530 --> 00:05:15,800
+that this is the correct link. And then I do the same with the
+
+74
+00:05:15,801 --> 00:05:18,920
+image. So the link is correct.
+
+75
+00:05:22,520 --> 00:05:26,510
+So, okay. Next one. We need to feel in Lacy ones.
+
+76
+00:05:27,530 --> 00:05:32,450
+And for that again, go to the pub side and just copy all
+
+77
+00:05:32,451 --> 00:05:36,260
+the events And waste them here.
+
+78
+00:05:38,520 --> 00:05:43,320
+Sometimes it's paced like it and then two lion
+
+79
+00:05:43,680 --> 00:05:46,530
+at the beginning. And then at the end, these should,
+
+80
+00:05:47,160 --> 00:05:50,220
+uh, we should remove them. This happens sometimes.
+
+81
+00:05:50,780 --> 00:05:53,550
+Sometimes it doesn't, I don't know why, but yeah,
+
+82
+00:05:53,670 --> 00:05:55,680
+there should be no points here
+
+83
+00:05:57,770 --> 00:06:02,540
+Then. Yes. Then the next thing we need to fill in is
+
+84
+00:06:02,541 --> 00:06:07,190
+the podcast. So the latest podcast episode is this one
+
+85
+00:06:07,191 --> 00:06:11,840
+with these both click And then select
+
+86
+00:06:11,841 --> 00:06:15,590
+this one. And yeah, so this is the most recent one.
+
+87
+00:06:16,280 --> 00:06:19,550
+And then before that I get three,
+
+88
+00:06:20,960 --> 00:06:23,030
+three episodes before episodes,
+
+89
+00:06:23,031 --> 00:06:25,670
+before that, and copy them here.
+
+90
+00:06:30,570 --> 00:06:34,020
+I'm going to switch more or less in this thing.
+
+91
+00:06:35,250 --> 00:06:39,980
+So there is no sponsoring book, but they still want to
+
+92
+00:06:40,500 --> 00:06:43,980
+write something here. So I want to write a short description about,
+
+93
+00:06:45,150 --> 00:06:47,310
+Um, oh wait,
+
+94
+00:06:47,311 --> 00:06:51,450
+actually it's got funds from the next week. So yeah,
+
+95
+00:06:51,480 --> 00:06:53,730
+I will remove the sponsored book.
+
+96
+00:06:53,820 --> 00:06:57,000
+And for that, what I do is I just click,
+
+97
+00:06:57,470 --> 00:06:59,280
+delete, Think
+
+98
+00:07:07,830 --> 00:07:08,400
+The term.
+
+99
+00:07:12,040 --> 00:07:12,700
+<v 1>Okay. Yeah.
+
+100
+00:07:13,840 --> 00:07:16,480
+So this is the newsletter this week.
+
+101
+00:07:17,290 --> 00:07:17,620
+<v 1>All right.
+
+102
+00:07:19,690 --> 00:07:23,390
+And Yeah,
+
+103
+00:07:24,560 --> 00:07:25,280
+let me check.
+
+104
+00:07:30,170 --> 00:07:32,450
+Yeah. Check it,
+
+105
+00:07:32,630 --> 00:07:37,490
+but nevermind. So have the intro
+
+106
+00:07:37,670 --> 00:07:42,170
+and then join slack, then a book will check that things work.
+
+107
+00:07:42,560 --> 00:07:46,400
+So these links also should work. We don't need to check them because they
+
+108
+00:07:47,210 --> 00:07:50,690
+are presumably correct on the website and when we copy them from the website,
+
+109
+00:07:51,620 --> 00:07:54,920
+um, it copies the link as well. And yeah,
+
+110
+00:07:54,921 --> 00:07:59,340
+I think this should also be correct. Okay.
+
+111
+00:07:59,490 --> 00:08:01,780
+Thank you.
+
+112
+00:08:02,110 --> 00:08:04,290
+You want, and then also let me,
+
+113
+00:08:05,550 --> 00:08:08,280
+Um, show you how you schedule this.
+
+114
+00:08:08,640 --> 00:08:12,210
+We need to change this object And for the subject,
+
+115
+00:08:15,000 --> 00:08:16,860
+I just arrived in therapy.
+
+116
+00:08:21,060 --> 00:08:25,290
+And then I don't know. Maybe we'll get some nice emoji,
+
+117
+00:08:26,610 --> 00:08:31,230
+But yeah, I don't think you need to do that for the
+
+118
+00:08:31,231 --> 00:08:35,370
+sake of completeness. I'll just Show you what I do.
+
+119
+00:08:39,800 --> 00:08:40,160
+Um,
+
+120
+00:08:48,230 --> 00:08:51,590
+Maybe this could be In nice emoji
+
+121
+00:09:00,330 --> 00:09:06,960
+And for preview textile and here we
+
+122
+00:09:06,961 --> 00:09:07,200
+are.
+
+123
+00:09:13,190 --> 00:09:16,790
+Okay. So now I want to preview that things work.
+
+124
+00:09:17,780 --> 00:09:21,140
+So right now I want to check that this button,
+
+125
+00:09:21,410 --> 00:09:27,500
+this button works. You see that here in the left
+
+126
+00:09:27,710 --> 00:09:32,300
+bottom corner, we have the link is trying to data docs.club,
+
+127
+00:09:32,540 --> 00:09:37,160
+so that incorrect, and then we'll hold it and check the links.
+
+128
+00:09:38,990 --> 00:09:43,790
+Okay. So now we'll
+
+129
+00:09:43,791 --> 00:09:47,690
+do the sponsor thing because this is not a sponsor
+
+130
+00:09:51,730 --> 00:09:54,790
+and click on schedule. So I want to schedule it.
+
+131
+00:09:55,330 --> 00:09:57,550
+And usually I scheduled for,
+
+132
+00:09:58,690 --> 00:10:02,500
+Uh, 10, 10 him,
+
+133
+00:10:05,950 --> 00:10:07,810
+these GMT plus two,
+
+134
+00:10:12,540 --> 00:10:13,770
+Do they actually say,
+
+135
+00:10:18,850 --> 00:10:19,060
+Okay.
+
+136
+00:10:31,540 --> 00:10:36,370
+Yeah. Just double check. That campaigning is the name is correct.
+
+137
+00:10:38,830 --> 00:10:43,450
+Yeah. So it's actually related to Ms. Kiddo And I scheduled
+
+138
+00:10:43,630 --> 00:10:46,450
+for 10, 15,
+
+139
+00:10:47,440 --> 00:10:50,650
+April 11, Monday,
+
+140
+00:10:52,030 --> 00:10:54,010
+and I scheduled the complaint.
+
+141
+00:10:58,120 --> 00:11:02,770
+And now I have to look that I can check again that this
+
+142
+00:11:02,771 --> 00:11:05,500
+link is correct. Um,
+
+143
+00:11:07,000 --> 00:11:09,790
+So this is what people will receive tomorrow.
+
+144
+00:11:12,010 --> 00:11:16,690
+Okay. So for that, I want you to document multiple things from
+
+145
+00:11:16,691 --> 00:11:21,610
+that video. So the first thing is how you clone an event and
+
+146
+00:11:21,611 --> 00:11:23,890
+then how you feel in, sorry,
+
+147
+00:11:23,980 --> 00:11:26,680
+call your cologne newsletter campaign,
+
+148
+00:11:28,010 --> 00:11:33,040
+then how you feel in book of the week events
+
+149
+00:11:33,130 --> 00:11:37,120
+and, um, podcast blocks.
+
+150
+00:11:39,250 --> 00:11:42,130
+And then for sponsored content,
+
+151
+00:11:43,400 --> 00:11:47,410
+or maybe next week when we'll have a sponsored content for now,
+
+152
+00:11:47,411 --> 00:11:52,030
+you can also document how to delete things and then maybe
+
+153
+00:11:52,031 --> 00:11:56,740
+as a different document, like how you schedule the campaigns.
+
+154
+00:11:58,360 --> 00:11:59,230
+Yeah. That's it.

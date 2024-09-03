@@ -1,0 +1,127 @@
+1
+00:00:00,180 --> 00:00:05,060
+Hi, so I started looking into integrating like
+
+2
+00:00:05,061 --> 00:00:07,940
+doing this sort of integration we have, we had with Eventbrite,
+
+3
+00:00:08,810 --> 00:00:12,550
+where when we create an Eventbrite event,
+
+4
+00:00:12,750 --> 00:00:16,490
+it would automatically publish a message in Slack.
+
+5
+00:00:16,853 --> 00:00:19,353
+And, what else?
+
+6
+00:00:20,073 --> 00:00:22,173
+And create an entry in a Google Calendar. Alright.
+
+7
+00:00:22,993 --> 00:00:25,733
+So we wanted to do something similar for Luma,
+
+8
+00:00:26,553 --> 00:00:30,573
+and it seems like in Luma it works through calendars.
+
+9
+00:00:31,813 --> 00:00:36,788
+So I created a calendar. This data talks club events.
+
+10
+00:00:38,548 --> 00:00:40,888
+And you are an admin.
+
+11
+00:00:41,188 --> 00:00:44,698
+I sent you an invite. And here,
+
+12
+00:00:45,578 --> 00:00:48,038
+every time you create an event in Luma, you can edit.
+
+13
+00:00:48,063 --> 00:00:51,103
+Here. So this is how you add an existing one.
+
+14
+00:00:51,903 --> 00:00:55,583
+So add existing Luma events and then you just,
+
+15
+00:00:57,303 --> 00:01:02,523
+well, submit them, right? So this is how you create a
+
+16
+00:01:05,285 --> 00:01:08,945
+existing events, which we already have,
+
+17
+00:01:09,205 --> 00:01:11,485
+right? And then you can also create a new one.
+
+18
+00:01:11,705 --> 00:01:14,265
+So here when you click on element, yeah,
+
+19
+00:01:14,425 --> 00:01:19,025
+create a new event and then you can just do it
+
+20
+00:01:19,026 --> 00:01:21,749
+from here. It's like you can select it,
+
+21
+00:01:21,849 --> 00:01:26,589
+you know, whether you create it like from personal calendar or date of events,
+
+22
+00:01:26,590 --> 00:01:29,989
+right? So then you create it from here.
+
+23
+00:01:31,009 --> 00:01:35,569
+I don't know if what you see when
+
+24
+00:01:35,570 --> 00:01:37,991
+you create like other events. Same or not.
+
+25
+00:01:38,831 --> 00:01:41,431
+If it's different and you prefer the other way of creating,
+
+26
+00:01:42,431 --> 00:01:46,151
+then instead of just creating it like now,
+
+27
+00:01:47,131 --> 00:01:51,711
+yeah, we can just add first create an event in Luma and then
+
+28
+00:01:51,712 --> 00:01:56,645
+add it. But it's important that we add it because this way now
+
+29
+00:01:56,646 --> 00:01:59,005
+I can use, ah,
+
+30
+00:02:00,415 --> 00:02:05,075
+the integration from here to Zapier and from Zapier to
+
+31
+00:02:05,076 --> 00:02:08,125
+other platforms. Okay.
+
+32
+00:02:09,066 --> 00:02:10,746
+So, please document it.

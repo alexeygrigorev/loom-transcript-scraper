@@ -1,0 +1,207 @@
+1
+00:00:00,000 --> 00:00:04,745
+uh so I tried to take a look at this and the problem
+
+2
+00:00:04,746 --> 00:00:08,380
+is what I showed you so the problem is you see this not found
+
+3
+00:00:08,381 --> 00:00:13,447
+authors for these emails and this is the problem and
+
+4
+00:00:13,448 --> 00:00:18,979
+I made the error messages a bit more um
+
+5
+00:00:18,980 --> 00:00:23,815
+how to say like previously it was not saying which person
+
+6
+00:00:23,816 --> 00:00:27,890
+it was trying to find so you see here in the logs in large
+
+7
+00:00:27,891 --> 00:00:31,404
+it says check in the person and read the trial like this and then
+
+8
+00:00:31,405 --> 00:00:35,786
+says person for file and the petrela already exists which means that if we
+
+9
+00:00:35,787 --> 00:00:40,542
+go to the log's club then I
+
+10
+00:00:40,543 --> 00:00:45,207
+think it's people it's like hidden and we type andy petrela
+
+11
+00:00:45,208 --> 00:00:50,554
+we see him right because he already
+
+12
+00:00:50,555 --> 00:00:55,069
+did something before so we already have a
+
+13
+00:00:55,070 --> 00:00:59,895
+profile this is why so it exists that is why
+
+14
+00:00:59,896 --> 00:01:02,708
+we do not process it here right?
+
+15
+00:01:02,709 --> 00:01:05,024
+and,
+
+16
+00:01:05,025 --> 00:01:09,720
+and the status is not processed so we skip it what I can do
+
+17
+00:01:09,721 --> 00:01:15,017
+is maybe just make it done so next time its not processed but
+
+18
+00:01:15,018 --> 00:01:20,043
+umm, there is this process document processing
+
+19
+00:01:20,044 --> 00:01:24,720
+people who are already on the website so it was uHHHH sometime
+
+20
+00:01:24,721 --> 00:01:29,596
+before and we can see here and the engi
+
+21
+00:01:29,597 --> 00:01:35,514
+paterla already exists but later we see engi
+
+22
+00:01:35,515 --> 00:01:40,047
+paterla if- is not found right so it exists but not found
+
+23
+00:01:40,048 --> 00:01:44,563
+at the same time and we have a process document how to process people
+
+24
+00:01:44,564 --> 00:01:48,418
+who are already on the website and this is what you should do so
+
+25
+00:01:48,419 --> 00:01:52,994
+we already have a process document please just go through this process document
+
+26
+00:01:52,995 --> 00:01:57,815
+and rerun one more time and maybe also change
+
+27
+00:01:57,816 --> 00:02:02,091
+this process document to add what I just described so the symptoms like how
+
+28
+00:02:02,092 --> 00:02:06,827
+you can see that this is indeed the problem so and the symptoms are
+
+29
+00:02:06,828 --> 00:02:09,548
+umm.
+
+30
+00:02:09,549 --> 00:02:14,314
+it already exists but here you see in the logs that it's
+
+31
+00:02:14,315 --> 00:02:18,991
+not found and here if we go to this data docs
+
+32
+00:02:18,992 --> 00:02:23,267
+club slash people we can see this person there right so these are the
+
+33
+00:02:23,268 --> 00:02:27,927
+symptoms. And then it's uhh that's why we need to go through
+
+34
+00:02:27,928 --> 00:02:32,683
+this document. And then on a separate note I want you also
+
+35
+00:02:32,684 --> 00:02:37,789
+like for this document we need to umm umm
+
+36
+00:02:37,790 --> 00:02:40,565
+rework it a little bit. So first.
+
+37
+00:02:40,566 --> 00:02:44,540
+I want all the process document we have and we will do this when
+
+38
+00:02:44,541 --> 00:02:47,683
+we go through all this document index.
+
+39
+00:02:47,684 --> 00:02:52,370
+Is if it's page it has pages we need to turn
+
+40
+00:02:52,371 --> 00:02:56,295
+it into pageless. Umm.
+
+41
+00:02:56,296 --> 00:03:00,788
+So this is. All we do it page set up pageless.
+
+42
+00:03:03,371 --> 00:03:06,836
+And then we remove all these page breaks.
+
+43
+00:03:06,837 --> 00:03:11,753
+I don't know if I already showed you that but when
+
+44
+00:03:11,754 --> 00:03:16,366
+we revise. It's the process documents we need to do that
+
+45
+00:03:16,367 --> 00:03:20,701
+for all the documents that we have.
+
+46
+00:03:20,702 --> 00:03:23,195
+We remove page breaks.
+
+47
+00:03:23,196 --> 00:03:25,527
+Alright so you will modify it.
+
+48
+00:03:25,528 --> 00:03:29,043
+This document would also add the,
+
+49
+00:03:29,044 --> 00:03:32,549
+the context, right? Like we discussed.
+
+50
+00:03:32,550 --> 00:03:35,163
+You will add to why when we need this document.
+
+51
+00:03:37,206 --> 00:03:40,252
+And just follow through this document and you will be able to resolve the
+
+52
+00:03:40,253 --> 00:03:40,617
+problem.

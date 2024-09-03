@@ -1,0 +1,119 @@
+1
+00:00:00,490 --> 00:00:04,600
+Hi. Yeah, we had a problem. So you see for the event tomorrow,
+
+2
+00:00:05,250 --> 00:00:08,480
+it was not possible to buy, to not to buy,
+
+3
+00:00:08,481 --> 00:00:12,840
+to register, uh, for the webinar it was showing sales ended.
+
+4
+00:00:13,100 --> 00:00:16,880
+And the reason for that is when you go to the event,
+
+5
+00:00:16,881 --> 00:00:20,400
+So let me show you from the start. So you go to my events,
+
+6
+00:00:21,370 --> 00:00:24,080
+uh, event bright events, come on.
+
+7
+00:00:24,530 --> 00:00:26,720
+So then we have a bunch of events here,
+
+8
+00:00:28,100 --> 00:00:31,360
+and that was, um, the one tomorrow.
+
+9
+00:00:31,361 --> 00:00:34,000
+And then here the status was, um,
+
+10
+00:00:34,001 --> 00:00:38,600
+sale ended. So I needed to come here and
+
+11
+00:00:38,690 --> 00:00:43,080
+go to tickets. And then there is only one type of ticket,
+
+12
+00:00:43,081 --> 00:00:46,080
+which is, um,
+
+13
+00:00:46,390 --> 00:00:48,960
+this one. Alright, click on this.
+
+14
+00:00:49,460 --> 00:00:53,930
+And I needed to change sales and so,
+
+15
+00:00:53,931 --> 00:00:57,570
+and then put some, So it was for, um,
+
+16
+00:00:57,571 --> 00:00:59,650
+yesterday or yesterday? It was,
+
+17
+00:01:00,040 --> 00:01:03,810
+yeah, I think it was yesterday. 6:00 PM for some reasons.
+
+18
+00:01:03,900 --> 00:01:06,770
+So this is something we have to check every time.
+
+19
+00:01:06,771 --> 00:01:11,090
+So every time you publish an event, go here to tickets and check that
+
+20
+00:01:11,091 --> 00:01:13,890
+sales end is after the start date.
+
+21
+00:01:14,100 --> 00:01:16,530
+So in this case, there was, I don't know, a glitch or something.
+
+22
+00:01:17,700 --> 00:01:21,850
+So this, um, had a wrong end date.
+
+23
+00:01:22,420 --> 00:01:25,290
+We have to be careful and every time we create an event,
+
+24
+00:01:25,620 --> 00:01:30,330
+we have to go to tickets and check that the sales end is
+
+25
+00:01:30,331 --> 00:01:34,170
+after the, the actual lifetime.
+
+26
+00:01:34,420 --> 00:01:36,890
+So yeah, I save it. So now everything is fine.
+
+27
+00:01:37,160 --> 00:01:41,810
+Please update the, please update the process
+
+28
+00:01:42,090 --> 00:01:44,410
+document so it's there. And we,
+
+29
+00:01:44,820 --> 00:01:47,690
+uh, don't let this happen in the future.
+
+30
+00:01:47,960 --> 00:01:48,890
+Yeah, that's it.

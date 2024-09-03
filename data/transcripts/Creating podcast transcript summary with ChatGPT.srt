@@ -1,0 +1,287 @@
+1
+00:00:00,300 --> 00:00:02,590
+Okay, so I changed, um,
+
+2
+00:00:02,930 --> 00:00:05,590
+the template for the, uh,
+
+3
+00:00:05,591 --> 00:00:09,270
+for the newsletter slightly. So for the podcast session now,
+
+4
+00:00:09,271 --> 00:00:12,550
+we also have a list with bulleted points.
+
+5
+00:00:13,280 --> 00:00:16,310
+In addition to just that, we uploaded a new podcast episode.
+
+6
+00:00:16,420 --> 00:00:19,910
+Then there is no line break. And then we have the title,
+
+7
+00:00:20,460 --> 00:00:24,070
+then, uh, yeah, name, then a bulleted list and then a button.
+
+8
+00:00:24,320 --> 00:00:26,830
+So I created, I updated a template here,
+
+9
+00:00:27,150 --> 00:00:30,190
+right? So this is how it looks like. So then for the button,
+
+10
+00:00:30,191 --> 00:00:32,790
+you will need to put the,
+
+11
+00:00:33,370 --> 00:00:36,270
+the address here. I will not do this because right now it's,
+
+12
+00:00:36,280 --> 00:00:38,590
+uh, uh, yeah, this is, um,
+
+13
+00:00:38,820 --> 00:00:41,950
+a template it, right?
+
+14
+00:00:42,130 --> 00:00:45,990
+And then I wanted to show you how to actually get these things right.
+
+15
+00:00:45,991 --> 00:00:49,150
+For that, I ask you to register here in chat,
+
+16
+00:00:49,151 --> 00:00:51,310
+open eye chat,
+
+17
+00:00:53,820 --> 00:00:58,830
+chat, open eye. Then I already have an example here that I
+
+18
+00:00:58,831 --> 00:00:59,150
+used.
+
+19
+00:01:01,900 --> 00:01:02,390
+<v 1>Yeah,
+
+20
+00:01:02,460 --> 00:01:04,510
+Here. Oops,
+
+21
+00:01:04,820 --> 00:01:05,550
+what happened?
+
+22
+00:01:13,780 --> 00:01:16,770
+It doesn't work, I guess. Um,
+
+23
+00:01:16,880 --> 00:01:18,970
+yeah, so the,
+
+24
+00:01:18,971 --> 00:01:23,650
+what I put here is, first I open this
+
+25
+00:01:23,651 --> 00:01:26,690
+chat, ai, and they write, this is a transcript of podcast episode.
+
+26
+00:01:26,691 --> 00:01:29,290
+Alex is the host, Andrina is the guest.
+
+27
+00:01:29,300 --> 00:01:33,570
+So here, of course, we should change the name depending on,
+
+28
+00:01:33,740 --> 00:01:37,170
+um, the guest. And I can show you a different example,
+
+29
+00:01:37,171 --> 00:01:40,050
+maybe not with Rina. Uh,
+
+30
+00:01:40,051 --> 00:01:43,250
+I'll show you for example, with an Angelica.
+
+31
+00:01:44,300 --> 00:01:48,970
+So, and, and gay Angelica is the guest.
+
+32
+00:01:48,971 --> 00:01:51,490
+Please write a summary as a bullet,
+
+33
+00:01:51,491 --> 00:01:56,370
+at least with 10 items. Then I put this line like with five minuses,
+
+34
+00:01:56,870 --> 00:02:01,690
+and then I copy everything starting from transcript till
+
+35
+00:02:01,691 --> 00:02:01,970
+the end.
+
+36
+00:02:07,650 --> 00:02:12,260
+So I copy this one and place
+
+37
+00:02:12,261 --> 00:02:14,710
+it here, right?
+
+38
+00:02:14,711 --> 00:02:19,430
+That's all I do. I hit enter. And,
+
+39
+00:02:19,640 --> 00:02:22,190
+uh, yeah,
+
+40
+00:02:22,191 --> 00:02:27,430
+this is a summary, and what you do is you copy the summary to
+
+41
+00:02:27,860 --> 00:02:30,630
+here, to this one points,
+
+42
+00:02:30,770 --> 00:02:32,910
+and then this one you feel like previously,
+
+43
+00:02:32,990 --> 00:02:35,710
+right? So please update a process, document for that.
+
+44
+00:02:36,210 --> 00:02:38,270
+And also, right now we don't use this,
+
+45
+00:02:38,271 --> 00:02:41,350
+but I want to use it in the future. And,
+
+46
+00:02:41,480 --> 00:02:45,150
+um, I'll show you what I mean.
+
+47
+00:02:45,151 --> 00:02:47,270
+So I'll say write, um,
+
+48
+00:02:47,870 --> 00:02:52,910
+memorable quotes from the AP
+
+49
+00:02:53,060 --> 00:02:53,550
+sort.
+
+50
+00:02:56,660 --> 00:02:59,120
+Yeah. So I think, uh, this could be,
+
+51
+00:02:59,930 --> 00:03:04,560
+um, yeah,
+
+52
+00:03:05,470 --> 00:03:07,760
+this is, uh, like ai, right?
+
+53
+00:03:07,761 --> 00:03:10,480
+So not all of these things are good.
+
+54
+00:03:10,770 --> 00:03:16,780
+Uh, like, okay, for example, this one is not really memorable or
+
+55
+00:03:16,781 --> 00:03:20,300
+this one, right? But, but you see some of the quotes may make sense.
+
+56
+00:03:20,380 --> 00:03:24,580
+Maybe extract 20 memoir
+
+57
+00:03:30,330 --> 00:03:33,260
+from the, from the transcript.
+
+58
+00:03:36,950 --> 00:03:41,580
+So, and we can actually use this for generating some
+
+59
+00:03:41,710 --> 00:03:44,500
+content on Twitter. So some of these,
+
+60
+00:03:45,270 --> 00:03:48,380
+uh, quotes are not super, like,
+
+61
+00:03:48,400 --> 00:03:52,500
+not nice. Some of them are nice. And then for now,
+
+62
+00:03:52,670 --> 00:03:55,060
+uh, we will not do much with this quotes.
+
+63
+00:03:55,061 --> 00:03:58,100
+I just wanted to show you so you know how to do this because
+
+64
+00:03:58,101 --> 00:04:00,300
+we no, why, it's, why it stopped,
+
+65
+00:04:00,590 --> 00:04:04,900
+because we probably will use this for publishing stuff on Twitter.
+
+66
+00:04:05,810 --> 00:04:09,140
+Okay? I don't know if it's done. Maybe it is.
+
+67
+00:04:09,141 --> 00:04:12,740
+But anyways, this is, uh, I guess this could be the reason why it's
+
+68
+00:04:12,741 --> 00:04:16,180
+not working. Okay. This is what I wanted to show you.
+
+69
+00:04:16,181 --> 00:04:18,260
+And, uh, yeah, please,
+
+70
+00:04:18,950 --> 00:04:22,340
+uh, update the, or create a process document for,
+
+71
+00:04:22,341 --> 00:04:24,900
+for use using this chat. Um,
+
+72
+00:04:25,090 --> 00:04:28,260
+open eye for extracting summary.

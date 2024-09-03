@@ -1,0 +1,127 @@
+1
+00:00:00,360 --> 00:00:05,160
+Um, I wonder the show you call this speaker pro speaker,
+
+2
+00:00:05,820 --> 00:00:08,310
+not speaker the event form.
+
+3
+00:00:09,720 --> 00:00:13,620
+So, um, this, this, I just sent you the link.
+
+4
+00:00:18,660 --> 00:00:22,350
+So I want now to add to the form,
+
+5
+00:00:23,790 --> 00:00:26,910
+uh, the first field is speaker email,
+
+6
+00:00:29,330 --> 00:00:32,630
+email email here,
+
+7
+00:00:39,710 --> 00:00:40,280
+then tight
+
+8
+00:00:45,440 --> 00:00:50,000
+and bright. Eileen is this thing here in
+
+9
+00:00:50,001 --> 00:00:53,060
+the Euro. Um,
+
+10
+00:00:53,150 --> 00:00:56,510
+you can also get it if you vote, you haven't bright slash my events.
+
+11
+00:00:58,010 --> 00:01:00,350
+So it has the list of all the events.
+
+12
+00:01:01,070 --> 00:01:05,030
+And let me say this, the amount here,
+
+13
+00:01:05,840 --> 00:01:08,120
+corporate know, uh,
+
+14
+00:01:08,180 --> 00:01:10,430
+it cost to your, um,
+
+15
+00:01:12,440 --> 00:01:14,570
+well, well you can paste it now.
+
+16
+00:01:16,070 --> 00:01:18,170
+And then it quite basic to my,
+
+17
+00:01:18,440 --> 00:01:23,210
+uh, others Euro bar. I get this and I'm interested in this number,
+
+18
+00:01:23,450 --> 00:01:27,980
+this number, and this number is the same
+
+19
+00:01:27,981 --> 00:01:28,370
+number.
+
+20
+00:01:31,640 --> 00:01:36,020
+Uh, I just need to paste it here. So this event is a podcast
+
+21
+00:01:37,880 --> 00:01:41,720
+and date is a 3rd of March,
+
+22
+00:01:41,810 --> 00:01:47,420
+right? And so
+
+23
+00:01:47,421 --> 00:01:50,810
+let's call you submit events. And then using this information,
+
+24
+00:01:50,840 --> 00:01:53,690
+I will be able to publish events on the website.
+
+25
+00:01:54,410 --> 00:01:57,110
+And of course, this is important that for this form,
+
+26
+00:01:57,320 --> 00:02:01,980
+um, the speaker is already there.
+
+27
+00:02:01,981 --> 00:02:06,840
+So you're already thinking you already created the profile for the speaker,
+
+28
+00:02:07,290 --> 00:02:10,380
+because if you don't do this, then I will not be able to find
+
+29
+00:02:10,381 --> 00:02:12,870
+the speaker, uh, in,
+
+30
+00:02:12,900 --> 00:02:16,820
+uh, in the database. And then I will not be able to create another.
+
+31
+00:02:16,920 --> 00:02:19,200
+So first you fill in the speaker form,
+
+32
+00:02:19,560 --> 00:02:22,560
+and then if you, in the event for.

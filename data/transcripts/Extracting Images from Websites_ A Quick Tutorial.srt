@@ -1,0 +1,127 @@
+1
+00:00:00,927 --> 00:00:04,850
+I figured this would be interesting to see too,
+
+2
+00:00:04,851 --> 00:00:09,391
+how to extract images from um um luma in
+
+3
+00:00:09,392 --> 00:00:13,955
+a general uh uh preview from any website so let's see
+
+4
+00:00:13,956 --> 00:00:17,085
+let's say we want to extract a preview Uh,
+
+5
+00:00:17,086 --> 00:00:21,050
+the one we see here uh from this page right.
+
+6
+00:00:21,051 --> 00:00:23,423
+I use Google promising Google from.
+
+7
+00:00:23,424 --> 00:00:26,487
+You go here, click inspect.
+
+8
+00:00:26,488 --> 00:00:30,563
+And you see the code for um the website.
+
+9
+00:00:30,564 --> 00:00:35,249
+You go to head. And in head
+
+10
+00:00:35,250 --> 00:00:40,166
+you look for uh tech called
+
+11
+00:00:40,167 --> 00:00:42,980
+meta name. Can I make it larger?
+
+12
+00:00:42,981 --> 00:00:47,657
+No, I cannot. So it's meta name equals image
+
+13
+00:00:47,658 --> 00:00:50,879
+property. See. Oh go. Oh g image.
+
+14
+00:00:50,880 --> 00:00:52,881
+So it's usually one of those.
+
+15
+00:00:52,882 --> 00:00:56,075
+Right. And the content.
+
+16
+00:00:56,076 --> 00:00:59,170
+Yeah double click on this. And this is the link.
+
+17
+00:01:01,853 --> 00:01:03,846
+That you can use.
+
+18
+00:01:11,966 --> 00:01:14,584
+can also see that this is specific to luma.
+
+19
+00:01:14,585 --> 00:01:19,233
+Um for our other websites it won't work.
+
+20
+00:01:19,234 --> 00:01:23,378
+We can also change the width and height here.
+
+21
+00:01:23,698 --> 00:01:25,898
+So for example if we want to have a larger image,
+
+22
+00:01:26,698 --> 00:01:29,638
+we can say can make it two times larger,
+
+23
+00:01:30,818 --> 00:01:34,658
+1,600. And here it would be 800.
+
+24
+00:01:35,778 --> 00:01:38,226
+Let's see if we can see.
+
+25
+00:01:38,407 --> 00:01:40,583
+this would give us a larger image.
+
+26
+00:01:40,584 --> 00:01:43,081
+There we can see this, right?
+
+27
+00:01:43,082 --> 00:01:45,519
+But this is specifically to Luma,
+
+28
+00:01:45,520 --> 00:01:47,717
+right? So other websites will not have that.
+
+29
+00:01:47,718 --> 00:01:52,065
+Other websites will just give us some that we can use for.
+
+30
+00:01:54,409 --> 00:01:56,707
+So yeah please create a process document for that.
+
+31
+00:01:56,708 --> 00:02:01,500
+Sometimes we might need just to extract the preview to
+
+32
+00:02:01,501 --> 00:02:03,106
+use it somewhere.

@@ -1,0 +1,135 @@
+1
+00:00:00,000 --> 00:00:04,660
+Hi, maybe you remember that now for open-source spotlight we have a new calendar
+
+2
+00:00:04,661 --> 00:00:07,940
+link which looks like that.
+
+3
+00:00:08,320 --> 00:00:13,000
+It's currently the DC Alexi OSSS.
+
+4
+00:00:13,580 --> 00:00:16,160
+OSS, right? So this is the link.
+
+5
+00:00:17,440 --> 00:00:21,005
+And right now in the calendar this is how it looks like.
+
+6
+00:00:21,285 --> 00:00:24,385
+You have access to my calendar so you should be able to see that.
+
+7
+00:00:24,765 --> 00:00:30,685
+So it says demo of this stack, open-source spotlight. And then it says who
+
+8
+00:00:30,686 --> 00:00:35,405
+is going to present? My country. In this case you can see their email
+
+9
+00:00:35,406 --> 00:00:38,585
+in my calendar just here,
+
+10
+00:00:38,586 --> 00:00:41,742
+right? So you can see it here and then you can copy it.
+
+11
+00:00:42,302 --> 00:00:46,542
+And then you can write them. Later on then you can also see GitHub
+
+12
+00:00:46,543 --> 00:00:50,942
+link and project name. So I ask them to fill this information when they
+
+13
+00:00:50,943 --> 00:00:55,502
+create a calendar event. So we already have this information in the
+
+14
+00:00:55,503 --> 00:00:58,802
+calendar. Right? And what I'm going to do is I'm going to create a
+
+15
+00:00:58,803 --> 00:01:01,737
+calendar event. And what I'm going to do right now is just forward use
+
+16
+00:01:01,738 --> 00:01:04,557
+the link. So I will forward it to you.
+
+17
+00:01:06,177 --> 00:01:08,797
+And I also what I usually do is forward.
+
+18
+00:01:09,257 --> 00:01:12,197
+So this is not something you need to add in the process document.
+
+19
+00:01:12,537 --> 00:01:17,217
+So in the process document you'll probably show what to do after you receive
+
+20
+00:01:17,218 --> 00:01:21,853
+this email. This is just so it appears in
+
+21
+00:01:21,854 --> 00:01:24,773
+your to-do list. And so right now you will receive this email.
+
+22
+00:01:25,753 --> 00:01:28,513
+And you will know, okay,
+
+23
+00:01:28,653 --> 00:01:33,253
+that this is Andre. And then you see the
+
+24
+00:01:33,254 --> 00:01:36,453
+date, right? So you see when started and then you can just go to
+
+25
+00:01:36,454 --> 00:01:38,894
+my calendar and using the name.
+
+26
+00:01:40,854 --> 00:01:45,654
+Yeah, using the time I guess and then it's also so spot-by.
+
+27
+00:01:46,414 --> 00:01:48,514
+You can find this in my calendar.
+
+28
+00:01:49,474 --> 00:01:51,674
+And this is how you access email.
+
+29
+00:01:52,074 --> 00:01:54,694
+This is how you access project name and GitHub link.
+
+30
+00:01:55,994 --> 00:01:59,330
+And yeah, I don't need to. I just copy this information to you every
+
+31
+00:01:59,331 --> 00:02:01,670
+time. You know how to find it right now.
+
+32
+00:02:02,270 --> 00:02:07,030
+Okay, that's how you find information about open
+
+33
+00:02:07,031 --> 00:02:10,630
+source spotlights. Videos.
+
+34
+00:02:11,430 --> 00:02:12,870
+Yeah, that's it.

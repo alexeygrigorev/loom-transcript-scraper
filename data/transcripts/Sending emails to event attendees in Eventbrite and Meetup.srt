@@ -1,0 +1,147 @@
+1
+00:00:00,810 --> 00:00:05,550
+Okay. So where do they work? So we will need to send some things
+
+2
+00:00:05,551 --> 00:00:08,610
+to the attendees. So I wanted to show you how to send emails to
+
+3
+00:00:08,790 --> 00:00:12,150
+people, to sign up for a workflow. So what are the workflow?
+
+4
+00:00:15,210 --> 00:00:18,840
+And then we are getting,
+
+5
+00:00:19,200 --> 00:00:25,910
+let's see, they keep changing it's and
+
+6
+00:00:27,230 --> 00:00:29,360
+yeah, it's managed to attendees emails,
+
+7
+00:00:35,030 --> 00:00:40,190
+um, event in
+
+8
+00:00:40,191 --> 00:00:40,700
+UML,
+
+9
+00:00:53,520 --> 00:00:57,580
+um, the work
+
+10
+00:01:02,140 --> 00:01:07,090
+or buy a lots
+
+11
+00:01:08,050 --> 00:01:11,680
+of columns there.
+
+12
+00:01:24,910 --> 00:01:29,560
+This will be different for when we need to send
+
+13
+00:01:29,561 --> 00:01:34,150
+something. Let me just make it a bit
+
+14
+00:01:34,151 --> 00:01:34,540
+larger.
+
+15
+00:01:39,900 --> 00:01:45,220
+The workshops I'm going to be your
+
+16
+00:01:47,440 --> 00:01:51,970
+female stuff.
+
+17
+00:01:56,050 --> 00:02:00,800
+I don't think it's actually needed. So I
+
+18
+00:02:00,801 --> 00:02:03,260
+will send a chest event to myself to see.
+
+19
+00:02:17,660 --> 00:02:21,770
+So for the workshop, I guess that is enough.
+
+20
+00:02:21,800 --> 00:02:26,270
+So I will just send it right now.
+
+21
+00:02:27,320 --> 00:02:31,700
+Sometimes we might send it like one day before it starts or something like
+
+22
+00:02:31,701 --> 00:02:34,400
+this, but, um, yeah,
+
+23
+00:02:34,730 --> 00:02:39,680
+so I will just send it. So
+
+24
+00:02:39,681 --> 00:02:43,790
+now this email,
+
+25
+00:02:46,100 --> 00:02:50,650
+and let's make a copy of the text because I also now want
+
+26
+00:02:50,651 --> 00:02:55,090
+to show you about the same thing in,
+
+27
+00:03:00,600 --> 00:03:00,810
+<v 1>But,
+
+28
+00:03:10,970 --> 00:03:14,270
+Um, they send it to myself,
+
+29
+00:03:16,790 --> 00:03:19,970
+so copy it and
+
+30
+00:03:25,040 --> 00:03:30,360
+then this, and yeah,
+
+31
+00:03:30,810 --> 00:03:36,450
+so members who RSVP and,
+
+32
+00:03:44,900 --> 00:03:50,870
+and I will call it message.
+
+33
+00:04:09,920 --> 00:04:10,220
+<v 1>I'm done.
+
+34
+00:04:15,450 --> 00:04:16,350
+Yeah, I dunno.
+
+35
+00:04:37,640 --> 00:04:37,870
+<v 1>Yeah.
+
+36
+00:04:46,310 --> 00:04:51,240
+So this is how you sent messages, emails to our
+
+37
+00:04:51,241 --> 00:04:51,600
+events.

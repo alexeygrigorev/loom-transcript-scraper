@@ -1,0 +1,187 @@
+1
+00:00:00,970 --> 00:00:05,720
+Hi. So, um, I wanted to show you how to send emails through Luma.
+
+2
+00:00:06,050 --> 00:00:09,280
+So we use Luma remember for Project of the week.
+
+3
+00:00:09,770 --> 00:00:12,200
+So I wanted to show you how to send this message.
+
+4
+00:00:12,250 --> 00:00:15,720
+Uh, so we want to ask people who registered and participated.
+
+5
+00:00:16,050 --> 00:00:20,040
+We want to ask them for feedback. So I want to show you how
+
+6
+00:00:20,041 --> 00:00:25,180
+to do this. So go to Luma then.
+
+7
+00:00:25,181 --> 00:00:28,600
+Yeah, I think Luma Studio, then pastor.
+
+8
+00:00:29,070 --> 00:00:31,480
+Then what I do is I select the last,
+
+9
+00:00:31,930 --> 00:00:36,160
+um, this GitHub actions the last one.
+
+10
+00:00:37,660 --> 00:00:43,150
+And yeah, then I go to emails and
+
+11
+00:00:47,160 --> 00:00:51,610
+yeah, I think we just need to right here,
+
+12
+00:00:53,720 --> 00:00:56,200
+um, um,
+
+13
+00:00:56,550 --> 00:01:01,720
+I'll do project of the WIC GitHub
+
+14
+00:01:04,540 --> 00:01:06,700
+feedback project of the GitHub actions.
+
+15
+00:01:10,020 --> 00:01:14,780
+Something that, hi everyone.
+
+16
+00:01:16,280 --> 00:01:20,650
+Thanks for, for parti participating ing the projects with.
+
+17
+00:01:20,780 --> 00:01:22,970
+So I would like to hear in as well,
+
+18
+00:01:24,400 --> 00:01:28,260
+uh, release a fill out this feedback form.
+
+19
+00:01:29,700 --> 00:01:32,150
+Now, I don't know why it's red.
+
+20
+00:01:33,560 --> 00:01:36,670
+Um, you can fill it out in [Inaudible].
+
+21
+00:01:38,520 --> 00:01:44,280
+It will take [Inaudible] this
+
+22
+00:01:44,281 --> 00:01:51,230
+of your time and time
+
+23
+00:01:51,290 --> 00:01:56,310
+and it'll help make the future variations better,
+
+24
+00:01:57,930 --> 00:02:00,020
+future projects better.
+
+25
+00:02:04,900 --> 00:02:08,380
+Thank you. So now let me fix grammar.
+
+26
+00:02:10,970 --> 00:02:11,320
+Um,
+
+27
+00:02:23,800 --> 00:02:28,470
+so something like that. Hey everyone, thanks a lot for participating in,
+
+28
+00:02:32,400 --> 00:02:37,830
+In our project of the week about it
+
+29
+00:02:37,831 --> 00:02:38,870
+help actions.
+
+30
+00:02:42,980 --> 00:02:43,670
+I would like
+
+31
+00:02:46,040 --> 00:02:46,390
+<v 1>To
+
+32
+00:02:46,391 --> 00:02:48,630
+Get your input. So yeah,
+
+33
+00:02:48,870 --> 00:02:51,270
+probably if this text just, uh, I'll send it,
+
+34
+00:02:51,280 --> 00:02:54,830
+uh, to you too. So for feedback it'll probably be the same text,
+
+35
+00:02:54,831 --> 00:02:56,990
+but in general, like if we need to send something,
+
+36
+00:02:57,720 --> 00:03:00,120
+uh, to all the participants,
+
+37
+00:03:00,121 --> 00:03:03,000
+this is how I do this now.
+
+38
+00:03:03,001 --> 00:03:04,840
+Let me double check that. Uh,
+
+39
+00:03:21,040 --> 00:03:25,570
+okay. Okay.
+
+40
+00:03:25,571 --> 00:03:27,810
+Yeah, <laugh>. Anyways,
+
+41
+00:03:27,811 --> 00:03:30,370
+it'll take five minutes. Thank you.
+
+42
+00:03:31,200 --> 00:03:35,710
+Okay, now it's not
+
+43
+00:03:35,711 --> 00:03:39,210
+a link. Should be a link. Okay,
+
+44
+00:03:39,390 --> 00:03:43,930
+now, yeah, now it's a link. Just let
+
+45
+00:03:43,931 --> 00:03:45,130
+me make sure the link works.
+
+46
+00:04:02,740 --> 00:04:06,420
+Okay. So now just sent,
+
+47
+00:04:08,120 --> 00:04:10,020
+yep. So this is how we sent emails.

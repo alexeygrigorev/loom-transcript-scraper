@@ -1,0 +1,51 @@
+1
+00:00:01,140 --> 00:00:05,010
+So wanted to show you how to extract images from slug.
+
+2
+00:00:05,190 --> 00:00:09,030
+So sometimes when I reach out to speakers,
+
+3
+00:00:09,031 --> 00:00:11,490
+I say, Hey, can I take a picture from slack?
+
+4
+00:00:12,150 --> 00:00:15,870
+So they already have a picture the way to extract a day.
+
+5
+00:00:15,871 --> 00:00:20,460
+Usually I go to click on a profile or
+
+6
+00:00:21,060 --> 00:00:23,970
+do search control key,
+
+7
+00:00:26,010 --> 00:00:31,270
+for example, name Janine. So then profile and
+
+8
+00:00:32,390 --> 00:00:34,860
+others. And this is,
+
+9
+00:00:35,790 --> 00:00:40,590
+uh, this is the image that we can use for creating a speaker profile.
+
+10
+00:00:42,300 --> 00:00:46,530
+I think it's better to save it because I'm not sure how stable this
+
+11
+00:00:46,531 --> 00:00:51,060
+link is. Say, next time you
+
+12
+00:00:51,390 --> 00:00:55,470
+open, it will still work or not. Maybe it's better to just save it.
+
+13
+00:00:56,220 --> 00:00:59,130
+And then you will upload this one created speaker profile.

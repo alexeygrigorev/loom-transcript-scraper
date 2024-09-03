@@ -1,0 +1,1495 @@
+1
+00:00:01,113 --> 00:00:04,533
+So it looks like the one with Christopher was the last one.
+
+2
+00:00:05,153 --> 00:00:08,015
+So here in the podcast document, in the podcast folder.
+
+3
+00:00:09,636 --> 00:00:13,819
+And also please record it somewhere so we don't lose this information.
+
+4
+00:00:14,600 --> 00:00:17,301
+So here in this folder, so Dropbox podcast.
+
+5
+00:00:17,802 --> 00:00:19,903
+I think I have, you have access to that.
+
+6
+00:00:21,404 --> 00:00:26,528
+So first when we have, when our podcast
+
+7
+00:00:26,548 --> 00:00:30,790
+interview goes live. I also record it on my on my computer.
+
+8
+00:00:31,151 --> 00:00:33,372
+So not only on YouTube, but also on my computer.
+
+9
+00:00:33,833 --> 00:00:38,836
+And then at the end, when I stop, at the end of the
+
+10
+00:00:39,276 --> 00:00:44,420
+interview, I get some files and I upload these files to this podcast
+
+11
+00:00:46,421 --> 00:00:48,482
+folder, right? And if we open,
+
+12
+00:00:48,483 --> 00:00:50,664
+let's say,
+
+13
+00:00:51,624 --> 00:00:56,468
+this one with Christopher. So when I open
+
+14
+00:00:56,528 --> 00:01:00,160
+it, let me just check through the entire thing with you.
+
+15
+00:01:00,161 --> 00:01:02,722
+Right now, um,
+
+16
+00:01:02,742 --> 00:01:04,953
+okay, reach out to guests. It's clear.
+
+17
+00:01:04,973 --> 00:01:08,095
+Agree on a date. Create a document with question for the podcast.
+
+18
+00:01:09,196 --> 00:01:12,578
+Share the podcast document on the DTC podcast help.
+
+19
+00:01:13,399 --> 00:01:15,660
+Create a calendar invite. Ask the guests.
+
+20
+00:01:16,121 --> 00:01:19,343
+I think this is clear, right? So maybe even,
+
+21
+00:01:20,243 --> 00:01:26,468
+let me open it. So,
+
+22
+00:01:26,469 --> 00:01:29,029
+agree on a date, create a calendar invite,
+
+23
+00:01:29,049 --> 00:01:31,481
+this is something we can do.
+
+24
+00:01:31,482 --> 00:01:34,703
+Um,
+
+25
+00:01:34,723 --> 00:01:37,955
+here, so once we agree on a date,
+
+26
+00:01:38,195 --> 00:01:41,587
+we immediately, we can even, uh,
+
+27
+00:01:41,588 --> 00:01:46,281
+uh, wait, once
+
+28
+00:01:46,282 --> 00:01:49,893
+we agree on a date, we probably already have a document with questions.
+
+29
+00:01:49,894 --> 00:01:54,987
+Uh, this is the podcast document that we'll later share with Johanna.
+
+30
+00:01:57,428 --> 00:02:00,020
+It's not moved yet, right? Or you updated the links already?
+
+31
+00:02:01,905 --> 00:02:05,062
+By the way, how is it going with the migration project?
+
+32
+00:02:06,844 --> 00:02:09,946
+Anyways, um, so we create a calendar invite,
+
+33
+00:02:10,506 --> 00:02:13,468
+share the podcast document on the DDC podcast help,
+
+34
+00:02:16,130 --> 00:02:20,483
+and also, um,
+
+35
+00:02:20,503 --> 00:02:22,585
+wait, because, um,
+
+36
+00:02:22,605 --> 00:02:26,637
+this is one thing, but what we can also do is share,
+
+37
+00:02:26,858 --> 00:02:31,863
+we can include Johanna to our project.
+
+38
+00:02:31,864 --> 00:02:37,354
+Our conversation, include Johanna
+
+39
+00:02:38,275 --> 00:02:44,279
+or somebody else who helps with
+
+40
+00:02:44,359 --> 00:02:48,902
+the questions in
+
+41
+00:02:48,922 --> 00:02:52,705
+the email thread. So typically it's Johanna,
+
+42
+00:02:53,065 --> 00:02:58,809
+but maybe it's for some, it could be somebody
+
+43
+00:02:58,849 --> 00:03:00,060
+else. worse
+
+44
+00:03:11,960 --> 00:03:15,964
+So once we agreed on a document,
+
+45
+00:03:15,985 --> 00:03:21,270
+we can already include Johanna there and start preparing
+
+46
+00:03:21,350 --> 00:03:26,076
+questions. Ask the guest a biography and other information.
+
+47
+00:03:27,938 --> 00:03:31,751
+So this is something we put to the podcast document.
+
+48
+00:03:32,511 --> 00:03:34,833
+Ask the guest the bio to the podcast document.
+
+49
+00:03:35,674 --> 00:03:37,916
+Agree with author on the title and the outline.
+
+50
+00:03:39,297 --> 00:03:44,020
+Fill in the people form. Okay. So this is something on Data Talks
+
+51
+00:03:44,040 --> 00:03:46,722
+Club. When we create events,
+
+52
+00:03:47,663 --> 00:03:50,365
+we have these links. You already know that.
+
+53
+00:03:52,206 --> 00:03:54,328
+So this is why we need to create the,
+
+54
+00:03:55,929 --> 00:03:57,160
+wait, where is it?
+
+55
+00:04:02,662 --> 00:04:07,474
+Oh, here we Create a banner for
+
+56
+00:04:07,514 --> 00:04:10,636
+podcast event in Enigma. Okay. Create an event in Luma.
+
+57
+00:04:11,157 --> 00:04:15,840
+Create an event in the
+
+58
+00:04:15,841 --> 00:04:20,383
+community calendar. I think I
+
+59
+00:04:20,423 --> 00:04:24,906
+asked you to update this. So please check, please make sure that in other
+
+60
+00:04:26,927 --> 00:04:29,609
+that in other templates we also So,
+
+61
+00:04:29,729 --> 00:04:34,092
+call it DTC Community. Community calendar.
+
+62
+00:04:34,112 --> 00:04:36,574
+Yeah, right. This is what I meant.
+
+63
+00:04:36,894 --> 00:04:40,257
+Because like it could be confusing. We have here create a calendar invite,
+
+64
+00:04:40,977 --> 00:04:43,019
+right? And here we have create an event,
+
+65
+00:04:43,039 --> 00:04:45,961
+right? So it could be confusing. What's the difference between these two?
+
+66
+00:04:46,261 --> 00:04:50,944
+So this is for guests and this is for the attendees.
+
+67
+00:04:52,465 --> 00:04:55,087
+And first, yeah, we have to have a Luma event.
+
+68
+00:04:55,648 --> 00:04:58,760
+Create an event in Meetup, announce the event in Slack.
+
+69
+00:05:06,126 --> 00:05:10,434
+And here is a to-do for you. Add the link to the document.
+
+70
+00:05:11,035 --> 00:05:16,819
+Check if there's also a to-do doc.
+
+71
+00:05:16,820 --> 00:05:19,001
+Create an event on LinkedIn. This is something we discussed.
+
+72
+00:05:19,041 --> 00:05:23,005
+We need to update it. Fill in the event form on their table.
+
+73
+00:05:23,006 --> 00:05:26,788
+Add the event to the DataDocs group web page.
+
+74
+00:05:26,888 --> 00:05:30,880
+Schedule post on tiktok and twitter.
+
+75
+00:05:30,881 --> 00:05:33,091
+I think this is something we talked about already.
+
+76
+00:05:33,092 --> 00:05:35,813
+So instead of creating an event,
+
+77
+00:05:37,094 --> 00:05:41,777
+this is what we need to do. So I will remove
+
+78
+00:05:41,778 --> 00:05:44,059
+it.
+
+79
+00:05:45,360 --> 00:05:48,382
+So this one, I don't think we do it.
+
+80
+00:05:48,842 --> 00:05:51,724
+Wait. I don't think we do it anymore.
+
+81
+00:05:55,166 --> 00:05:59,529
+so we can just forget about that. Remind the guest about the event one
+
+82
+00:05:59,549 --> 00:06:01,630
+week before, one week day before,
+
+83
+00:06:01,631 --> 00:06:04,712
+actual stream. So here you don't need to do anything.
+
+84
+00:06:04,733 --> 00:06:09,095
+It's just after it's done, you tick the box and you put,
+
+85
+00:06:10,236 --> 00:06:12,658
+so every time you do something like,
+
+86
+00:06:12,659 --> 00:06:15,460
+for example, create a podcast document, you add a link here.
+
+87
+00:06:15,980 --> 00:06:18,522
+Then when you create a meetup link, you add a link here.
+
+88
+00:06:20,903 --> 00:06:23,485
+Don't do a link to it anymore.
+
+89
+00:06:24,446 --> 00:06:26,787
+Meetup link, YouTube link, podcast link.
+
+90
+00:06:31,345 --> 00:06:37,244
+here, it's Spotify
+
+91
+00:06:38,025 --> 00:06:40,947
+podcast link to do,
+
+92
+00:06:42,228 --> 00:06:47,872
+Apple podcasts link to
+
+93
+00:06:47,892 --> 00:06:48,112
+do.
+
+94
+00:06:52,275 --> 00:06:54,367
+Then what else, uh,
+
+95
+00:06:54,387 --> 00:06:58,850
+DVC web page podcast link to do.
+
+96
+00:07:01,350 --> 00:07:04,112
+And maybe there are some other links we should add here.
+
+97
+00:07:07,975 --> 00:07:10,856
+So then we have all the links here, and when you copy them,
+
+98
+00:07:10,916 --> 00:07:13,278
+when you create page,
+
+99
+00:07:13,758 --> 00:07:16,860
+you can also update this description,
+
+100
+00:07:17,221 --> 00:07:19,502
+so then it has other things.
+
+101
+00:07:20,763 --> 00:07:22,864
+Okay, uh, actual scripting,
+
+102
+00:07:23,125 --> 00:07:25,586
+add the YouTube link of the stream to the website,
+
+103
+00:07:25,587 --> 00:07:30,189
+update the recording to the shared folder in Dropbox.
+
+104
+00:07:30,490 --> 00:07:34,812
+This is what I showed you. So then you just check that it's,
+
+105
+00:07:35,132 --> 00:07:40,326
+when it's there, you tick the box, um,
+
+106
+00:07:40,346 --> 00:07:42,697
+you ask the guests for links after the stream, yeah,
+
+107
+00:07:42,917 --> 00:07:46,560
+so you just sent an email thanking them for the stream and then asking
+
+108
+00:07:46,580 --> 00:07:51,053
+if they want to share anything, then you edit the video,
+
+109
+00:07:51,054 --> 00:07:53,665
+uh, then the edit,
+
+110
+00:07:53,725 --> 00:07:56,187
+the editing on YouTube takes a bit of time,
+
+111
+00:07:56,527 --> 00:07:59,829
+so then sometimes we need to come there in like three,
+
+112
+00:08:00,109 --> 00:08:02,471
+four hours to check, yeah. If it's, it finished editing,
+
+113
+00:08:03,311 --> 00:08:05,543
+then actually I would update the cover,
+
+114
+00:08:05,544 --> 00:08:08,225
+uh, as soon as possible.
+
+115
+00:08:08,226 --> 00:08:13,225
+Uh,
+
+116
+00:08:16,010 --> 00:08:19,702
+we check if the video, add video to live stream and podcast playlist on
+
+117
+00:08:19,703 --> 00:08:22,754
+YouTube, uh, update, uh,
+
+118
+00:08:22,774 --> 00:08:27,327
+so then this is something to do. Uh, it
+
+119
+00:08:27,328 --> 00:08:30,169
+should be Luma, update the event sheet.
+
+120
+00:08:30,170 --> 00:08:35,169
+Ah,
+
+121
+00:08:36,042 --> 00:08:38,944
+yeah, this is the uploading.
+
+122
+00:08:46,069 --> 00:08:47,951
+When was the last time we actually did that?
+
+123
+00:08:52,334 --> 00:08:56,307
+It's been a while. Okay,
+
+124
+00:08:56,308 --> 00:08:59,839
+um, yeah, that's pity that we haven't done this in a while.
+
+125
+00:08:59,879 --> 00:09:03,971
+So I was thinking it's happening,
+
+126
+00:09:04,171 --> 00:09:08,995
+but it's not. Yeah,
+
+127
+00:09:08,996 --> 00:09:12,998
+so for now, let's not do that. Let's just keep this thing.
+
+128
+00:09:16,300 --> 00:09:18,482
+Podcast document to archive on Google Drive,
+
+129
+00:09:18,522 --> 00:09:21,904
+send the video to the freelancer. Um, okay,
+
+130
+00:09:21,905 --> 00:09:26,528
+so we don't do this anymore because the freelancer doesn't work with us anymore.
+
+131
+00:09:26,548 --> 00:09:33,681
+So you need to update this to, uh,
+
+132
+00:09:33,682 --> 00:09:35,742
+uh, edit it,
+
+133
+00:09:35,743 --> 00:09:38,274
+uh, create that transcript.
+
+134
+00:09:42,498 --> 00:09:45,070
+So please, uh, when you create that,
+
+135
+00:09:45,071 --> 00:09:48,233
+uh, when you create,
+
+136
+00:09:48,234 --> 00:09:51,475
+uh, the process document for that, um,
+
+137
+00:09:51,495 --> 00:09:53,747
+add it here. And this is actually, oops,
+
+138
+00:09:54,147 --> 00:09:57,300
+it's in our to-do list. So these two.
+
+139
+00:10:02,510 --> 00:10:05,771
+Uh, so these two are about creating,
+
+140
+00:10:05,772 --> 00:10:16,025
+um, transcriptions. Where
+
+141
+00:10:16,026 --> 00:10:20,446
+was I? Create the transcript.
+
+142
+00:10:20,447 --> 00:10:25,028
+So you turn that, uh, these Luma videos into process documents.
+
+143
+00:10:26,188 --> 00:10:28,239
+Update the podcast freelancers. Preach it.
+
+144
+00:10:28,240 --> 00:10:37,070
+Um, so let's see what is there. So
+
+145
+00:10:37,071 --> 00:10:39,631
+here we don't do paid transcript anymore.
+
+146
+00:10:39,832 --> 00:10:40,972
+We just, uh, yeah,
+
+147
+00:10:50,416 --> 00:10:52,487
+I guess we don't keep track of that anymore.
+
+148
+00:10:52,488 --> 00:10:56,678
+Uh, yeah,
+
+149
+00:10:56,879 --> 00:10:59,009
+so this document is needed to keep track of,
+
+150
+00:10:59,010 --> 00:11:01,820
+uh, um,
+
+151
+00:11:01,821 --> 00:11:03,861
+edits. So when we send a podcast,
+
+152
+00:11:03,862 --> 00:11:08,454
+uh, so for transcripts, we don't do it
+
+153
+00:11:08,515 --> 00:11:11,186
+anymore. So let me just delete this,
+
+154
+00:11:11,187 --> 00:11:16,080
+uh, or status transcript.
+
+155
+00:11:16,081 --> 00:11:18,321
+So you just mark it as done when it finishes.
+
+156
+00:11:19,001 --> 00:11:21,193
+So for a new events, um,
+
+157
+00:11:21,213 --> 00:11:25,616
+so please, uh, check with Dave for how many more episodes,
+
+158
+00:11:25,617 --> 00:11:28,238
+um, we,
+
+159
+00:11:28,239 --> 00:11:30,749
+um, mark it as done.
+
+160
+00:11:31,900 --> 00:11:36,913
+know, so what we are going to do right now is we
+
+161
+00:11:36,914 --> 00:11:40,456
+will, um, start from scratch here.
+
+162
+00:11:41,917 --> 00:11:46,600
+So I will, um, let me just
+
+163
+00:11:48,401 --> 00:11:51,183
+delete all these things. I'll just,
+
+164
+00:11:51,184 --> 00:11:56,183
+yeah.
+
+165
+00:11:57,227 --> 00:12:00,769
+So when we have a new episode,
+
+166
+00:12:00,770 --> 00:12:04,840
+let's start with three stuff. I'll show you how to fill it in.
+
+167
+00:12:05,580 --> 00:12:08,920
+And please make sure everything is documented. I know it's a lot of information
+
+168
+00:12:08,921 --> 00:12:12,520
+for you right now, and you work only for 15 hours per week right
+
+169
+00:12:12,521 --> 00:12:16,300
+now, but please make sure that this information does not slip through the cracks,
+
+170
+00:12:16,900 --> 00:12:19,180
+and we have it documented somewhere.
+
+171
+00:12:19,620 --> 00:12:23,420
+I'm pretty sure there should be a process document for that somewhere.
+
+172
+00:12:23,421 --> 00:12:25,980
+So let's try to find it,
+
+173
+00:12:26,820 --> 00:12:30,980
+and yeah,
+
+174
+00:12:31,100 --> 00:12:35,152
+and somehow we also, need to make sure that we can find an easy
+
+175
+00:12:35,172 --> 00:12:39,215
+way to find this information. Okay,
+
+176
+00:12:39,415 --> 00:12:43,157
+so I was here.
+
+177
+00:12:47,320 --> 00:12:48,441
+Then we add the video.
+
+178
+00:12:54,145 --> 00:12:57,667
+And status in progress. You will do it soon.
+
+179
+00:12:58,267 --> 00:13:02,380
+Status identity is done. and then please,
+
+180
+00:13:02,381 --> 00:13:07,894
+Let's ask Dave for how many more edits
+
+181
+00:13:08,995 --> 00:13:12,677
+or how many more podcast episodes we paid.
+
+182
+00:13:13,498 --> 00:13:18,741
+So this is yes. And then you
+
+183
+00:13:18,742 --> 00:13:23,684
+just include yes, yes, yes for how many more we paid because
+
+184
+00:13:23,685 --> 00:13:25,766
+we want to keep track of the payments.
+
+185
+00:13:27,987 --> 00:13:31,790
+And I will typically include you like when I make a new payment to
+
+186
+00:13:31,850 --> 00:13:35,322
+Dave. You will just, usually we pay for four.
+
+187
+00:13:35,802 --> 00:13:38,584
+So when we run out of payments, you will just add yes,
+
+188
+00:13:38,644 --> 00:13:43,578
+yes, yes. And wait, what's happening? And here
+
+189
+00:13:43,579 --> 00:13:45,970
+uh date paid.
+
+190
+00:13:46,410 --> 00:13:50,193
+So here we, you can ask him hey when was the last invoice paid
+
+191
+00:13:50,253 --> 00:13:56,147
+and for how many how many unedited episodes we still have in our um
+
+192
+00:13:56,167 --> 00:13:58,399
+pipeline. So then you can feel this thing.
+
+193
+00:13:58,400 --> 00:14:03,131
+And then next time we pay. We will
+
+194
+00:14:03,311 --> 00:14:06,734
+also put it here. So I just want to keep track of,
+
+195
+00:14:07,034 --> 00:14:11,798
+so the reason this spreadsheet exists is we want to keep track of how
+
+196
+00:14:11,818 --> 00:14:15,901
+many things we paid for and for how and when we need to pay
+
+197
+00:14:15,921 --> 00:14:18,463
+again. So, yeah,
+
+198
+00:14:18,643 --> 00:14:23,447
+that's why it's here. Include
+
+199
+00:14:23,527 --> 00:14:26,880
+encodes extracted from the transcript.
+
+200
+00:14:33,874 --> 00:14:37,252
+Okay, yeah, so for that we need to,
+
+201
+00:14:37,253 --> 00:14:39,704
+I want to update it to,
+
+202
+00:14:45,828 --> 00:14:51,002
+uh, open the
+
+203
+00:14:51,003 --> 00:14:54,124
+transcript, uh, save it, upload it to transcript utils, add file,
+
+204
+00:14:54,344 --> 00:14:56,706
+commit changes, yeah, this is right,
+
+205
+00:14:57,086 --> 00:14:59,948
+and then you get the time codes on time. Also,
+
+206
+00:14:59,949 --> 00:15:02,420
+please, for this one, check with Valeria if we need to.
+
+207
+00:15:02,421 --> 00:15:05,702
+We need to, uh,
+
+208
+00:15:05,722 --> 00:15:11,236
+update it. Schedulated
+
+209
+00:15:11,237 --> 00:15:14,758
+podcast with Anchor, so right now it's called Spotify for podcasters,
+
+210
+00:15:14,978 --> 00:15:17,160
+and we need to update it.
+
+211
+00:15:18,421 --> 00:15:23,784
+It's also to-do for you, so we need to update it with Spotify
+
+212
+00:15:24,445 --> 00:15:28,087
+for podcasters. So Anchor is the old name for that,
+
+213
+00:15:28,167 --> 00:15:30,208
+so they rebranded it and changed the interface.
+
+214
+00:15:32,650 --> 00:15:35,852
+add a podcast episode with the air table form.
+
+215
+00:15:36,813 --> 00:15:41,637
+So this is something that happens between,
+
+216
+00:15:41,937 --> 00:15:45,079
+as I mentioned, there is a task that needs to happen between the time
+
+217
+00:15:45,099 --> 00:15:47,921
+the podcast episode is released and the newsletter.
+
+218
+00:15:48,682 --> 00:15:51,043
+So by then we have everything,
+
+219
+00:15:51,083 --> 00:15:54,086
+and by the way Schedule.
+
+220
+00:15:54,966 --> 00:15:58,599
+So here in the schedule we have,
+
+221
+00:15:58,600 --> 00:16:03,599
+so
+
+222
+00:16:04,921 --> 00:16:09,921
+uh
+
+223
+00:16:11,345 --> 00:16:15,958
+um no so this one is not right.
+
+224
+00:16:19,741 --> 00:16:23,344
+So here we just have the link to Google and that's enough.
+
+225
+00:16:24,705 --> 00:16:29,758
+So the reason this thing exists is we keep track of uh
+
+226
+00:16:34,450 --> 00:16:39,330
+Release. So please find the relevant process document
+
+227
+00:16:39,331 --> 00:16:43,970
+and update them. So here we keep track of things
+
+228
+00:16:43,971 --> 00:16:46,210
+when we release podcast episodes, right?
+
+229
+00:16:46,270 --> 00:16:53,590
+So for example, last week we had um this.
+
+230
+00:16:53,910 --> 00:16:55,990
+Please write the the full name here,
+
+231
+00:16:55,991 --> 00:16:58,030
+the full name of the full title.
+
+232
+00:16:58,430 --> 00:17:00,870
+And then it was season 18,
+
+233
+00:17:01,070 --> 00:17:05,812
+episode number 9. So here we keep track of what is the season,
+
+234
+00:17:05,852 --> 00:17:08,694
+what is the episode. And then next time we publish something,
+
+235
+00:17:09,014 --> 00:17:12,416
+we would write here. So ideally we should have a plan here,
+
+236
+00:17:12,417 --> 00:17:15,799
+right? So this is podcast release.
+
+237
+00:17:15,879 --> 00:17:20,001
+So 16th of August was last week. This is when we published the episode
+
+238
+00:17:20,002 --> 00:17:22,463
+with Chris, right? And then next week, for example,
+
+239
+00:17:22,464 --> 00:17:25,325
+yeah we need to move Ella here.
+
+240
+00:17:25,425 --> 00:17:29,188
+But like once we have a new think with Rachel.
+
+241
+00:17:30,188 --> 00:17:34,110
+It will probably take two weeks. So here Rachel is this is when we
+
+242
+00:17:34,111 --> 00:17:36,610
+release it as a audio only version.
+
+243
+00:17:37,190 --> 00:17:41,110
+And it will be season 19 episode one,
+
+244
+00:17:41,270 --> 00:17:45,490
+right? And then after Rachel it will be Anne. It's 19.2,
+
+245
+00:17:45,770 --> 00:17:49,430
+right? So here we want to know and you need to put the full
+
+246
+00:17:49,431 --> 00:17:53,870
+name here of course. But here we just know okay now we have the
+
+247
+00:17:53,871 --> 00:17:56,630
+episodes in pipeline. Right,
+
+248
+00:17:57,210 --> 00:18:01,010
+and this is how you know season and episode number,
+
+249
+00:18:01,410 --> 00:18:06,071
+and then anchor your URL. This is actually Spotify for
+
+250
+00:18:06,072 --> 00:18:08,672
+podcasters URL. YouTube, Apple Podcasts,
+
+251
+00:18:08,673 --> 00:18:13,294
+Spotify. I don't know if this Spotify for podcasters still have,
+
+252
+00:18:23,477 --> 00:18:25,598
+I think the anchor thing still exists.
+
+253
+00:18:27,018 --> 00:18:29,919
+Yeah. Okay,
+
+254
+00:18:29,939 --> 00:18:32,150
+we need to figure out what kind of link to put there.
+
+255
+00:18:40,174 --> 00:18:44,234
+Okay. Schedule, create a podcast page,
+
+256
+00:18:44,235 --> 00:18:48,228
+uh, fill in the newsletter announcement.
+
+257
+00:18:48,568 --> 00:18:52,892
+This is exactly what you need to do on over the weekend after the
+
+258
+00:18:52,952 --> 00:18:55,344
+podcast episode is released. Right now, uh,
+
+259
+00:18:55,364 --> 00:18:58,497
+there is nothing to publish I think, so yeah,
+
+260
+00:18:58,498 --> 00:19:01,490
+that's why I, we don't need Too high with that one.
+
+261
+00:19:01,491 --> 00:19:06,062
+Then after it's created,
+
+262
+00:19:06,082 --> 00:19:08,304
+yeah, we ask the guest to share the podcast page,
+
+263
+00:19:08,945 --> 00:19:11,177
+add the link to the podcast page to the newsletter.
+
+264
+00:19:11,178 --> 00:19:15,871
+Uh, what is the difference between
+
+265
+00:19:15,872 --> 00:19:18,834
+these two?
+
+266
+00:19:23,698 --> 00:19:26,070
+Book of the week, like it's not even right.
+
+267
+00:19:33,940 --> 00:19:38,940
+Um,
+
+268
+00:19:39,324 --> 00:19:42,416
+yeah, we need to, I think this is actually what we,
+
+269
+00:19:44,437 --> 00:19:48,700
+come on, what's why it's book of the week?
+
+270
+00:19:50,462 --> 00:19:53,734
+Like please find a relevant process document and if you cannot,
+
+271
+00:19:53,735 --> 00:19:56,085
+uh, we need to create a new one.
+
+272
+00:19:56,145 --> 00:19:59,237
+So the idea behind these two is we need to,
+
+273
+00:19:59,238 --> 00:20:03,380
+um, we already We have a placeholder.
+
+274
+00:20:03,381 --> 00:20:08,193
+In the, um, in the newsletter, and now we need
+
+275
+00:20:08,213 --> 00:20:10,235
+to fill it in with actual information.
+
+276
+00:20:10,275 --> 00:20:12,676
+So please coordinate with Valeria about this too,
+
+277
+00:20:13,177 --> 00:20:16,779
+and let's make sure everything is documented. Okay.
+
+278
+00:20:16,859 --> 00:20:19,651
+I understand that it's a lot of information probably will take,
+
+279
+00:20:19,652 --> 00:20:21,732
+uh, you will spend the next week,
+
+280
+00:20:21,733 --> 00:20:24,514
+uh, on that once you finish the,
+
+281
+00:20:24,515 --> 00:20:26,746
+uh, the thing with taxes,
+
+282
+00:20:26,747 --> 00:20:30,268
+but let's make this a priority. I want you to be able to do
+
+283
+00:20:30,288 --> 00:20:34,151
+the entire thing end to end. And for that, I'll we will need to
+
+284
+00:20:34,231 --> 00:20:36,892
+work on updating the process documents.
+
+285
+00:20:36,912 --> 00:20:39,804
+Yeah. So please make it a priority for the next week.
+
+286
+00:20:39,805 --> 00:20:44,187
+Uh, schedule post overview after the event and linked it.
+
+287
+00:20:44,188 --> 00:20:46,289
+Uh,
+
+288
+00:20:46,309 --> 00:20:50,582
+okay. Um, and yeah,
+
+289
+00:20:50,782 --> 00:20:55,325
+maybe you can also, let me see what is
+
+290
+00:20:55,345 --> 00:20:55,485
+here.
+
+291
+00:21:07,622 --> 00:21:09,842
+yeah, maybe ask Valeria what this is.
+
+292
+00:21:09,843 --> 00:21:14,425
+Because it has to be a process document and what
+
+293
+00:21:14,426 --> 00:21:16,677
+we have from Valeria is not that.
+
+294
+00:21:16,678 --> 00:21:22,912
+Uh, but I think here is
+
+295
+00:21:22,972 --> 00:21:27,455
+the template, right? Yeah,
+
+296
+00:21:27,456 --> 00:21:30,558
+please ask her what exactly we need to do here and then we can
+
+297
+00:21:30,578 --> 00:21:33,440
+make a proper process document from the library.
+
+298
+00:21:33,441 --> 00:21:39,135
+Please. Okay, so I think it gives you a good overview of,
+
+299
+00:21:39,755 --> 00:21:45,080
+I think we also need to, what we call AnchorFM,
+
+300
+00:21:45,380 --> 00:21:49,684
+AnchorLink. We need to figure out what is now we have instead of Anchor,
+
+301
+00:21:50,084 --> 00:21:55,589
+Spotify for Podcasters link. Actually,
+
+302
+00:21:56,629 --> 00:21:57,200
+check it.
+
+303
+00:22:03,560 --> 00:22:07,491
+Now, maybe there is no specific link for this thing anymore.
+
+304
+00:22:12,293 --> 00:22:13,213
+Okay, so it's,
+
+305
+00:22:25,397 --> 00:22:26,998
+is there a link?
+
+306
+00:22:32,660 --> 00:22:34,990
+Oh, this is not right. Like,
+
+307
+00:22:35,010 --> 00:22:37,822
+this is not what you would in episode description. So please check the,
+
+308
+00:22:37,823 --> 00:22:40,984
+uh,
+
+309
+00:22:41,004 --> 00:22:43,216
+please check what we should put there. Like there is,
+
+310
+00:22:43,716 --> 00:22:47,509
+it's, it used to be called anchor. So you want to check the podcast,
+
+311
+00:22:47,510 --> 00:22:51,982
+uh, the process documents for anchor and then check what we have there.
+
+312
+00:22:52,262 --> 00:22:54,764
+And, uh, yeah, so this is not,
+
+313
+00:22:54,984 --> 00:22:59,007
+this is not right. Explicit content?
+
+314
+00:22:59,008 --> 00:23:01,549
+Of course, no. Like, why?
+
+315
+00:23:03,820 --> 00:23:07,533
+Yeah, please make sure you read the process documents before you do that.
+
+316
+00:23:07,553 --> 00:23:10,214
+Like, we don't want to have the improvisation here,
+
+317
+00:23:10,615 --> 00:23:13,797
+right? So, like, the process documents exist for a reason and if you don't
+
+318
+00:23:13,837 --> 00:23:16,038
+know how to do something, just let me know, okay?
+
+319
+00:23:16,218 --> 00:23:24,284
+Like, please don't improvise. And
+
+320
+00:23:24,285 --> 00:23:28,847
+so I think I don't know
+
+321
+00:23:28,967 --> 00:23:33,370
+how to get the link right now for a podcast episode.
+
+322
+00:23:33,371 --> 00:23:36,491
+Let me see.
+
+323
+00:23:42,675 --> 00:23:44,796
+Does this thing still exist? Yeah, okay.
+
+324
+00:23:45,457 --> 00:23:48,939
+So, you go to this thing, podcasterspotify.com, podshow,
+
+325
+00:23:48,940 --> 00:23:51,721
+DataDocsClub, and then you get the link from here.
+
+326
+00:23:51,722 --> 00:23:55,824
+Oops, see more.
+
+327
+00:23:56,064 --> 00:24:00,468
+Like, how do we actually, Yeah,
+
+328
+00:24:00,608 --> 00:24:03,940
+so when we just click on this, I think we get the,
+
+329
+00:24:03,941 --> 00:24:07,813
+link to the actual thing. So, this is what I meant by the,
+
+330
+00:24:10,935 --> 00:24:13,517
+by the link. So, for example, I will now go to,
+
+331
+00:24:13,518 --> 00:24:17,660
+I'll call it anchor instead of anchor.
+
+332
+00:24:18,560 --> 00:24:22,983
+Spotify for podcasters link.
+
+333
+00:24:24,905 --> 00:24:28,828
+Save. And then for Chris, where is it?
+
+334
+00:24:29,188 --> 00:24:40,130
+Chris. it's
+
+335
+00:24:40,131 --> 00:24:44,474
+here. Save.
+
+336
+00:24:48,097 --> 00:24:48,537
+Okay.
+
+337
+00:24:53,501 --> 00:24:56,744
+And this was actually after event, so now we need to put this here.
+
+338
+00:24:58,946 --> 00:25:03,530
+So with this one, we'll, we also need to do it to finish these
+
+339
+00:25:03,531 --> 00:25:06,852
+things, but let's later, once you figure out like the priority for next week,
+
+340
+00:25:06,872 --> 00:25:09,574
+we will be figuring out the podcast thing.
+
+341
+00:25:09,575 --> 00:25:14,097
+Right. And we'll do
+
+342
+00:25:14,117 --> 00:25:16,348
+the same thing now afterwards with other,
+
+343
+00:25:16,349 --> 00:25:20,561
+um, other things. What is podcast example?
+
+344
+00:25:25,684 --> 00:25:27,886
+Okay, I think Valeria maybe was experimenting with.
+
+345
+00:25:31,288 --> 00:25:34,310
+And this is something you created, right? Okay,
+
+346
+00:25:34,330 --> 00:25:36,982
+good. We can,
+
+347
+00:25:36,983 --> 00:25:39,654
+uh, make it a template.
+
+348
+00:25:45,638 --> 00:25:49,020
+Okay. So, uh, this was the podcast.
+
+349
+00:25:49,480 --> 00:25:53,343
+Yeah. There are a lot of things and it's outdated.
+
+350
+00:25:53,344 --> 00:25:57,506
+I know, not ideal, but then coming back to this one.
+
+351
+00:25:58,366 --> 00:26:00,468
+So usually after the episode is edited,
+
+352
+00:26:01,208 --> 00:26:04,400
+I delete, um, like let's say we keep Last few.
+
+353
+00:26:04,401 --> 00:26:06,692
+But like these ones are pretty old,
+
+354
+00:26:08,713 --> 00:26:12,255
+so I will remove them. So every now,
+
+355
+00:26:12,275 --> 00:26:16,158
+like every month we can come to this folder to clean things we don't
+
+356
+00:26:16,178 --> 00:26:20,681
+need anymore. And when you upload
+
+357
+00:26:20,701 --> 00:26:23,693
+something to, um,
+
+358
+00:26:23,713 --> 00:26:26,095
+Spotify for podcasters, uh,
+
+359
+00:26:26,115 --> 00:26:28,566
+you move things here to the uploaded folder.
+
+360
+00:26:28,866 --> 00:26:33,469
+So if it's not documented anywhere, please also document this and the structure of
+
+361
+00:26:33,490 --> 00:26:38,653
+this folder. So here when we don't have any anything
+
+362
+00:26:38,693 --> 00:26:41,975
+here, it means that we don't have any episodes in the pipeline.
+
+363
+00:26:43,956 --> 00:26:46,328
+Let me keep just in case, uh,
+
+364
+00:26:46,348 --> 00:26:50,021
+the edited version for the last one. But every now and then we clean
+
+365
+00:26:50,041 --> 00:26:52,943
+it. So here's the structure of our podcast document.
+
+366
+00:26:52,944 --> 00:26:56,545
+So here we have unedited things, here we have edited things,
+
+367
+00:26:56,645 --> 00:27:01,488
+and every time we upload something, we schedule with Spotify for podcasters,
+
+368
+00:27:01,629 --> 00:27:04,550
+we put it to there.
+
+369
+00:27:04,551 --> 00:27:06,953
+Okay,
+
+370
+00:27:07,133 --> 00:27:11,798
+that is a lot, uh, so please make sure everything
+
+371
+00:27:11,838 --> 00:27:14,801
+I shared with you is documented somewhere. I know it takes time,
+
+372
+00:27:14,841 --> 00:27:17,063
+but we're not in a rush anywhere.
+
+373
+00:27:17,884 --> 00:27:22,609
+Please take time to document everything, and let's make sure this information
+
+374
+00:27:22,729 --> 00:27:23,240
+is not lost.

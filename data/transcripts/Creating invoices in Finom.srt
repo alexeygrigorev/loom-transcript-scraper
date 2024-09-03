@@ -1,0 +1,551 @@
+1
+00:00:00,210 --> 00:00:05,280
+Alright. So I will show you how to create invoices in email,
+
+2
+00:00:06,060 --> 00:00:09,090
+um, and go to documents,
+
+3
+00:00:11,730 --> 00:00:16,950
+documents. And I think you can actually beginning,
+
+4
+00:00:17,520 --> 00:00:19,940
+so you can just click on this new document.
+
+5
+00:00:19,970 --> 00:00:22,710
+I think you don't need to go to you.
+
+6
+00:00:22,711 --> 00:00:24,780
+Don't need to go to documents. So just pick one
+
+7
+00:00:43,600 --> 00:00:47,910
+and then you create invoice, uh,
+
+8
+00:00:47,911 --> 00:00:53,160
+here in the invoice. So
+
+9
+00:00:53,161 --> 00:00:57,720
+we need to send them an invoice to our new sponsor called arise.
+
+10
+00:00:59,280 --> 00:01:02,310
+We don't get them yet, so we need to add a new contact.
+
+11
+00:01:03,870 --> 00:01:07,170
+So they are from, so this is actually the contract with them.
+
+12
+00:01:07,171 --> 00:01:13,080
+So they are from the United States. That's
+
+13
+00:01:13,081 --> 00:01:18,800
+the name you states
+
+14
+00:01:18,810 --> 00:01:22,560
+of America. Business name is arise.
+
+15
+00:01:22,680 --> 00:01:26,670
+AI that's the main company.
+
+16
+00:01:27,690 --> 00:01:31,140
+So, uh, they don't have the number they do have address.
+
+17
+00:01:31,530 --> 00:01:36,440
+So there is is, so this is this name,
+
+18
+00:01:37,370 --> 00:01:37,790
+I think,
+
+19
+00:01:42,900 --> 00:01:45,120
+um, I don't know.
+
+20
+00:01:45,121 --> 00:01:52,500
+I guess this postcode is school,
+
+21
+00:01:56,020 --> 00:01:57,830
+the most cold, and this is the
+
+22
+00:01:58,970 --> 00:01:59,420
+<v 1>CT,
+
+23
+00:02:02,530 --> 00:02:05,200
+So we don't need, we don't change anything else.
+
+24
+00:02:08,320 --> 00:02:10,420
+And we see that the others make sense.
+
+25
+00:02:10,421 --> 00:02:15,190
+It's similar to do what do we come here?
+
+26
+00:02:16,270 --> 00:02:18,930
+So, yeah,
+
+27
+00:02:18,960 --> 00:02:23,640
+that seems to make sense. So that's
+
+28
+00:02:23,641 --> 00:02:27,960
+the other S and now the things we'll want to send to them is
+
+29
+00:02:30,550 --> 00:02:33,910
+yeah, so they are our sponsors and contracts.
+
+30
+00:02:33,911 --> 00:02:38,530
+We need to send them, we need to send them
+
+31
+00:02:39,980 --> 00:02:43,750
+voices four times. So let me check.
+
+32
+00:02:46,020 --> 00:02:46,350
+Um,
+
+33
+00:02:52,170 --> 00:02:52,830
+<v 1>There's this?
+
+34
+00:02:55,040 --> 00:02:57,770
+Yeah, so it's 16.
+
+35
+00:02:58,040 --> 00:03:01,960
+Awesome invoice needs to be paid within 30 days.
+
+36
+00:03:03,760 --> 00:03:07,930
+So, and then, because it's important statements I will,
+
+37
+00:03:08,110 --> 00:03:12,970
+so are silver sponsors, the silver sponsorship is
+
+38
+00:03:14,020 --> 00:03:17,440
+first opened and I will.
+
+39
+00:03:17,710 --> 00:03:22,540
+Whoops. So for me
+
+40
+00:03:24,880 --> 00:03:26,560
+to put here,
+
+41
+00:03:40,590 --> 00:03:46,350
+so, and then the price is 16 for
+
+42
+00:03:46,590 --> 00:03:47,610
+just 4,000.
+
+43
+00:03:52,510 --> 00:03:55,900
+Um, and because they are in the United States of America,
+
+44
+00:03:56,560 --> 00:03:59,140
+they do not need to have any VAT.
+
+45
+00:03:59,920 --> 00:04:04,030
+And so it'd be at ease. You know, it's not a big deal if
+
+46
+00:04:04,031 --> 00:04:09,580
+they are in Europe. So for example, let me show you some
+
+47
+00:04:09,610 --> 00:04:10,150
+example,
+
+48
+00:04:12,700 --> 00:04:16,750
+This one, Brussels. So they are from Belgium,
+
+49
+00:04:16,751 --> 00:04:19,870
+it's European union. And if we do this,
+
+50
+00:04:20,620 --> 00:04:25,190
+we VAT is zero and we need to add the
+
+51
+00:04:25,191 --> 00:04:31,060
+notes percent charge.
+
+52
+00:04:31,240 --> 00:04:34,270
+So we need to do this. We always need to write these in terms
+
+53
+00:04:34,271 --> 00:04:38,860
+of notes. If we send to somebody within the European union except Germany.
+
+54
+00:04:39,040 --> 00:04:41,500
+So in Germany.
+
+55
+00:04:41,530 --> 00:04:44,770
+So for example, this is a German company,
+
+56
+00:04:45,190 --> 00:04:49,450
+then this goes away and we need to add 19% VAT,
+
+57
+00:04:50,470 --> 00:04:57,190
+but that's not how it works. So if Germany then VAT is 19%
+
+58
+00:04:57,640 --> 00:05:02,170
+in all the other cases, it's zero. And if it's
+
+59
+00:05:02,171 --> 00:05:06,220
+within Europe, then we need to write within,
+
+60
+00:05:07,000 --> 00:05:10,450
+I think we didn't get a beam unit. Then it's a VAT.
+
+61
+00:05:10,460 --> 00:05:11,200
+0%
+
+62
+00:05:16,230 --> 00:05:24,540
+Church. Yeah. And since we're writing this to rice,
+
+63
+00:05:25,410 --> 00:05:30,030
+because they are in the United States of America who just leave the AP zero and
+
+64
+00:05:30,031 --> 00:05:34,860
+two do not get any, okay.
+
+65
+00:05:37,560 --> 00:05:41,330
+You didn't write. I always,
+
+66
+00:05:42,740 --> 00:05:44,780
+I tend to make mistakes in this world.
+
+67
+00:05:45,080 --> 00:05:48,620
+So it's actually should be one, two.
+
+68
+00:05:49,550 --> 00:05:52,130
+I think it's like British too.
+
+69
+00:05:54,020 --> 00:05:56,960
+And then, um, in November,
+
+70
+00:05:57,710 --> 00:05:59,810
+issue them sometime another invoice,
+
+71
+00:06:00,590 --> 00:06:02,870
+which will be this one from December,
+
+72
+00:06:04,100 --> 00:06:06,660
+then another one from March may and so on.
+
+73
+00:06:08,830 --> 00:06:11,710
+Yeah, you probably don't need to, I don't know. You need access to this
+
+74
+00:06:11,711 --> 00:06:14,950
+one. Maybe I will try to access data.
+
+75
+00:06:16,180 --> 00:06:16,480
+Um,
+
+76
+00:06:19,710 --> 00:06:25,410
+No, I think that's for
+
+77
+00:06:26,310 --> 00:06:30,960
+procreation and invoices and I will later show you how to
+
+78
+00:06:30,961 --> 00:06:33,570
+create invoices or just let them,
+
+79
+00:06:34,700 --> 00:06:37,740
+or when I need to make money. Oh, maybe I can show you right
+
+80
+00:06:37,741 --> 00:06:40,410
+now. So you mentioned that, um, rice needs to,
+
+81
+00:06:41,520 --> 00:06:45,580
+uh, so I will say to me some ways I'll wait,
+
+82
+00:06:45,620 --> 00:06:50,400
+I actually need to edit this. Yeah.
+
+83
+00:06:50,401 --> 00:06:52,410
+We need to base,
+
+84
+00:06:54,120 --> 00:06:56,970
+like, we can always give 30 days for due date.
+
+85
+00:06:58,140 --> 00:07:01,110
+The issue date is today, 15 posts,
+
+86
+00:07:02,730 --> 00:07:06,450
+and then this is the invoice number. So usually it's a year.
+
+87
+00:07:06,900 --> 00:07:09,330
+And then, um, and then just,
+
+88
+00:07:10,350 --> 00:07:12,420
+and distinct is not updated automatically.
+
+89
+00:07:12,750 --> 00:07:17,640
+So the next time you create an invoice, it might be September,
+
+90
+00:07:17,670 --> 00:07:20,340
+but this one would motivate, so we'll need to change this.
+
+91
+00:07:22,610 --> 00:07:24,380
+Okay. So I think here,
+
+92
+00:07:28,430 --> 00:07:33,230
+and then this invoice, we can do like preview document and we can
+
+93
+00:07:33,650 --> 00:07:38,330
+download this and then send it to our
+
+94
+00:07:38,331 --> 00:07:41,150
+contacts. I will show you how to do this,
+
+95
+00:07:41,151 --> 00:07:45,170
+but for now, I want to show you, but I want to show you
+
+96
+00:07:45,171 --> 00:07:49,680
+a call to the invoices or emails or
+
+97
+00:07:50,390 --> 00:07:55,550
+newsletters. So let me create new document let's
+
+98
+00:07:56,690 --> 00:08:00,200
+and let's say we want to send invoice to,
+
+99
+00:08:04,600 --> 00:08:05,980
+for example, this one
+
+100
+00:08:10,180 --> 00:08:13,870
+promotion, because they are in Germany,
+
+101
+00:08:14,830 --> 00:08:19,450
+we select 19% and then we select their,
+
+102
+00:08:19,870 --> 00:08:22,540
+uh, the date. So for example,
+
+103
+00:08:34,310 --> 00:08:40,610
+And an aisle or a post,
+
+104
+00:08:43,370 --> 00:08:50,280
+and it would be there's 2022.
+
+105
+00:08:52,560 --> 00:08:56,890
+So this is all we do. Yeah.
+
+106
+00:08:58,180 --> 00:09:02,080
+For prices. Think I will just tell you every time,
+
+107
+00:09:02,081 --> 00:09:07,510
+how much we need to repeat their invoices
+
+108
+00:09:07,511 --> 00:09:10,990
+on maybe one more thing. So let's say if somebody wants to do two
+
+109
+00:09:11,560 --> 00:09:15,260
+promotions with us, so then,
+
+110
+00:09:15,350 --> 00:09:20,180
+uh, so they want to do two weeks and it just looked like this
+
+111
+00:09:20,270 --> 00:09:23,060
+search will be two items for each promotion,
+
+112
+00:09:23,061 --> 00:09:24,110
+which would be separate one.
+
+113
+00:09:30,510 --> 00:09:35,280
+I don't think it's okay.
+
+114
+00:09:35,281 --> 00:09:40,380
+So the next thing I wanted to show you is how to sense these
+
+115
+00:09:40,381 --> 00:09:42,900
+document. It is save it, save it.
+
+116
+00:09:47,320 --> 00:09:49,390
+Oh, awesome.
+
+117
+00:09:50,680 --> 00:09:53,090
+22. And,
+
+118
+00:09:53,110 --> 00:09:57,580
+uh, and name is
+
+119
+00:10:02,140 --> 00:10:06,700
+the name. And like,
+
+120
+00:10:06,701 --> 00:10:10,880
+I kind of be actually let's rename it to make it convenient or
+
+121
+00:10:19,500 --> 00:10:19,860
+<v 1>S**t.
+
+122
+00:10:25,000 --> 00:10:30,370
+So for example, this one is sponsorship could be put
+
+123
+00:10:30,371 --> 00:10:33,400
+down this to know what this thing is about.
+
+124
+00:10:45,260 --> 00:10:48,800
+Just one second. Okay.
+
+125
+00:10:48,950 --> 00:10:53,840
+So yeah, I called them to invoice contact or our ice
+
+126
+00:10:53,900 --> 00:10:56,180
+is this one. So just pull it to
+
+127
+00:11:01,150 --> 00:11:04,810
+Swan until, so we will Emily to CC
+
+128
+00:11:06,130 --> 00:11:06,550
+<v 1>Case.
+
+129
+00:11:30,380 --> 00:11:31,450
+So now we will send them
+
+130
+00:11:37,840 --> 00:11:38,350
+to
+
+131
+00:11:50,100 --> 00:11:50,160
+<v 1>Yeah.
+
+132
+00:12:06,950 --> 00:12:07,430
+And then
+
+133
+00:12:13,620 --> 00:12:14,100
+<v 1>This is cool.
+
+134
+00:12:25,900 --> 00:12:25,960
+Yeah.
+
+135
+00:12:32,630 --> 00:12:34,550
+Yeah. Um,
+
+136
+00:12:44,830 --> 00:12:45,100
+yeah.
+
+137
+00:12:49,850 --> 00:12:50,060
+<v 1>Oh
+
+138
+00:13:03,960 --> 00:13:06,840
+Yeah. So we just send it.

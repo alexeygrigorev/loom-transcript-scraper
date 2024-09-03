@@ -1,0 +1,111 @@
+1
+00:00:00,301 --> 00:00:05,215
+I realized that the instructions for creating the calendar in in
+
+2
+00:00:05,216 --> 00:00:09,423
+the course was not clear so I probably should record the video and then
+
+3
+00:00:09,424 --> 00:00:13,669
+we create a process document for that so the way it usually works is
+
+4
+00:00:13,670 --> 00:00:18,604
+when we have something in the course calendar we create an event
+
+5
+00:00:18,605 --> 00:00:23,458
+and then I will go to more options where
+
+6
+00:00:23,459 --> 00:00:28,201
+the yeah so then here we select a calendar here so we
+
+7
+00:00:28,202 --> 00:00:33,904
+use this data engineering zoom camp and
+
+8
+00:00:33,905 --> 00:00:38,578
+we don't add guests here because this information is visible to
+
+9
+00:00:38,579 --> 00:00:42,330
+a lot of people so we don't want to share any zoom links we
+
+10
+00:00:42,331 --> 00:00:47,463
+don't want to share any emails we don't want to share anything except
+
+11
+00:00:47,464 --> 00:00:52,005
+the title so here we will have office hours we dont need
+
+12
+00:00:52,006 --> 00:00:56,159
+to add anything else because the calendar is that engineering zoom camp so its
+
+13
+00:00:56,160 --> 00:01:00,809
+kinda clear that its office hours for that and then the link
+
+14
+00:01:00,810 --> 00:01:02,190
+will be our youtube channel
+
+15
+00:01:10,428 --> 00:01:15,068
+so the link here will be our youtube channel and here we
+
+16
+00:01:15,069 --> 00:01:20,763
+will write we will stream 2 or
+
+17
+00:01:20,764 --> 00:01:25,396
+youtube channel and then the link right so and there
+
+18
+00:01:25,397 --> 00:01:30,080
+is nothing else so we can i guess it doesn't
+
+19
+00:01:30,081 --> 00:01:34,755
+matter so we don't need to change anything here so here we updated and
+
+20
+00:01:34,756 --> 00:01:38,084
+this is the the previous one i think yeah this is the previous one
+
+21
+00:01:38,085 --> 00:01:43,838
+that i changed so now for this one i
+
+22
+00:01:43,839 --> 00:01:48,472
+edited it and i didnt realize that we have two different so
+
+23
+00:01:48,473 --> 00:01:53,504
+we have only one event so please for this one recreate
+
+24
+00:01:53,505 --> 00:01:58,105
+it one more time so this so for this event
+
+25
+00:01:58,106 --> 00:02:02,987
+i'll delete it so please create it one more time using the usual
+
+26
+00:02:02,988 --> 00:02:07,670
+way of doing that and when we need to create a course
+
+27
+00:02:07,671 --> 00:02:11,334
+event you know now how to do this so for that for the event
+
+28
+00:02:11,335 --> 00:02:12,441
+with Matt please recreate it

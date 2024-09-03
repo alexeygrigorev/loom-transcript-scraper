@@ -1,0 +1,131 @@
+1
+00:00:00,960 --> 00:00:03,340
+We have a few payments to Finansamt.
+
+2
+00:00:03,400 --> 00:00:06,920
+Finansamt is a tax office in Germany.
+
+3
+00:00:07,780 --> 00:00:11,160
+So, this is when I need to pay taxes. I need to transfer a
+
+4
+00:00:11,161 --> 00:00:16,400
+lot of money to them. I transferred some money today and
+
+5
+00:00:16,401 --> 00:00:20,920
+some money last month. I wanted to show you how I
+
+6
+00:00:20,921 --> 00:00:23,280
+put them right now into this.
+
+7
+00:00:23,526 --> 00:00:27,706
+Scratch it. So, right now I created a new tab here called taxes.
+
+8
+00:00:29,066 --> 00:00:31,106
+And I put,
+
+9
+00:00:31,107 --> 00:00:35,806
+like, all this all these payments there just to keep track in
+
+10
+00:00:35,807 --> 00:00:38,526
+one place, causing, you know, it might get lost or whatever.
+
+11
+00:00:39,486 --> 00:00:42,826
+And the way I do this, so, if I click here,
+
+12
+00:00:42,886 --> 00:00:45,106
+it says what kind of tax.
+
+13
+00:00:46,704 --> 00:00:51,344
+I paid it's giverbistor. There are two types of taxes.
+
+14
+00:00:51,744 --> 00:00:58,584
+This, the first one giverbistor. And the second one is this,
+
+15
+00:00:58,984 --> 00:01:03,204
+I'm commenstor. So, I took these things and I put them there.
+
+16
+00:01:03,284 --> 00:01:05,764
+So, this is here, giverbistor here,
+
+17
+00:01:05,964 --> 00:01:08,704
+commenstor here. So, this is the money I paid last.
+
+18
+00:01:11,534 --> 00:01:13,594
+For 2022. And this is the money I paid today.
+
+19
+00:01:14,214 --> 00:01:17,134
+So, right now I need to pay like, quarterly.
+
+20
+00:01:18,054 --> 00:01:20,934
+For some reason in this year, it's every,
+
+21
+00:01:21,634 --> 00:01:23,774
+it's not every quarter, but only second,
+
+22
+00:01:23,834 --> 00:01:27,014
+third and fourth quarter. Anyways,
+
+23
+00:01:27,294 --> 00:01:30,014
+so next time you see a payment to finance out.
+
+24
+00:01:32,404 --> 00:02:09,645
+Here in the you can just put it there.
+
+25
+00:01:34,804 --> 00:01:40,164
+, in this in
+
+26
+00:01:40,165 --> 00:01:42,464
+this thing. Yeah. It was like, for example,
+
+27
+00:01:42,704 --> 00:01:47,404
+if our accountants ask if we paid something or we did not pay
+
+28
+00:01:47,405 --> 00:01:50,884
+how much and so on, you can refer to this table,
+
+29
+00:01:51,344 --> 00:01:54,604
+to this spreadsheet and tell them, okay.
+
+30
+00:01:54,605 --> 00:01:59,417
+That's all. So maybe you can create a small process document that
+
+31
+00:01:59,418 --> 00:02:04,117
+describes that, but for now you at least know what this
+
+32
+00:02:04,697 --> 00:02:08,077
+what these records are and where we should put them in the spreadsheet.
+
+33
+00:02:08,657 --> 00:02:09,097
+Yeah. That's it.

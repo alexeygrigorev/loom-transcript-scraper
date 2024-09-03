@@ -1,0 +1,119 @@
+1
+00:00:00,090 --> 00:00:03,990
+Okay. So many people now have problems joining slug.
+
+2
+00:00:04,770 --> 00:00:07,110
+That's why I could eat this form.
+
+3
+00:00:07,440 --> 00:00:12,090
+They feel their email here, and we get data
+
+4
+00:00:12,091 --> 00:00:16,590
+here in, so let me show you how to get here.
+
+5
+00:00:17,700 --> 00:00:20,640
+So when you log into it, they will give you see this.
+
+6
+00:00:21,600 --> 00:00:25,200
+And then one of the things here is the scene right there.
+
+7
+00:00:25,890 --> 00:00:29,670
+And this is the first thing,
+
+8
+00:00:30,630 --> 00:00:31,980
+and these are the emails. So
+
+9
+00:00:37,680 --> 00:00:40,260
+Let me add, um,
+
+10
+00:00:43,850 --> 00:00:47,070
+You don't want to do this right now,
+
+11
+00:00:47,071 --> 00:00:50,280
+just for us to remember who invited them,
+
+12
+00:00:50,281 --> 00:00:51,090
+who we did not.
+
+13
+00:01:01,570 --> 00:01:08,140
+And what you can do now is take The
+
+14
+00:01:08,141 --> 00:01:11,440
+person here, Then go to Splunk
+
+15
+00:01:20,460 --> 00:01:21,420
+And then it's luck
+
+16
+00:01:27,600 --> 00:01:27,960
+<v 1>Luck.
+
+17
+00:01:31,290 --> 00:01:35,500
+And what square Lucky usually.
+
+18
+00:01:35,501 --> 00:01:38,890
+Anyway, and then you sent,
+
+19
+00:01:39,760 --> 00:01:42,340
+I think you can select multiple names,
+
+20
+00:01:42,550 --> 00:01:47,410
+say up the town Newport here.
+
+21
+00:01:49,490 --> 00:01:51,530
+Um, and then we're set.
+
+22
+00:01:53,700 --> 00:01:58,710
+Okay. Some of them actually, because they already joined and
+
+23
+00:01:58,860 --> 00:01:59,730
+some of them,
+
+24
+00:02:03,930 --> 00:02:09,000
+And now this, once you Make
+
+25
+00:02:09,001 --> 00:02:15,630
+them done, so you just press the copy control C to copy this  was
+
+26
+00:02:15,631 --> 00:02:17,760
+done. Um,
+
+27
+00:02:18,270 --> 00:02:20,340
+so Yeah,
+
+28
+00:02:20,370 --> 00:02:24,930
+please invite the rest of them and I'll tell you if we
+
+29
+00:02:24,931 --> 00:02:27,270
+need to invite more.
+
+30
+00:02:27,480 --> 00:02:28,440
+Um, I will ask.

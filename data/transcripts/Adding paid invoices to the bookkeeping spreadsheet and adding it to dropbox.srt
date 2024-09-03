@@ -1,0 +1,191 @@
+1
+00:00:00,360 --> 00:00:03,870
+Um, so yeah, because mines the be paid for the invoice.
+
+2
+00:00:03,871 --> 00:00:06,990
+I wanted to show you how we include the invoices here.
+
+3
+00:00:08,200 --> 00:00:11,990
+So, um, I will open
+
+4
+00:00:12,570 --> 00:00:12,990
+<v 1>Our,
+
+5
+00:00:15,280 --> 00:00:18,430
+Um, paperwork. We have this invoices income.
+
+6
+00:00:19,290 --> 00:00:25,080
+And so let me actually open
+
+7
+00:00:25,170 --> 00:00:31,000
+is where its, so we opened this payment document,
+
+8
+00:00:31,410 --> 00:00:35,320
+uh yeah, this document, right? Let,
+
+9
+00:00:35,560 --> 00:00:37,960
+actually start from maybe I did it too fast.
+
+10
+00:00:39,570 --> 00:00:43,780
+So yeah, we, yeah,
+
+11
+00:00:43,781 --> 00:00:46,460
+I think it might click on this thing on the invoice.
+
+12
+00:00:47,290 --> 00:00:50,180
+I will go directly to invoice, right? So this is the invoice.
+
+13
+00:00:50,850 --> 00:00:54,900
+I can just click to you PDF and this is what actually we send
+
+14
+00:00:54,901 --> 00:00:57,020
+to Costa. Alternatively, we can just,
+
+15
+00:00:57,070 --> 00:01:02,030
+uh, uh, alternatively,
+
+16
+00:01:02,031 --> 00:01:04,070
+we can just, uh, so this is the same invoice,
+
+17
+00:01:05,080 --> 00:01:07,520
+right? So we can just get this one.
+
+18
+00:01:09,350 --> 00:01:14,300
+Uh, this is the invoice we sent and we put it here and
+
+19
+00:01:14,301 --> 00:01:17,900
+then the pattern is plus here then.
+
+20
+00:01:18,190 --> 00:01:20,340
+Uh, so this is the date.
+
+21
+00:01:20,341 --> 00:01:23,260
+So it should be 20 22, 9 90.
+
+22
+00:01:23,880 --> 00:01:26,380
+And then today is, uh,
+
+23
+00:01:28,090 --> 00:01:31,180
+nine. So this is the day when,
+
+24
+00:01:31,350 --> 00:01:35,700
+um, we receive the payment. So today and uh,
+
+25
+00:01:35,701 --> 00:01:39,580
+yeah, so this part is not really needed. So that part was for them
+
+26
+00:01:39,581 --> 00:01:43,940
+to understand, uh, what they are paying for for us is just mine.
+
+27
+00:01:46,570 --> 00:01:49,080
+So the, the, the company,
+
+28
+00:01:51,920 --> 00:01:56,030
+so this is, and now we need to also add this to the,
+
+29
+00:01:57,080 --> 00:01:58,430
+um, to this bookkeeping.
+
+30
+00:01:59,640 --> 00:02:02,150
+So here, let me add,
+
+31
+00:02:02,160 --> 00:02:06,990
+so this is today, then this line would be when
+
+32
+00:02:07,070 --> 00:02:09,950
+we created the invoice date on this one.
+
+33
+00:02:12,660 --> 00:02:13,010
+<v 1>So
+
+34
+00:02:14,070 --> 00:02:15,290
+Use a different format.
+
+35
+00:02:19,410 --> 00:02:22,680
+So this is the issue date. This is the date when it was paid,
+
+36
+00:02:22,830 --> 00:02:24,960
+then mine's D
+
+37
+00:02:33,390 --> 00:02:37,120
+okay. And then how we take this hands workshop
+
+38
+00:02:44,200 --> 00:02:48,460
+and then it's plus 4,000.
+
+39
+00:02:49,940 --> 00:02:50,430
+<v 1>Okay.
+
+40
+00:02:51,560 --> 00:02:56,270
+So this is how we add the payments when we get paid.
+
+41
+00:02:57,820 --> 00:03:01,280
+So yeah, it's very important. Declare, declare this still in the,
+
+42
+00:03:02,420 --> 00:03:05,050
+in this bookkeeping. Yeah.
+
+43
+00:03:05,310 --> 00:03:09,910
+How we declare please received
+
+44
+00:03:11,570 --> 00:03:12,150
+the payment
+
+45
+00:03:19,470 --> 00:03:23,980
+install and uh, up with you and see if you will receive
+
+46
+00:03:23,981 --> 00:03:26,840
+any notifications. Oh,
+
+47
+00:03:26,841 --> 00:03:30,460
+but yeah. So this is how we, uh,
+
+48
+00:03:30,461 --> 00:03:33,260
+add this, uh, income for bookkeeping.

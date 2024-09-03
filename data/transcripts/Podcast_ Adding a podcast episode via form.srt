@@ -1,0 +1,227 @@
+1
+00:00:01,830 --> 00:00:04,020
+I short call to schedule a podcast too.
+
+2
+00:00:04,021 --> 00:00:07,080
+And today we need this core.
+
+3
+00:00:08,370 --> 00:00:12,240
+Um, so now the episode went live sometime ago.
+
+4
+00:00:14,850 --> 00:00:17,520
+Yeah. This one with career coaching with Lindsey.
+
+5
+00:00:18,630 --> 00:00:23,460
+So now I want to create this page.
+
+6
+00:00:26,370 --> 00:00:30,390
+So with page here and would that,
+
+7
+00:00:30,391 --> 00:00:32,790
+I need some information. So for each podcast,
+
+8
+00:00:32,820 --> 00:00:34,980
+find it links to apple podcasts,
+
+9
+00:00:34,981 --> 00:00:39,150
+Spotify, YouTube, and anchor, and then also transcript.
+
+10
+00:00:39,270 --> 00:00:44,310
+That's why I created this form. So in this form I
+
+11
+00:00:44,311 --> 00:00:47,880
+needed a bunch of things. So first of all,
+
+12
+00:00:48,450 --> 00:00:52,170
+uh, often this kid will document.
+
+13
+00:00:53,310 --> 00:00:54,960
+So here we see.
+
+14
+00:00:59,000 --> 00:01:02,450
+Yeah, sure. Here we see that this is season seven,
+
+15
+00:01:02,540 --> 00:01:06,230
+episode four. So excuse me.
+
+16
+00:01:06,270 --> 00:01:10,910
+So on, so forth, then I need to applaud
+
+17
+00:01:11,030 --> 00:01:14,720
+the task here. So this is the transcript of how I showed you.
+
+18
+00:01:15,830 --> 00:01:19,940
+So to download it, if it's a Google doc file,
+
+19
+00:01:19,970 --> 00:01:24,590
+we need to download it as a doc. It can already be a docs
+
+20
+00:01:24,591 --> 00:01:28,280
+file. Then we don't need to do this. So then done lot,
+
+21
+00:01:30,350 --> 00:01:35,210
+no clicks. So I have this document here in my download
+
+22
+00:01:35,211 --> 00:01:38,270
+folder. So then I would just attach this well,
+
+23
+00:01:40,140 --> 00:01:41,580
+uh, yeah, this one
+
+24
+00:01:45,840 --> 00:01:46,290
+cool way.
+
+25
+00:01:51,690 --> 00:01:56,460
+Um, and then I need to public hero to anchor something darker.
+
+26
+00:01:56,790 --> 00:02:01,410
+You can get public hero by clicking this three dots and then
+
+27
+00:02:01,770 --> 00:02:06,420
+copy public link. So then I put it here.
+
+28
+00:02:06,480 --> 00:02:09,300
+So we have a staff link. Oops.
+
+29
+00:02:10,170 --> 00:02:12,510
+Yeah. Well, you can see that it works.
+
+30
+00:02:13,350 --> 00:02:16,920
+Um, then I need to link to a YouTube video.
+
+31
+00:02:21,000 --> 00:02:23,220
+So this is the link to YouTube video.
+
+32
+00:02:27,050 --> 00:02:31,760
+Yeah. We have quite a few questions and then the link they need
+
+33
+00:02:31,850 --> 00:02:36,500
+this one. So I don't need anything that
+
+34
+00:02:36,920 --> 00:02:41,090
+all basically only this part that says V equals something.
+
+35
+00:02:41,091 --> 00:02:43,970
+And then if there is some percent and after the assumption,
+
+36
+00:02:44,230 --> 00:02:45,500
+I don't need anything
+
+37
+00:02:49,910 --> 00:02:53,150
+new to Purell, then I need to for podcast hero.
+
+38
+00:02:53,360 --> 00:02:57,200
+So for that to find out the Euro for apple podcast,
+
+39
+00:02:58,370 --> 00:03:02,980
+I need to here to podcast page and then click on apple podcast.
+
+40
+00:03:03,940 --> 00:03:09,250
+And then it will bring me to there, to all the podcast
+
+41
+00:03:09,251 --> 00:03:13,330
+episodes or for Theodore squad on apple podcasts.
+
+42
+00:03:14,150 --> 00:03:17,320
+Then I'm interested in this one. So this one,
+
+43
+00:03:17,410 --> 00:03:19,930
+it went live today. So I need this thing.
+
+44
+00:03:19,960 --> 00:03:25,210
+So, all right, click on this  and
+
+45
+00:03:25,211 --> 00:03:29,680
+this to the quorum. Then finally I need Spotify Euro support,
+
+46
+00:03:29,681 --> 00:03:31,900
+Spotify AGN,
+
+47
+00:03:31,960 --> 00:03:38,660
+open this, uh, short here with all the links and
+
+48
+00:03:38,840 --> 00:03:43,940
+yeah, this one is here, so right
+
+49
+00:03:43,941 --> 00:03:47,870
+quick doesn't work. So I need to click on this and then copy the
+
+50
+00:03:47,871 --> 00:03:48,260
+Euro
+
+51
+00:03:52,670 --> 00:03:57,410
+works. Um, and then I submit,
+
+52
+00:03:59,120 --> 00:04:03,230
+and then using this information, I will be able to generate,
+
+53
+00:04:03,260 --> 00:04:07,430
+uh, no to generate,
+
+54
+00:04:07,460 --> 00:04:10,160
+uh, my pitch.
+
+55
+00:04:10,400 --> 00:04:15,350
+I think I forgot one thing. I forgot to
+
+56
+00:04:15,410 --> 00:04:20,170
+add links. I will probably record
+
+57
+00:04:20,171 --> 00:04:22,450
+another video with that car, to it that.

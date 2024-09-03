@@ -1,0 +1,487 @@
+1
+00:00:00,000 --> 00:00:02,060
+Hi. I hope you're feeling better.
+
+2
+00:00:03,600 --> 00:00:08,200
+So I finally took some time to work a bit on
+
+3
+00:00:08,201 --> 00:00:11,580
+our CRM and the invoices section.
+
+4
+00:00:12,260 --> 00:00:16,820
+Because remember we have this problem of not following up with
+
+5
+00:00:16,821 --> 00:00:19,000
+invoices and then it's a mess.
+
+6
+00:00:19,620 --> 00:00:24,220
+So like, we don't remember who should pay
+
+7
+00:00:24,221 --> 00:00:28,730
+and what is due, at least in my mind it's difficult.
+
+8
+00:00:29,410 --> 00:00:34,221
+So what you suggested is to create a table in
+
+9
+00:00:34,222 --> 00:00:38,801
+the CRM, which is what I did. So we have a deal table,
+
+10
+00:00:39,041 --> 00:00:42,181
+which I did not change. It's the same deal as before.
+
+11
+00:00:44,331 --> 00:00:47,431
+And, yeah, by the way, we need to create invoices for this match,
+
+12
+00:00:47,432 --> 00:00:52,071
+I think. Anyways so what I wanted to do
+
+13
+00:00:52,072 --> 00:00:55,671
+in this video is to explain what I was thinking when creating this table
+
+14
+00:00:55,672 --> 00:00:58,111
+and how to use it. So, hopefully,
+
+15
+00:00:58,751 --> 00:01:02,721
+yeah, it will,
+
+16
+00:01:04,028 --> 00:01:06,878
+I'll make it easier. Okay,
+
+17
+00:01:06,998 --> 00:01:09,158
+sorry, not distracted. Anyways,
+
+18
+00:01:09,338 --> 00:01:13,138
+so I will take this invoice from Weights and Biases,
+
+19
+00:01:13,398 --> 00:01:16,098
+because it's an interesting one. There was one deal,
+
+20
+00:01:16,218 --> 00:01:19,418
+but four invoices, because we have invoices in different installments.
+
+21
+00:01:20,178 --> 00:01:22,878
+So I want to show you how do we feel in this invoice,
+
+22
+00:01:23,018 --> 00:01:26,858
+but then the rest will be pretty similar. And this is actually the first
+
+23
+00:01:26,859 --> 00:01:31,378
+time I am doing this here, so we will
+
+24
+00:01:31,379 --> 00:01:33,458
+figure it out right now.
+
+25
+00:01:33,998 --> 00:01:38,716
+So the first thing I do is put the invoice number here in this
+
+26
+00:01:38,717 --> 00:01:43,046
+section, in this column. Then notice for the node,
+
+27
+00:01:43,226 --> 00:01:46,826
+I would put this goal sponsorship second installment.
+
+28
+00:01:51,466 --> 00:01:53,526
+So maybe there is not always,
+
+29
+00:01:53,946 --> 00:01:58,106
+we don't always need the node, but I think for most cases we might.
+
+30
+00:01:59,306 --> 00:02:04,006
+So date sent is, I don't remember when
+
+31
+00:02:04,007 --> 00:02:07,106
+we send it, but let's say it will be 1306,
+
+32
+00:02:07,306 --> 00:02:11,447
+so this is the data. But it actually should be the date when we
+
+33
+00:02:11,448 --> 00:02:15,807
+send the invoice to the email.
+
+34
+00:02:16,977 --> 00:02:22,257
+Alright, so I will put 13 of,
+
+35
+00:02:23,427 --> 00:02:26,887
+what is June? But yeah, it's when we send the invoice.
+
+36
+00:02:27,927 --> 00:02:33,277
+13 of June. The due date is one
+
+37
+00:02:33,278 --> 00:02:39,617
+month after that yeah I think they actually paid it I
+
+38
+00:02:39,618 --> 00:02:43,117
+don't remember when they paid it so we can go to phenome and check
+
+39
+00:02:43,118 --> 00:02:47,237
+when they pay. So status is paid.
+
+40
+00:02:49,547 --> 00:02:52,407
+And then let me take a moment to explain the statuses.
+
+41
+00:02:53,787 --> 00:02:58,467
+So I've put four statuses to create,
+
+42
+00:02:58,587 --> 00:03:01,827
+created, sent and paid. So to create is,
+
+43
+00:03:02,227 --> 00:03:06,207
+so for example, we already made a deal.
+
+44
+00:03:06,447 --> 00:03:11,107
+For example, we think okay like there will be four installments we know
+
+45
+00:03:11,108 --> 00:03:14,149
+that there will be four installments for a deal.
+
+46
+00:03:16,129 --> 00:03:21,289
+And when we then
+
+47
+00:03:21,290 --> 00:03:25,689
+we can already create like a voice, like four different invoices without a number
+
+48
+00:03:25,690 --> 00:03:30,409
+here. Already put a note and not feeling
+
+49
+00:03:30,410 --> 00:03:32,569
+everything except like status to create.
+
+50
+00:03:34,029 --> 00:03:38,969
+And then also here we
+
+51
+00:03:38,970 --> 00:03:43,789
+will, let me, so here this is the link to
+
+52
+00:03:43,872 --> 00:03:48,412
+the deal. So here we will need to match with
+
+53
+00:03:48,413 --> 00:03:50,672
+the deal. So these deals come from this table,
+
+54
+00:03:50,692 --> 00:03:55,272
+right? So for all the deals we need to make the,
+
+55
+00:03:55,752 --> 00:04:00,462
+to find the deal of course. And let's wait some biases,
+
+56
+00:04:00,842 --> 00:04:05,412
+right? There should be more intuitive
+
+57
+00:04:05,413 --> 00:04:08,892
+numbers. Custom sponsorship package.
+
+58
+00:04:09,452 --> 00:04:15,472
+We need to work on on that custom sponsorship this
+
+59
+00:04:15,473 --> 00:04:19,913
+one So we need to come up with better names for deals,
+
+60
+00:04:19,933 --> 00:04:23,393
+so it's easier to find. But we link the record from here.
+
+61
+00:04:28,173 --> 00:04:30,673
+So then automatically we see what's the company,
+
+62
+00:04:32,013 --> 00:04:34,933
+the, I don't know why we need, I don't know why we need to
+
+63
+00:04:34,934 --> 00:04:38,313
+know it, let me just remove it. So we need,
+
+64
+00:04:38,533 --> 00:04:40,973
+we know the company and we know the contact, right?
+
+65
+00:04:41,293 --> 00:04:43,353
+Automatically from here. And by the way,
+
+66
+00:04:43,573 --> 00:04:45,933
+the contact now is different for rates and biases.
+
+67
+00:04:46,273 --> 00:04:49,451
+Please update it. And then for the invoice,
+
+68
+00:04:49,771 --> 00:04:53,831
+so in this case, I think I am confusing you.
+
+69
+00:04:54,131 --> 00:04:58,811
+So let's finish this one. And then I will talk about the
+
+70
+00:04:58,812 --> 00:05:01,761
+status to create, right? So for this one,
+
+71
+00:05:01,921 --> 00:05:04,361
+I finish and then I attach the invoice.
+
+72
+00:05:04,861 --> 00:05:07,701
+So the invoice is this one, I already saved it.
+
+73
+00:05:12,321 --> 00:05:13,961
+So this is the invoice.
+
+74
+00:05:20,042 --> 00:05:22,682
+So then we always have the the file,
+
+75
+00:05:23,062 --> 00:05:25,922
+right? So see that this is the file.
+
+76
+00:05:27,422 --> 00:05:33,062
+And in some cases when we
+
+77
+00:05:33,063 --> 00:05:35,502
+need to update the invoice, we just update the,
+
+78
+00:05:39,302 --> 00:05:43,222
+yeah, update it. So I don't know if we need to add money here.
+
+79
+00:05:43,822 --> 00:05:48,562
+So maybe not, because we don't really need to use it for accounting
+
+80
+00:05:48,563 --> 00:05:51,622
+or anything. It's more like for keeping track of what is paid,
+
+81
+00:05:51,782 --> 00:05:53,952
+what is not. And what we need to create.
+
+82
+00:05:54,332 --> 00:05:57,312
+So we don't forget to send in an invoice.
+
+83
+00:05:58,712 --> 00:06:02,732
+So date paid, I will put some arbitrary number here.
+
+84
+00:06:02,972 --> 00:06:05,172
+Let's say, I don't,
+
+85
+00:06:05,352 --> 00:06:08,392
+I think they were on time. So maybe double check this.
+
+86
+00:06:08,852 --> 00:06:11,532
+Go to film. We can actually here,
+
+87
+00:06:11,692 --> 00:06:14,442
+see here. Hmm,
+
+88
+00:06:14,443 --> 00:06:17,402
+it was quite late. So it was 30.
+
+89
+00:06:21,502 --> 00:06:23,542
+Not quite late, but they were a little bit late.
+
+90
+00:06:33,224 --> 00:06:36,674
+So yeah, this is how we do it. We need to,
+
+91
+00:06:36,974 --> 00:06:41,594
+like, this is already paid. And then for this weights
+
+92
+00:06:41,595 --> 00:06:44,754
+and biases, so let me show you this to create one.
+
+93
+00:06:44,994 --> 00:06:49,064
+So it's also weights and biases,
+
+94
+00:06:49,704 --> 00:06:54,014
+right? So we don't have an invoice. And by the way,
+
+95
+00:06:54,854 --> 00:06:58,437
+we should create. It right now, third installment,
+
+96
+00:06:59,597 --> 00:07:04,127
+right? So we see that we need to create this invoice for weights
+
+97
+00:07:04,128 --> 00:07:08,647
+and biases. And let me actually already create a duplicate
+
+98
+00:07:08,937 --> 00:07:14,117
+because we need also a fourth installment.
+
+99
+00:07:17,017 --> 00:07:21,817
+So already we have we know that like for this deal,
+
+100
+00:07:22,597 --> 00:07:27,137
+there are some in voices that we still need to create and
+
+101
+00:07:27,138 --> 00:07:31,627
+still, need to well,
+
+102
+00:07:31,807 --> 00:07:36,057
+you know, send. Let me also group like that.
+
+103
+00:07:38,217 --> 00:07:40,357
+So then we already see,
+
+104
+00:07:40,697 --> 00:07:43,717
+like, every time we create a record. So we,
+
+105
+00:07:43,977 --> 00:07:46,917
+oops, click here to add a new voice.
+
+106
+00:07:47,377 --> 00:07:50,757
+We feel all this in and then it will go automatically to one of
+
+107
+00:07:50,758 --> 00:07:53,977
+the statuses, right? So I think it's more or less clear.
+
+108
+00:07:55,457 --> 00:07:58,197
+If it's not, yeah, let's talk about that.
+
+109
+00:08:02,011 --> 00:08:05,031
+Okay. So we need to create. So what I want you to do now
+
+110
+00:08:05,032 --> 00:08:09,051
+is go through all the invoices and all the deals for this year only.
+
+111
+00:08:09,411 --> 00:08:13,191
+Don't go to the previous year and fill in this table.
+
+112
+00:08:13,971 --> 00:08:17,091
+Right. And then I will take a look at this and see maybe we
+
+113
+00:08:17,092 --> 00:08:22,401
+forgot something and then maybe if you can think
+
+114
+00:08:22,402 --> 00:08:26,241
+of what can be the deal here.
+
+115
+00:08:26,401 --> 00:08:31,511
+So this one is more like not a name, but more like a comment.
+
+116
+00:08:31,829 --> 00:08:35,919
+I don't know. We need to think by the way,
+
+117
+00:08:35,939 --> 00:08:36,579
+what is this?
+
+118
+00:08:41,329 --> 00:08:44,889
+We might be interested with the one topic of getting started with data access
+
+119
+00:08:44,890 --> 00:08:47,749
+management. What is that?
+
+120
+00:08:51,979 --> 00:08:54,499
+Anyways yeah,
+
+121
+00:08:54,599 --> 00:08:57,899
+please fill this in and then we will see how it goes.
+
+122
+00:08:58,079 --> 00:09:01,459
+Maybe we will need to adapt it. So that's all.

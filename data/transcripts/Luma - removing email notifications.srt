@@ -1,0 +1,35 @@
+1
+00:00:00,570 --> 00:00:03,240
+Hi, I wanted to show you one thing.
+
+2
+00:00:03,570 --> 00:00:07,320
+So now in Luma there is this thing which means that,
+
+3
+00:00:07,650 --> 00:00:12,320
+uh, we are getting these emails every time somebody signs up.
+
+4
+00:00:13,020 --> 00:00:16,440
+And um, yeah, it's just noisy. So what we can do is just,
+
+5
+00:00:17,180 --> 00:00:20,520
+and tick this so we don't have this anymore,
+
+6
+00:00:20,900 --> 00:00:23,040
+and then we will not receive it, um,
+
+7
+00:00:23,041 --> 00:00:27,800
+receive these things. So please make it a part of the process doc for
+
+8
+00:00:28,040 --> 00:00:30,320
+creating events. So then, yeah,
+
+9
+00:00:30,321 --> 00:00:32,480
+we don't get a lot of, uh, a lot of noise.

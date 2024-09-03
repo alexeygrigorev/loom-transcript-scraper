@@ -1,0 +1,403 @@
+1
+00:00:00,000 --> 00:00:02,220
+That's that we use for our events.
+
+2
+00:00:02,250 --> 00:00:05,190
+So now I want to show you how, instead of, so previously we were
+
+3
+00:00:05,191 --> 00:00:07,890
+using for doing this.
+
+4
+00:00:08,760 --> 00:00:14,310
+So maybe you remember, I showed it in one of the previous videos plots.
+
+5
+00:00:16,860 --> 00:00:17,070
+Yeah.
+
+6
+00:00:22,450 --> 00:00:25,890
+Yeah. So this firm, this is what we used to previously.
+
+7
+00:00:27,060 --> 00:00:29,100
+Now we'll have, um,
+
+8
+00:00:29,670 --> 00:00:33,840
+templates. So now I want to show you how to actually do this in
+
+9
+00:00:33,841 --> 00:00:35,970
+a new template. So we use Figma for that.
+
+10
+00:00:37,020 --> 00:00:39,540
+Now we have this event banner thing,
+
+11
+00:00:39,870 --> 00:00:44,430
+which we need to change. And so they
+
+12
+00:00:44,431 --> 00:00:47,400
+went with is a lot testing microservices.
+
+13
+00:00:50,190 --> 00:00:53,190
+, let's change this. Um,
+
+14
+00:00:55,820 --> 00:00:58,500
+this is quite large title.
+
+15
+00:00:58,501 --> 00:01:03,090
+So let me and do something
+
+16
+00:01:03,091 --> 00:01:07,580
+like this. And then we say,
+
+17
+00:01:08,030 --> 00:01:09,860
+why is it? Oops,
+
+18
+00:01:14,690 --> 00:01:17,870
+microservices or robustness,
+
+19
+00:01:18,050 --> 00:01:22,820
+scalability. And we
+
+20
+00:01:22,821 --> 00:01:26,450
+can just be Kenny part of the title.
+
+21
+00:01:29,900 --> 00:01:34,580
+Then we pick this one and microservices and
+
+22
+00:01:34,640 --> 00:01:37,940
+change the form to this blue one.
+
+23
+00:01:40,880 --> 00:01:44,330
+So it looks a bit nicer than the name of the speaker.
+
+24
+00:01:44,390 --> 00:01:47,840
+We need to also change. So previously we didn't have the name of a
+
+25
+00:01:47,900 --> 00:01:49,940
+speaker on the banner.
+
+26
+00:01:50,180 --> 00:01:52,670
+Now we need to change that. So the name is,
+
+27
+00:01:53,330 --> 00:01:58,250
+and my nail and
+
+28
+00:01:58,251 --> 00:02:00,900
+update is here, and then we need to change that.
+
+29
+00:02:00,910 --> 00:02:03,080
+U-turn. So to change the picture,
+
+30
+00:02:06,350 --> 00:02:09,410
+just go to speaker,
+
+31
+00:02:10,640 --> 00:02:11,060
+um,
+
+32
+00:02:17,070 --> 00:02:22,020
+yeah, it's a big kind of person photo and yeah,
+
+33
+00:02:22,810 --> 00:02:25,980
+yeah, yeah. It's a two,
+
+34
+00:02:26,010 --> 00:02:28,620
+this photo control these year.
+
+35
+00:02:29,160 --> 00:02:33,630
+So we go here and then there's this few image and click on this
+
+36
+00:02:34,290 --> 00:02:38,820
+and they choose a different image. And then we have all the images in
+
+37
+00:02:38,821 --> 00:02:43,080
+our GitHub. Repo could be other place right now,
+
+38
+00:02:43,110 --> 00:02:45,840
+all the images. They have, all the images there,
+
+39
+00:02:45,900 --> 00:02:48,060
+certainly the sort of data docs club, GitHub, IO.
+
+40
+00:02:49,740 --> 00:02:52,620
+Then we have even just folder then.
+
+41
+00:02:53,130 --> 00:02:57,090
+Um, and then here I type in,
+
+42
+00:02:57,150 --> 00:03:03,930
+uh, and then it can cope and
+
+43
+00:03:03,931 --> 00:03:06,270
+then we'll have a picture here,
+
+44
+00:03:07,040 --> 00:03:10,370
+close it. And this is the amount of,
+
+45
+00:03:10,371 --> 00:03:15,120
+of her. Um, and now I just
+
+46
+00:03:15,121 --> 00:03:19,820
+click here and
+
+47
+00:03:19,821 --> 00:03:21,900
+then at the bottom here,
+
+48
+00:03:21,990 --> 00:03:28,230
+I click expert, but mother saved
+
+49
+00:03:29,850 --> 00:03:30,990
+and see here.
+
+50
+00:03:33,510 --> 00:03:36,200
+Um, I think I want to change it slightly.
+
+51
+00:03:36,630 --> 00:03:38,730
+You will probably not need to do this.
+
+52
+00:03:38,920 --> 00:03:41,100
+I will do it now. And then,
+
+53
+00:03:41,460 --> 00:03:44,850
+uh, you will eat, will be adjusted.
+
+54
+00:03:45,810 --> 00:03:48,180
+So you want to move it a bit,
+
+55
+00:03:49,470 --> 00:03:53,040
+so it's like  yeah.
+
+56
+00:03:57,210 --> 00:04:00,090
+Yeah. So properly centered.
+
+57
+00:04:08,250 --> 00:04:12,780
+I think we sort of
+
+58
+00:04:12,781 --> 00:04:15,990
+sought proper decent there. Okay.
+
+59
+00:04:16,090 --> 00:04:16,570
+No,
+
+60
+00:04:21,130 --> 00:04:24,360
+no. Okay. So you will want me to do this.
+
+61
+00:04:24,960 --> 00:04:29,670
+You will just need to change the title to picture and right.
+
+62
+00:04:31,490 --> 00:04:34,470
+And different in the future. I want to write a script that will generate
+
+63
+00:04:34,471 --> 00:04:37,950
+this. So you will not need to worry about that. This is what we
+
+64
+00:04:37,951 --> 00:04:42,120
+have. So now that likes sports
+
+65
+00:04:47,200 --> 00:04:49,620
+and now I use this for creating an event.
+
+66
+00:04:49,800 --> 00:04:51,990
+So this flow you already saw,
+
+67
+00:04:52,620 --> 00:04:56,610
+let me just quickly not go into details,
+
+68
+00:04:56,611 --> 00:04:59,700
+but just want to remind your car exactly.
+
+69
+00:04:59,701 --> 00:05:05,160
+To, uh, uh, chop this.
+
+70
+00:05:06,210 --> 00:05:11,790
+Okay. So we already have spoken the relationship something.
+
+71
+00:05:12,060 --> 00:05:13,380
+So now I click copy.
+
+72
+00:05:19,110 --> 00:05:23,430
+And then now that the title there,
+
+73
+00:05:27,450 --> 00:05:33,540
+I'll just copy it across. Yeah. And
+
+74
+00:05:33,630 --> 00:05:34,230
+yes.
+
+75
+00:05:38,310 --> 00:05:42,570
+And somebody, sometimes I need to think,
+
+76
+00:05:42,590 --> 00:05:45,870
+because I didn't prepare this lesbian.
+
+77
+00:05:45,871 --> 00:05:51,090
+Look at the outline. E
+
+78
+00:05:51,091 --> 00:05:51,480
+S
+
+79
+00:06:06,490 --> 00:06:07,570
+<v 1>I think something like
+
+80
+00:06:24,480 --> 00:06:25,020
+a lot,
+
+81
+00:06:33,890 --> 00:06:36,320
+something like this, I don't know. I just came up with this.
+
+82
+00:06:36,740 --> 00:06:39,950
+You will not need to do this. You will probably have a subtitle or
+
+83
+00:06:40,130 --> 00:06:44,990
+ready. This is something I should have asked this speaker and the guest.
+
+84
+00:06:46,220 --> 00:06:51,110
+Now the date is actually
+
+85
+00:06:51,111 --> 00:06:57,080
+next week is the date
+
+86
+00:06:57,081 --> 00:06:59,510
+is also Tuesday. So start.
+
+87
+00:06:59,511 --> 00:07:03,560
+And then the staff time on time is not changed.
+
+88
+00:07:03,620 --> 00:07:04,220
+Could prevent
+
+89
+00:07:12,560 --> 00:07:14,780
+no it's created, they call to details.
+
+90
+00:07:18,190 --> 00:07:20,290
+And I LD that image.
+
+91
+00:07:23,610 --> 00:07:28,000
+Look at this new banner and here it,
+
+92
+00:07:29,770 --> 00:07:32,230
+this is how we'll do this at your order. So the rest of the
+
+93
+00:07:32,231 --> 00:07:35,020
+form, um, one thing though,
+
+94
+00:07:35,021 --> 00:07:38,320
+that was different,
+
+95
+00:07:38,380 --> 00:07:42,850
+um, boundless. So for events.
+
+96
+00:07:43,630 --> 00:07:50,080
+So this is for events and like,
+
+97
+00:07:50,081 --> 00:07:56,860
+this is for webinars and this farm for different.
+
+98
+00:07:57,730 --> 00:08:01,150
+Okay, nevermind. We can just use this for everything.
+
+99
+00:08:01,210 --> 00:08:03,550
+And then maybe that will update this instruction,
+
+100
+00:08:04,210 --> 00:08:08,320
+uh, to tell you what executives do. But for now,
+
+101
+00:08:08,500 --> 00:08:12,680
+this is how you use Figma to create even.

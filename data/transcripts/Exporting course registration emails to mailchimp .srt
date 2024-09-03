@@ -1,0 +1,255 @@
+1
+00:00:00,510 --> 00:00:03,390
+I want to show you how to expert emails from,
+
+2
+00:00:03,420 --> 00:00:05,550
+um, unstable.
+
+3
+00:00:06,150 --> 00:00:09,810
+So we'll have a couple of courses where people would use the full air
+
+4
+00:00:09,811 --> 00:00:14,220
+table. So for example,  and others.
+
+5
+00:00:14,850 --> 00:00:19,380
+So right now I need to go to this and they want
+
+6
+00:00:19,381 --> 00:00:23,910
+to save all these emails so that I click here on green to you
+
+7
+00:00:24,450 --> 00:00:27,810
+and click download, see the CSV.
+
+8
+00:00:28,110 --> 00:00:30,780
+Well, this is the file.
+
+9
+00:00:31,200 --> 00:00:36,930
+Then I select all these files and
+
+10
+00:00:36,960 --> 00:00:40,860
+I need to take towards
+
+11
+00:00:43,960 --> 00:00:44,440
+<v 1>Yes,
+
+12
+00:00:47,240 --> 00:00:50,690
+Yes. And then they are to trash.
+
+13
+00:00:50,691 --> 00:00:55,550
+So they're not pumping. And then the assistant pile,
+
+14
+00:00:55,580 --> 00:00:59,150
+we just upload it. We need to change it to change the name.
+
+15
+00:00:59,180 --> 00:01:02,840
+So it will be 20 25, 27.
+
+16
+00:01:04,470 --> 00:01:06,630
+So this is the, the wrist.
+
+17
+00:01:07,500 --> 00:01:10,890
+Now I need to move it to throw books,
+
+18
+00:01:12,650 --> 00:01:16,140
+books. I have a folder called courses that I will share with you.
+
+19
+00:01:17,730 --> 00:01:22,800
+And then, so here we talk about  and
+
+20
+00:01:22,801 --> 00:01:27,480
+I put the list here. Let me share the folder
+
+21
+00:01:27,481 --> 00:01:31,860
+with you. Sorry. Okay.
+
+22
+00:01:31,861 --> 00:01:34,710
+I'll share this after this. Okay.
+
+23
+00:01:34,950 --> 00:01:39,840
+And now we need to upload these things to MailChimp,
+
+24
+00:01:40,970 --> 00:01:41,640
+MailChimp
+
+25
+00:01:56,760 --> 00:01:59,640
+import contacts, and then upload a file.
+
+26
+00:01:59,910 --> 00:02:01,920
+So this one, typically you copy paste,
+
+27
+00:02:01,921 --> 00:02:06,600
+but this one has different bros
+
+28
+00:02:06,690 --> 00:02:11,250
+and this one would have two
+
+29
+00:02:11,580 --> 00:02:17,490
+books for USCIS respond
+
+30
+00:02:21,540 --> 00:02:24,720
+and organize, then update updating existing contacts.
+
+31
+00:02:26,070 --> 00:02:27,690
+Um, and that would meet
+
+32
+00:02:28,710 --> 00:02:29,160
+<v 1>Just once.
+
+33
+00:02:36,150 --> 00:02:39,390
+Um, now we need to specify techs. So for this farm,
+
+34
+00:02:39,400 --> 00:02:42,300
+the techs, um, this will be MLS.
+
+35
+00:02:43,410 --> 00:02:45,960
+Um, and to my lips was an income plan.
+
+36
+00:02:46,080 --> 00:02:49,290
+This protects, um,
+
+37
+00:02:51,390 --> 00:02:53,730
+continuing for lunch. No,
+
+38
+00:02:53,790 --> 00:02:56,730
+it says that. Okay. Email.
+
+39
+00:02:57,090 --> 00:03:00,940
+So it cannot impart others. I don't know.
+
+40
+00:03:00,941 --> 00:03:03,610
+I seen bird competing birds.
+
+41
+00:03:04,750 --> 00:03:10,150
+Um, the, this how you input, and then once it's imported to MailChimp,
+
+42
+00:03:10,390 --> 00:03:14,860
+you take this one and he put this two o'clock folder and this folder
+
+43
+00:03:14,861 --> 00:03:20,230
+upload folder, we keep on doing those records that are uploaded.
+
+44
+00:03:21,700 --> 00:03:25,390
+Okay. So for this call, how you do this? I think I will actually
+
+45
+00:03:25,391 --> 00:03:29,980
+move this to Google, to Google drive and we'll will go
+
+46
+00:03:29,981 --> 00:03:32,560
+drive. It will be also, uh,
+
+47
+00:03:33,940 --> 00:03:36,160
+full the courses and then the name,
+
+48
+00:03:36,640 --> 00:03:40,170
+because you already have access to Google drive and it's tickets easier if you
+
+49
+00:03:40,190 --> 00:03:42,730
+just, um, we'll keep it there.
+
+50
+00:03:42,940 --> 00:03:45,970
+So let me just be in Google drive.
+
+51
+00:03:46,000 --> 00:03:49,010
+So, um,
+
+52
+00:03:49,460 --> 00:03:51,980
+we have of courses,
+
+53
+00:03:51,981 --> 00:03:54,020
+but this is not the folder I want to use.
+
+54
+00:03:54,860 --> 00:04:00,560
+I want to use the folder mailing list. I will create for other courses
+
+55
+00:04:06,560 --> 00:04:10,430
+here. I'll just take all these things.
+
+56
+00:04:12,050 --> 00:04:14,190
+And so this,
+
+57
+00:04:14,210 --> 00:04:18,020
+uh, you will need to use this data looks pop made in these courses.
+
+58
+00:04:18,350 --> 00:04:22,820
+And then for example, you would need to put the files here.
+
+59
+00:04:23,630 --> 00:04:24,980
+All right. So the next one,
+
+60
+00:04:29,090 --> 00:04:34,370
+The Swan that we just uploaded, you would need to put it here and
+
+61
+00:04:34,371 --> 00:04:37,820
+then you would need to upload this to MailChimp. And once it's uploaded,
+
+62
+00:04:38,120 --> 00:04:42,500
+you would just put this to upload folder. Yeah.
+
+63
+00:04:42,560 --> 00:04:47,110
+This is how we do this with movies through Google drive to
+
+64
+00:04:47,120 --> 00:04:48,500
+keep everything in one place.

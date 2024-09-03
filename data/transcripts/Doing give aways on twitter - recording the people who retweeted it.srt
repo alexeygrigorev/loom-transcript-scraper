@@ -1,0 +1,183 @@
+1
+00:00:00,060 --> 00:00:03,890
+So you ought to do raffles on,
+
+2
+00:00:03,900 --> 00:00:07,470
+uh, three, so you'll probably get a member of the circle.
+
+3
+00:00:07,740 --> 00:00:10,920
+So I schedule, yes. And then there's these,
+
+4
+00:00:10,921 --> 00:00:15,600
+um, this report with some code
+
+5
+00:00:15,601 --> 00:00:20,070
+for actually keeping track of who retweets the tweet.
+
+6
+00:00:20,071 --> 00:00:23,600
+So later we can select minutes. So what I do at least,
+
+7
+00:00:23,601 --> 00:00:26,370
+so I select the Euro. Then I go to this,
+
+8
+00:00:26,400 --> 00:00:28,620
+uh, to this thing, to this project,
+
+9
+00:00:28,621 --> 00:00:33,330
+I will send you the thing. So then I go to actions and then
+
+10
+00:00:33,331 --> 00:00:37,500
+in this actions, I most hear two EDS tweets.
+
+11
+00:00:38,160 --> 00:00:43,440
+And then I click around. Now I put the Euro
+
+12
+00:00:43,530 --> 00:00:46,770
+and yeah, important that it shouldn't start with mobile.
+
+13
+00:00:46,860 --> 00:00:49,410
+So it should be just the Euro from the pollution.
+
+14
+00:00:50,190 --> 00:00:54,750
+And then you click on, so now it will,
+
+15
+00:00:54,810 --> 00:00:57,720
+um, it would, I don't see it.
+
+16
+00:00:58,440 --> 00:01:02,610
+Oh yeah, it is here. So now yeah,
+
+17
+00:01:02,611 --> 00:01:04,260
+this is fine. You think?
+
+18
+00:01:05,640 --> 00:01:08,220
+Hmm. Yeah, it should be quite fast.
+
+19
+00:01:09,450 --> 00:01:11,490
+Let's say it's not important of what it's doing here.
+
+20
+00:01:12,240 --> 00:01:14,250
+The important part is when I go,
+
+21
+00:01:14,700 --> 00:01:17,670
+when it finishes. Yeah. So now it's finished,
+
+22
+00:01:17,820 --> 00:01:20,250
+you see this, uh,
+
+23
+00:01:21,090 --> 00:01:23,580
+this, uh, like a tick that it's successful.
+
+24
+00:01:24,240 --> 00:01:27,690
+So then they can go back and see that there is a commit from
+
+25
+00:01:27,691 --> 00:01:30,240
+GitHub actions. So this commit,
+
+26
+00:01:30,960 --> 00:01:34,590
+it's a line here in tweets.
+
+27
+00:01:35,010 --> 00:01:39,690
+This one. So this is that we can check that you texted,
+
+28
+00:01:39,691 --> 00:01:42,210
+it was edit. Then at the same time,
+
+29
+00:01:42,211 --> 00:01:47,280
+what's also happened. It created this d*** there with,
+
+30
+00:01:47,370 --> 00:01:51,180
+uh, , um,
+
+31
+00:01:51,210 --> 00:01:57,090
+that's not super important, but you see what actually is happening in
+
+32
+00:01:57,091 --> 00:01:59,100
+this file. Uh,
+
+33
+00:01:59,101 --> 00:02:04,290
+we have, uh, names of people who come
+
+34
+00:02:04,291 --> 00:02:06,360
+see it here. All right.
+
+35
+00:02:06,361 --> 00:02:10,290
+So these names are here. And then from this names later,
+
+36
+00:02:10,291 --> 00:02:14,340
+it will select five minutes. Or you have the,
+
+37
+00:02:14,341 --> 00:02:17,400
+I guess this is not the important part. The important part is like how
+
+38
+00:02:17,820 --> 00:02:22,590
+you think of the sink. And I guess let's say the most important
+
+39
+00:02:23,070 --> 00:02:26,490
+part. And then what will happen later is every hour,
+
+40
+00:02:27,990 --> 00:02:32,580
+all the people who repeated end like
+
+41
+00:02:32,581 --> 00:02:38,130
+to be in it. Okay. That's all, that's how you start
+
+42
+00:02:38,580 --> 00:02:43,200
+watching you start monitoring this thing. So it makes sure that we don't because
+
+43
+00:02:43,340 --> 00:02:46,080
+the problem is with, um,
+
+44
+00:02:46,260 --> 00:02:49,140
+keeps the last hundred liters.
+
+45
+00:02:49,200 --> 00:02:52,410
+So we need to pay entirely. That's why we need,
+
+46
+00:02:53,280 --> 00:02:58,320
+okay. Anyways. Yeah. The important part of this call you just for your information.

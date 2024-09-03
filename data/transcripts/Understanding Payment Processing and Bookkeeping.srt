@@ -1,0 +1,143 @@
+1
+00:00:00,366 --> 00:00:04,969
+Hi, so the reason we did not see that in
+
+2
+00:00:04,970 --> 00:00:09,714
+our Phenom that they paid is because they are
+
+3
+00:00:09,715 --> 00:00:13,852
+the money is in the merchant account So this is like usually this is
+
+4
+00:00:13,853 --> 00:00:17,707
+what we see when I go to Revolut but then I go to merchant
+
+5
+00:00:17,708 --> 00:00:20,330
+and this is the money, right?
+
+6
+00:00:20,331 --> 00:00:24,879
+So we can see that this is the payment from them.
+
+7
+00:00:27,043 --> 00:00:29,239
+And we can see the processing team.
+
+8
+00:00:29,240 --> 00:00:31,957
+So right so the invoice was for five.
+
+9
+00:00:31,958 --> 00:00:36,581
+Thousand, but we needed to pay this amount so we need to
+
+10
+00:00:36,582 --> 00:00:41,152
+also declare this as an expense And i'm
+
+11
+00:00:41,153 --> 00:00:45,699
+pretty sure this is not the first time I record this video But
+
+12
+00:00:45,700 --> 00:00:49,423
+um, so please check if we already have a process document And if we
+
+13
+00:00:49,424 --> 00:00:51,903
+do update it if we don't create a new one,
+
+14
+00:00:51,904 --> 00:00:56,605
+so the first process document would be for creating
+
+15
+00:00:56,606 --> 00:01:01,652
+these bookkeeping documents Um for declaring the the piece.
+
+16
+00:01:01,653 --> 00:01:06,330
+All right, so we need to declare them And I think
+
+17
+00:01:06,331 --> 00:01:11,366
+this is how we do it. We just go and print And
+
+18
+00:01:11,367 --> 00:01:15,342
+in print we see we have this right so here we have this process
+
+19
+00:01:15,343 --> 00:01:20,544
+entity So right now you just save it Let me
+
+20
+00:01:20,545 --> 00:01:25,151
+Save it as pdf And then uhm yeah You save it and
+
+21
+00:01:25,152 --> 00:01:29,760
+you send it to that email Or Yeah
+
+22
+00:01:29,761 --> 00:01:35,393
+I think this is what we do Like we do with other invoices So
+
+23
+00:01:35,394 --> 00:01:38,476
+let me just put I'll put it on pause and then I'll do that
+
+24
+00:01:38,477 --> 00:01:42,994
+Okay, I saved this document It should appear
+
+25
+00:01:42,995 --> 00:01:47,709
+In our uhm
+
+26
+00:01:47,710 --> 00:01:53,089
+How do you call it? Bookkeeping uhm
+
+27
+00:01:55,576 --> 00:01:58,465
+No, it should appear a bit later.
+
+28
+00:01:58,466 --> 00:02:03,076
+I'll check it So then um the second process document I want
+
+29
+00:02:03,077 --> 00:02:05,476
+you to create And again, please check.
+
+30
+00:02:05,477 --> 00:02:08,914
+Uh, if we already have that, I think I think this is not the
+
+31
+00:02:08,915 --> 00:02:13,590
+first time I'm recording this video So you click withdraw Oh
+
+32
+00:02:13,591 --> 00:02:17,031
+f*** Yeah,
+
+33
+00:02:17,032 --> 00:02:22,670
+I guess I'll do this later Uhm
+
+34
+00:02:22,671 --> 00:02:24,781
+Yeah, I don't know, what is that?
+
+35
+00:02:24,782 --> 00:02:27,790
+So I'll do this later and then yeah,
+
+36
+00:02:27,791 --> 00:02:31,139
+in the meantime, please check if we already have process document for that

@@ -1,0 +1,71 @@
+1
+00:00:00,570 --> 00:00:04,020
+Um, hi, I just wanted to show you another website where we can share
+
+2
+00:00:04,110 --> 00:00:06,360
+stuff. It's called data towel.net.
+
+3
+00:00:07,440 --> 00:00:10,950
+So in Datatel, so I already logged in,
+
+4
+00:00:11,100 --> 00:00:16,260
+you can create your own user here then
+
+5
+00:00:16,261 --> 00:00:18,870
+here in Datatel. Let me in the larger,
+
+6
+00:00:18,871 --> 00:00:23,190
+good little bit. So click submit. And then here you can say,
+
+7
+00:00:23,370 --> 00:00:25,740
+like, for example, for any events that we have,
+
+8
+00:00:26,640 --> 00:00:29,670
+for example, if we have events, teaching data engineers,
+
+9
+00:00:30,270 --> 00:00:34,830
+you can ups, you can write teaching
+
+10
+00:00:34,831 --> 00:00:37,740
+data engineers, um,
+
+11
+00:00:39,480 --> 00:00:42,840
+uh, hopefully being our, or so,
+
+12
+00:00:47,000 --> 00:00:53,540
+um, let me think what we can say it's podcast and through you cast
+
+13
+00:00:53,570 --> 00:00:57,890
+interview data talks go up right on down.
+
+14
+00:00:57,891 --> 00:01:00,440
+Euro would be this link,
+
+15
+00:01:00,870 --> 00:01:03,500
+right? So this is how you can, uh,
+
+16
+00:01:03,620 --> 00:01:06,470
+create things, submit things on data.
+
+17
+00:01:06,830 --> 00:01:10,130
+So we can try that maybe for a couple of months and see if
+
+18
+00:01:10,170 --> 00:01:11,480
+it works. Okay.

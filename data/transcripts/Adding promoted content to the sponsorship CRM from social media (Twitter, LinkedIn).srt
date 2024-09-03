@@ -1,0 +1,119 @@
+1
+00:00:00,060 --> 00:00:04,720
+And here we have an example of a paid promotion on LinkedIn.
+
+2
+00:00:04,850 --> 00:00:06,960
+So you see this is a company data stacks,
+
+3
+00:00:06,961 --> 00:00:11,580
+and you see that this content is promoted and it appears in
+
+4
+00:00:11,581 --> 00:00:14,380
+my feed. And so they are advertising the book,
+
+5
+00:00:14,381 --> 00:00:17,540
+Cassandra, the Definit, the definitive guide.
+
+6
+00:00:18,190 --> 00:00:22,700
+So I would typically copy link to this post and send it to you.
+
+7
+00:00:22,990 --> 00:00:25,060
+So for you, when I share this link,
+
+8
+00:00:25,061 --> 00:00:27,500
+you will not see it as promoted, right?
+
+9
+00:00:27,501 --> 00:00:30,340
+Because it was promoted in my feed. Um,
+
+10
+00:00:30,341 --> 00:00:32,420
+but yeah, this is, uh, promoted stuff,
+
+11
+00:00:33,300 --> 00:00:36,140
+right? So here, if we fill this in,
+
+12
+00:00:36,430 --> 00:00:39,100
+um, this, uh, crm,
+
+13
+00:00:39,190 --> 00:00:42,420
+so I think I already have them. Let me quickly check,
+
+14
+00:00:43,350 --> 00:00:45,620
+uh, cause um, there are, yeah,
+
+15
+00:00:45,621 --> 00:00:49,140
+so we already have them. So let me just show you how I did
+
+16
+00:00:49,141 --> 00:00:52,020
+this. So I, this is the title of the book,
+
+17
+00:00:52,890 --> 00:00:55,820
+then the link. I think this is the same content.
+
+18
+00:00:56,210 --> 00:00:59,540
+Yeah, I think it's, it's actually the same link that I,
+
+19
+00:01:00,110 --> 00:01:03,420
+uh, put before. So content type is ebook,
+
+20
+00:01:03,430 --> 00:01:05,700
+because this is an ebook, right?
+
+21
+00:01:06,280 --> 00:01:09,180
+And then source LinkedIn. This is LinkedIn,
+
+22
+00:01:09,181 --> 00:01:12,580
+right? The source is LinkedIn. And if it was a paid promotion on Twitter,
+
+23
+00:01:12,850 --> 00:01:14,860
+then the source would be Twitter, right?
+
+24
+00:01:15,410 --> 00:01:17,820
+Then uh, the company and then comment.
+
+25
+00:01:18,230 --> 00:01:22,860
+So we already have data stacks and here I think that's
+
+26
+00:01:22,861 --> 00:01:25,060
+the only content.
+
+27
+00:01:25,350 --> 00:01:28,340
+Uh, we have this Cassandra,
+
+28
+00:01:28,341 --> 00:01:32,060
+definite definitive guide. Okay.
+
+29
+00:01:32,061 --> 00:01:35,020
+Yeah. So this is how you add sponsored content,
+
+30
+00:01:35,190 --> 00:01:39,060
+uh, promoted content from social media like Twitter and LinkedIn.
