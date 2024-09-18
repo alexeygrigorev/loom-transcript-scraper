@@ -1,0 +1,27 @@
+Integrating Luma with Eventbrite and Slack
+
+What: Integration of Luma events with Slack and Google Calendar to automate notifications and calendar entries.
+
+Why: To streamline the event management process by ensuring that every event created in Luma is automatically communicated to team members via Slack and added to Google Calendar, enhancing organization and visibility.
+
+When: This integration should be set up whenever there is a need to manage events in Luma and ensure that they are reflected in other productivity tools.
+
+1. Create a Calendar
+
+Create a new calendar specifically for Luma events. This facilitates organization and integration with other tools.
+
+2. Send Invites
+
+Invite relevant team members as admins to the newly created calendar, ensuring they have the necessary permissions to manage events.
+
+3. Add Existing Luma Events
+
+Use the calendar to add any existing Luma events. This can be done by selecting the events and submitting them through the calendar interface.
+
+4. Create New Events
+
+To create a new event, either select it from a personal calendar or the date of events. Fill in the necessary information and submit to add it to both Luma and the Google Calendar.
+
+5. Set Up Integration with Zapier
+
+Integrate the calendar with Zapier to automate the process of sharing event notifications with Slack and other platforms. This enables notifications and reminders to be sent automatically, ensuring team members are informed.

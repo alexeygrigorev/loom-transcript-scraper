@@ -1,0 +1,31 @@
+How to Fix a Typo in the Podcast Transcript
+
+What: Fix typos in podcast transcripts in the GitHub repository.
+
+Why: Accurate transcripts ensure the correct representation of speakers and improve user experience.
+
+When: Perform typo corrections in the transcripts whenever a mistake is identified.
+
+1. Navigate to GitHub
+
+Access the website and go to the relevant GitHub repository. Locate the '_podcast' directory.
+
+2. Identify the Transcript
+
+Find the specific podcast episode that contains the typo and click to edit it.
+
+3. Locate the Typo
+
+Use the search function (Ctrl + F) to identify the typo. Highlight the incorrect text.
+
+4. Replace the Typo
+
+Replace the incorrect text with the correct spelling. If necessary, adjust formatting such as brackets.
+
+5. Review Changes
+
+Verify that all instances of the typo have been corrected and that formatting is consistent.
+
+6. Commit Changes
+
+Write a commit message to describe the changes made and click 'commit' to save the updates. The changes will reflect on the podcast page shortly.

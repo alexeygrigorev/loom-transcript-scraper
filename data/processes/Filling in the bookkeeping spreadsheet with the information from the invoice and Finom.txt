@@ -1,0 +1,27 @@
+Filling in the bookkeeping spreadsheet with the information from the invoice and Finom
+
+What: Input invoice data into the bookkeeping spreadsheet.
+
+Why: To maintain accurate financial records and ensure proper tracking of expenses and payments.
+
+When: This process should be completed on the same day the invoice is received or paid.
+
+1. Check email for invoice and related payment details.
+
+Locate the email that contains the invoice and payment information, ensuring you have the correct attachment.
+
+2. Update the date in the spreadsheet.
+
+Verify the date of the payment and the issue date of the invoice. If necessary, update the spreadsheet to reflect the correct date.
+
+3. Input provider and description details.
+
+Enter the name of the service provider and provide a brief description of the service, including specific course details if applicable.
+
+4. Correctly note transaction amounts.
+
+Input the total transaction amounts in both dollars and euros, ensuring that the subtotal and any applicable taxes (e.g., value-added tax) are calculated correctly.
+
+5. Review and confirm entries.
+
+Double-check all entries for accuracy to ensure they reflect the invoice details correctly. Make any necessary corrections before finalizing the entry.

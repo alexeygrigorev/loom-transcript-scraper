@@ -1,0 +1,41 @@
+Creating DataTalks.Club Events
+
+What: Creating announcements for DataTalks.Club events, including webinars and live podcasts.
+
+Why: To effectively promote and manage events for the DataTalks.Club community.
+
+When: New events should be created when scheduled and prior to the event date to allow for adequate promotion.
+
+1. Create Visual for Event
+
+Use Canva to design a visual. Select between one-line and two-line titles based on title length. Download the completed visual for use in announcements.
+
+2. Set Up Event on Eventbrite
+
+Navigate to Eventbrite and select “My Events.” Copy the details (title, subtitle, date, and time) from a similar past event. Adjust date and time as needed.
+
+3. Update Event Details
+
+In the copied event, change the visual and update event details, including description, guest information, and any additional relevant details.
+
+4. Verify Ticket Sales
+
+Check the ticket sale end date to ensure it allows purchases until the event starts. Ensure it's set to end after the event.
+
+5. Publish Event
+
+Publish the event on Eventbrite and confirm it's publicly listed.
+
+6. Announce in Slack
+
+Upon publishing, an automated announcement will appear in the designated Slack channel to inform the community about the new event.
+
+7. Create Meetup Event (if applicable)
+
+Draft a new event in Meetup and ensure it includes the title, date, time, and description. Upload the event image and format the text. Set it as an online event, linking to the DataTalks.Club YouTube channel. Publish the event.
+
+8. Notify Meetup Group
+
+Send out a notification to the Meetup group about the newly created event to maximize outreach. 
+
+This process ensures successful creation and promotion of events for the DataTalks.Club community, maintaining consistency and clarity in announcements.

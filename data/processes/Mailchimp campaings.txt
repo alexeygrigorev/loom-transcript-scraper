@@ -1,0 +1,45 @@
+Mailchimp Campaigns
+
+What: Creating and Scheduling a Newsletter Campaign in Mailchimp
+
+Why: To effectively communicate updates and curated content to subscribers via a newsletter.
+
+When: When a new campaign needs to be launched, typically on a scheduled basis.
+
+1. Access Campaigns
+
+Navigate to the 'Campaigns' section in Mailchimp. Select 'All Campaigns' to view draft templates.
+
+2. Create a New Campaign
+
+Select an existing draft template and replicate it. Change the campaign name to include a clear identifier, such as a number and the intended send date.
+
+3. Edit Campaign Content
+
+Update the goals and modify any direct links to ensure they are current and relevant. Edit sections including 'Book of the Week,' deleting or adding content as necessary. For new books, copy the book title and include its link.
+
+4. Insert Images
+
+Right-click to copy the image address of the book cover, then insert it into the appropriate section of the campaign. Resize images as needed to ensure layout consistency.
+
+5. Add Events and Podcasts
+
+Copy and paste relevant events and podcasts from external sources. Remove any superfluous formatting or whitespace that may occur during the paste action.
+
+6. Review and Check Links
+
+Verify all links by opening them in a new tab, ensuring they direct correctly to the intended pages. Make edits if needed.
+
+7. Schedule the Campaign
+
+Change the campaign subject line to something engaging. Schedule the campaign for the desired date and time, generally in the morning on weekdays.
+
+8. Final Review
+
+Before confirming the schedule, conduct a final review to ensure all elements are correct, including hyperlinks and content accuracy.
+
+9. Confirm Scheduling
+
+Finalize the schedule for the campaign and confirm that the planned send is correct. 
+
+Consider separate documentation for cloning events, filling in content, and scheduling campaigns to facilitate clarity in future tasks.

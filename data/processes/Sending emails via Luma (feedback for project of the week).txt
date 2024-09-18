@@ -1,0 +1,32 @@
+Sending emails via Luma
+
+What: Sending feedback requests to participants through Luma.
+
+Why: To gather feedback from individuals who registered and participated in the Project of the Week.
+
+When: After the completion of the Project of the Week.
+
+1. Access Luma Studio
+
+Go to Luma Studio and navigate to the appropriate section.
+
+2. Select the Relevant Project
+
+Find and select the most recent project, specifically the GitHub actions project.
+
+3. Navigate to Emails
+
+Go to the emails section to draft your message.
+
+4. Compose the Email
+
+Craft a message addressing the participants. Include a thank you note and request for feedback along with a link to the feedback form. For example:   
+“Hi everyone, thanks a lot for participating in our Project of the Week about GitHub Actions. I would like to get your input. Please fill out this feedback form. It will only take a few minutes and will help improve future projects. Thank you!”
+
+5. Check the Link
+
+Ensure the feedback form link is correct and functional.
+
+6. Send the Email
+
+Once everything is verified, send the email to all participants.

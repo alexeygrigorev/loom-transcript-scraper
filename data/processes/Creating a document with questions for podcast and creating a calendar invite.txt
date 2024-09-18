@@ -1,0 +1,24 @@
+Creating a Document for Podcast Preparation and Calendar Invite
+
+What: Create a document for the podcast guest and set up a calendar invite.
+
+Why: To prepare for the podcast by gathering relevant information and scheduling the session.
+
+When: Before the podcast recording date.
+
+1. Prepare the Document
+
+- Create a new document using a predefined template. The template should include fields for the date, guest name, and podcast topic.
+- Fill in the agreed date and guest's full name.
+- Specify the podcast topic. If uncertain, mention it as "to be discussed." 
+- Share the document with the guest by using the sharing link and ensuring they have editing permissions.
+- Add an outline and create a list of questions to ask during the podcast.
+
+2. Create the Calendar Invite
+
+- Open the calendar application and create a new event.
+- Set the title of the event to match the podcast topic and add a brief description.
+- Invite the guest by entering their email and ensure they can modify the event if necessary.
+- Schedule the event to start five minutes before the recording to address potential technical issues.
+- Include a recurring Zoom link in the location or description field for easy access.
+- Save the event and send the invite to the guest.

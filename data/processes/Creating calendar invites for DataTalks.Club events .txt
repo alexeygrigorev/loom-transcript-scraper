@@ -1,0 +1,35 @@
+Creating Calendar Invites for DataTalks.Club Events
+
+What: Create calendar invites for DataTalks.Club events.
+
+Why: To streamline the process of scheduling events and ensure clarity among participants regarding time and location.
+
+When: Whenever an event is scheduled for DataTalks.Club.
+
+1. Access Calendar Invite
+
+Open your calendar application and initiate the process for creating a new event.
+
+2. Add Event Details
+
+Fill in the event title and select the date and time. Ensure to set the time zone to Central European Time (Berlin) for proper scheduling, especially considering daylight saving adjustments.
+
+3. Invite Guests
+
+Add the email addresses of guests you wish to invite. Double-check to ensure they are valid contacts.
+
+4. More Options
+
+Click on “More options” to access additional event settings.
+
+5. Set Location
+
+Enter the location of the event in the designated field.
+
+6. Manage Permissions
+
+Adjust permission settings as necessary to control who can see the event details.
+
+7. Save the Invite
+
+Finalize the invite by clicking "Save". Ensure the invite has all correct details before saving to avoid any need for subsequent edits.

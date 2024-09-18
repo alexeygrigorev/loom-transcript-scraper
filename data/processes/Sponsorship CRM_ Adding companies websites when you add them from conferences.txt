@@ -1,0 +1,23 @@
+Sponsorship CRM: Adding Companies' Websites When Adding Them from Conferences
+
+What: Add website links for companies that are recorded from conferences in the CRM.
+
+Why: Including website links facilitates easier access to company information for future reference and content preparation.
+
+When: Whenever a company is added to the CRM from a conference.
+
+1. Identify the company
+
+Locate the company name from the conference list, e.g., Microsoft Azure.
+
+2. Access the company link
+
+Click on the company's profile to retrieve the corresponding website link.
+
+3. Input the website link
+
+Paste the website link into the designated field in the CRM associated with the company's entry.
+
+4. Verify the link
+
+Ensure that the link is correct and functional to facilitate future content additions.

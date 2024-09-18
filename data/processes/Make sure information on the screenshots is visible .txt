@@ -1,0 +1,23 @@
+Make sure information on the screenshots is visible
+
+What: Ensure screenshots are clear and legible.
+
+Why: To facilitate understanding of the content by providing easily viewable images.
+
+When: When capturing and including screenshots in documents.
+
+1. Zoom In
+
+Double-click on the screenshot to zoom in for better visibility.
+
+2. Take Clear Screenshots
+
+Capture focused and high-resolution screenshots, ensuring they are not too small or blurred.
+
+3. Edit for Clarity
+
+If necessary, crop or adjust the screenshots so that they are directly relevant to the content and easily interpretable.
+
+4. Review Visibility
+
+Before finalizing the document, verify that all screenshots are clearly visible and provide good context.

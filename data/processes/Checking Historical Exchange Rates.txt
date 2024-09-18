@@ -1,0 +1,23 @@
+Checking Historical Exchange Rates
+
+What: Check historical exchange rates to verify past transaction values.
+
+Why: To ensure accurate financial reporting and to reconcile discrepancies in payments.
+
+When: Perform this process anytime a historical payment needs verification or clarification.
+
+1. Gather Documentation
+
+Locate relevant documents that show the amount paid and any related exchange rate details.
+
+2. Identify the Historical Exchange Rate
+
+Check the historical exchange rate for the specific date of the transaction to determine the accurate amount in the desired currency.
+
+3. Compare Values
+
+Analyze the obtained historical exchange rate against the original payment to identify any discrepancies.
+
+4. Report Findings
+
+Communicate the findings to the accounting team, detailing the amount paid and the correct historical exchange rates used for verification.

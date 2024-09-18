@@ -1,0 +1,31 @@
+Cutting Pictures to Have a Headshot
+
+What: Create a headshot by cropping an image to focus on the face.
+
+Why: To generate a professional headshot suitable for profiles or presentations.
+
+When: When a suitable image is available that requires cropping to emphasize the face.
+
+1. Open the Image
+
+Choose an image using a photo editing tool (e.g., XMU).
+
+2. Select the Area
+
+Select a square portion of the image, ensuring the face is centered.
+
+3. Check Dimensions
+
+Adjust the selection to be approximately 400 by 400 pixels for optimal size.
+
+4. Crop the Image
+
+Use the crop command (Shift + X) to remove unwanted parts of the image.
+
+5. Adjust Contrast
+
+Enhance image quality by adjusting the contrast (Shift + T).
+
+6. Save the File
+
+Export the image in the desired format (e.g., PNG, JPEG) and save it.

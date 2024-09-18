@@ -1,0 +1,27 @@
+Moving Videos in YouTube Playlist
+
+What: Rearranging videos in a YouTube playlist.
+
+Why: To ensure videos are displayed in an appropriate order, making it easier for viewers to navigate the content.
+
+When: Whenever new videos are uploaded or existing videos need to be rearranged.
+
+1. Identify the videos to rearrange.
+
+Decide which videos need to be moved within the playlist based on your preference or specific guidelines.
+
+2. Move videos to the desired position.
+
+Drag and drop the selected videos into the appropriate position within the playlist. Ensure that they follow a logical sequence, often indicated by numbering.
+
+3. Edit video titles if necessary.
+
+If required, update the titles of the videos to include relevant information, such as topics or identifiers (e.g., "homework solution").
+
+4. Maintain order for new uploads.
+
+For any new videos uploaded, place them in their correct position within the established order of the playlist based on previous discussions or guidelines.
+
+5. Clarify any uncertainties.
+
+If unsure about the correct order, consult with the relevant person for clarification to ensure consistency and accuracy in the playlist arrangement.

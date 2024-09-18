@@ -1,0 +1,23 @@
+Don't Upload Large Book Covers
+
+What: Resizing images before uploading.
+
+Why: To ensure faster loading times and better performance on the website.
+
+When: Before uploading images to the website.
+
+1. Check the image size before submission.
+
+Ensure the image is not excessively large. Aim for dimensions around 400 by 600 pixels.
+
+2. Resize large images.
+
+If an image exceeds the recommended size, use an image editing tool to resize it before uploading.
+
+3. Verify the file size.
+
+Confirm that the resized image is significantly smaller (preferably under 100 kilobytes) to optimize loading speed.
+
+4. Upload the optimized image.
+
+Submit the resized image to the website for improved performance.

@@ -1,0 +1,27 @@
+Editing Events in Public Google Calendar
+
+What: Update calendar invites for events created in Eventbrite to reflect changes in the public Google calendar.
+
+Why: Ensures that attendees have the most accurate information about scheduled events, especially if details such as duration change.
+
+When: Update the Google calendar when changes occur in scheduled events, such as rescheduling or adjusting event duration.
+
+1. Access the Google Calendar
+
+Go to the Datadog events in the Google calendar and confirm that you have edit permissions.
+
+2. Locate the Event
+
+Find the specific event that needs updating. For example, if the event duration changes from one hour to a longer time, select the correct entry in the calendar.
+
+3. Edit Event Details
+
+Click on the event and change the relevant details, such as duration or time. Note that all alterations must be done manually, as updates made in Eventbrite will not automatically reflect here.
+
+4. Save Changes
+
+After making the necessary changes, save the event. The updated information will be reflected for others viewing the public calendar.
+
+5. Grant Permissions
+
+If necessary, give editing permissions to others who may need to make similar updates in the future.

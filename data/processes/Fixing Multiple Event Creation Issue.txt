@@ -1,0 +1,27 @@
+Fixing Multiple Event Creation Issue
+
+What: Create reminders for a multi-day event.
+
+Why: To ensure participants receive daily reminders about ongoing activities during a week-long project.
+
+When: Reminders should be scheduled and sent ahead of the event.
+
+1. Identify Event Details
+
+Determine the specifics of the multi-day event, including the start date, end date, and key activities for each day.
+
+2. Create Reminder Emails
+
+Manually create seven different reminder emails for each day of the event. Use the existing template from past events for consistency.
+
+3. Schedule Emails
+
+Set the emails to be sent out at appropriate intervals throughout the event week, ensuring they provide timely reminders to participants.
+
+4. Update Process Documents
+
+Revise the process document to reflect the new method of using email reminders instead of multiple events. Include links to any relevant videos and templates used for the email reminders.
+
+5. Review and Finalize
+
+Send the updated process document and email templates for review to ensure all information is accurate and complete before implementation.

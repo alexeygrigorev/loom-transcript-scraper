@@ -1,0 +1,35 @@
+YouTube Covers from Figma
+
+What: Creating YouTube covers using Figma.
+
+Why: To generate updated event covers for branding and marketing purposes based on template designs.
+
+When: Whenever a new event requires a cover, or an existing cover needs updating.
+
+1. Access Figma
+
+Create an account if you don't have one and gain access to the relevant project.
+
+2. Locate the Template
+
+Find the cover template for the specific event you're working on.
+
+3. Prepare Necessary Elements
+
+Identify and keep track of the elements needed for the event cover design, including images and titles.
+
+4. Edit Text and Colors
+
+Adjust the text according to the event details. Ensure any added text is appropriately colored and centered.
+
+5. Replace Images
+
+Download necessary images and replace placeholders within the Figma design.
+
+6. Export the Cover
+
+Once edits are complete, export the cover as a PNG file. Adjust dimensions if necessary for proper display.
+
+7. Save and Share
+
+Save your work and share the updated cover with your team, ensuring to communicate any changes made.

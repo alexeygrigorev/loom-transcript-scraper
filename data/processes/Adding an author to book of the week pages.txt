@@ -1,0 +1,23 @@
+Adding an Author to Book of the Week Pages
+
+What: Adding an author to the book of the week pages.
+
+Why: To ensure accurate attribution and recognition for featured books.
+
+When: Perform this task when preparing or updating the book of the week pages.
+
+1. Access the Editing Interface
+
+Navigate to the section where you can edit the book of the week pages.
+
+2. Locate the Book
+
+Search for the specific book that requires an author to be added.
+
+3. Add Author Details
+
+Insert the necessary author information in the designated fields within the editing interface.
+
+4. Commit Changes
+
+Finalize your edits by committing the changes, ensuring that updates are saved and reflected in the system.

@@ -1,0 +1,35 @@
+Sponsorship CRM - the contacts table
+
+What: Managing contacts in the Sponsorship CRM using LinkedIn.
+
+Why: To ensure organized outreach to potential sponsors and track interactions systematically.
+
+When: When identifying potential sponsorship contacts and following up with them on LinkedIn.
+
+1. Locate the Contact
+
+Find the individual on LinkedIn. If a connection request was sent, note the date.
+
+2. Open the Sponsorship CRM
+
+Access the Sponsorship CRM in Airtable and navigate to the contacts table.
+
+3. Input Connection Details
+
+Update the entry with the connection request details:
+- Last contact date
+- Status of the company (e.g., Unknown, Cold, Contacted)
+- Comment documenting the interaction (e.g., "Sent connection request on [date]")
+
+4. Categorize the Lead
+
+Select the appropriate lead status:
+- Prospect: Added to the CRM with no prior contact.
+- Cold: Initial contact made without an introduction.
+- Hot: Introduced by a mutual acquaintance.
+- Proposed: Discussed potential collaboration and sent a proposal.
+- Deal: Agreement reached and introduced to colleagues.
+
+5. Follow Up and Update
+
+Keep track of follow-ups, update the status, and note any introductions made.

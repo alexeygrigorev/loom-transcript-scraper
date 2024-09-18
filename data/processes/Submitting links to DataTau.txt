@@ -1,0 +1,27 @@
+Submitting links to DataTau
+
+What: Sharing content on DataTau
+
+Why: To promote events, podcasts, and interviews related to data engineering.
+
+When: As needed, particularly during event promotions or content releases.
+
+1. Create a Datatau account
+
+Visit dataTau.net and register for a user account if you don’t already have one.
+
+2. Log in to your account
+
+Access the platform by entering your login credentials.
+
+3. Submit content
+
+Click on the "submit" button on the website.
+
+4. Provide content details
+
+Fill in the submission form with relevant information, such as the title of the event or podcast, for example, "Teaching Data Engineers," and include the link to the content.
+
+5. Monitor submissions
+
+Track the performance of your submissions over time and assess their effectiveness.

@@ -1,0 +1,40 @@
+Book Cover URL Submission Process
+
+What: Submitting book cover URLs or uploading book cover images.
+
+Why: To ensure that the book cover images are correctly associated with the respective book entries, enhancing visual representation and information accessibility.
+
+When: This process should be followed when adding or updating book entries in the system.
+
+1. Prepare the Book Cover Image
+
+If the book cover URL is not available, obtain the book cover image file. Resize the image as necessary using an image editing program (e.g., XnView).
+
+- For resizing, consider dimensions such as 300x400 pixels.
+- After resizing, save the image.
+
+2. Upload the Book Cover
+
+Access the form where the book details are entered and locate the book cover field.
+
+- Upload the resized image file or input the book cover URL.
+- If using a URL, make sure it points directly to the image file.
+
+3. Finding Book Cover URLs
+
+For books without a direct cover image option:
+
+- Click the relevant book link and use the 'Inspect' feature in the browser.
+- Locate the image in the HTML code; copy the image source (SRC) URL.
+
+4. Use Image URLs from Other Sources
+
+For pocket books and publications:
+
+- Navigate to the website where the book is listed.
+- Right-click on the book cover image and select 'Copy Image Address'.
+- Paste the URL in the designated field in your form.
+
+5. Check and Submit
+
+Verify that all required fields are completed, including the book cover URL or uploaded image. Submit the form once all information is accurate.

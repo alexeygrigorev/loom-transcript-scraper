@@ -1,0 +1,31 @@
+Updating Guest's Bio
+
+What: Update the biography of a guest based on their request.
+
+Why: To ensure accurate and current information is presented about guests at events.
+
+When: When a guest requests a modification to their biography.
+
+1. Receive Request
+
+Confirm the guest's request for a biography update.
+
+2. Access Guest Data
+
+Navigate to the appropriate data documentation system where the guest biographies are stored.
+
+3. Locate Current Biography
+
+Search for the guest's current biography using their name or relevant details.
+
+4. Make Changes
+
+Update the biography with the new information provided by the guest.
+
+5. Save Changes
+
+Ensure all modifications are saved accurately in the system.
+
+6. Publish Update
+
+Perform the action to push the updated biography to the website.

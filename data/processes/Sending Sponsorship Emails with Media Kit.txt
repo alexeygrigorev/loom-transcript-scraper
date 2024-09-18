@@ -1,0 +1,27 @@
+Sending Sponsorship Emails with Media Kit
+
+What: Sending outreach emails to potential sponsors with a media kit attached.
+
+Why: To inform potential sponsors about collaboration opportunities and present offerings clearly.
+
+When: When a follow-up is needed after initial conversations with potential sponsors.
+
+1. Prepare the Email
+
+Start by greeting the recipient using their name (e.g., "Hey Jim"). Reference the previous conversation, specifying the platform (LinkedIn or Slack).
+
+2. Include Sponsorship Details
+
+Attach the media kit link to the email. Mention it outlines potential collaboration opportunities.
+
+3. Call to Action
+
+Encourage the recipient to review the document and express interest by stating, "Please take a look and let us know if anything there is interesting for you."
+
+4. Sign Off
+
+Conclude the email with a closing line indicating willingness to discuss further. Use a friendly tone and sign the email appropriately.
+
+5. Review and Send
+
+Run the email draft by the designated person for approval. Once approved, send the email to the provided address (e.g., Jim at hopsworks.ie).

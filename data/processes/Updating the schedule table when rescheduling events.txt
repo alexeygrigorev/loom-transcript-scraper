@@ -1,0 +1,27 @@
+Updating the Schedule Table When Rescheduling Events
+
+What: Updating the schedule in the ScaleIO spreadsheet for rescheduling events.
+
+Why: Ensure that the timeline for events is current and accurate to facilitate planning and coordination.
+
+When: When a request to reschedule an event is received.
+
+1. Receive Request
+
+Check the email or communication platform for rescheduling requests.
+
+2. Access the Schedule
+
+Open the ScaleIO spreadsheet to review the current schedule.
+
+3. Update Event Date
+
+Locate the specific event that needs to be rescheduled and update the date accordingly.
+
+4. Communicate Changes
+
+Send updated invites and notifications to all involved parties regarding the new date.
+
+5. Confirm Updates
+
+Follow up to ensure all parties acknowledge the changes and have the correct information.

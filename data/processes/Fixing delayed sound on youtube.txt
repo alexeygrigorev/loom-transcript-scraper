@@ -1,0 +1,47 @@
+Fixing Delayed Sound on YouTube
+
+What: Repair delayed audio synchronization in YouTube videos.
+
+Why: To ensure viewers have a seamless experience by correcting audio issues that may detract from the content.
+
+When: If the audio is delayed for more than three days and the issue persists.
+
+1. Download the Video
+
+Access the YouTube Studio and navigate to the content section. Locate the affected video and download it.
+
+2. Upload the Video
+
+Upload the downloaded video back to YouTube using the standard upload process. 
+
+3. Update Video Title
+
+Ensure the title reflects the purpose: “Fix it. Sound [Corrected].”
+
+4. Select Thumbnail
+
+Download and upload a suitable thumbnail image. Ensure the image is of high quality.
+
+5. Set Playlist Information
+
+Add the video to the appropriate playlist (e.g., Databox Club Podcast). Include relevant links in the video description once available.
+
+6. Adjust Visibility Settings
+
+Set the visibility to "Public." Ensure other settings are left as they are unless changes are necessary.
+
+7. Publish the Video
+
+Publish the video on YouTube. 
+
+8. Update Links in Description
+
+After publishing, update the video description to include a note indicating the version is corrected and add any important links.
+
+9. Remove Old Version from Playlist
+
+Unlist the original version and remove it from the playlist. Save the changes.
+
+10. Use the New Link
+
+For all future references, use the updated video link. Maintain a note of the issue and its resolution for future uploads.

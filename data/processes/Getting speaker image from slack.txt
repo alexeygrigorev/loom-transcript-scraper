@@ -1,0 +1,19 @@
+Getting Speaker Image from Slack
+
+What: Extracting images from Slack for speaker profiles.
+
+Why: To obtain a reliable image of speakers for creating their profiles.
+
+When: When needing to create or update a speaker profile.
+
+1. Access the Speaker's Profile
+
+Navigate to Slack and use the search function (Ctrl + K) to find the speaker by name. Click on their profile.
+
+2. Extract the Image
+
+Right-click on the image and select "Save image as..." to download it. This ensures you have a stable copy, as the original link may not remain reliable for future access.
+
+3. Upload the Image
+
+Use the downloaded image to create or update the speaker profile accordingly.

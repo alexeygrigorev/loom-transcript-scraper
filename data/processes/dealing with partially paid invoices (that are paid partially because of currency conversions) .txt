@@ -1,0 +1,31 @@
+Dealing with Partially Paid Invoices Due to Currency Conversions
+
+What: Retroactively edit invoices that were partially paid due to challenges with currency conversions.
+
+Why: To resolve discrepancies in payments and ensure accurate tax reporting.
+
+When: Perform this process whenever an invoice has been partially paid due to currency conversion issues.
+
+1. Review the Invoice
+
+Check the invoice to confirm the amount received and the original amount billed.
+
+2. Adjust the Invoice Amount
+
+Edit the invoice to reflect the amount paid, ensuring it's marked as fully paid. 
+
+3. Download and Send the Invoice
+
+Download the updated invoice in PDF format. Email it to the client, explaining the payment situation and indicating that the amount received was impacted by currency conversion.
+
+4. Prepare for Future Invoices
+
+Inform the client that future invoices will be issued in USD to simplify payments. Calculate and communicate the converted amount prior to invoicing.
+
+5. Update Reports
+
+Ensure the retroactively edited invoice is included in the next financial report, categorizing it as fully paid rather than partially paid. 
+
+6. Communicate with Management
+
+Compose an email to stakeholders explaining the situation and the actions taken to rectify it.

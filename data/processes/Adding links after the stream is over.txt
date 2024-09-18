@@ -1,0 +1,27 @@
+Adding Links After the Stream is Over
+
+What: Include relevant links in the video description after an event.
+
+Why: To provide viewers with additional resources and references related to the content.
+
+When: After the event stream is completed.
+
+1. Gather Links
+
+Reach out to relevant team members to collect links they want included in the video description. 
+
+2. Edit Video Metadata
+
+Add the links collected to the video description.
+
+3. Categorize the Video
+
+Assign the video to the appropriate playlist based on its content type (e.g., webinar or podcast).
+
+4. Update Thumbnail
+
+If necessary, update the video thumbnail to ensure it aligns with the content.
+
+5. Review and Publish
+
+Check for accuracy in links and metadata, then publish the updated video.

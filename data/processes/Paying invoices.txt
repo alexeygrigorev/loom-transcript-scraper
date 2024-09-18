@@ -1,0 +1,35 @@
+Paying Invoices
+
+What: Pay invoices efficiently by following a defined process.
+
+Why: Ensures timely payments and proper documentation for bookkeeping.
+
+When: Whenever an invoice is received that requires payment.
+
+1. Forward Invoice
+
+Forward the received invoice to the specified invoice attachment email. Edit the subject line to include "transcription" followed by the date.
+
+2. Log into Payment System
+
+Access the payment platform (e.g., Phenom) and sign in using your credentials.
+
+3. Start New Payment
+
+Initiate a new payment for the invoice amount, ensuring the correct bank account (IBAN) and invoice number are confirmed.
+
+4. Confirm Payment
+
+Review the payment details for accuracy. Confirm the payment to process it.
+
+5. Document Payment
+
+Download the PDF receipt of the payment or take a screenshot for records.
+
+6. Update Dropbox
+
+Verify that the invoice is in Dropbox under the “transcription” folder for documentation.
+
+7. Update Bookkeeping
+
+In the bookkeeping system, log the payment by entering the amount and updating relevant records. Ensure clarity by specifying "transcriptions" without articles in the entry.

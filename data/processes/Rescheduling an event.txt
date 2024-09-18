@@ -1,0 +1,33 @@
+Rescheduling an Event
+
+What: This process outlines how to reschedule an event across multiple platforms.
+
+Why: Rescheduling is necessary when the original date is no longer feasible, ensuring that attendees are informed and can adjust their plans accordingly.
+
+When: Rescheduling should be done as soon as the new date is confirmed to minimize confusion and maximize attendance.
+
+1. Update Event on Eventbrite
+
+Access Eventbrite and locate the event. Change the date to the new date (e.g., 1st of March at 5:00 PM). Save the changes.
+
+2. Update Event on Meetup
+
+Log into Meetup and find the corresponding event. Change the date to the new date. Save the changes.
+
+3. Update Event on Google Calendar
+
+Open the public Google Calendar. Update the event date to the new date (1st of March) and ensure all details are accurate. Save the changes.
+
+4. Check LinkedIn Announcement
+
+Determine if the event was announced on LinkedIn. If it was, update the date in the LinkedIn post.
+
+5. Update Event on Website
+
+Access the website where the event is listed. Navigate to the correct section for the upcoming events. Change the date from February to the new date in March. Organize the layout if necessary, then save the changes.
+
+6. Monitor Website Update
+
+Watch for confirmation that changes have been applied on the website. Refresh to ensure the new date is displayed correctly.
+
+By following these steps, the event will be successfully rescheduled across all relevant platforms.

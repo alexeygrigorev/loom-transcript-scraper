@@ -1,0 +1,27 @@
+Checking Availability for Rescheduling Events
+
+What: Check calendar for availability when someone requests to reschedule an event.
+
+Why: To ensure effective scheduling and avoid conflicts when rescheduling events.
+
+When: When asked to reschedule an event or meeting.
+
+1. Access the Calendar
+
+Open a web browser and go to people.brightmind.com to view the calendar.
+
+2. Identify Availability
+
+Review the calendar for empty slots where there are no existing engagements. Note any available time slots.
+
+3. Verify Requested Dates
+
+When someone requests a rescheduling, check their suggested dates against your availability on the calendar.
+
+4. Propose New Dates
+
+If a suggested date works, confirm it. If not, propose an alternative date and time that is available.
+
+5. Allow for Flexibility
+
+Consider lunchtime meetings if necessary, as those slots are generally open, despite being marked busy.

@@ -1,0 +1,35 @@
+Getting number of impressions from newsletter, twitter and linkedin and the number of clicks in LN
+
+What: Gather metrics on impressions and clicks from newsletters, Twitter, and LinkedIn.
+
+Why: To evaluate the effectiveness of our outreach and engagement efforts.
+
+When: After a campaign or at regular intervals to assess performance.
+
+1. Access the analytics dashboard.
+
+Navigate to the organization club and select the timeframe for one month (last 30 days).
+
+2. Retrieve click data.
+
+Identify the specific candidates or content and note the number of clicks. For example, record 33 clicks for a particular piece.
+
+3. Gather impression data from Twitter.
+
+Access Twitter analytics, find the relevant tweet, and record the number of impressions, e.g., 2000 impressions.
+
+4. Access LinkedIn impression data.
+
+Use LinkedIn analytics to locate the relevant posts and record the number of impressions.
+
+5. Compile open rate data from newsletters.
+
+Determine how many people opened the newsletters and record this as part of the performance metrics.
+
+6. Summarize total metrics.
+
+Calculate the total number of impressions by summing the data from newsletters, Twitter, and LinkedIn. Additionally, sum the click data for a comprehensive overview.
+
+7. Review data accuracy.
+
+Ensure the impression and click figures align correctly to avoid misleading conclusions.

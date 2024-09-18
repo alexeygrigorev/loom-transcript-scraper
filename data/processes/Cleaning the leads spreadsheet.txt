@@ -1,0 +1,15 @@
+Cleaning the Leads Spreadsheet
+
+What: Remove outdated or declined leads from the spreadsheet.
+
+Why: To maintain an organized and efficient lead database, ensuring that only relevant leads are tracked.
+
+When: When the leads spreadsheet becomes cluttered with inactive or unresponsive leads.
+
+1. Identify Leads to Remove
+
+Review the leads in the spreadsheet and identify those that are declined, closed, or no longer relevant.
+
+2. Delete or Hide Leads
+
+Select the identified leads for removal. You can choose to delete them permanently or hide them temporarily based on your needs.

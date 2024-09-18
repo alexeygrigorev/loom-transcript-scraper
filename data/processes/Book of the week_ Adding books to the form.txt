@@ -1,0 +1,47 @@
+Adding Books to the Database
+
+What: Adding books to the database form.
+
+Why: To ensure that all relevant information about new books is recorded, enhancing the overall library or collection.
+
+When: Whenever a new book is acquired and needs to be cataloged.
+
+1. Open the Book Addition Form
+
+Locate and open the form designated for adding books to the database.
+
+2. Match the Author
+
+If the author has already been added, select their profile in the form. If not, leave the author field empty for new additions.
+
+3. Fill in Book Details
+
+Enter the book's title and description. This information can usually be found on the book's page online.
+
+4. Input Publisher Information
+
+If applicable, identify and enter the publisher's name based on the book’s publication details.
+
+5. Check for Availability
+
+Search for the book’s presence on platforms like Amazon or GitHub. If the book is self-published, note that there may be no listings.
+
+6. Submit the Book Information
+
+Once all fields are completed, click the submit button to add the book information to the database.
+
+7. Edit Missing Fields
+
+If any information (like the publication date) is missing after submission, return to the form, edit the necessary fields, and resubmit.
+
+8. Schedule Entry
+
+Select the start date for when the book will be featured. This date should typically align with the schedule for the relevant class or event.
+
+9. Notify for Script Execution
+
+Once the form is completed, inform the appropriate team member that the book information has been submitted so they can execute the necessary script for processing.
+
+10. Update Status
+
+After the script has been executed, change the status of the form entry to indicate that it has been announced or completed.

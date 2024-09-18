@@ -1,0 +1,31 @@
+Podcast Announcement on LinkedIn
+
+What: Making an announcement about a new podcast episode on LinkedIn.
+
+Why: To inform the audience about the latest podcast episode and engage them with the content.
+
+When: After publishing a new podcast episode.
+
+1. Prepare Announcement Content
+
+Create a notice that includes the essential details of the podcast episode. Avoid repetitive announcements. 
+
+2. Use a Notes System
+
+Store the podcast episode details on a Notion page or a similar note-taking platform.
+
+3. Compile Key Points
+
+Extract key insights from the podcast transcript. List the highlights in bullet-point format, ensuring clarity and engagement.
+
+4. Create LinkedIn Post
+
+Log in to LinkedIn and start a post. Copy and paste the announcement content, including the key points, and add the link to the podcast episode.
+
+5. Tag Relevant Individuals
+
+Mention or tag relevant guests or colleagues associated with the podcast episode to increase visibility.
+
+6. Publish the Post
+
+Review the announcement for accuracy and clarity. Once confirmed, click 'Post' to share the announcement with your LinkedIn network.

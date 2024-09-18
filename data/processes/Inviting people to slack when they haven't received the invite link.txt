@@ -1,0 +1,27 @@
+Inviting People to Slack When They Haven't Received the Invite Link
+
+What: Inviting users to join Slack when they report not receiving the invitation link.
+
+Why: Ensures that all team members can access the communication platform, facilitating collaboration and support.
+
+When: When users inform you via email that they have not received their Slack invitation.
+
+1. Copy the User's Email
+
+Locate the email from the user who is having issues with the Slack invitation. Copy their email address for the next step.
+
+2. Invite the User to Slack
+
+In Slack, navigate to the "Invite People" section. Paste the copied email address into the designated field and proceed to send the invitation.
+
+3. Check for Success or Existing Account
+
+After sending the invitation, check for a notification from Slack. If it states that the person is already in Slack, it may indicate they have received the invite or already registered. 
+
+4. Respond to the User
+
+If notified that the user is already in Slack, reply to their email confirming that they have successfully registered. Offer additional assistance if needed, to ensure they can access Slack. 
+
+5. Document any Challenges
+
+If the invitation was successfully sent, note any specific challenges or repeated issues for future reference and to help streamline the process.

@@ -1,0 +1,15 @@
+Inline vs Wrap Text Images in Process Documents
+
+What: Adjusting image placement in process documents.
+
+Why: To ensure images are easily movable and integrated with text, avoiding disruption in layout.
+
+When: When creating new process documents or updating existing ones.
+
+1. Use Inline Image Mode
+
+Make sure all new images are inserted in inline mode. This integrates the image with the text flow, enabling easier editing and movement within the document.
+
+2. Avoid Wrap Text Mode
+
+Do not use wrap text mode for images. It creates separation between the image and text, leading to layout issues and difficulty in manipulating the image position.

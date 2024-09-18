@@ -1,0 +1,19 @@
+Asking Speaker for Links
+
+What: Requesting links from speakers that were mentioned during a presentation.
+
+Why: To compile relevant resources such as blog posts or tools mentioned by speakers for distribution to attendees post-event.
+
+When: After a webinar or event.
+
+1. Identify Required Links
+
+Determine which links were referenced during the presentation that should be included for attendees.
+
+2. Contact the Speaker
+
+Send an email to the speaker requesting any blog posts, tools, or resources shared during their presentation.
+
+3. Update the Template
+
+Incorporate a section in the event follow-up template to ensure all necessary links are requested in future communications.

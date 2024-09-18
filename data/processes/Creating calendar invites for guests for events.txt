@@ -1,0 +1,41 @@
+Creating calendar invites for guests for events
+
+What: Create calendar invites for guests to join webinars and podcasts.
+
+Why: To ensure guests receive event details and can participate effectively.
+
+When: Whenever a new event is scheduled.
+
+1. Access the calendar
+
+Open the calendar application and navigate to the date of the event.
+
+2. Create a new event
+
+Set the event date (e.g., February 8th) and title it (e.g., "Data Talks Club Webinar"). 
+
+3. Add guests
+
+Copy and paste guest email addresses into the invite.
+
+4. Set event time
+
+Define the start time (e.g., 17:55) and end time (e.g., 18:00). 
+
+5. Include a meeting link
+
+Add the Zoom meeting link to the event details to facilitate participation.
+
+6. Adjust permissions
+
+Ensure guests can modify the event, invite others, and view the guest list.
+
+7. Save the event
+
+Click save when all details are complete. Do not send the invite yet if additional information is needed. 
+
+8. Finalize the invite
+
+Confirm that all details are accurate, and send the invite once finalized. 
+
+Note: Regularly schedule webinars on Tuesdays and podcasts on Fridays at 5:00 PM.

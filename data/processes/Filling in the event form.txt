@@ -1,0 +1,25 @@
+Filling in the Event Form
+
+What: Fill out the event form for speaker details and event information.
+
+Why: To ensure proper documentation and publication of events on the website.
+
+When: This should be done after creating the speaker profile.
+
+1. Access the Event Form
+
+Obtain the link to the event form.
+
+2. Enter Speaker Details
+
+Input the speaker's email address in the designated field.
+
+3. Provide Event Information
+
+a. Fill in the event name and date (e.g., Podcast on March 3rd).
+
+b. Ensure the speaker is already in the database. If not, create a speaker profile first.
+
+4. Submit the Form
+
+Review the entered information for accuracy and submit the event form.

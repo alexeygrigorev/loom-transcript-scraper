@@ -1,0 +1,27 @@
+Renaming Profile ID on the website
+
+What: Renaming and updating profile IDs and images to ensure consistency across user profiles.
+
+Why: To resolve discrepancies between user profiles and event participant names, which may arise from typos or missing profiles.
+
+When: When a profile name differs from the event participant name, or when creating new profiles.
+
+1. Identify Discrepancies
+
+Check the URL for the user's profile and verify the displayed name against the event details.
+
+2. Update Profile Name
+
+Navigate to the user profile and edit the name to match the event participant name. Ensure both the full name and short name are identical.
+
+3. Check and Update Images
+
+If the associated image is incorrect, rename it and update the image file location in "images/authors."
+
+4. Create New Profile (if necessary)
+
+If a profile does not exist, use the designated form to create a new profile rather than manually creating files.
+
+5. Confirm Changes
+
+After making updates, verify the changes. It may take a few minutes for updates to reflect across the platform.

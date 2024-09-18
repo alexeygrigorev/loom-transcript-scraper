@@ -1,0 +1,23 @@
+Filling Placeholders When Creating a Podcast Document from a Template
+
+What: Replacing placeholders in podcast templates with specific information.
+
+Why: Ensures clarity and relevance in the podcast document by customizing it for each episode.
+
+When: Whenever you create a new podcast document from a template.
+
+1. Copy the Template
+
+Make a duplicate of the podcast template to maintain the original formatting.
+
+2. Replace Placeholders
+
+Identify and replace all placeholders with the appropriate information, such as the episode name and producer details. 
+
+3. Keep Unchanged Elements
+
+Do not replace fixed elements, like the topic agreed upon, to maintain the integrity of the document.
+
+4. Review Template
+
+After making updates, review the document to ensure all necessary changes have been made and that the structure is clear.

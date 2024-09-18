@@ -1,0 +1,35 @@
+Troubleshooting and Process Document Updates
+
+What: Troubleshooting issues related to author not found errors and updating process documents.
+
+Why: To ensure accurate processing of existing profiles and improve documentation clarity for resolving errors.
+
+When: Whenever issues arise with author identification or when updating process documents.
+
+1. Identify the Error
+
+Check logs for author not found errors related to existing profiles. Use data docs to verify if the person exists.
+
+2. Verify Existing Profiles
+
+If the profile already exists but is marked as not processed, determine if the error is due to the profile being hidden or improperly processed.
+
+3. Document the Symptoms
+
+Record observable symptoms, such as the profile existing in logs yet showing as not found and provide context for these errors in the process documentation.
+
+4. Update the Process Document
+
+Revise the process document to include the identified symptoms and error handling steps.
+
+5. Ensure Documents are Pageless
+
+For all process documents, convert them to pageless format by removing page breaks and reformatting as necessary.
+
+6. Add Context to Documentation
+
+Enhance the updated process document by including explanations of why the document is needed and when to use it.
+
+7. Re-run the Processing
+
+After updating the process document, attempt to rerun the processing to resolve the issues identified with author not found errors.

@@ -1,0 +1,23 @@
+Sharing Dropbox Links with Pavel
+
+What: Sharing Dropbox links to podcast tracks in addition to YouTube links.
+
+Why: To provide easy access to necessary audio files alongside video content.
+
+When: When sharing content with Pavel that includes both podcast audio and YouTube video links.
+
+1. Locate the podcast folder
+
+Navigate to the designated folder containing the podcast tracks.
+
+2. Get the link for each track
+
+Select the desired audio track, click on the share option, and copy the link.
+
+3. Compile links
+
+Combine the Dropbox links to the podcast tracks with the corresponding YouTube video links.
+
+4. Share the compiled links
+
+Send the complete list of links to Pavel for access.

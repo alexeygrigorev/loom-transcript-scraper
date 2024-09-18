@@ -1,0 +1,23 @@
+Scheduling YouTube Videos
+
+What: Schedule YouTube videos, specifically for the open-source spotlight series.
+
+Why: To manage content release effectively and ensure timely availability of videos to the audience.
+
+When: Typically on Wednesdays, after receiving time codes and links from the speaker.
+
+1. Access Video Details
+
+Click on the video you want to schedule and go to the details section.
+
+2. Select Playlist
+
+Choose the appropriate playlist for the video; for open-source spotlight videos, select the "open source spotlight" playlist.
+
+3. Set Visibility and Schedule Time
+
+Click on the visibility option, set it to “Scheduled,” and choose the date and time for release (e.g., today at 5:00 PM Central European Time).
+
+4. Finalize Scheduling
+
+Confirm the schedule by clicking “Done.” Ensure all necessary information (time codes and links from the speaker) is collected before scheduling future videos.

@@ -1,0 +1,19 @@
+Live Stream Attendance Stats
+
+What: Determine and report the actual attendance of webinars.
+
+Why: To provide accurate attendance statistics and avoid misleading information based on registrations alone.
+
+When: When inquiries about webinar attendance are received.
+
+1. Access Analytics
+
+Go to the specified link for the webinar and open the analytics section to view the actual number of attendees.
+
+2. Capture Attendance Data
+
+Take a screenshot of the attendance stats displayed in the analytics for documentation and reporting purposes.
+
+3. Communicate Statistics
+
+When asked about attendance, share the actual number of attendees captured from the analytics, ensuring clarity that not all registrants may have attended.

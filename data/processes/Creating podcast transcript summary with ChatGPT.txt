@@ -1,0 +1,35 @@
+Creating Podcast Transcript Summary with ChatGPT
+
+What: Generating a summary and extracting quotes from a podcast transcript using ChatGPT.
+
+Why: To streamline content creation for newsletters and social media by providing concise summaries and memorable quotes from podcast episodes.
+
+When: After recording and transcribing a podcast episode.
+
+1. Update the Newsletter Template
+
+Modify the existing newsletter template to include a bullet-point summary of the podcast episode alongside the title and a call-to-action button.
+
+2. Register and Access ChatGPT
+
+Create an account and log in to ChatGPT.
+
+3. Prepare the Transcript
+
+Identify the podcast episode's details such as the host and guest names.
+
+4. Request a Summary
+
+Input the command in ChatGPT: "This is a transcript of podcast episode. [Host] is the host, [Guest] is the guest. Please write a summary as a bullet, at least with 10 items." Insert the actual transcript after a line of five dashes.
+
+5. Copy the Summary
+
+Once ChatGPT generates the summary, copy it and paste it into the updated newsletter template under the bulleted points section.
+
+6. Extract Memorable Quotes (Optional)
+
+To extract quotes from the transcript, input: "Write memorable quotes from the transcript." Review the quotes and select the most relevant ones for future use on platforms like Twitter.
+
+7. Finalize and Publish
+
+Review the newsletter content for accuracy and completeness before distributing it to your audience.

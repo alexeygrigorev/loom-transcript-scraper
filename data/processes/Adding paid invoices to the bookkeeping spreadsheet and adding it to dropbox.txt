@@ -1,0 +1,27 @@
+Adding Paid Invoices to the Bookkeeping Spreadsheet and Dropbox
+
+What: Recording paid invoices in the bookkeeping spreadsheet and saving them in Dropbox.
+
+Why: To ensure accurate financial records and easy access to invoices.
+
+When: Whenever an invoice is paid.
+
+1. Access the Invoice Document
+
+Open the invoice payment document. Locate the specific invoice you received. This is typically in PDF format, the same format sent to clients.
+
+2. Record the Payment Details
+
+Note the payment date and other relevant details from the invoice. Update the bookkeeping spreadsheet with this information, including the invoice date, payment date, and amount received.
+
+3. Save the Invoice to Dropbox
+
+Upload the corresponding PDF of the invoice to Dropbox for storage and easy retrieval.
+
+4. Confirm the Recording
+
+Ensure that the payment has been accurately recorded in the bookkeeping system to maintain proper financial tracking. 
+
+5. Monitor Notifications
+
+Keep an eye on notifications regarding any payments to confirm their receipt and address any discrepancies.

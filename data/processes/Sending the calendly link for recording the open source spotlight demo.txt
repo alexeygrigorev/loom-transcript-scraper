@@ -1,0 +1,15 @@
+Sending the calendly link for recording the open source spotlight demo
+
+What: Sending a Calendly link to schedule a demo.
+
+Why: To facilitate the scheduling of a demo recording for participants interested in the open source spotlight.
+
+When: When someone expresses interest in doing a demo.
+
+1. Respond to interest
+
+Acknowledge the individual's request to do a demo.
+
+2. Share Calendly link
+
+Send your Calendly link to the individual, allowing them to choose a convenient time for the demo recording.

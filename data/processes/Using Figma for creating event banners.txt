@@ -1,0 +1,35 @@
+Using Figma for Creating Event Banners
+
+What: Create event banners using Figma templates.
+
+Why: To standardize and streamline the process of designing event banners for clarity and consistency.
+
+When: Whenever an event banner needs to be created or updated.
+
+1. Access the Template
+
+Open Figma and locate the event banner template that will be used for the specific event.
+
+2. Update the Title
+
+Modify the title to reflect the event theme. Ensure the title is concise and relevant.
+
+3. Update Speaker Information
+
+Add the name of the speaker to the banner, replacing any previous placeholders.
+
+4. Change the Image
+
+Select the speaker's image placeholder and replace it with a new image from the GitHub repository or another designated location.
+
+5. Adjust the Design
+
+Ensure all elements are well-aligned and aesthetically pleasing. Center text and images as necessary for clarity.
+
+6. Save and Export
+
+Once all changes are made, save the design. Then, export the banner in the required format for distribution.
+
+7. Review for Accuracy
+
+Finally, verify that all the event details, including the title, speaker name, image, and date, are accurate before finalizing the banner.

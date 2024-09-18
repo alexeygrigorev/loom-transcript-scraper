@@ -1,0 +1,23 @@
+Adding Influencer Marketing Content to the CRM
+
+What: Adding influencer marketing content, specifically posts from influencers promoting events or companies, to the CRM system.
+
+Why: To keep a record of influencer partnerships and promotional content for future reference and analysis.
+
+When: Add content whenever an influencer promotes an event or company relevant to our business.
+
+1. Identify the Influencer and Content Source
+
+Locate the influencer's post that promotes the event or company. For example, if an influencer like Santiago is involved, ensure you note their name and the nature of the promotion.
+
+2. Gather Relevant Information
+
+Collect essential details such as the name of the event, the link to the influencer's social media post (e.g., a tweet), and the source type (e.g., influencer marketing).
+
+3. Input Information into the CRM
+
+Enter the gathered details into the CRM. Include the event name, link to the post, influencer's name, type of promotion (influencer marketing), and any additional comments necessary for future reference.
+
+4. Review and Confirm Entries
+
+Double-check the information entered for accuracy and relevance before finalizing the submission to the CRM.

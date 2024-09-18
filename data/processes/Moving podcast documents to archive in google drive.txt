@@ -1,0 +1,23 @@
+Moving Podcast Documents to Archive in Google Drive
+
+What: Move completed podcast documents to an archive folder in Google Drive.
+
+Why: To keep the active folder uncluttered and organized by separating past podcast episodes from upcoming projects.
+
+When: After all tasks related to the completed podcasts are finalized, typically on Fridays.
+
+1. Identify Completed Podcasts
+
+Locate the folder containing completed podcast episodes in Google Drive.
+
+2. Create Archive Folder (if not already existing)
+
+Ensure there is a dedicated archive folder for storing past podcasts.
+
+3. Move Documents
+
+Transfer the completed podcast documents from the active folder to the archive folder.
+
+4. Confirm Transfer
+
+Check that all documents have been successfully moved and are accessible in the archive folder.

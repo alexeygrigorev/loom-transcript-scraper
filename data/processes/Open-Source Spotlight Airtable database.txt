@@ -1,0 +1,46 @@
+Open-Source Spotlight Airtable Database
+
+What: Organize and transfer data related to open source projects into a new Airtable database.
+
+Why: To maintain an efficient record of open source projects, enabling better tracking and follow-up with project contacts.
+
+When: When new open source projects are identified, or as a regular update to ensure contact information and project statuses are current.
+
+1. Create a new Airtable table
+
+Set up an "Open Source Spotlight" table in Airtable, similar to existing database structures.
+
+2. Identify open source projects to transfer
+
+Review existing records and select open source projects that have not yet been recorded.
+
+3. Gather project details
+
+For each project, find relevant details such as the project name, GitHub URL, and contact person.
+
+4. Input data into the new table
+
+Enter the gathered project details into the new Airtable table, including:
+- Project name
+- GitHub URL
+- Status (e.g., New, In Progress, Done)
+- Last contact date
+
+5. Establish a status system
+
+Define the status system for project tracking:
+- New: Project identified but not yet contacted.
+- In Progress: Contact has been made, awaiting a response.
+- Done: Project has been recorded and completed.
+
+6. Transfer existing information
+
+Move the relevant project information from the old table to the new one, ensuring to delete records from the old table after transferring.
+
+7. Utilize Kanban view for status tracking
+
+Implement a Kanban view in Airtable to visualize project statuses, enabling easy updates as projects move through different stages.
+
+8. Follow up with contacts
+
+Regularly review the list of contacts for projects marked as "In Progress" or "New" and follow up as needed to engage them.

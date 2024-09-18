@@ -1,0 +1,39 @@
+Adding a Podcast Episode via Form
+
+What: Create a dedicated page for a podcast episode.
+
+Why: To provide listeners with direct access to the episode across various platforms and include a transcript for better accessibility.
+
+When: Immediately after a podcast episode goes live.
+
+1. Gather Episode Information
+
+Collect links for Apple Podcasts, Spotify, YouTube, and Anchor, as well as the transcript of the episode.
+
+2. Download the Transcript
+
+If the transcript is in Google Docs, download it as a .doc file. If it is already in .doc format, proceed to the next step.
+
+3. Attach the Transcript
+
+Locate the downloaded transcript in the downloads folder and attach it to the form.
+
+4. Get the Public Link for Anchor
+
+Access the Anchor platform, click on the three dots next to the episode, and copy the public link. Insert this link into the form.
+
+5. Link to the YouTube Video
+
+Find the YouTube video for the episode and copy the link. Only include the part following "v=" in the URL, excluding any additional parameters.
+
+6. Obtain Apple Podcasts Link
+
+Visit the podcast page, navigate to Apple Podcasts, and locate the specific episode. Copy the link and add it to the form.
+
+7. Copy Spotify Link
+
+Access the Spotify page for the podcast, find the episode, and copy the URL. Add this link into the form.
+
+8. Submit the Form
+
+Review all entries and submit the form to finalize the process, allowing for the generation of promotional materials.

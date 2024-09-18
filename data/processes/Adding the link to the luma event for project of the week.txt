@@ -1,0 +1,31 @@
+Adding the link to the Luma event for Project of the Week
+
+What: Add the link to the Luma event for the Project of the Week.
+
+Why: To ensure easy access to the event through a dedicated link.
+
+When: After receiving the Luma invitation and when the event is created.
+
+1. Accept the Luma invitation
+
+Check your email for the invitation link and accept it to gain editing access.
+
+2. Locate the project button
+
+Find the button related to the Project of the Week that requires the link.
+
+3. Edit the button
+
+Click the pencil icon to enter editing mode for the button.
+
+4. Update the link
+
+Replace the placeholder text with the new link for the Project of the Week.
+
+5. Verify the link
+
+After updating, click on the button to ensure it directs to the correct event page. 
+
+6. Create future events
+
+For subsequent events, create them in Luma and follow the same steps to add the link promptly.

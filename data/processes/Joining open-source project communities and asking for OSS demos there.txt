@@ -1,0 +1,31 @@
+Joining Open-Source Project Communities and Asking for OSS Demos There
+
+What: Engaging with open-source communities via platforms like Slack to request project demos.
+
+Why: To connect with potential contributors or speakers for the Open Source Spotlight playlist and enhance community engagement.
+
+When: When identifying a relevant open-source project and wanting to showcase it within the community.
+
+1. Identify the Open-Source Project
+
+Locate the GitHub repository for the project of interest, and check if there is an associated community platform, such as Slack.
+
+2. Join the Community
+
+Register for the community on Slack or the respective platform by following the registration process.
+
+3. Introduce Yourself
+
+Navigate to the introductions channel and post a short introduction about yourself and your organization. Mention your interest in collaborating with the open-source project.
+
+4. Request for Demos
+
+In your introduction, express your interest in featuring the project in an Open Source Spotlight. Include a link to your project or playlist to provide context.
+
+5. Await Responses
+
+Monitor the channel for reactions and responses from community members interested in participating in the demo.
+
+6. Follow Up
+
+If necessary, engage with interested members privately to coordinate details for the demo.

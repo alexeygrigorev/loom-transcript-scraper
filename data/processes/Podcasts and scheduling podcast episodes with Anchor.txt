@@ -1,0 +1,56 @@
+Podcast Scheduling Process with Anchor
+
+What: Scheduling podcast episodes using Anchor after the content has been created and edited.
+
+Why: To ensure timely publication of podcast episodes on platforms like Apple Podcasts, Spotify, and others, thereby reaching a wider audience while maintaining content quality through editing.
+
+When: This process is typically conducted on Fridays after the podcast episode has been edited.
+
+1. Event Scheduling
+
+- The podcast episode is scheduled for a live stream, usually on a Friday. 
+
+2. Content Creation
+
+- The podcast is recorded and streamed live.
+
+3. Transcription
+
+- Send the recorded video to a freelancer for transcription.
+
+4. Document Preparation
+
+- Upon receiving the transcription, format it for the website, extracting necessary quotes and timestamps for every significant section.
+
+5. Organizing Files
+
+- Create a folder in Dropbox with the event's date and upload the transcribed document for editors to access.
+
+6. Edit Audio
+
+- Editors access the audio from the Dropbox folder to finalize the episode.
+
+7. Extract Quotes and Timestamps
+
+- Use a script to extract key quotes and timestamps from the transcription for website and video integration.
+
+8. Update YouTube Video
+
+- Add timestamped quotes to the existing YouTube video by editing the video description.
+
+9. Uploading to Anchor
+
+- Log in to Anchor and select "New Episode."
+- Upload the edited audio file, enter the episode's title, and add a brief summary and relevant links.
+
+10. Finalize Episode Details
+
+- Set the publication date to the upcoming Friday and adjust the time to 7:00 PM Central European Time.
+
+11. Schedule Publication
+
+- Confirm the episode details and schedule the publication in Anchor.
+
+12. Post-Publication
+
+- After scheduling, create a podcast page, if necessary, to provide additional technical details related to the episode.

@@ -1,0 +1,31 @@
+Tool for Podcast Transcript Editing
+
+What: Editing podcast transcripts using automated tools and ChargeBT.
+
+Why: Reduces reliance on freelancers, streamlines the transcription process, and enhances the quality of transcripts.
+
+When: Whenever a podcast episode needs transcription and editing.
+
+1. Submit a Transcription Job
+
+Access the GitHub repository and navigate to "Actions". Select "Submit Transcribe Job", run the workflow, and input the video ID after 'v'. Click "Run". 
+
+2. Check the Status of Transcription
+
+After submission, wait for 10-20 minutes for the transcription to process automatically. If the automated process doesn’t run, manually initiate "Check Transcribe Jobs" to verify the status of the transcription.
+
+3. Retrieve the Transcription File
+
+Once the job completes, locate the transcription file created in the jobs directory. This file should be named according to the podcast episode ID.
+
+4. Edit the Transcription with ChargeBT
+
+Open ChargeBT and create a new chat. Using placeholders, input the guest's name and paste the entire raw transcript. Run the editing process, which may take some time depending on the length of the transcript.
+
+5. Save and Format the Edited Transcript
+
+Once the editing is complete, create a new file for the transcript. Copy the edited text into this file, removing any unnecessary sections (e.g., the intro). Format the transcript as needed, adding chapter titles if necessary.
+
+6. Finalize and Archive the Transcript
+
+Save the finalized transcript file. The original job information and JSON files will be removed from the jobs directory after processing. Make sure to archive the transcript in the appropriate format for future use.

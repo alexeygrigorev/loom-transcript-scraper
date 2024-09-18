@@ -1,0 +1,29 @@
+Adding Organic Content to the Sponsorship CRM
+
+What: Update the sponsorship CRM to include both sponsored and organic content.
+
+Why: To ensure we capture all relevant content types for potential sponsorship opportunities, including organic content.
+
+When: When identifying content for sponsorship outreach.
+
+1. Modify Content Type
+
+Change the label from "Sponsored Content" to "Content" to encompass both sponsored and organic materials.
+
+2. Add New Entries
+
+For events like Snowflake's conference, input the event details in the CRM, including:
+- Name: Snowflake Data Cloud Summit
+- Content Type: Conference
+- Source: Organic (if using their own newsletter for promotion)
+- Relevance: Medium
+- Company: Snowflake
+- Date: November
+
+3. Identify Key Contacts
+
+Since there are no existing contacts from Snowflake in the CRM, research and add relevant contacts for outreach to discuss potential sponsorship for their events.
+
+4. Clarify Content Selection Criteria
+
+Document the criteria for determining content type and source. Specify that "Organic" is applicable for self-produced content, such as their own newsletter.

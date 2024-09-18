@@ -1,0 +1,23 @@
+Don't add linebreaks to process docs (and if you really want, we can use pageless setup).
+
+What: Adjust document formatting to avoid line breaks.
+
+Why: To ensure the document appears cohesive and prevents unnecessary breaks that may disrupt readability.
+
+When: Apply this formatting process when preparing documents for presentation or distribution.
+
+1. Access file settings.
+
+Go to the "File" menu in your document editor.
+
+2. Select pageless setup.
+
+Choose the option for "pageless" or "single page" layout to prevent line breaks.
+
+3. Review formatting. 
+
+Ensure images and content are properly aligned and do not create unintended line breaks. 
+
+4. Save changes.
+
+Finalize and save the document in the new format for sharing or printing.

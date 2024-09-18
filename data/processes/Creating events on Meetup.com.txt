@@ -1,0 +1,36 @@
+Creating Events on Meetup.com
+
+What: Creating events on Meetup.com manually.
+
+Why: The integration with Mail Meetup is no longer functional, requiring manual creation of events.
+
+When: Whenever a new event needs to be scheduled.
+
+1. Create a New Event
+
+Access the Meetup.com platform and initiate the creation of a new event.
+
+2. Input Event Details
+
+- Enter the event name and title.
+- Set the date and time (e.g., Tuesday at 7:00 PM GMT+1).
+
+3. Upload an Image
+
+Select and upload an appropriate photo for the event.
+
+4. Write a Description
+
+Format the event description using bullet points to clarify details and include relevant information, such as links to your YouTube channel.
+
+5. Set Event Type
+
+Designate the event as an online event and link it to your YouTube channel.
+
+6. Publish the Event
+
+Review the event details, ensuring the title, time, image, and description are accurate, then publish the event.
+
+7. Announce the Event
+
+Confirm if you want to announce the event after publishing to notify potential participants.

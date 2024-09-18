@@ -1,0 +1,35 @@
+Creating a Newsletter Issue - Template That We Will Populate During the Week
+
+What: Creation of a newsletter issue template from existing drafts for weekly updates.
+
+Why: To streamline the process of preparing and populating the newsletter with relevant content on a weekly basis.
+
+When: This process should be executed at the start of each week.
+
+1. Duplicate Existing Draft
+
+Access the existing draft of the newsletter. Duplicate it to create a new template for the upcoming week.
+
+2. Set the Date
+
+Change the date on the new template to reflect the upcoming week's date.
+
+3. Assess Upcoming Events
+
+Check the calendar for any events planned for the following week. Populate the "events" section of the template with this information. 
+
+4. Update Podcast Information
+
+Include any latest podcast releases or information available. If the latest podcast is not yet released, leave a placeholder and update later.
+
+5. Modify the "Book of the Week"
+
+Edit the "Book of the Week" section as necessary. This should be updated weekly to reflect new recommendations or changes.
+
+6. Save Changes
+
+Ensure that all modifications are saved in the template. Avoid sending out the incomplete newsletter at this stage.
+
+7. Weekly Population
+
+Throughout the week, return to the template to add and edit content as new information becomes available, ensuring the newsletter is comprehensive and up-to-date.

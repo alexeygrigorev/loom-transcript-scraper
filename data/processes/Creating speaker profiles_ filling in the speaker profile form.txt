@@ -1,0 +1,40 @@
+Creating Speaker Profiles: Filling in the Speaker Profile Form
+
+What: Add authors and other individuals to the speaker profile database.
+
+Why: This process helps ensure that accurate and complete information about speakers, particularly authors, is collected and made available on the website.
+
+When: Complete the form whenever a new author or speaker is to be added to the database.
+
+1. Access the Form
+
+Use the provided link to open the speaker profile form.
+
+2. Enter Personal Information
+
+Input the following details:
+- Email (to uniquely identify the person)
+- Full Name
+- Author bio or description (copy from the author's book page if available)
+
+3. Upload Profile Pictures
+
+Choose one of the following methods:
+- Copy the image link from the author's LinkedIn profile.
+- Upload a picture directly from your device.
+
+4. Collect Social Media Links
+
+Gather the following links:
+- LinkedIn profile
+- Twitter handle
+- Personal website (if available)
+If unable to find specific links, ask the author directly or leave the fields empty.
+
+5. Submit the Form
+
+Once all the required information is entered, submit the form to finalize the addition of the speaker profile. 
+
+6. Check Submission Status
+
+After submission, the information will be visible in the admin view with a pending status until it is processed.

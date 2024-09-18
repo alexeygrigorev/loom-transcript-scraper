@@ -1,0 +1,27 @@
+When LinkedIn Picture Has the Hiring Stripe
+
+What: Replace LinkedIn profile picture with a clean image free of the hiring stripe.
+
+Why: To ensure a professional appearance on the website by avoiding LinkedIn's hiring stripe overlay.
+
+When: When you need to update a profile picture taken from LinkedIn that contains an unwanted hiring stripe.
+
+1. Search for a Clean Image
+
+Open Google and search for the individual's name to find an alternate image that doesn’t have the hiring stripe.
+
+2. Verify the Image
+
+Compare the selected image with the one from LinkedIn to ensure they are similar enough to maintain consistency.
+
+3. Resize the Image
+
+If necessary, adjust the dimensions of the selected image to create a square format, ensuring it fits the website's requirements.
+
+4. Upload the Image
+
+Replace the LinkedIn image on the website with the newly obtained and adjusted image. 
+
+5. Review the Final Appearance
+
+Check the website to confirm that the new image displays correctly and maintains a professional look.

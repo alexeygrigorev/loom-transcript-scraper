@@ -1,0 +1,11 @@
+Title: Format for Links in Videos
+
+What: Proper formatting for links in videos.
+
+Why: Ensures that links are clear and functional for viewers.
+
+When: During the video production process before finalizing content.
+
+1. Use the standard link format.
+
+Ensure that all links in the video adhere to the specified format for clarity and effectiveness.

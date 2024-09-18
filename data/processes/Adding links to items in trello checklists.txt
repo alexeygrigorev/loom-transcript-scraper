@@ -1,0 +1,28 @@
+Adding Links to Items in Trello Checklists
+
+What: Adding hyperlinks to items in Trello checklists to streamline access to related documents and forms.
+
+Why: To facilitate quick access to important resources directly from the checklist, enhancing workflow efficiency.
+
+When: Whenever links need to be added to Trello checklists, especially during checklist creation or updates.
+
+1. Identify the item in the checklist
+
+Locate the specific checklist item to which you want to add a link.
+
+2. Use the markdown syntax to create the link
+
+Begin with brackets for the link text, followed by parentheses containing the actual URL. For example:  
+[Link Text](http://example.com).
+
+3. Confirm the hyperlink functionality
+
+After adding the link, click on it to ensure it directs you to the correct page. 
+
+4. Apply this process to all relevant checklist items
+
+Repeat the steps for every checklist item that requires a link, ensuring all necessary resources are easily accessible. 
+
+5. Update the status in related spreadsheets 
+
+If applicable, update any related documents or spreadsheets to reflect the new links, such as confirming changes in a schedule spreadsheet.

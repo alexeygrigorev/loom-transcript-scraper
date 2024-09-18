@@ -1,0 +1,19 @@
+Adding Videos from Other Channels to Our Playlist
+
+What: Adding videos from channels other than ours to the Data Engineering Zoom Cam playlist.
+
+Why: To enrich our playlist with relevant content, ensuring a comprehensive resource for our audience.
+
+When: Whenever a suitable video from an external channel is identified for inclusion in the playlist.
+
+1. Click “Save”
+
+Select the option to save the video.
+
+2. Select Playlist
+
+Choose the "Data Engineering Zoom Cam" playlist from the list.
+
+3. Organize Location
+
+Place the video in the appropriate location as per existing guidelines.

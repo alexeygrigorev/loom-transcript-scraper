@@ -1,0 +1,31 @@
+Providing More Information About Events
+
+What: A process for providing detailed information about events, particularly podcast participation.
+
+Why: To clarify event details for interested parties and streamline communication.
+
+When: When someone requests more information about an event.
+
+1. Reach Out to Interested Parties
+
+Contact the person expressing interest, such as a potential podcast guest, and confirm their willingness to participate.
+
+2. Prepare an Informative Document
+
+Create a document outlining the details of the event, including relevant programs (e.g., ProQuest). Store this document in a shared folder for easy access.
+
+3. Generate Shareable Link
+
+Access the document, go to the "File" menu, and publish it to obtain a shareable link. 
+
+4. Send Information
+
+Email the shareable link to the interested party. Ensure to provide specific details relevant to their inquiry, such as podcast information.
+
+5. Collect Additional Information
+
+Request the person’s email address for further communication and clarification. 
+
+6. Update Document as Necessary
+
+If further details are needed or changes occur, update the existing document and ensure all team members have access to the latest version.

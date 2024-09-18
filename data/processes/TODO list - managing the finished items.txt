@@ -1,0 +1,15 @@
+Managing Finished Items in a To-Do List
+
+What: Organizing completed tasks in a to-do list.
+
+Why: To enhance clarity by separating completed tasks from pending ones, reducing confusion and streamlining script management.
+
+When: Perform this process after completing a task or at the end of a work session.
+
+1. Move Completed Tasks
+
+Drag and drop completed items to the designated section for finished tasks.
+
+2. Organize Remaining Tasks
+
+Ensure all incomplete items remain in the active task area for easy access.

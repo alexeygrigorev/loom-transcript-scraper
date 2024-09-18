@@ -1,0 +1,31 @@
+Reaching out to open-source spotlight guests
+
+What: Identify and contact authors of open-source libraries for participation in the Open Source Spotlight.
+
+Why: Engaging with contributors enhances visibility of their work and promotes collaborative learning within the open-source community.
+
+When: Whenever there is a need to feature new open-source projects or authors in the spotlight.
+
+1. Identify Contributors
+
+Navigate to the open-source library repository and access the contributors tab to view a list of contributors.
+
+2. Gather Contact Information
+
+Select a contributor and check for available contact information, such as an email address or a personal website. If not found, proceed to the next contributor until suitable information is obtained.
+
+3. Initiate Contact
+
+Draft a message inviting the contributor to present a demo about their project. 
+
+4. Personalize the Invitation
+
+Incorporate specific details about the contributor's work and how it relates to the open-source spotlight. Include links to relevant resources or their work. 
+
+5. Send the Invitation 
+
+Choose an appropriate platform (email, LinkedIn) to send the invitation to the contributor. 
+
+6. Follow Up 
+
+If there’s no response within a reasonable timeframe, send a follow-up message to ensure it was received.

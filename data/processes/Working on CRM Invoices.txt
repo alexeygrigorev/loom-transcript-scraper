@@ -1,0 +1,44 @@
+Working on CRM Invoices
+
+What: Manage and track invoices within the CRM system.
+
+Why: To ensure timely follow-up on payments and maintain organized records of invoices, reducing confusion and oversight.
+
+When: When invoices are issued, updated, or need to be tracked for payment status.
+
+1. Create a Table for Invoices
+
+Set up a dedicated table in the CRM for tracking invoices. Each entry should include:
+- Invoice number
+- Deal name and installment details
+- Date sent (date the invoice was emailed)
+- Due date (one month after the invoice date)
+- Payment status (e.g., created, sent, paid)
+- Link to the associated deal in the CRM
+
+2. Input Invoice Details
+
+For each invoice:
+- Enter the invoice number.
+- Include a note describing the invoice (if necessary).
+- Specify the date sent and due date.
+- Update the status based on the current state of the invoice.
+- Link the invoice to the relevant deal record.
+
+3. Handle Payment Tracking
+
+After an invoice is paid:
+- Update the payment status to reflect that it's been paid.
+- Record the actual date paid for tracking purposes.
+
+4. Duplicate Invoices as Needed
+
+When multiple installments are required for a deal:
+- Create duplicate entries for each installment.
+- Update installment details accordingly.
+
+5. Review and Update Records Regularly
+
+Consistently check all invoices and deals:
+- Ensure the table is filled out completely, focusing on records from the current year.
+- Adjust any necessary details or statuses as required.

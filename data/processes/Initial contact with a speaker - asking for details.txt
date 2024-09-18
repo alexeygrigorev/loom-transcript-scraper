@@ -1,0 +1,37 @@
+Initial contact with a speaker - asking for details
+
+What: Initial communication with a speaker to gather details for an upcoming event.
+
+Why: To ensure all necessary information is collected for event promotion and organization.
+
+When: Upon a speaker expressing interest in giving a talk.
+
+1. Reach Out to the Speaker
+
+The speaker reaches out with a proposed topic. Confirm the topic and the format of the event (e.g., webinar).
+
+2. Propose Event Details
+
+Suggest potential dates for the event and confirm the speaker’s availability.
+
+3. Request Required Information
+
+Ask the speaker for necessary details including:
+
+- Full name
+- Email address
+- Event title (if needed, suggest changes)
+- A short subtitle for the event
+- A brief outline or description of the talk
+
+4. Collect and Organize Information
+
+Ensure that the speaker provides all requested information and clarify any missing elements. 
+
+5. Input Details into the Event Management System
+
+Enter the gathered information into Eventbrite or any designated platform to create the event page.
+
+6. Communicate Next Steps
+
+Inform the speaker about the next steps in the process, including any forms they may need to fill out later for additional details.

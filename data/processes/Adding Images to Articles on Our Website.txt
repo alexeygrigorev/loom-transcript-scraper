@@ -1,0 +1,51 @@
+Adding Images to Articles on Our Website
+
+What: Adding images to blog articles on the company website using GitHub.
+
+Why: To enhance the visual appeal and convey information more effectively in blog articles.
+
+When: When a new image needs to be included in an article or when an existing image needs to be updated.
+
+1. Navigate to the GitHub repository
+
+Access the repository for your website (e.g., Datatalks) on GitHub. Locate the 'posts' directory containing all blog articles.
+
+2. Select the article to modify
+
+Find the specific article to which you wish to add an image and click on the 'Edit' button.
+
+3. Upload the image
+
+Go to the 'images' folder within the article's directory. Rename the image you want to upload appropriately. Use the 'Add file' option to upload the image by either dragging it into the upload box or by selecting it through the file chooser.
+
+4. Commit the changes
+
+After uploading the image, commit the changes to save them. Return to the article to edit the file where the image will be inserted.
+
+5. Insert the image into the article
+
+In the article's edit window, specify the path to the image based on the format of existing images. Copy and paste the appropriate image syntax, ensuring the filename matches the one you uploaded.
+
+6. Add a caption
+
+Include a title or caption for the image under the figure if it enhances understanding, replicating the style used in other articles.
+
+7. Commit changes to the article
+
+Commit the changes to the article. This will be your second commit: the first was for the image upload.
+
+8. Monitor the build process
+
+Refresh the GitHub Actions page to monitor the deployment status. Wait until it shows a checkmark, indicating that the changes are being applied.
+
+9. Verify the update
+
+Use Ctrl + F5 to refresh the website and view the updated article with the newly added image.
+
+10. Replace an existing image (if necessary)
+
+To replace an existing image, upload a new version (e.g., course overview v2) and update the image path in the article accordingly. If needed, locate the option to delete the old image from the GitHub interface.
+
+11. Share updates with relevant team members
+
+Once the image is added or replaced, ensure that the process document is shared with necessary stakeholders, such as Valeria.

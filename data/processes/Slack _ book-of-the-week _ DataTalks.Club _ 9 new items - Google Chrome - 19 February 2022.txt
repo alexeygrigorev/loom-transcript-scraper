@@ -1,0 +1,31 @@
+Book of the Week Winner Announcement Process
+
+What: Announce winners of the Book of the Week and collect their email addresses.
+
+Why: To recognize authors and facilitate the distribution of prizes efficiently.
+
+When: The process is initiated by 10 AM on Fridays.
+
+1. Contact the Author
+
+Reach out to the author(s) before announcing the winners, inquiring whether they would like to select the winners themselves or prefer a random selection.
+
+2. Announce the Winners
+
+Once the winners are decided, publicly announce their names.
+
+3. Request Emails
+
+Instruct the winners to send their email addresses via text message for prize distribution.
+
+4. Log the Emails
+
+Collect the emails in a designated spreadsheet, ensuring to only include the names without their handles.
+
+5. Verify Previous Winners
+
+Check against previous emails to confirm if any of the winners have won before and used the same email address.
+
+6. Send Emails to Author/Publisher
+
+Once all email addresses are collected, compile them and send to the respective author or publisher for further action.

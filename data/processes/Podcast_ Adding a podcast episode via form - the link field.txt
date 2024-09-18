@@ -1,0 +1,23 @@
+Adding a Podcast Episode via Form - The Link Field
+
+What: Gather and format links for a podcast episode submission.
+
+Why: To ensure consistent and easily parseable information across all platforms.
+
+When: Whenever adding a new podcast episode.
+
+1. Access the YouTube video.
+
+Copy the existing links associated with the video.
+
+2. Open the submission form.
+
+Paste the copied links into the designated link field in the form.
+
+3. Format the links for clarity.
+
+Each link entry should include the title of the link, the site, and the actual URL. Ensure there’s a line break between different links.
+
+4. Review the entries.
+
+Confirm that all links match and follow the specified format before submission.

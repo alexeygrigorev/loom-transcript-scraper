@@ -1,0 +1,27 @@
+Invoice Discount Explanation
+
+What: Specifying discounts on invoices
+
+Why: To clearly communicate discounts applied for large quantities and enhance invoice clarity.
+
+When: Whenever creating invoices that involve discounts.
+
+1. Create a new invoice document.
+
+Start by selecting the option to create a new invoice within the invoicing system.
+
+2. Enter the product description.
+
+For example, specify "newsletter" or "6 emails."
+
+3. Input the regular price.
+
+Set the usual price for the product being invoiced.
+
+4. Add a discount.
+
+Clearly indicate the discount amount being applied. For instance, if the standard price is 100, enter the discount corresponding to the quantity being billed, ensuring it is evident to the client.
+
+5. Clearly display the discount on the invoice.
+
+Ensure that the invoice explicitly reflects the discount, showing that it is being offered for the large quantity. This transparency helps prevent confusion and presents clear pricing to the client.

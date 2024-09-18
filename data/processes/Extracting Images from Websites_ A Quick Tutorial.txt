@@ -1,0 +1,31 @@
+Extracting Images from Websites: A Quick Tutorial
+
+What: Extract images from a specific website using browser inspection tools.
+
+Why: To easily obtain image previews for use in other applications or projects.
+
+When: Use this method whenever a preview image is needed from a webpage.
+
+1. Access the Website
+
+Navigate to the webpage containing the image you want to extract.
+
+2. Open Inspect Tool
+
+Right-click on the page and select "Inspect" to open the browser’s developer tools.
+
+3. Locate the Image Metadata
+
+In the developer tools, find the `<head>` section of the HTML code. Look for a tag that includes `meta name="image" property` or similar attributes.
+
+4. Extract Image URL
+
+Double-click on the content of the image metadata tag to copy the image link.
+
+5. Adjust Image Size (Optional)
+
+If necessary, modify the dimensions in the extracted URL by changing the width and height parameters to your desired size.
+
+6. Use the Image
+
+Paste the extracted URL into the desired application or project to utilize the image.

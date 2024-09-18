@@ -1,0 +1,27 @@
+Adding Links to Podcast Docs to the Schedule Spreadsheet
+
+What: Add links to podcast documents in the schedule spreadsheet for easier access.
+
+Why: To streamline locating documents related to the podcast, improving efficiency.
+
+When: Whenever a new podcast document is created.
+
+1. Open the Schedule Document
+
+Navigate to the schedule document where you want to add the podcast document link.
+
+2. Insert Link
+
+Click on the “Insert Link” option. If prompted, use the suggestions to locate the podcast document. If suggestions do not appear, manually find the document.
+
+3. Apply the Link
+
+Select the correct document link and apply it to ensure it is accessible within the schedule.
+
+4. Repeat for Other Documents
+
+While it may seem easy, if required, repeat the process for other team members or documents as necessary.
+
+5. Link in Data Docs
+
+After creating a podcast document, ensure to link it in the associated data document as part of the workflow.

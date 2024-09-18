@@ -1,0 +1,25 @@
+Adding Multiple People to an Event
+
+What: Adding multiple authors to an event in events.yaml
+
+Why: To allow collaboration by associating more than one author with an event.
+
+When: When creating or editing an event and needing to include multiple authors.
+
+1. Access the events.yaml
+
+Open the events.yaml file where the event records are stored.
+
+2. Edit the Event Record
+
+Find the event you want to edit and click the edit option. 
+
+3. Add Additional Author
+
+In the author field, add the name of the second person alongside the first author.
+
+4. Commit Changes
+
+Save the modifications by committing the changes to the events.yaml file. 
+
+This process enables the addition of multiple authors to an event efficiently.

@@ -1,0 +1,31 @@
+Airtable: Removing Errors and Typos from Single Select Fields
+
+What: Removing incorrect options from a single select field in Airtable.
+
+Why: To maintain data accuracy and relevance in database fields.
+
+When: When incorrect or irrelevant options are identified in a single select field.
+
+1. Navigate to the relevant field
+
+Access the field in Airtable that contains the erroneous options.
+
+2. Customize field type
+
+Select the "Customize field type" option to edit the field settings.
+
+3. Review existing options
+
+Review the current options presented in the field. Identify any typos or irrelevant entries that need removal.
+
+4. Remove incorrect options
+
+Select the incorrect options (e.g., typos) and remove them from the list.
+
+5. Convert and confirm changes
+
+Confirm the changes. Note that data may be lost due to the removal of options.
+
+6. Verify updates
+
+Check that the remaining options are accurate, ensuring the desired selections are available (e.g., “medium”).

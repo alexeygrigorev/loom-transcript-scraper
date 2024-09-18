@@ -1,0 +1,30 @@
+Open-Source Spotlight Calendar Link
+
+What: Accessing and utilizing the Open-Source Spotlight calendar.
+
+Why: To efficiently track and participate in Open-Source Spotlight presentations, ensuring all relevant information is easily accessible.
+
+When: When you receive an email notification about an upcoming Open-Source Spotlight event.
+
+1. Receive the Email Notification
+
+Check your email for notifications regarding Open-Source Spotlight events. The email will include details such as the presenter, date, and time of the event.
+
+2. Access the Calendar
+
+Utilize the provided calendar link to access the Open-Source Spotlight calendar. 
+
+3. Review Event Details
+
+In the calendar, review the following:
+   - Title of the presentation (e.g., "Demo of this stack, open-source spotlight").
+   - Presenter's name and email for any inquiries.
+   - Related GitHub link and project name.
+
+4. Prepare for the Event
+
+Make a note of the event date and time. Use the information from the calendar to prepare any necessary questions or topics you wish to discuss with the presenter. 
+
+5. Follow Up
+
+If needed, contact the presenter via email using the provided details for any further information or clarifications.

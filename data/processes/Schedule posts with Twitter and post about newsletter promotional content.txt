@@ -1,0 +1,33 @@
+Schedule Posts with Twitter for Newsletter Promotional Content
+
+What: Schedule promotional posts on Twitter using Hootsuite.
+
+Why: To effectively promote newsletter content without incurring costs associated with premium plans.
+
+When: Schedule posts in advance for optimal visibility and engagement.
+
+1. Connect Hootsuite to Twitter
+
+Ensure Hootsuite is linked to your Twitter account under the free plan.
+
+2. Create your post
+
+- Input a suitable title for the post.
+- Write a concise description, ensuring it’s engaging and appropriate.
+- Incorporate relevant emojis to enhance visual appeal while minimizing text.
+
+3. Insert links
+
+Add links relevant to the promotional content.
+
+4. Schedule the post
+
+Select the desired date and time for posting, typically aiming for peak engagement times (e.g., 3 PM or 4 PM). Schedule for a few days in advance as needed.
+
+5. Review with a team member
+
+If needed, consult with a team member to ensure the content aligns with overall communication strategies before finalizing the schedule. 
+
+6. Confirm the schedule
+
+Click the confirm button to finalize the scheduling of the post.

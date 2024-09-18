@@ -1,0 +1,19 @@
+Updating Dates of the Events on the Website
+
+What: Change the date of events displayed on the website.
+
+Why: Keeping event dates current ensures accurate information for users.
+
+When: Update event dates as soon as changes are confirmed.
+
+1. Access Event Data
+
+Navigate to the 'Data' section and select 'Events.'
+
+2. Edit Event Date
+
+Click on the 'Edit' button for the desired event and input the new date. 
+
+3. Save Changes
+
+Confirm the update to ensure the changes reflect on the website.

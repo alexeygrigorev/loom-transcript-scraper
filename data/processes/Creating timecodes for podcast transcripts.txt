@@ -1,0 +1,31 @@
+Creating Timecodes for Podcast Transcripts
+
+What: Creating timecodes and titles for podcast transcripts.
+
+Why: To provide clear timestamps and titles for podcast segments, making it easier for listeners to navigate the content.
+
+When: This process should be executed after a podcast episode is transcribed.
+
+1. Prepare the Transcript
+
+Update the transcript as needed and take screenshots of any relevant changes.
+
+2. Set Up the Prompt
+
+Copy the updated prompt for generating titles and corrections from the appropriate section.
+
+3. Generate Titles
+
+Paste the prompt into ChatGPT and enter the transcript to obtain titles and timecodes. Adjust the prompt as necessary to avoid overly granular results.
+
+4. Format the Transcription
+
+For each timestamp in the transcript, add the corresponding title. Remove unnecessary line breaks for clarity.
+
+5. Download the Document
+
+Once all titles are added, download the formatted transcript as a Microsoft Word document.
+
+6. Review and Tweak
+
+Review the document for any final adjustments or improvements, including refining the prompt for future use.

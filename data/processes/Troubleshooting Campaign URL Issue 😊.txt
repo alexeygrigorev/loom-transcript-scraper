@@ -1,0 +1,31 @@
+Troubleshooting Campaign URL Issue
+
+What: Identify and rectify incorrect URLs in email campaigns.
+
+Why: To ensure that all links in email campaigns are functional and lead to the correct destinations, enhancing user experience and engagement.
+
+When: Perform this check whenever a campaign with questionable URLs is identified or after any campaign is created or modified.
+
+1. Access Campaigns
+
+Navigate to MailChimp and go to the "All Campaigns" section.
+
+2. Locate the Campaign
+
+Identify the specific campaign by the date or name. For example, locate the campaign from March 4th.
+
+3. Review Campaign Details
+
+Click on the campaign to open its details and check the associated URLs for correctness.
+
+4. Update Incorrect URLs
+
+If any URL is incorrect, update the link directly in the campaign details section.
+
+5. Verify All Campaign Links
+
+Systematically review each campaign for proper link functionality, making necessary updates as identified.
+
+6. Document the Process
+
+Create a process document to track potential URL issues and ensure regular audits of campaign links.

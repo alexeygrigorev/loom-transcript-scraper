@@ -1,0 +1,35 @@
+Processing People Who Are Already on the Website
+
+What: Manually map existing users' emails to their records in the database.
+
+Why: To ensure accurate mapping of emails to users already present on the website, preventing duplicate entries and maintaining data integrity.
+
+When: When a user is confirmed to be on the website but lacks a corresponding email mapping in the database.
+
+1. Verify User Existence
+
+Check the Data Docs to confirm if the user is already listed on the website to avoid redundancy.
+
+2. Access the Email Mapping
+
+Navigate to the appropriate section in Data Talks Club, accessing the scripts and hashes where stored records are located.
+
+3. Encrypt the Email
+
+Use an encryption tool (e.g., sha1-online.com) to convert the user’s email into a hashed format. Ensure there are no leading or trailing spaces and that all letters are in lowercase.
+
+4. Update Mapping Record
+
+Edit the respective record in the database to include the newly hashed email. Ensure an empty line is added at the end of the record to maintain format.
+
+5. Mark User as Edited
+
+Go to Airtable and mark the user’s status as edited to prevent the system from trying to process them again.
+
+6. Update Additional Information (if needed)
+
+If applicable, check and update any additional user information, such as their Twitter handle, to keep records consistent.
+
+7. Generate Events
+
+Finally, generate events for the newly mapped emails to ensure they can interact with the system correctly.

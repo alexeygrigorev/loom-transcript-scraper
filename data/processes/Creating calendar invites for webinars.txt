@@ -1,0 +1,29 @@
+Creating Calendar Invites for Webinars
+
+What: Sending calendar invites to speakers for webinars.
+
+Why: To confirm the date and ensure speakers have the necessary information for their presentations.
+
+When: After agreeing on a date with the speaker, even if the topic is not yet finalized.
+
+1. Confirm the Date
+
+Ensure the date for the webinar is agreed upon with the speaker. For instance, March 15 can be established as the date for the webinar.
+
+2. Access Calendar Invite Options
+
+Go to your calendar application and select the option to create a new event. Make sure to explore additional settings by clicking “More options” if needed.
+
+3. Fill in Event Details
+
+Input the essential information:
+- Add the date and time for the webinar.
+- Include any relevant content for the invite, such as a reminder for the speaker about the webinar format (e.g., mention that this invite is for a webinar).
+
+4. Send the Invite
+
+Input the speaker’s email address, review all details, and send the calendar invite to formally secure the date on their calendar. 
+
+5. Follow Up if Necessary
+
+If the topic or outline is not yet confirmed, it’s acceptable to send the invite to block the date while awaiting the final details from the speaker.

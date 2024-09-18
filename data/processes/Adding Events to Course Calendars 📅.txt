@@ -1,0 +1,29 @@
+Adding Events to Course Calendars
+
+What: Add course events to dedicated course calendars.
+
+Why: To notify course participants of upcoming events and maintain organized communication.
+
+When: As soon as the event details are finalized.
+
+1. Identify the Event
+
+Determine the key details of the event, such as the title, date, and description. 
+
+2. Select the Appropriate Calendar
+
+For the selected event, choose the corresponding course calendar (e.g., Machine Learning Zoom Camp).
+
+3. Create the Event
+
+Input the event title, location (e.g., YouTube link), and description. 
+
+4. Review the Details
+
+Ensure all information is accurate, especially the calendar selection and event timing.
+
+5. Publish the Event
+
+Finalize the entry on the calendar to make it visible to subscribers. 
+
+By following these steps, course events will be effectively added to the appropriate calendars for participant awareness.

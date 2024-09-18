@@ -1,0 +1,23 @@
+Slot with articles on the newsletter
+
+What: Updating the article section in the newsletter
+
+Why: To ensure only new articles are included, maintaining relevance and freshness.
+
+When: After reviewing the current content before sending the newsletter.
+
+1. Review existing articles
+
+Check if there are any new articles since the last newsletter.
+
+2. Verify previous content
+
+Cross-reference with the previous newsletter edition to identify previously included articles.
+
+3. Delete old articles
+
+Remove any articles that are not new or have already been featured.
+
+4. Insert new articles
+
+If available, add the latest articles to the newsletter. If not, leave the section empty.

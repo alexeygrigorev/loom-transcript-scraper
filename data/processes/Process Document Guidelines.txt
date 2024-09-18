@@ -1,0 +1,38 @@
+Title
+
+What: Process Document Guidelines
+
+Why: To establish clear and concise guidelines for creating effective process documents.
+
+When: When new process documents are needed or existing documents require updates.
+
+1. Introduction to Process Documents
+
+Define the purpose and importance of process documents to ensure consistency and clarity across documentation.
+
+2. Structure of the Process Document 
+
+Outline the required elements to include in each process document:
+- Context (What, Why, When)
+- Detailed steps in a logical order
+- Any necessary links or resources
+
+3. Template Development 
+
+Create a single, centralized template for process documents to maintain uniformity. Ensure this template is pageless and easy to use.
+
+4. Examples and Guidelines
+
+Provide examples of what constitutes a good process document. Include necessary descriptions and categories for reference.
+
+5. Documentation Best Practices 
+
+Remind users to scan for redundancy and strive for conciseness. Emphasize the importance of taking fresh screenshots from the actual system when needed.
+
+6. Indexing Process Documents 
+
+Ensure all process documents are indexed properly for easy access. Regularly review the index for completeness.
+
+7. Review and Iteration 
+
+Encourage ongoing review and updating of documents based on feedback and changing needs. Make iterative improvements to enhance clarity and effectiveness.

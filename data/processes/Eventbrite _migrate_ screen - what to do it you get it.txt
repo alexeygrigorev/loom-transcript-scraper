@@ -1,0 +1,27 @@
+Eventbrite: What to Do If You Encounter a Migration Issue
+
+What: Resolving migration issues on Eventbrite.
+
+Why: To ensure smooth migration of event details and avoid disruptions.
+
+When: When encountering migration errors during the event setup process.
+
+1. Identify the Issue
+
+Check if the migration screen appears during the event setup.
+
+2. Click "Get Started"
+
+If you receive an error message, click the "Get Started" button to initiate troubleshooting.
+
+3. Save Changes
+
+Make necessary edits and click the save button. If the error persists, proceed to the next step.
+
+4. Retry and Refresh
+
+If the screen continues to display issues, click the button repeatedly until the screen refreshes to a clean state.
+
+5. Finalize Edits
+
+Once the screen is clear, revisit the event details to ensure all information is correct before finalizing.

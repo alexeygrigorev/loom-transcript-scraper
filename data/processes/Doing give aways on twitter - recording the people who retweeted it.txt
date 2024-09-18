@@ -1,0 +1,27 @@
+Doing Giveaways on Twitter - Recording the People Who Retweeted It
+
+What: Track Twitter users who retweet giveaway posts.
+
+Why: To facilitate the selection of winners from entries based on retweets.
+
+When: Conduct this process each time a giveaway is announced.
+
+1. Schedule the Giveaway
+
+Determine the timing and duration of the giveaway, ensuring clear communication about the entry criteria.
+
+2. Track Retweets
+
+Use a reporting tool with code to monitor retweets. Input the necessary parameters without starting with "mobile."
+
+3. Analyze Results
+
+After the tracking period, review the successful commits from GitHub actions. This includes verifying the processed data including retweeter information.
+
+4. Select Winners
+
+From the compiled list of participants, randomly select five winners for the giveaway.
+
+5. Monitor Regularly
+
+Ensure that tracking occurs continuously, as the system maintains data for only the last hundred retweets. Regular checks help manage entry counts efficiently.

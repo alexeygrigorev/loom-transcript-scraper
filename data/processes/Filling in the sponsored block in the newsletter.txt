@@ -1,0 +1,31 @@
+Filling in the sponsored block in the newsletter
+
+What: Filling in the sponsored block of the newsletter.
+
+Why: To ensure the newsletter effectively showcases sponsored content.
+
+When: Whenever a new sponsored item is received.
+
+1. Download the visual
+
+Access the image file sent for the sponsorship and download it.
+
+2. Upload the image
+
+Click on the image upload button and select the downloaded image from your files.
+
+3. Add the link
+
+Insert the link provided by the sponsor into the designated field for the button.
+
+4. Enter the title
+
+Paste the title provided by the sponsor into the title field.
+
+5. Add text
+
+Input the text associated with the sponsorship. If specific text is not available, use a placeholder like "text on attention" to indicate this.
+
+6. Handle missing fields
+
+If there is no visual, leave the visual field empty. If the title is unknown, leave the title field blank.

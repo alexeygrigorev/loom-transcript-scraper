@@ -1,0 +1,27 @@
+Collecting Emails of the Giveaway Campaign Winners
+
+What: Collect email addresses from winners of a giveaway campaign.
+
+Why: To communicate with winners and provide them with their prizes.
+
+When: After the giveaway campaign has concluded and when winners have been identified.
+
+1. Access Messages
+
+Go to the messaging platform and click on "Messages." Then navigate to "Message Requests" to view messages from contest participants.
+
+2. Identify Winners
+
+Review the message requests and identify messages from winners who have provided their email addresses.
+
+3. Collect Email Addresses
+
+For each winner, click to accept the message, copy the provided email address, and store it in a designated document.
+
+4. Thank the Winners
+
+Send a response to each winner, thanking them for participating and confirming their email submission.
+
+5. Finalize Email List
+
+Continue this process for all winners until all email addresses are collected. Wait until a specified date (e.g., Tuesday) to finalize and send the list to the relevant department.

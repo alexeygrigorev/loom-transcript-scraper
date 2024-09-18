@@ -1,0 +1,23 @@
+Getting invoices from Mailchimp
+
+What: Retrieve invoices from Mailchimp account
+
+Why: To maintain accurate billing records and track expenses
+
+When: Whenever an invoice is required for accounting or expense management
+
+1. Access Mailchimp
+
+Log in to your Mailchimp account and navigate to the "Account" section, then select "Billing."
+
+2. View Billing History
+
+Locate the "Billing History" option to see the list of invoices.
+
+3. Print or Save Invoice
+
+Choose the specific invoice you need. Click "Print" to print it directly or use the "Save" option to download it.
+
+4. Organize Invoices
+
+Send the printed or saved invoice to the designated folder or email for records. Fill in details in the relevant spreadsheet for tracking expenses.

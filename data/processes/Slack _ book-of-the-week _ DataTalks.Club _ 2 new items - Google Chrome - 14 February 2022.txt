@@ -1,0 +1,23 @@
+Slack Book of the Week Announcement Process
+
+What: Announce the Book of the Week on Slack
+
+Why: To inform community members about the selected book, encouraging engagement and discussions.
+
+When: Whenever a new Book of the Week is selected.
+
+1. Prepare Announcement
+
+Review the book details and the announcement format to ensure clarity and conciseness.
+
+2. Post Announcement
+
+Publish the announcement on the designated Slack channel. Utilize the share message feature by hovering over the message to promote it as a channel announcement.
+
+3. Engage with the Community
+
+Encourage community members to ask questions and share their thoughts after the announcement is made.
+
+4. Remove Preview
+
+If applicable, remove any pre-announcement previews from the conversation to maintain a clean chat history.

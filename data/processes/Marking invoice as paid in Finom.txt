@@ -1,0 +1,27 @@
+Marking Invoice as Paid in Finom
+
+What: Linking payment to an overdue invoice in Finom.
+
+Why: To ensure proper financial tracking and management of outstanding invoices.
+
+When: When an invoice is overdue and payment has been received but not automatically linked.
+
+1. Access the Invoice
+
+Navigate to the invoice that is marked as overdue. 
+
+2. Initiate Payment Link
+
+Click on the payment option linked to the invoice. 
+
+3. Confirm Payment Association
+
+Select the corresponding payment entry to associate it with the invoice.
+
+4. Finalize the Link
+
+Ensure the payment is successfully linked. If there are issues, repeat the process until confirmation is achieved. 
+
+5. Verification 
+
+Return to the invoice to verify that the payment has been marked accordingly.

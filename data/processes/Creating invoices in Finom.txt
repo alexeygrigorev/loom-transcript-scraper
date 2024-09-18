@@ -1,0 +1,45 @@
+Creating Invoices in Finom
+
+What: Create and send invoices to sponsors or clients.
+
+Why: To formalize billing for services rendered or sponsorship agreements.
+
+When: After establishing a service agreement or sponsorship, and invoices are to be issued periodically based on the contract terms.
+
+1. Access the Finom platform
+
+Navigate to the invoice creation section, which may be under 'documents' or 'new document'.
+
+2. Create a new invoice
+
+Select “Create Invoice” and fill in the sponsor/client details:
+   - Name: e.g., Arise AI
+   - Country: United States
+   - Business address and postal code (if applicable).
+
+3. Set invoice details
+
+Enter the invoice specifics:
+   - Amount due: e.g., 16,000 
+   - Payment terms: Due within 30 days.
+   - Specify if VAT is applicable (e.g., in this instance, it's zero for the US).
+
+4. Add notes or terms
+
+Include necessary notes, especially regarding VAT for European clients, if relevant. 
+
+5. Specify invoice date and number
+
+Set the issue date (e.g., today’s date) and assign an invoice number following your organization’s method (typically year and sequence).
+
+6. Preview and save the invoice
+
+Preview the document to ensure all information is correct, then save it with a descriptive name, such as “Invoice Arise AI”. 
+
+7. Send the invoice
+
+Email the saved invoice to the client using the appropriate email address, ensuring that all relevant parties are included in the CC field. 
+
+8. Repeat as necessary
+
+For ongoing sponsorships, create and send invoices regularly (e.g., quarterly or as per contract terms). Adjust the invoice details, including amounts and dates, according to each billing cycle.

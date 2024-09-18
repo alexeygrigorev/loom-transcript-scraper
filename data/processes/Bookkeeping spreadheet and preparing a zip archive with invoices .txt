@@ -1,0 +1,35 @@
+Bookkeeping Spreadsheet and Preparing a Zip Archive with Invoices
+
+What: Maintaining bookkeeping by filing tax declarations and archiving invoices.
+
+Why: To ensure accurate financial reporting and compliance with tax regulations, specifically declaring all income.
+
+When: At the beginning of each month for the previous month's financial activities.
+
+1. Add Extra Line for the Month
+
+Separate each month in the bookkeeping spreadsheet by adding an extra line. Ensure the entries are sorted by the date the invoices were issued and the date they were paid.
+
+2. Verify Income
+
+Check that all income for the previous month is declared. This includes reviewing payments received in different bank accounts and ensuring they are reflected in the bookkeeping spreadsheet.
+
+3. Collect Invoices
+
+Gather all the invoices issued to clients for the previous month. Confirm that you have both physical and electronic invoices.
+
+4. Create a Zip Archive
+
+Take all the invoices and compress them into a zip folder. Change the name of the zip file to indicate the month it covers.
+
+5. Review for Missing Payments
+
+Cross-check the income listed in the bookkeeping spreadsheet against actual payments received. If any income is missing, investigate and add it to the spreadsheet.
+
+6. Document Payment to Accountant
+
+Record the payment made to the accountant at the beginning of the month. Update any necessary details in the bookkeeping spreadsheet, including referencing the previous month's declaration for consistency.
+
+7. Prepare for Submission
+
+Once all invoices and income are accounted for, finalize the documentation for submission to the accountant. Ensure all entries are complete and accurate.

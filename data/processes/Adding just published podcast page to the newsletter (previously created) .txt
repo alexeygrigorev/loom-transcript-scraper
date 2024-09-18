@@ -1,0 +1,27 @@
+Adding Just Published Podcast Page to the Newsletter
+
+What: Add a newly published podcast page to the newsletter.
+
+Why: To keep subscribers informed about the latest content and encourage engagement.
+
+When: After the podcast page has been published on the website.
+
+1. Access MailChimp
+
+Log in to the MailChimp account and navigate to the newsletter draft.
+
+2. Edit Newsletter Design
+
+View the draft design and determine where to add the links to the newly published podcast episode.
+
+3. Add Podcast Links
+
+Insert the links to the new podcast page within the newsletter content to ensure it is accessible to subscribers.
+
+4. Review Changes
+
+Check the newsletter for any additional elements or corrections needed. 
+
+5. Save and Schedule
+
+Once satisfied with the newsletter design and content, save the changes and schedule the newsletter for distribution.

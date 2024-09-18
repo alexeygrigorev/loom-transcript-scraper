@@ -1,0 +1,27 @@
+Sending reports to accountants for bookkeeping
+
+What: Sending tax support reports to accountants via secure email.
+
+Why: To provide accountants with necessary documentation for accurate bookkeeping.
+
+When: Send reports on a regular basis, typically monthly.
+
+1. Create a secure email
+
+Use the designated email address provided in your company communications.
+
+2. Set the email subject
+
+Format the subject line as "Data Talks Club - [Month, Year]". For example, "Data Talks Club - August 2022".
+
+3. Prepare the report
+
+Select the required data from the spreadsheet, specifically from columns A to F.
+
+4. Archive the report
+
+Follow the established protocol for archiving, ensuring to name the file appropriately: "Data Talks Club - [Year] - [Month]".
+
+5. Send the email
+
+Attach the report and any necessary documents, then send to the accountants.

@@ -1,0 +1,19 @@
+Assigning Items to Alexey
+
+What: Assigning tasks and reminders to Alexey for event-related activities.
+
+Why: Ensures that Alexey is aware of tasks to complete for an upcoming event.
+
+When: Assign tasks immediately on the day of the event or upon creating a relevant template.
+
+1. Assign the task
+
+Upload the recording and assign it to Alexey for the event.
+
+2. Set a reminder
+
+Clone a template if applicable, and send a reminder to Alexey.
+
+3. Confirm completion
+
+Check for an email confirmation from Alexey regarding the tasks completed the following day.

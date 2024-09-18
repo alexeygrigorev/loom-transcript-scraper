@@ -1,0 +1,27 @@
+Book of the Week: Scheduling the Announcement in Slack
+
+What: Announce the book of the week in the Slack channel.
+
+Why: To inform the team about the weekly book selection and discussions.
+
+When: Announcements should be scheduled for 7:30 AM Central European Time on the day of the event.
+
+1. Prepare the Announcement
+
+Begin by locating the previous week's announcement or a template in Fluxus doc. Incorporate the name of the new book and relevant details.
+
+2. Gather Additional Information
+
+Contact the guests or participants involved. Ensure to collect relevant discussion points and any necessary links or images related to the book.
+
+3. Set Up the Announcement Post
+
+Create the announcement post, including the book title, discussion points, links, and a visual (book cover). Use sensible placeholders for names if needed.
+
+4. Schedule the Announcement
+
+Instead of posting immediately, schedule the announcement for 7:30 AM Central European Time to ensure it reaches the team at the appropriate time.
+
+5. Notify in the Announcement Channel
+
+In addition to scheduling the main announcement, post an announcement in the designated announcement channel to inform the team about the week's events.

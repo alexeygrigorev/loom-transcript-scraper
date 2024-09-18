@@ -1,0 +1,35 @@
+Updating the Website with Information from Forms
+
+What: Automating the update of the website with information gathered from forms.
+
+Why: To ensure that the website reflects the most current information submitted through forms without needing manual intervention each time.
+
+When: Execute this process whenever new data is collected from forms that needs to be updated on the website.
+
+1. Access the Get Help Page
+
+Open the website and navigate to the Get Help page, then go to the GitHub repository link provided.
+
+2. Initiate the Update Process
+
+In GitHub, go to the "Actions" tab and select the "Generate All" option. Confirm the action to start the process.
+
+3. Monitor the Process
+
+The update will take a few minutes. Check the progress by clicking on the "Jobs" section to verify that the jobs are running successfully.
+
+4. Review the Results
+
+After the process completes, check the output for any errors. If it indicates "processed zero people" or similar, it may indicate no new data was processed.
+
+5. Verify Website Update
+
+Once the process is successful, return to the website to confirm that the new data has been integrated correctly.
+
+6. Notify of Issues 
+
+If you notice any errors (indicated by red statuses in GitHub), notify the relevant team member to address the issue immediately. 
+
+7. Final Check
+
+After confirming updates on the website, review the overall process to ensure all necessary updates have been made.

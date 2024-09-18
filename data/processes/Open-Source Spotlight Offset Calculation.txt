@@ -1,0 +1,35 @@
+Open-Source Spotlight Offset Calculation
+
+What: Calculate time offsets for video recording timestamps.
+
+Why: To accurately edit video segments based on the correct start time of meetings and recordings.
+
+When: Whenever a recording is released that requires timestamp adjustments.
+
+1. Gather Meeting and Recording Start Times
+
+Contact support to obtain the official start times for the meeting and the recording.
+
+2. Format Timestamps
+
+In the provided spreadsheet, input the meeting start timestamp in the correct format (hh:mm:ss), ensuring it aligns with the designated cells for calculations.
+
+3. Input Original Timestamps
+
+Record original timestamps for significant moments in the video within the spreadsheet.
+
+4. Apply the Offset Formula
+
+Use the formula: `=B2 - $A$1` in the respective cells to calculate the adjusted start times. The dollar signs ensure cell references remain constant when the formula is copied down.
+
+5. Review Adjusted Timestamps
+
+Verify that the calculated timestamps make sense in the context of the recording duration and ensure there are no discrepancies.
+
+6. Use Timestamps for Video Editing
+
+Utilize the adjusted timestamps to inform the video editing process, ensuring all relevant segments align with the intended content. 
+
+7. Document the Process
+
+Keep a record of these adjustments and steps for future reference and consistency in future recordings.

@@ -1,0 +1,27 @@
+Sponsorship CRM: Merging Multiple Company Records into One
+
+What: Merging duplicate company records in the Sponsorship CRM.
+
+Why: To maintain accurate and streamlined data by consolidating records for the same entity.
+
+When: Perform this process whenever duplicate company records are found in the CRM.
+
+1. Identify Duplicate Records
+
+Locate the company records in the CRM that are duplicates or have incorrect information.
+
+2. Update Record Information
+
+Modify the necessary fields in the primary record, such as changing the company name from the incorrect entry (e.g., Kafka) to the correct one (e.g., Confluent).
+
+3. Consolidate Additional Data
+
+Ensure that any additional information linked to the duplicate records, such as contacts or deals, is added to the primary record.
+
+4. Merge and Delete Duplicates
+
+Find the duplicate record and use the merging function in the CRM. After merging, delete the duplicate entry to avoid clutter.
+
+5. Verify Accuracy
+
+Check that all relevant information has been successfully merged and that the primary record is now complete and accurate.

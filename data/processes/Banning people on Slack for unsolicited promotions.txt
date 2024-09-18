@@ -1,0 +1,27 @@
+Banning People on Slack for Unsolicited Promotions
+
+What: Process for banning users on Slack.
+
+Why: To maintain the integrity of the Slack workspace by removing users who promote unsolicited content or advertisements.
+
+When: When a user is found to be promoting unsolicited promotions within the Slack workspace.
+
+1. Prepare an appropriate message.
+
+Draft a message that explains the reason for banning the user.
+
+2. Access Slack settings.
+
+Navigate to the settings menu, select "Manage Members."
+
+3. Identify the user to be banned.
+
+Locate the user by name or profile picture to confirm their identity.
+
+4. Deactivate the user’s account.
+
+Click on the appropriate option to deactivate the user, ensuring that it is the correct individual.
+
+5. Send the prepared message.
+
+Communicate the ban to the user via the message you prepared earlier.

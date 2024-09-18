@@ -1,0 +1,31 @@
+Accessing Alexey's Calendar and Scheduling Events
+
+What: Checking Alexey's calendar to determine available times for scheduling podcasts.
+
+Why: To ensure that podcasts are scheduled at times when Alexey is available, avoiding overlaps with existing commitments.
+
+When: Before proposing a time for a podcast, ideally on a Monday afternoon.
+
+1. Open Alexey's Calendar
+
+Access the shared calendar where you can view and edit events.
+
+2. Check Recurring Event Availability
+
+Look for the recurring event block on Mondays at 5 p.m. This time is typically reserved for a podcast.
+
+3. Identify Conflicts
+
+Examine the calendar for any conflicting events on the proposed date. If there’s already an event at the usual time, proceed to the next step.
+
+4. Propose Alternate Times
+
+If the preferred time is blocked, consider rescheduling to Tuesday or another day when there are no conflicts. Avoid scheduling at noon, especially if participants are in different time zones.
+
+5. Confirm the New Time
+
+Once an alternative time is agreed upon, either update the calendar directly or communicate the proposed time for confirmation.
+
+6. Notify Participants
+
+Inform all relevant participants of the scheduled time and ensure they have access to the updated calendar.

@@ -1,0 +1,33 @@
+Bookkeeping: Sending Invoices to Dropbox and Filling in the Spreadsheet
+
+What: Recording and filing expenses in a spreadsheet and Dropbox by sending invoices via email.
+
+Why: Accurate tracking of business expenses is essential for financial management and record-keeping.
+
+When: Immediately after an expense is incurred and payment is made.
+
+1. Pay the Invoice
+
+Process the invoice payment through the chosen service (e.g., Uber Suggest, MailChimp) and obtain the payment confirmation.
+
+2. Save the Invoice as a PDF
+
+Open the payment confirmation email and print it as a PDF. Ensure that the file is named appropriately, ideally following the format of "YYYY-MM-DD - service".
+
+3. Send PDF to Dropbox
+
+Use a designated email channel (e.g., an automated service that uploads attachments directly to Dropbox) to send the PDF invoice. Provide a brief subject line or topic to help categorize it, using the same naming convention established earlier.
+
+4. Update the Spreadsheet
+
+Open the bookkeeping spreadsheet. 
+- Enter the date of the invoice.
+- List the service provider (e.g., Uber Suggest).
+- Include details of the expense:
+  - Amount (use a negative value for expenses).
+  - If applicable, adjust for currency conversion.
+- Save the changes.
+
+5. Repeat for Future Invoices
+
+For recurring invoices (e.g., MailChimp), follow the same process upon receiving the billing notification. Regularly check and update the spreadsheet as new invoices are processed to maintain accurate records.

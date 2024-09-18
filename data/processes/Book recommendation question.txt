@@ -1,0 +1,27 @@
+Book Recommendation Process
+
+What: Adding a book recommendation question to podcast documents
+
+Why: To gather resource recommendations for listeners and streamline podcast preparation
+
+When: Whenever preparing or updating podcast documents
+
+1. Review Podcast Documents
+
+Go through all existing podcast documents and identify those in the pipeline for updates.
+
+2. Add Book Recommendation Line
+
+Insert the line “Are there any books or other resources that you can recommend to the listeners?” into each document.
+
+3. Handle Canceled Guests
+
+If a guest cancels, move their entry to a designated section for canceled episodes.
+
+4. Update Existing Templates
+
+Consider creating a standardized template with common questions for future podcasts and update existing documents with these.
+
+5. Update Document Names
+
+Ensure all documents are accurately named and reflect current information about scheduled podcasts.

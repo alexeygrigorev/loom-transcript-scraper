@@ -1,0 +1,31 @@
+Process in Trello
+
+What: Create and manage templates for projects in Trello
+
+Why: To streamline project organization and ensure effective reminders and follow-ups
+
+When: When planning new projects or tasks, particularly for podcasts or similar workflows
+
+1. Create a Checklist
+
+Add a checklist to the project description. Include links to relevant documents and ensure all necessary items are listed.
+
+2. Add Reminders
+
+Input tasks or reminders for team members or guests. Focus on essential reminders, avoiding unnecessary ones.
+
+3. Create Project Templates
+
+For recurring projects, use the template feature in Trello. Click on the template, select "Create from Template," and fill in the necessary details.
+
+4. Set Up Reminders for Key Dates
+
+Assign reminder dates for important tasks. Adjust the date based on the project timeline (e.g., one week prior to an event).
+
+5. Invite Participants 
+
+Send invitations to project participants (e.g., authors) and schedule meetings as needed. Ensure all participants have access to relevant Trello cards and communicate through designated channels, such as Slack.
+
+6. Organize and Rearrange Tasks
+
+Continuously assess and rearrange tasks in Trello for optimal organization. This may evolve as project needs change.

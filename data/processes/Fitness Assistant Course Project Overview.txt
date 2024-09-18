@@ -1,0 +1,53 @@
+Fitness Assistant Course Project Overview
+
+What: Development and setup of the Fitness Assistant application that recommends exercises and provides information about them.
+
+Why: To create a tool that assists users in finding alternative exercises and learning how to perform them correctly, utilizing a database of various workout activities.
+
+When: Set up and run the application when starting the project or when updates are made that require reinstallation or configuration.
+
+1. Clone the repository
+
+Access the GitHub repository containing the application files.
+
+2. Set up OpenAI key
+
+Create a file in the repository and insert your OpenAI key for application access. Ensure to keep this key private.
+
+3. Install DRENV
+
+Update package information using the command `apt update`, then install DRENV for environment variable management.
+
+4. Install dependencies with PPENF
+
+Install PPENF to manage project dependencies. Execute `pipenv install --dev` to install both core and development dependencies.
+
+5. Run Docker Compose
+
+Use Docker Compose to start the three essential components: the application, Postgres, and Grafana. Ensure Postgres is configured correctly.
+
+6. Initialize the database
+
+Access the virtual environment with `pipenv shell`, navigate to the Fitness Assistant, and set up the database.
+
+7. Start the application
+
+Launch the application with `docker compose up`. Monitor the application as it builds and runs.
+
+8. Access Grafana
+
+Forward the required port to access Grafana and log in using the default credentials (admin/admin). 
+
+9. Import data sources in Grafana
+
+Within the virtual environment, navigate to Grafana and run the initialization script to create the necessary data source and dashboards.
+
+10. Run tests
+
+Execute the testing script to randomly query the application, verifying that the responses are accurate and relevant. 
+
+11. Monitor results
+
+Regularly check Grafana dashboards for insights into application performance and usage metrics. 
+
+The process ends with a review of the application's features and capabilities, ensuring everything functions as intended.

@@ -1,0 +1,15 @@
+Bulk Forward Multiple Telegram Messages to the Bot
+
+What: Forward multiple messages from Telegram to a bot.
+
+Why: To efficiently share multiple messages at once without sending each individually.
+
+When: When there is a need to share several messages with a bot on Telegram.
+
+1. Select Messages
+
+Press and hold on a message to enter selection mode. Choose multiple messages by tapping on them.
+
+2. Forward Selected Messages
+
+Click the forward button, select the bot as the recipient, and then click send. All selected messages will be forwarded to the bot.

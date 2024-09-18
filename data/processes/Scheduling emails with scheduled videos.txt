@@ -1,0 +1,23 @@
+Scheduling Emails with Scheduled Videos
+
+What: Schedule emails for Open Source Spotlight recordings with links for guests to share.
+
+Why: To ensure guests receive the email immediately after the recording goes live, allowing them to share it with their network for increased visibility.
+
+When: Schedule emails for the day after the recording is published, ideally before the recording is released.
+
+1. Access the Email Template
+
+Locate the existing email template for the Open Source Spotlight.
+
+2. Prepare the Email
+
+Fill in the necessary information, including the link to the recording. Ensure there’s no space after a colon when formatting.
+
+3. Schedule the Email
+
+Select the date and time for sending the email. For example, if scheduling for the next day, choose a time around 5:00 PM Central European Time.
+
+4. Finalize and Send
+
+Confirm all information is correct and schedule the email. Guests will receive the message immediately after the recording goes live, enabling timely sharing.

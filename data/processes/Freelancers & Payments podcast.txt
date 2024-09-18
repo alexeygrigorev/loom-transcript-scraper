@@ -1,0 +1,27 @@
+Freelancers & Payments Process
+
+What: Tracking payments to freelancers involved in podcast production.
+
+Why: To maintain visibility on tasks completed by freelancers and ensure timely payments.
+
+When: Regularly update the tracking document after each podcast episode and at payment intervals.
+
+1. Document Setup
+
+Create a tracking document that includes columns for the podcast title, video status on YouTube, payment status, and task progress of each freelancer.
+
+2. Update Progress
+
+After each podcast episode, input relevant details into the document, marking the completion status of tasks such as editing and transcription.
+
+3. Monitor Payments
+
+Review the document weekly to track which freelancers have been paid and which tasks are outstanding.
+
+4. Communicate with Freelancers
+
+Keep an open line of communication with freelancers regarding their current status and any changes that may affect their work, such as relocation or other commitments.
+
+5. Finalize Payments
+
+Once tasks are verified as completed, process payments for the freelancers according to the agreed schedule.

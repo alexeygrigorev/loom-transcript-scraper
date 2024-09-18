@@ -1,0 +1,23 @@
+Converting USD to EUR for Revolut Fees
+
+What: Convert US dollars to Euros for bookkeeping purposes using current exchange rates.
+
+Why: To accurately record foreign currency transactions and associated fees in our financial records.
+
+When: Perform the conversion whenever USD is exchanged for EUR, particularly when using Revolut.
+
+1. Determine the exchange rate
+
+Access the current exchange rate for converting USD to EUR.
+
+2. Calculate the total amount in Euros
+
+Multiply the amount of US dollars by the exchange rate to find the equivalent amount in Euros.
+
+3. Record the amount in the bookkeeping spreadsheet
+
+Input the calculated Euro amount into the bookkeeping spreadsheet for accurate financial tracking. 
+
+4. Store relevant documentation
+
+Add any associated fees and conversion documentation as a PDF to Dropbox for future reference.

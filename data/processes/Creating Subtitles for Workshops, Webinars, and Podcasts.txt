@@ -1,0 +1,27 @@
+Creating Subtitles for Workshops, Webinars, and Podcasts
+
+What: Generate titles for content lacking subtitles.
+
+Why: To provide alternative titles for workshops, webinars, and podcasts when original subtitles are unavailable.
+
+When: Whenever a workshop, webinar, or podcast does not have a corresponding subtitle.
+
+1. Copy the content
+
+Select and copy the entire text of the workshop, webinar, or podcast.
+
+2. Use ChatGPT for title suggestions
+
+Navigate to ChatGPT and paste the copied content. Request title suggestions by asking for potential titles for the workshop, webinar, or podcast.
+
+3. Review the suggestions
+
+Evaluate the generated titles, selecting up to 10 options that suit the content.
+
+4. Communicate suggestions
+
+Share the selected titles with the relevant team member, indicating that subtitles were not available, along with the generated options from ChatGPT.
+
+5. Consider account setup
+
+If you do not have a ChatGPT account, create one. The ChatGPT 4.0 version is available under free plans.

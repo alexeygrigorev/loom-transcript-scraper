@@ -1,0 +1,26 @@
+Adding Open-Source Spotlight Leads to the Spreadsheet
+
+What: Adding new open-source qualified leads to a shared spreadsheet.
+
+Why: To track potential candidates for outreach related to open-source initiatives.
+
+When: Whenever new open-source qualified leads are identified.
+
+1. Identify the Lead
+
+Research and gather relevant information about the new lead, including their name, LinkedIn profile, and email address.
+
+2. Open the Spreadsheet
+
+Access the designated spreadsheet used for tracking open-source leads.
+
+3. Add Lead Information
+
+Input the following details into the spreadsheet:
+- Name
+- LinkedIn link (if available)
+- Email address
+
+4. Save Changes
+
+Ensure all information is saved and that the spreadsheet is updated with the new lead.

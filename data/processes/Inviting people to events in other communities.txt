@@ -1,0 +1,23 @@
+Inviting People to Events in Other Communities
+
+What: Invite individuals to participate in events in various communities, particularly focused on open-source tools.
+
+Why: Engaging with diverse communities helps broaden the network and promotes collaboration and knowledge sharing among open-source developers.
+
+When: Whenever a relevant individual or potential contributor is identified in another community.
+
+1. Identify Potential Invitees
+
+Research other communities and find individuals who create or contribute to open-source tools.
+
+2. Reach Out
+
+Send a message introducing yourself and explaining the purpose of the invitation.
+
+3. Provide Context
+
+Briefly describe the event, its relevance, and the benefits of attending.
+
+4. Request Registration
+
+Encourage the invitee to register for the community and the event, mentioning they will receive notifications via email.

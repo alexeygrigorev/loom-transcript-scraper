@@ -1,0 +1,31 @@
+Selecting Giveaway Winners
+
+What: Selection process for giveaway winners
+
+Why: To fairly choose recipients for the giveaway items
+
+When: After the giveaway duration ends
+
+1. Prepare for Winner Selection
+
+Copy the relevant entries from the promotional source.
+
+2. Access the Winner Selection Tool
+
+Navigate to the designated tool for selecting winners and select the appropriate options based on the entries.
+
+3. Execute the Winner Selection
+
+Run the selection workflow to identify the winners.
+
+4. Review Selected Winners
+
+Check the output for winners in the designated folder.
+
+5. Decide on Messaging Content
+
+Draft the message to notify the winners, using a template if available.
+
+6. Notify Winners
+
+Send out the selection notification from the designated account, or coordinate with the account holder for sending messages.

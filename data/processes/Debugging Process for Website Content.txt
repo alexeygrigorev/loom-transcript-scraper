@@ -1,0 +1,39 @@
+Debugging Process for Website Content
+
+What: Troubleshooting issues related to adding content (events, podcasts, books) to the website.
+
+Why: To identify and resolve errors that prevent successful content addition, ensuring website functionality and user experience.
+
+When: When content fails to process, indicated by logs showing "processed zero" or error messages.
+
+1. Identify the Failure
+
+Check logs to see where the content addition failed. Look for indications of processed items (people, books, podcasts, events).
+
+2. Review the Error Details
+
+Examine the error message; for example, "key error email." Understand which area (events, podcasts, etc.) is causing the issue.
+
+3. Address Specific Errors
+
+Navigate to the area causing the issue (e.g., events) and identify any records with missing or incorrect data (such as an empty email field).
+
+4. Correct or Delete Problematic Entries
+
+Delete any entries causing errors. For example, if an email field is empty, remove that entry to prevent processing failure.
+
+5. Update Related Content
+
+If content is dependent on previous successful processing (like a "book of the week"), make the necessary adjustments, such as changing statuses from "done" to "to do."
+
+6. Re-execute the Process
+
+Run the workflow again after making the necessary changes. Monitor the logs to confirm successful processing of the updated entries.
+
+7. Document the Debugging Process
+
+Create a detailed document outlining the debugging steps. Include links to previous instructional materials (like how to add people) for reference and future troubleshooting.
+
+8. Monitor for Further Issues
+
+If new errors arise, note them and update the debugging document accordingly for improved future reference.

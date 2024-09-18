@@ -1,0 +1,27 @@
+Getting emails for the newsletter from emails.srt
+
+What: Collect emails from event responses for the newsletter.
+
+Why: To ensure that interested participants receive newsletters and updates.
+
+When: After an event has been conducted and responses have been collected.
+
+1. Access Event Responses
+
+Navigate to the event dashboard and locate the section for responses to custom questions.
+
+2. Select the Event
+
+Choose the specific event from which you want to gather email responses.
+
+3. Download Data
+
+Download the responses in CSV format and open the file for review.
+
+4. Review and Extract Emails
+
+Examine the downloaded data and locate the relevant email addresses from the custom questions.
+
+5. Organize Data
+
+Compile the extracted emails into a list for the newsletter distribution.

@@ -1,0 +1,27 @@
+Creating a Payment Link
+
+What: Generate a payment link for invoicing.
+
+Why: To facilitate smooth payments for services rendered.
+
+When: When an invoice is created for customers requiring a payment link.
+
+1. Create an Invoice
+
+Generate an invoice in Fino, adding an additional 2% to the total amount. Include applicable VAT (19% for Germany) in the final price.
+
+2. Access Revolut Business
+
+Log in to your Revolut Business account at revolut.com/business. Ensure you have the correct login credentials.
+
+3. Create a Payment Link
+
+Navigate to the "Merchant" section and select "Create a Request Payment Link." Input the total amount due including VAT.
+
+4. Send the Payment Link
+
+Share the generated payment link with the client via email or messaging service (e.g., Telegram). 
+
+5. Finalize Invoice and Payment Link
+
+Once you have customer details, finalize the invoice in Fino and include the payment link in the terms or notes section. Send the invoice to the customer.

@@ -1,0 +1,39 @@
+Updating Videos in GitHub Repository
+
+What: Update video links in the GitHub repository for the course.
+
+Why: Ensure that the most recent videos are accessible in the course modules.
+
+When: When a new video is uploaded, or an existing video needs to be replaced.
+
+1. Access the GitHub repository.
+
+Navigate to the specific course repository where videos are stored.
+
+2. Locate the appropriate module.
+
+Identify and click on the module you need to update, for example, module 1.2.
+
+3. Find the existing video link.
+
+Scroll through the module to find the current video link that needs replacing.
+
+4. Obtain the new video link.
+
+Get the new video link, ensuring to retain the playlist ID unchanged.
+
+5. Replace the old video link.
+
+Update the video link in both locations where it appears, making sure to keep the associated parameters intact.
+
+6. Repeat for additional videos.
+
+If there are more videos in the module that require updates, repeat steps 3-5.
+
+7. Save the changes.
+
+Ensure all updates are saved and changes are reflected in the repository.
+
+8. Notify relevant parties.
+
+Inform team members via preferred communication channels (e.g., Telegram) about the updates made.

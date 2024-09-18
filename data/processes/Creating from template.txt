@@ -1,0 +1,19 @@
+Creating from Template
+
+What: Creating a project from a template
+
+Why: To streamline the setup process and ensure consistency in project creation.
+
+When: Use this process when initiating a new project that requires a standardized approach.
+
+1. Click the call button.
+
+This action opens the template selection menu.
+
+2. Choose a template.
+
+Select the desired template that best fits the project requirements.
+
+3. Specify details.
+
+Input the necessary specifications including aspects like color and other relevant options for customization.

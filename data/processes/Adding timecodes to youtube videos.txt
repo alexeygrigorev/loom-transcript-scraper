@@ -1,0 +1,31 @@
+Adding Timecodes to YouTube Videos
+
+What: Adding timestamps and chapters to a YouTube video.
+
+Why: To enhance video navigation and improve viewer experience by allowing easy access to specific segments.
+
+When: This should be done after receiving the timecodes from the speaker or content creator.
+
+1. Prepare Timestamps
+
+Request timestamps from the speaker or content creator for the video, focusing on key moments.
+
+2. Access YouTube Studio
+
+Log in to YouTube Studio and navigate to the "Content" section. Select the video for which you want to add timecodes.
+
+3. Adjust Timecodes Format
+
+Ensure the received timecodes are in the correct format. Modify them if necessary, retaining only the starting times for each segment.
+
+4. Enter Timecodes
+
+Copy the adjusted timecodes and paste them into the designated area for chapters in the video settings.
+
+5. Save Changes
+
+Click the "Save" button to apply the changes.
+
+6. Verify Functionality
+
+Play the video to confirm that the chapters are working correctly, ensuring the first timestamp starts at 00:00:00 for proper recognition by YouTube.

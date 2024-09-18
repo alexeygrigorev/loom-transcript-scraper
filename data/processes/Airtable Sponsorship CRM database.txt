@@ -1,0 +1,41 @@
+Airtable Sponsorship CRM Database
+
+What: Track sponsored content and manage potential sponsors using an Airtable CRM.
+
+Why: To identify and categorize potential sponsors for community activities and maintain communication status with them.
+
+When: This process should be followed whenever new sponsored content is discovered or when engaging with potential sponsors.
+
+1. Identify Sponsored Content
+
+Regularly search online platforms such as LinkedIn, Twitter, and newsletters for sponsored content. Document the details, including links to the content.
+
+2. Capture Company Information
+
+Create a record for each company associated with the sponsored content in the CRM. If a company does not exist in the database, add it.
+
+3. Update Company Status
+
+Assign a status to each company based on the level of contact:
+   - Prospect: No contact made yet.
+   - Contacted: Reached out but no response.
+   - Established Contact: Received a reply and engaged in discussions.
+   - Client: Company has agreed to sponsor.
+   - Past Client: Previously sponsored but no longer active.
+   - Lost Declined: No response or explicit decline from the company.
+
+4. Populate Contact Details
+
+For each company, gather and enter information about relevant contacts. Include names, emails, and any pertinent details.
+
+5. Record Deals
+
+Document any sponsored activities or agreements under the 'Deals' section in the CRM. Include details such as type (e.g., workshop), associated company, contact person, and execution date.
+
+6. Regularly Update Records
+
+Continuously monitor and update the status of companies and contacts, noting new sponsorship opportunities and any changes in communication status.
+
+7. Document Processes
+
+Create a clear overview of how to add data to the different tables within the CRM, including sponsored content, contacts, and deals.

@@ -1,0 +1,35 @@
+Exporting Course Registration Emails to Mailchimp
+
+What: Export emails from Airtable and import them into Mailchimp.
+
+Why: To consolidate and manage course registration emails, ensuring effective communication with participants.
+
+When: Whenever course registration data needs to be updated in Mailchimp.
+
+1. Download Emails from Airtable
+
+Access the relevant Airtable database and click the green button to download the emails in CSV format.
+
+2. Organize and Rename Files
+
+Select the downloaded file, organize it appropriately, and rename it as needed (e.g., "2025-27").
+
+3. Move Files to Google Drive
+
+Transfer the renamed file to the designated “courses” folder in Google Drive.
+
+4. Import Contacts to Mailchimp
+
+Log into Mailchimp, navigate to the "Import Contacts" section, and upload the CSV file. Ensure that existing contacts are updated if necessary.
+
+5. Specify Tags
+
+During the import process, assign relevant tags (e.g., "MLS" or other applicable tags) to the contacts being imported.
+
+6. Confirm Import and Move Files
+
+Once the import is complete, move the processed file to an "upload" folder in Google Drive for record-keeping.
+
+7. Maintain Organization
+
+Continue to use Google Drive to keep all course-related files organized, updating as new registrations occur.

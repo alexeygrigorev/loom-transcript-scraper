@@ -1,0 +1,23 @@
+Getting Campaign Performance Stats
+
+What: Responding to inquiries about campaign performance stats.
+
+Why: To provide clients with insights into their campaign's effectiveness, including clicks and engagement metrics.
+
+When: Whenever a client requests information regarding their campaign performance.
+
+1. Gather Campaign Click Data
+
+Identify the specific campaign mentioned in the request. Look for the number of clicks on articles and links associated with the campaign. 
+
+2. Collect Social Media Performance Data
+
+Access the company's social media accounts (Twitter, LinkedIn, etc.) to find the analytics for the campaign. Note the number of impressions and clicks for the specific posts related to the campaign.
+
+3. Compile YouTube Video Metrics
+
+If relevant, check the performance of any associated YouTube videos, including views. If unclear on specific information requested, follow up with the client for clarification.
+
+4. Send the Collected Data
+
+Compile the data into a clear response and send the information to the client. Include all relevant metrics and offer assistance for any further inquiries.

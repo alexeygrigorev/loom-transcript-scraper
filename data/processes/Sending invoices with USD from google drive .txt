@@ -1,0 +1,35 @@
+Sending Invoices with USD from Google Drive
+
+What: Sending invoices for services rendered in USD format using Google Drive and Dropbox.
+
+Why: To comply with client requirements for invoicing in USD, as some clients, like Nvidia, do not accept invoices in Euros.
+
+When: Invoices should be sent upon completion of the service or as requested by the client. 
+
+1. Access Google Drive
+
+Open Google Drive and locate the pre-prepared invoice to be sent. Ensure it is properly formatted and ready for submission.
+
+2. Download the Invoice
+
+Download the invoice in PDF format from Google Drive.
+
+3. Save to Dropbox
+
+Upload the downloaded invoice to the designated folder in Dropbox under "paperwork/income invoices."
+
+4. Ensure Compliance with Client Requirements
+
+Check for any client-specific requests, such as including a purchase order (PO) number in the invoice. Add this information to the invoice if necessary.
+
+5. Prepare for Sending
+
+Open your email client and compose a new email to the client. Include any required CC recipients.
+
+6. Schedule or Send Invoice
+
+Set the email to send immediately or schedule it for the date requested by the client.
+
+7. Confirm Submission
+
+After sending, ensure that the invoice is properly recorded in Dropbox and any relevant systems for tracking purposes.

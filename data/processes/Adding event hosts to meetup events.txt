@@ -1,0 +1,23 @@
+Adding Event Hosts to Meetup Events
+
+What: Adding organizers to Meetup events.
+
+Why: To enhance event management by allowing multiple organizers to share responsibilities.
+
+When: Whenever new organizers need to be added to a Meetup event.
+
+1. Access the Meetup event.
+
+Navigate to the specific event where you need to add organizers.
+
+2. Edit the event details.
+
+Identify the current organizers and select the option to edit.
+
+3. Add new organizers.
+
+Input the names or profiles of the new organizers, ensuring they have the appropriate permissions. 
+
+4. Save changes.
+
+Confirm the additions by saving the updated event details.

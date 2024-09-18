@@ -1,0 +1,42 @@
+Bookkeeping Spreadsheet Crosscheck with Revolut and Finom
+
+What: Crosscheck financial transactions recorded in a spreadsheet with those in Revolut and Finom.
+
+Why: To ensure accuracy and completeness of financial records, essential for reporting and accounting purposes.
+
+When: Perform this process monthly while preparing financial reports.
+
+1. Review Transactions
+
+Access the year and month of interest in the financial transaction history. Identify all incoming and outgoing transactions.
+
+2. Crosscheck with Spreadsheet
+
+For each transaction in the history, compare it with the entries in the spreadsheet. Confirm that all transactions are accurately represented, including expenses and income.
+
+3. Format Corrections
+
+Ensure all amounts are formatted correctly:
+   - Replace commas with dots for decimals.
+   - Ensure that minus signs are presented properly.
+   - Remove extraneous zeros and adjust formatting according to American standards.
+
+4. Update Names and Descriptions
+
+Verify and update names for accuracy. Collect supporting invoices and documents for all transactions, ensuring they reflect what the transactions are for.
+
+5. Validate Invoice Presence
+
+Confirm that for each record, an associated invoice exists. If an invoice is missing, find it and add it to the appropriate folder (e.g., Dropbox).
+
+6. Counting Invoices
+
+Total the number of invoices processed and check that this matches the expected number based on transaction records.
+
+7. Prepare for Submission
+
+Compile all invoices and documents into a zip file for submission, ensuring consistency in formatting and that no invoices from accountants are included.
+
+8. Final Review
+
+Conduct a final review of the spreadsheet and compare it once more with the transaction history in both Revolut and Finom to ensure nothing is overlooked.

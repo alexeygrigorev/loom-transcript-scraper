@@ -1,0 +1,27 @@
+Sending emails to event attendees in Eventbrite and Meetup
+
+What: Sending emails to attendees of events created in Eventbrite and Meetup.
+
+Why: To communicate important information regarding the event and ensure attendee engagement.
+
+When: Send emails typically one day before an event or as needed to provide updates and reminders.
+
+1. Access Event Management
+
+Navigate to the event management section of either Eventbrite or Meetup.
+
+2. Select Attendees
+
+Locate the list of attendees registered for the event.
+
+3. Compose Email
+
+Draft your email message, ensuring it contains relevant information for the attendees.
+
+4. Send Email
+
+Dispatch the email to the attendees, confirming that it has been sent successfully.
+
+5. Copy Email Content 
+
+If needed, copy the text of the email for use in another platform or for other event communications.

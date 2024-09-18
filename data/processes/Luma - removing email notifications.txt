@@ -1,0 +1,19 @@
+Luma - Removing Email Notifications
+
+What: Disable email notifications for new sign-ups in Luma.
+
+Why: To reduce unnecessary email noise from multiple sign-up notifications.
+
+When: When creating events in Luma.
+
+1. Access Luma settings.
+
+Locate the section that manages email notification preferences.
+
+2. Disable sign-up email notifications.
+
+Tick the option to turn off email alerts for new sign-ups. This prevents receiving further notification emails. 
+
+3. Update process documentation.
+
+Incorporate this change into the process for creating events to ensure the team is aware of the updated workflow.

@@ -1,0 +1,31 @@
+Inviting People to Slack from the DTC Invite Form
+
+What: Inviting users to join Slack via the DTC invite form.
+
+Why: To facilitate communication and collaboration among team members.
+
+When: Whenever new team members need to be added to Slack.
+
+1. Access the DTC Invite Form
+
+Log into the DTC invite form and locate the section to input email addresses.
+
+2. Enter Emails
+
+Input the email addresses of individuals to be invited, ensuring to track who invited whom.
+
+3. Select Users in Slack
+
+Navigate to the Slack application and select the appropriate users from the invite list.
+
+4. Send Invitations
+
+Send the invitations to the selected users. You can select multiple names at once.
+
+5. Copy Confirmation
+
+Once the invitations are sent, use Ctrl + C to copy the confirmation of invitations sent.
+
+6. Follow Up
+
+Monitor responses and be prepared to invite additional individuals as needed.

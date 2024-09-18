@@ -1,0 +1,19 @@
+Reactivating a Slack Account
+
+What: Reactivate a Slack account for a user.
+
+Why: To restore access to Slack for team collaboration.
+
+When: When a user needs to regain access to their Slack account.
+
+1. Access Settings
+
+Navigate to the Slack settings where member accounts are managed.
+
+2. Locate Member's Email
+
+Find the email address of the user whose account needs reactivation.
+
+3. Activate Account
+
+Follow the prompts to activate the user's Slack account. Confirm the process once completed.

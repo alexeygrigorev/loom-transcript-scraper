@@ -1,0 +1,74 @@
+Managing Podcast Workflow
+
+What: Managing the workflow of podcast production, from initial interviews to final publication.
+
+Why: To ensure a streamlined process for creating, editing, and distributing podcast episodes, maximizing efficiency and minimizing errors.
+
+When: This workflow should be followed whenever a new podcast episode is initiated and through its release.
+
+1. Initial Preparations
+
+Reach out to guests and agree on a date for the interview. 
+
+Create a document with questions for the podcast and share it with the team. 
+
+2. Calendar Management
+
+Create a calendar invite for the agreed date and ensure all participants are informed.
+
+3. Information Collection
+
+Request the guest to provide their biography and any other necessary information. 
+
+Fill in the relevant forms and agree with the author on the episode title and outline.
+
+4. Event Creation
+
+Create an event for the podcast on the following platforms:
+- Enigma
+- Luma
+- Community calendar
+- Meetup
+- LinkedIn 
+
+5. Event Promotion
+
+Announce the event in Slack and schedule posts on TikTok and Twitter.
+
+6. Reminder to Guests
+
+Remind the guest about the event one week before the recording date.
+
+7. Documentation of Links
+
+After the event, collect and document all relevant links (YouTube, Spotify, Apple Podcasts, etc.) in the podcast document.
+
+8. Post-Production
+
+Update the shared folder in Dropbox with the recording. 
+
+Ask the guest for any additional links they want to share after the stream.
+
+9. Editing and Uploading Process
+
+Edit the video and ensure the final version is added to the YouTube channel and live stream playlist.
+
+10. Monitoring Progress
+
+Check the status of the video editing on YouTube regularly. 
+
+Once edited, update the cover and share the episode with the team.
+
+11. Archive and Update
+
+Archive the podcast document in Google Drive for future reference. 
+
+Create a list of upcoming episodes and maintain records of payments made for editing services.
+
+12. Final Post-Publication Tasks
+
+After releasing the episode, ask the guest to share the podcast page and update the newsletter announcement with the episode details. 
+
+Coordinate with the marketing team for promotional efforts and ensure all information is documented correctly. 
+
+This workflow ensures that all aspects of podcast production are handled efficiently, from planning and recording to editing and distribution. Each step is crucial for maintaining quality and consistency in the podcasting process.

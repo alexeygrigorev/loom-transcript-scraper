@@ -1,0 +1,35 @@
+Sponsored Workshops - Extra Field in the Registration Form in Eventbrite
+
+What: Add necessary fields for sponsored workshops in Eventbrite.
+
+Why: To effectively manage data collection for sponsored events and to avoid confusion with unsponsored workshops.
+
+When: When setting up the registration form for sponsored workshops.
+
+1. Access Eventbrite
+
+Navigate to the Eventbrite event you are managing.
+
+2. Go to Options
+
+Select the "Options" menu and then "Order Form."
+
+3. Review Custom Fields
+
+Check the existing custom fields you’ve added, such as "Do you want to subscribe to data talks newsletter?"
+
+4. Identify Sponsored Events
+
+Identify which workshops are sponsored. Ensure clarity on which events are sponsored and what specific information needs to be gathered.
+
+5. Remove Unnecessary Fields
+
+For unsponsored workshops, remove any fields related to sponsors, such as "Would you like to share your email with us?"
+
+6. Verify All Changes
+
+Confirm the order options reflect the accurate status of each workshop regarding sponsorship before finalizing.
+
+7. Document Sponsorship Information
+
+Note down which workshops are sponsored for clarity in future event setups and communication with sponsors.

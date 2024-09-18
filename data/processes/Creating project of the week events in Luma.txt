@@ -1,0 +1,55 @@
+Creating project of the week events in Luma
+
+What: Create multi-day events in Luma for the Project of the Week initiative.
+
+Why: To organize and remind participants about ongoing projects within the initiative.
+
+When: Create events when a new project of the week is defined, typically in advance of the project's start date.
+
+1. Access the Luma platform
+
+Navigate to the main page of the Luma application.
+
+2. Click on “Create an Event”
+
+Select the option to create a new event.
+
+3. Update the cover photo
+
+If the cover photo is not savable, right-click to inspect the image, then copy the background URL. Use this URL to upload or reuse the existing image.
+
+4. Input event details
+
+Set the event name to "Project of the Week: [Project Name]" (e.g., "Project of the Week: Recommendation System Part Two"). 
+
+5. Add the event URL
+
+Copy the event link from the Project of the Week channel in Slack and paste it under the event's address section.
+
+6. Configure event series
+
+Designate the event as a series. Set the duration to 30 minutes. Schedule the first event for the starting date and add subsequent days (e.g., from November 16 to 19).
+
+7. Create the event
+
+Finalize by selecting the “Create Event” button.
+
+8. Assign hosts
+
+Navigate to the host section to add required personnel as hosts to manage the event.
+
+9. Update event description
+
+Copy the relevant project description and modify it as needed. Link to the project page for additional information.
+
+10. Set public URL and code name
+
+Input the public URL derived from the project and assign a code name to differentiate from past projects.
+
+11. Customize notifications
+
+Edit reminder emails to include a message such as "Daily reminder to join [Event Name]" and set the reminder time to 5:30 PM.
+
+12. Finalize and review
+
+Ensure that all details are entered correctly. Save changes and review the event setup to confirm all information is accurate.

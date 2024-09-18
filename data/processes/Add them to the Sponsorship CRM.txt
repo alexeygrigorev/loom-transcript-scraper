@@ -1,0 +1,23 @@
+Add them to the Sponsorship CRM
+
+What: Identify and categorize sponsors for the CRM.
+
+Why: To ensure relevant sponsors are tracked for future engagement and partnership opportunities.
+
+When: This should be done when evaluating potential sponsors for relevance.
+
+1. Review potential sponsors
+
+Assess each sponsor from the website and determine their relevance. Categorize as high, medium, or low relevance.
+
+2. Add sponsors to the CRM
+
+Only add sponsors identified as medium or high relevance, skipping those deemed low relevance. Use existing data to avoid duplication. 
+
+3. Consolidate entries
+
+Check for any sponsors that might overlap (e.g., IBM and IBM Watson) and prevent redundant entries. 
+
+4. Finalize the list
+
+Ensure only relevant sponsors are included before finalizing the CRM update.

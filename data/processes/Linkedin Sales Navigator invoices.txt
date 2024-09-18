@@ -1,0 +1,35 @@
+LinkedIn Sales Navigator Invoices
+
+What: Retrieve invoices from LinkedIn Sales Navigator.
+
+Why: To maintain financial records or for reimbursement processes.
+
+When: When invoices are needed for accounting or expense reporting.
+
+1. Access LinkedIn Account
+
+Log in to your LinkedIn account.
+
+2. Navigate to Sales Navigator
+
+Click on the Sales Navigator icon.
+
+3. Open Settings
+
+Select the 'Settings' option from the menu.
+
+4. Find Billing Information
+
+Look for the 'Billing Information' section and click on 'Billing History.'
+
+5. Select Invoice
+
+Locate the desired invoice, for example, for February, and click on 'Print.'
+
+6. Save Invoice
+
+Save the printed invoice to your device.
+
+7. Share Invoice
+
+Send the saved invoice to the appropriate recipient for further processing.

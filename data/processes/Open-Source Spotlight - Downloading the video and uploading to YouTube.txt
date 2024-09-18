@@ -1,0 +1,43 @@
+Open-Source Spotlight - Downloading the video and uploading to YouTube
+
+What: Process for downloading an open-source spotlight video from Zoom and uploading it to YouTube.
+
+Why: To share knowledge about different open-source tools by providing recorded presentations on YouTube.
+
+When: After a recorded presentation is completed and all necessary information has been gathered.
+
+1. Download the Recording
+
+Access the Zoom link provided for the recorded presentation. Enter the required password, and download the recording, ensuring you select the desired video format.
+
+2. Prepare Upload Details
+
+Open the YouTube upload page. Ensure you are logged into the correct account (Datadog). Create a video title following the format: "Open Source Spotlight - [Name of Tool] - [Presenter's Name]".
+
+3. Write Description
+
+Craft a description for the video, beginning with the tool name, followed by a colon, and then a brief overview of the tool’s purpose. Include any relevant links provided by the guest, typically to their GitHub page, and note the timestamps for any important sections of the talk.
+
+4. Upload Video
+
+Drag and drop the downloaded video file into the upload area on YouTube. 
+
+5. Add to Playlist
+
+Once the upload starts, do not immediately select any playlist. After the video is uploaded, add it to the "Open Source Spotlight" playlist.
+
+6. Adjust Monetization Settings
+
+Set the monetization option to "None" to avoid ads during the video playback.
+
+7. Save and Share Link
+
+Ensure the video is set to "Unlisted" to allow the guest to review it prior to public release. Copy the shareable link of the video once saved.
+
+8. Email the Guest
+
+Send an email to the presenter, thanking them for their participation, and ask them for the timestamps for the video sections. Mention that you will send the video link once it is available.
+
+9. Schedule Follow-Up
+
+Consider the recipient's time zone when scheduling the follow-up email to ensure they receive it during a reasonable timeframe.

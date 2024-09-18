@@ -1,0 +1,34 @@
+How to Delete a File from GitHub
+
+What: Deleting a file from GitHub repository
+
+Why: To remove outdated or unnecessary files from the repository.
+
+When: When a file is no longer needed or contains incorrect information.
+
+1. Access the File
+
+Navigate to the GitHub repository and locate the file you wish to delete.
+
+2. Select the File
+
+Click on the file name to open it. Scroll down to find the 'Delete file' option.
+
+3. Delete the File
+
+Click on 'Delete file.' A confirmation prompt may appear. Confirm the deletion to remove the file.
+
+4. Delete from Directory (if applicable)
+
+If the file is part of a directory, navigate to the relevant directory. 
+
+- Click on the desired file to delete. 
+- Alternatively, click on the '...' (ellipsis) next to the directory name to delete the entire directory.
+
+5. Confirm Deletion
+
+Review the list of files to be deleted and confirm the action.
+
+6. Document the Path (Optional)
+
+Copy and note the path of the deleted file for future reference if needed.

@@ -1,0 +1,15 @@
+Removing Extra Characters in Twitter Added by Google Docs
+
+What: Remove unwanted spaces and extra characters from Twitter text generated through Google Docs.
+
+Why: To ensure that the text adheres to character limits and avoids formatting issues when shared on Twitter.
+
+When: Whenever text is prepared for posting on Twitter and has been edited or formatted in Google Docs.
+
+1. Check the text for spaces
+
+Inspect the content to identify any irregular spaces or formatting issues introduced by Google Docs.
+
+2. Edit the content
+
+Remove any unnecessary spaces or extra characters to ensure the text meets Twitter's character limits.

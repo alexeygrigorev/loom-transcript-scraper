@@ -1,0 +1,27 @@
+Leads Spreadsheet for Reaching Out to People
+
+What: Utilize a spreadsheet to organize outreach efforts for workshops and events.
+
+Why: To maintain organization and ensure all contacts are managed effectively, facilitating follow-ups and maximizing engagement.
+
+When: Whenever planning outreach for workshops, webinars, or other events.
+
+1. Create a Spreadsheet
+
+Set up a new spreadsheet to track leads. Include columns for names, event types, contact details (like LinkedIn and email), and status of outreach.
+
+2. Add Lead Information
+
+For each person you plan to reach out to, fill in their name, the type of event they are associated with (e.g., workshop), and their contact details. 
+
+3. Send Initial Outreach
+
+Send a message to each lead, letting them know about the opportunity (e.g., a workshop). Include relevant details and a direct link to the event if applicable.
+
+4. Track Responses
+
+Monitor the spreadsheet for responses and update the status for each contact accordingly. This helps in identifying who requires follow-ups.
+
+5. Follow-Up 
+
+If there is no response after a set period, follow up with the leads to ensure they received the initial outreach and to gauge their interest in participating.

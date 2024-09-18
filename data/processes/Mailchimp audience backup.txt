@@ -1,0 +1,27 @@
+Mailchimp Audience Backup
+
+What: Exporting audience data from Mailchimp for backup.
+
+Why: To preserve contacts and maintain a secure backup of audience data for future reference.
+
+When: Perform this task regularly to ensure data is up-to-date and secure.
+
+1. Log into Mailchimp
+
+Start at the Mailchimp website and log into your account to access your dashboard.
+
+2. Navigate to Audience
+
+Click on the "Audience" tab in the dashboard, then select "All contacts."
+
+3. Export Audience Data
+
+Click on "Export Audience" to initiate the export process. An email will be sent with the export file link.
+
+4. Download and Name the File
+
+Check your email, download the exported file, and name it appropriately (e.g., "2023_05_27_Members_Export").
+
+5. Upload to Google Drive
+
+Create a designated folder in Google Drive for backups. Upload the exported file to this folder.

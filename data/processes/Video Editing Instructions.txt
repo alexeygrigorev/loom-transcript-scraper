@@ -1,0 +1,53 @@
+Video Editing Instructions
+
+What: Edit audio and upload videos 
+
+Why: To enhance audio quality and ensure all educational content is ready before course start. 
+
+When: Immediately, before the course starts on Monday.
+
+1. Identify Videos for Editing
+
+Review recorded video files, specifically starting from Module 1.2 and including all videos from the second module, excluding the very first video.
+
+2. Use the Editing Tool
+
+Access the audio editing tool. 
+- Select the video file to edit. 
+- The tool will automatically determine the volume increase needed. 
+- If the video contains a “ding” sound at the start, it should be removed.
+
+3. Conduct a Test Run
+
+Click on “Test Run” to preview changes. 
+- Ensure the ding is removed and the volume is acceptable.
+  
+4. Process the Video
+
+After confirming the audio adjustments through the test run, click “Process” to finalize changes. 
+- A new file will be generated.
+
+5. Repeat for All Videos
+
+Continue the editing process for each video file that requires adjustments. The steps remain the same: select, test run, process.
+
+6. Download New Videos from YouTube (if applicable)
+
+Navigate to YouTube to download any additional required videos, ensuring to focus on LLMZoomCamp videos provided.
+
+7. Manage Uploads
+
+- Before uploading the edited videos, remove the old versions from the playlist. 
+- Upload the newly edited videos.
+
+8. Inform and Check-In
+
+After completing the uploads, notify the team to review the changes. Do not delete the old videos until confirmed.
+
+9. Create Process Documents
+
+Draft process documents for both the audio editing tool and downloading videos from YouTube.
+
+10. Complete Before Deadline
+
+Ensure all tasks are accomplished before the course starts on Monday.

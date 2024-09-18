@@ -1,0 +1,28 @@
+Sponsorship CRM: Filling in the Missing Fields
+
+What: Update company status and relevant details in the Sponsorship CRM.
+
+Why: To ensure proper categorization of companies and maintain relevant contact information, which aids in prospect management.
+
+When: Whenever new companies are added to the Sponsorship CRM or when existing company information needs to be updated.
+
+1. Add Status
+
+Determine the company's status. If no status is assigned, categorize them as "prospects."
+
+2. Remove Unused Entries
+
+Identify and remove companies that do not have any relevant content assigned to them.
+
+3. Update Relevant Details
+
+For established contacts, fill in the relevant information such as:
+
+- Company relevance based on the content
+- Website URL
+- LinkedIn profile
+- Optional: Additional social media accounts (e.g., Twitter)
+
+4. Evaluate Text Usage
+
+Assess the importance of the text field. If it proves unnecessary, consider removing it in the future.

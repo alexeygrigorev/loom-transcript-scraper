@@ -1,0 +1,21 @@
+Adding Links to Images in Mailchimp (for the newsletter)
+
+What: Linking images in Mailchimp emails.
+
+Why: To enhance engagement by making images clickable.
+
+When: Whenever images are added to newsletters.
+
+1. Select the image
+
+Click on the image you want to link.
+
+2. Add the link
+
+Click on the 'Link' option and enter the desired URL. 
+
+3. Repeat for additional images
+
+Link both the banner and any other images, such as buttons, following the same steps. 
+
+By ensuring all images in the email are linked, you improve the functionality and effectiveness of the newsletter.

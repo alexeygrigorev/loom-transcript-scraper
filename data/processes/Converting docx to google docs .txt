@@ -1,0 +1,23 @@
+Converting DOCX to Google Docs
+
+What: Convert Word documents (DOCX) to Google Docs format.
+
+Why: To utilize native Google Docs format for easier accessibility and editing.
+
+When: Whenever a Word document needs to be converted to ensure compatibility and collaboration in Google Drive.
+
+1. Prefix the Document
+
+Add the prefix "deleted" to the name of the Word document to indicate it will be replaced.
+
+2. Create a Google Docs Copy
+
+Open the Word document in Google Drive, then save a copy in Google Docs format. Remove the prefix after saving.
+
+3. Update Trello Cards
+
+Access Trello and navigate to the relevant cards that reference the old document. Replace the links to point to the newly created Google Doc.
+
+4. Final Review
+
+Review the updated cards to ensure all references have been accurately changed and verify that the new document is functional.

@@ -1,0 +1,31 @@
+Make Sure We Add Streams to Appropriate Playlists
+
+What: Organize and update video content in playlists.
+
+Why: Ensure all content types are categorized correctly for better accessibility and viewer engagement.
+
+When: After each event or recording.
+
+1. Identify Content Type
+
+Review the latest videos to determine if they are podcasts or webinars.
+
+2. Move Incorrectly Categorized Content
+
+If any content is miscategorized (e.g., a webinar listed as a podcast), move it to the appropriate playlist.
+
+3. Update Playlists
+
+Add recent content to the correct playlists, confirming that each entry belongs to its respective category.
+
+4. Collect Links from Speakers
+
+After each webinar or podcast, reach out to speakers for any relevant links they want to share and include them in the description.
+
+5. Implement Checkpoints
+
+Ensure the same checkpoints for collecting links are added to all podcast and webinar templates to maintain consistency.
+
+6. Organize YouTube Links
+
+When available, utilize the fixed podcast page as a reference for sharing links with speakers, streamlining the distribution process.

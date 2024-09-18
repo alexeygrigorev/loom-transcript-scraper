@@ -1,0 +1,27 @@
+Transferring Money to Revolut
+
+What: Transfer funds to a Revolut account for online payments.
+
+Why: To avoid fees associated with other payment platforms and ensure sufficient balance for transactions.
+
+When: When the Revolut account balance is low and requires replenishment for upcoming payments.
+
+1. Identify the correct Revolut bank account
+
+Ensure you have the accurate bank account details for the Revolut account meant for business transactions.
+
+2. Access the funding source
+
+Log into your main bank account from which you will transfer money.
+
+3. Transfer the desired amount
+
+Initiate a transfer, specifying the correct amount (e.g., 3,000) to the identified Revolut bank account.
+
+4. Confirm the transaction
+
+Review the transaction details to ensure everything is correct before proceeding. Execute the transfer once confirmed. 
+
+5. Remove any outdated accounts
+
+To streamline your account options, delete any old or irrelevant bank accounts from your records to avoid confusion during future transactions.

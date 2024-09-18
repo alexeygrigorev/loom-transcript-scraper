@@ -1,0 +1,31 @@
+Editing Open Source Spotlight Recording
+
+What: Editing video recordings to remove unnecessary content and edit chat messages.
+
+Why: To enhance viewer experience and ensure clarity in the final edited videos.
+
+When: This should be performed after a recording is completed and before sharing the final version publicly.
+
+1. Access the Recording
+
+Navigate to the Zoom link provided for the video recording.
+
+2. Identify Editing Points
+
+Review the video for timestamps that require edits—specifically at four minutes and 52 seconds, and around 20 minutes.
+
+3. Remove Unnecessary Segments
+
+Utilize the YouTube editing tools to cut out the identified segments from the video.
+
+4. Edit Chat Messages
+
+Examine the chat messages for necessary edits and corrections. Ensure they align with the video content.
+
+5. Final Review
+
+Review the edited video to confirm that all unnecessary segments are removed and chat messages are accurate.
+
+6. Save and Share
+
+Once satisfied with the edits, save the final version and prepare it for sharing with the intended audience.

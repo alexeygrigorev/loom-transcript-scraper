@@ -1,0 +1,19 @@
+Creating the invoice from Valeriia for our reports
+
+What: Process for generating monthly invoices for tax reporting
+
+Why: Monthly invoices are required for tracking expenses and fulfilling tax reporting obligations.
+
+When: At the end of each month, prior to the tax report submission.
+
+1. Update Invoice Details
+
+Change the invoice number and date to reflect the current month. For example, for invoices generated in March, update the number and set the date to the current date.
+
+2. Specify Service Period
+
+Update the service period description on the invoice. For invoices generated in March, include services from February through March. For April invoices, include services from March through April, and so forth.
+
+3. Download and Submit Invoice
+
+Download the updated invoice as a PDF file and include it in the monthly report. Ensure it is sent through the usual process for bookkeeping records.

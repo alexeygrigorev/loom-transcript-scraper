@@ -1,0 +1,23 @@
+Adding Podcast Docs to Trello Cards
+
+What: Adding relevant documents for podcasts to Trello cards.
+
+Why: To organize and track podcast episodes effectively within the Trello project management system.
+
+When: After finalizing the podcast recording and preparing the necessary documents.
+
+1. Gather podcast details
+
+Collect the essential information about the podcast episode, including the host, guest, and episode title.
+
+2. Create or update the Trello card
+
+Locate the relevant Trello card for the podcast episode or create a new one if it doesn't already exist.
+
+3. Attach documents
+
+Upload any necessary documents related to the podcast episode, such as scripts, show notes, or promotional materials, to the Trello card.
+
+4. Review and finalize
+
+Check that all information is correctly entered and that documents are properly attached before concluding the process.

@@ -1,0 +1,17 @@
+Adding spaces around dashes
+
+What: Ensure proper formatting by adding spaces around dashes in text.
+
+Why: Proper formatting improves readability and visual consistency.
+
+When: Apply formatting during the editing process before finalizing any text.
+
+1. Identify dashes in the text
+
+Check the document for instances of dashes that lack surrounding spaces.
+
+2. Add spaces around dashes
+
+Insert a space before and after each dash to enhance clarity and alignment. 
+
+Ensure that other formatting issues, such as column widths, are addressed for better overall layout.

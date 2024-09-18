@@ -1,0 +1,27 @@
+A Guide to Free Online Courses at Data Talks Club
+
+What: Updating the starting date of online courses in the article.
+
+Why: To ensure accurate information about course start dates for prospective participants.
+
+When: Whenever there is a need to update the course starting dates.
+
+1. Access the Repository
+
+Go to the website repository and navigate to the Boston section.
+
+2. Locate the Article
+
+Find the article titled "Guide to Free Online Courses at Data Talks Club."
+
+3. Edit the Article
+
+Click on the 'edit' button to access the content of the article.
+
+4. Update Course Dates
+
+Locate the specific course entry (e.g., Machine Learning Zoom Camp) and verify the start date. If an update is needed, change the date accordingly (e.g., from September 2024 to 2025).
+
+5. Save Changes
+
+After making any necessary updates, ensure to save the changes to the article.

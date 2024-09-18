@@ -1,0 +1,35 @@
+Creating Invoices in USD in Finom
+
+What: Generate invoices in United States dollars using the Finom platform.
+
+Why: To manage financial transactions in the correct currency, ensuring accurate record-keeping and payment processing.
+
+When: When an invoice needs to be issued in USD.
+
+1. Access the Finom platform
+
+Navigate to the main page of the Finom account.
+
+2. Create a new document
+
+Click on "New Document" to initiate the invoice creation process.
+
+3. Select currency
+
+In the currency dropdown menu, select "US dollars" instead of the default "Euros."
+
+4. Set the account
+
+Choose the relevant account from the dropdown menu to ensure the transaction is linked to the proper financial source.
+
+5. Save the invoice
+
+Click "Save" to store the invoice after all necessary details have been entered.
+
+6. Validate currency and account
+
+Before finalizing the invoice, verify that the selected currency is correct (USD) and ensure the proper account is chosen to prevent any errors in future transactions. 
+
+7. Update existing process documents
+
+Revise any existing process documentation to include these steps and mention how to select the currency and account accurately.

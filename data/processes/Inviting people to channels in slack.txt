@@ -1,0 +1,27 @@
+Inviting People to Channels in Slack
+
+What: Inviting users to specific Slack channels
+
+Why: To facilitate communication and collaboration among team members by ensuring relevant participants are included in dedicated discussions.
+
+When: When a new member joins the team or when a participant needs access to a specific project or discussion channel. 
+
+1. Identify the user to invite
+
+Confirm the person's Slack account or check their email if they are not already a member.
+
+2. Select the channel
+
+Locate the desired channel, such as “Book of the Week,” to which you want to invite the user.
+
+3. Send the invitation
+
+Click on the channel name, then use the invite function to add the user by entering their Slack username or email address. 
+
+4. Confirm invitation status
+
+Verify that the user has accepted the invitation and appears in the channel.  
+
+5. Communicate with the user
+
+Send a direct message or notify them to ensure they know about the invitation and can join the conversation.

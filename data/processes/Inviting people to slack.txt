@@ -1,0 +1,23 @@
+Inviting People to Slack
+
+What: Inviting new members to a Slack workspace.
+
+Why: To ensure team members and contributors have access to relevant communication channels.
+
+When: When a new member needs to be added to the Slack workspace.
+
+1. Access the Slack invitation feature.
+
+Navigate to the option to invite people.
+
+2. Enter the email address.
+
+Input the email address of the person you wish to invite.
+
+3. Send the invitation.
+
+Complete the process to send the invitation to the provided email.
+
+4. Notify the invited person.
+
+Send a brief message to inform them to check their email for the Slack invitation.

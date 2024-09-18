@@ -1,0 +1,23 @@
+Open-Source Spotlight Playlist Management
+
+What: Managing the Open-Source Spotlight playlist by verifying releases and organizing timestamps.
+
+Why: To ensure that only scheduled and released content is available in the playlist and to maintain consistency in timestamp formatting.
+
+When: This process should be executed before adding new content to the playlist and whenever reviewing existing entries.
+
+1. Check for Scheduled Releases
+
+Verify if the items intended for the playlist are scheduled for release. Only include them once they are officially scheduled.
+
+2. Verify Inclusion in Playlist
+
+Confirm that the unlisted items are not publicly accessible through the playlist until their release date.
+
+3. Format Timestamps Correctly
+
+When receiving timestamps, ensure that all entries include leading zeros for a uniform format across the document. Adjust as necessary to maintain consistency.
+
+4. Update Playlist
+
+Once an item is scheduled for release, add it to the playlist immediately. Ensure proper access settings are applied so that it remains unlisted until the scheduled date.

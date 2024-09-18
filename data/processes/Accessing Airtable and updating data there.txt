@@ -1,0 +1,35 @@
+Accessing Airtable and Updating Data
+
+What: Access and update records in Airtable.
+
+Why: To correct submitted event titles and manage data effectively.
+
+When: Whenever there is a need to edit submitted data in Airtable.
+
+1. Log in to Airtable
+
+Access your Airtable account using the saved password.
+
+2. Locate the submitted record
+
+Navigate to the corresponding database where the records are stored.
+
+3. Expand the record
+
+Click on the specific record you wish to edit to view its details.
+
+4. Update the event title
+
+Copy the correct title from the relevant source (e.g., Devon Drive) and paste it into the designated field in Airtable.
+
+5. Save changes
+
+Confirm and save the updates. The status of the record may change based on the modifications made.
+
+6. Review processed events
+
+Check the grid view to see all past events and ensure they have been correctly processed.
+
+7. Verify data submission
+
+If necessary, log in again to review and confirm the details submitted through the form.

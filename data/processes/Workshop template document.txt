@@ -1,0 +1,35 @@
+Workshop Template Document
+
+What: Creation of workshop templates for organizing workshops
+
+Why: Workshops are hands-on sessions similar to webinars, and a structured template ensures consistency and clarity in planning and communication.
+
+When: Use this process when planning and organizing a new workshop.
+
+1. Access the shared folder
+
+Locate the folder containing the workshop description and current templates.
+
+2. Review the existing template
+
+Examine the current workshop template to understand its structure, including fields for title, subtitle, date, and time.
+
+3. Create a copy of the template
+
+Make a duplicate of the existing workshop template for the new workshop.
+
+4. Modify the copied template 
+
+Update the title, date, and other relevant information in the copied template to reflect the new workshop's details.
+
+5. Send the template to the workshop instructor
+
+Share the modified template with the workshop instructor, requesting their input to fill in any additional necessary details.
+
+6. Finalize the workshop details
+
+Once the instructor completes the template, review it for accuracy and completeness. Make any necessary adjustments before proceeding.
+
+7. Plan for future events
+
+Evaluate the process after the workshop to determine if similar templates should be created for webinars or other events.

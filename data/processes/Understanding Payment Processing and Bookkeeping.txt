@@ -1,0 +1,31 @@
+Understanding Payment Processing and Bookkeeping
+
+What: Record and declare payments in bookkeeping and manage related documentation.
+
+Why: To ensure accurate financial records and proper expense declaration.
+
+When: When payments are received and need to be documented.
+
+1. Verify Payment Receipt
+
+Check the merchant account (e.g., Revolut) to confirm payment entry.
+
+2. Create Bookkeeping Document
+
+Print the relevant invoice and save it as a PDF.
+
+3. Send Document via Email
+
+Email the saved PDF to the designated bookkeeping address for record-keeping and expense declaration.
+
+4. Verify Document Entry
+
+Check the bookkeeping records after a brief period to confirm that the document has been logged correctly.
+
+5. Withdraw Funds
+
+If applicable, initiate the withdrawal process from the merchant account, following established procedures.
+
+6. Review for Existing Processes
+
+Ensure there are existing process documents related to payment recording and withdrawal. Update or create new documentation as necessary.

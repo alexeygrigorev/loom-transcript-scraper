@@ -1,0 +1,31 @@
+How to Schedule Payments
+
+What: Scheduling recurring payments in Infinum.
+
+Why: To ensure timely payments for ongoing financial obligations, such as monthly invoices from accountants.
+
+When: Whenever a payment plan is established for a series of future payments.
+
+1. Identify Payment Details
+
+Determine the amount, start date, end date, and frequency of the payment. Confirm any previous payments made and the remaining payments to schedule.
+
+2. Access Infinum
+
+Log into the Infinum platform and navigate to the payment scheduling section.
+
+3. Enter Payment Information
+
+Fill in the payment details, including the invoice number as the reason for payment.
+
+4. Set Schedule Parameters
+
+Click on the option to schedule the payment. Set the frequency to monthly, with the start date as February 1 and the end date as December 31. Confirm the total number of payments required.
+
+5. Confirm the Schedule
+
+Click continue to proceed with the scheduling, then confirm the scheduled payments.
+
+6. Document the Arrangement
+
+Keep a record of the scheduled payments and any relevant communication, such as forwarding reminders or invoices received.

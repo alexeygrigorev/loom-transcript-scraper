@@ -1,0 +1,27 @@
+New way of getting the anchor link for podcast pages
+
+What: Obtain the correct anchor link for podcast episodes.
+
+Why: To ensure the podcast player functions correctly by using the appropriate URL format.
+
+When: When creating or updating a podcast page.
+
+1. Access the Public Anchor Page
+
+Navigate to the public page of the podcast on Anchor (e.g., anchor.fm/dataTalkClub) to find the episode link.
+
+2. Copy the Episode Link
+
+Select the desired episode link from the public page.
+
+3. Paste the Link in the Form
+
+Insert the copied link into the designated field in the submission form. Ensure the format is correct: it should not include parameters past the question mark.
+
+4. Edit the Link If Necessary
+
+If the URL contains a question mark, remove everything after it. This will streamline the link to the intended format required for proper functionality.
+
+5. Update Documentation
+
+Ensure the process document is updated to reflect this method of obtaining anchor links, keeping consistency with other podcast platforms like Apple and Spotify.

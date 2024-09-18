@@ -1,0 +1,39 @@
+Import from Eventbrite to Mailchimp
+
+What: Import attendee emails from Eventbrite to Mailchimp for targeted email campaigns.
+
+Why: To streamline communication with individuals who have opted in to receive newsletters and updates post-event.
+
+When: After an event concludes and the attendee list is available.
+
+1. Export Attendee List
+
+Access the event in Eventbrite and navigate to the attendee summary. Export the list as a CSV file using compatible software like LibreOffice or Microsoft Excel.
+
+2. Filter Subscribed Attendees
+
+Open the CSV file and apply a filter to identify attendees who opted in for the newsletter. Unselect 'No' in the subscription column to focus on those who wish to receive updates.
+
+3. Prepare for Import
+
+Copy the filtered list of emails and count them to ensure accuracy. Only include those who have agreed to subscribe. 
+
+4. Log into Mailchimp
+
+Go to mailchimp.com and log into your account.
+
+5. Import Contacts
+
+Navigate to your audience section, select "Import Contacts," and choose the copy-paste option. Paste the email addresses from the filtered list.
+
+6. Confirm Import Settings
+
+Select the option to subscribe and update existing contacts. Assign relevant tags, such as "event," and proceed to match the fields.
+
+7. Finalize Import
+
+Review and complete the import process. Mailchimp will display how many new contacts were added and any existing contacts updated.
+
+8. Verify Automation
+
+Check the automated response settings to ensure attendees receive a thank you email post-event, reinforcing their desire to stay connected.

@@ -1,0 +1,39 @@
+Adding Promoted Content to the Sponsorship CRM from Social Media (Twitter, LinkedIn)
+
+What: Capture and log promoted content from social media platforms into the sponsorship CRM.
+
+Why: To keep track of advertising efforts and content performance from various sources for better analysis and reporting.
+
+When: Whenever a paid promotion is observed on social media platforms such as LinkedIn or Twitter.
+
+1. Identify the Promoted Content
+
+Look for paid promotions in your social media feed. 
+
+2. Copy the Link
+
+Click on the promoted post to open it and copy the link.
+
+3. Access the Sponsorship CRM
+
+Open the CRM where you log sponsored content.
+
+4. Enter the Content Details
+
+   a. Title: Input the title of the promoted content (e.g., book title). 
+   
+   b. Link: Paste the copied link into the appropriate field.
+   
+   c. Content Type: Specify the type of content (e.g., ebook).
+   
+   d. Source: Indicate the platform (e.g., LinkedIn or Twitter).
+   
+   e. Company: Enter the company name (e.g., DataStax).
+   
+   f. Comment: Add any relevant comments or additional information.
+
+5. Save the Entry
+
+Ensure that all information is accurate and save the entry in the CRM. 
+
+Following these steps helps maintain organized records of sponsored content for future reference and analysis.

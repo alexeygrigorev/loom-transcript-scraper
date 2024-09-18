@@ -1,0 +1,27 @@
+Getting numbers of clicks for newsletter and twitter
+
+What: Collecting click data for newsletter content and Twitter analytics
+
+Why: To provide a breakdown of engagement metrics that are more meaningful to the audience rather than totals.
+
+When: After each newsletter distribution and relevant Twitter activity.
+
+1. Access MailChimp
+
+Log in to MailChimp and navigate to the campaign from the previous week. Focus on the number of clicks specific to content rather than overall totals.
+
+2. Analyze Newsletter Clicks
+
+Review the links associated with your newsletter. Document the total click count for content to assess engagement levels.
+
+3. Access Twitter Analytics
+
+Go to your Twitter account and navigate to the analytics section. Check the tweet performance from the previous week.
+
+4. Collect Click Data
+
+Record the number of clicks from the relevant tweets and any additional platforms, like LinkedIn, to complete your engagement metrics.
+
+5. Summarize Findings
+
+Compile the click data for newsletter and Twitter, focusing on individual content performance, and prepare it for any necessary reporting or discussions.

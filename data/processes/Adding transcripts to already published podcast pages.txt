@@ -1,0 +1,33 @@
+Adding Transcripts to Already Published Podcast Pages
+
+What: Adding transcripts to existing podcast episode pages.
+
+Why: To provide accessibility and improve user experience by making the content searchable and easier to read.
+
+When: Whenever a new transcript is available for a previously published podcast episode.
+
+1. Download Transcript
+
+Download the transcript file as a Microsoft Word document.
+
+2. Check Episode Details
+
+Verify the details of the podcast episode, such as season and episode number (e.g., Season 7, Episode 8).
+
+3. Upload Transcript
+
+Upload the downloaded transcript file to the podcast platform. Confirm the upload process is complete by checking for a success notification (indicated by a green check).
+
+4. Access Podcast Page
+
+Navigate to the podcast section of the website and locate the specific episode (e.g., Season 7, Episode 8 from Data Science and Data Engineering).
+
+5. Update with Transcript
+
+Select the edit option for the episode, copy the transcript content from the document, and paste it into the designated transcript field on the podcast page.
+
+6. Save Changes
+
+Save the changes to update the website, ensuring the transcript is now visible on the episode page. Wait a moment to confirm that the update has been executed. 
+
+This process effectively adds transcripts to existing podcast episode pages.

@@ -1,0 +1,19 @@
+Forwarding Messages to the Bot from the Web Interface
+
+What: Forward messages to the bot using the web interface.
+
+Why: To streamline communication and efficiently share information with the bot.
+
+When: Whenever there is a need to send multiple records or messages to the bot.
+
+1. Select Multiple Items
+
+Right-click on the record you wish to forward.
+
+2. Choose Forward Option
+
+In the context menu, click on "Select" and then choose the "Forward" option. 
+
+3. Confirm Action
+
+Execute the forward action as needed.

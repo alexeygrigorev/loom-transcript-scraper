@@ -1,0 +1,23 @@
+Using Enter for Line Breaks in Google Documents
+
+What: Proper use of line breaks in podcast documents
+
+Why: To ensure clarity and appropriate formatting in text, avoiding confusion in content structure.
+
+When: Use this process when formatting podcast documents.
+
+1. Use Enter for Line Breaks
+
+Press Enter to create a new paragraph, ensuring that each paragraph is distinct and selected individually.
+
+2. Avoid Shift + Enter
+
+Do not use Shift + Enter, as this retains the text within a single paragraph, leading to potential confusion during editing and readability.
+
+3. Check for Common Sense Corrections
+
+Before finalizing, review the document for any statements that may not make logical sense. Highlight and correct any unclear or inappropriate wording for clarity.
+
+4. Review the Document Before Interviews
+
+Make it a habit to check the document for proper formatting and clarity before each interview to prevent confusion for the guest.

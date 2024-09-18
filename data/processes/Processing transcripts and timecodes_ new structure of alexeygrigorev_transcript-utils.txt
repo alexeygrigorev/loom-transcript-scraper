@@ -1,0 +1,27 @@
+Processing Transcripts and Timecodes
+
+What: Management of video transcripts and timecodes.
+
+Why: To ensure proper organization and accessibility of video content and corresponding transcripts for effective processing and public availability.
+
+When: After uploading video content and when preparing transcripts for publication.
+
+1. Upload video content
+
+Upload the video to the designated platform.
+
+2. Organize timecodes
+
+After upload, timecodes should be processed and placed in the timecodes folder.
+
+3. Access transcripts
+
+Transcripts are stored in a separate transcripts folder for clarity and easy access.
+
+4. Prepare for publication
+
+When the transcripts are ready, prepare them for addition to the website alongside the corresponding video.
+
+5. Monitor updates
+
+Ensure that updated transcripts are processed when needed and placed in their designated location for future use.

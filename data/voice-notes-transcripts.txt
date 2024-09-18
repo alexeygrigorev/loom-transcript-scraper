@@ -1,0 +1,1671 @@
+Process for Document Submission
+2024-09-02 09:58:02
+
+To begin, you need to create a copy using our template document. Once you've created this copy, send it to the recipient so they can fill it in. 
+
+I forwarded you an email from Francis a while ago. Please take a moment to check how he handled the process. He not only created a copy but also included a PDF document. I requested that you upload this PDF somewhere and send the link instead of the file itself. 
+
+It's important to address this promptly, as we should have completed this task last week, and they are still waiting for our response. 
+
+In cases where you are unsure of how to respond, please reach out to me as soon as possible. Don't wait for a week; it's crucial to be practical and proactive in these situations.
+
+---
+
+Downloading Files: Important Information
+2024-08-31 09:52:31
+
+When downloading the files, it's important to note that you should not use the browser. Instead, there will be a TXT file included in the download. This file contains essential information that is necessary for the process.
+
+Please ensure that this aspect is clearly mentioned in the process documents, as it is crucial for proper execution.
+
+---
+
+Open Source Spotlight Video Process
+2024-08-29 20:19:30
+
+I noticed that you added the ParadeDB video to the Open Source Spotlight playlist. We should hold off on adding it there until it's fully ready, so I removed it for now. 
+
+The process we follow is to upload the video as unlisted and then send the link to the guests. They will review the edited version we provide. If they have any further edits, they can send us the timestamps for adjustments.
+
+Once we update the timestamps, we add them to the video and then schedule the release. Only at that point do we add the video to the playlist.
+
+Please update the process documents to reflect these steps. It might also be helpful to create a separate overview page specifically for the Open Source Spotlight process.
+
+---
+
+Podcast Priorities and Upcoming Tasks
+2024-08-27 13:34:49
+
+This week, I want you to focus on completing all the podcast-related tasks, particularly the transcription part. We're slowly getting back on track with our podcast episodes, and my hope is that we will soon have at least one new episode each week. I understand this is one of the most complex aspects of our work, so please try not to feel overwhelmed and prioritize figuring it out.
+
+Additionally, while the podcast is important, we need to ensure all tasks related to sponsors receive attention as well. Sponsor-related activities take precedence over everything else. Therefore, after addressing podcast tasks, please prioritize answering Amit and sending the necessary documents.
+
+Regarding our next tax declaration, we still have some time. I believe we can complete it next week, so for this week, let’s concentrate on the podcast tasks. I hope handling the tax declaration will be easier for you next week.
+
+Lastly, please don’t forget to send me regular reports. I want to stay informed if you encounter any obstacles, and I’m here to help whenever necessary.
+
+---
+
+Newsletter Promotion Process
+2024-08-27 13:25:05
+
+I just forwarded you a message regarding a newsletter promotion. We typically begin this process two weeks in advance. We probably have a process document outlining our steps.
+
+First, we create a copy of the template, which you can review. Additionally, we usually attach a visual guide, but I believe it would be better to upload it to our shared drive and make it publicly accessible. We can then simply share the link instead of sending it as an attachment.
+
+For now, please send it to Amit with the attachment. However, later on, let's revise the template and include the visual guide as a link. This approach will help us avoid sending heavy attachments every time.
+
+---
+
+Editing Instructions for Podcast and ParadeDB
+2024-08-27 13:03:18
+
+For each new podcast episode, ensure that you edit the transcript to reflect the new content clearly. 
+
+Regarding ParadeDB, please review the messages thoroughly before editing. There may be a considerable amount of preliminary content that needs to be cut. For example, yesterday we spent a bit of time before actually getting started, so you will need to eliminate most of the initial content. 
+
+Focus on identifying where the actual discussion begins and retain only the necessary introduction. I believe you will manage to navigate through it once you begin the editing process.
+
+---
+
+Ad Placement and Discoverability Process
+2024-08-27 12:36:14
+
+We need to create a process document that outlines how to add ads, including promotions. This could improve clarity and efficiency in our advertising efforts. 
+
+Additionally, we might consider developing a similar document for influencer marketing if it's deemed necessary. 
+
+The goal is to ensure that all processes are easily discoverable. For instance, when searching for specific tasks, users should be able to find the information they need quickly. 
+
+We should brainstorm ways to enhance the discoverability of these documents, particularly for tasks similar to the one I previously sent.
+
+---
+
+LinkedIn Connection Process
+2024-08-27 12:34:51
+
+There should be a process document for LinkedIn, similar to what we have for other platforms. Currently, all we have is the LinkedIn profile connection process.
+
+If this document does not exist, we should create one. Typically, the procedure involves sending a connection request along with a personalized note. 
+
+In the note, you might say something like, "Hi, your profile looks very interesting! We'd like to invite you to our workshop, where we can discuss your experience in more detail. Are you interested in learning more?" This approach encourages engagement and makes the invite feel more personal.
+
+---
+
+Engaging Potential Speakers
+2024-08-27 09:36:59
+
+When we want to invite a person to speak, we first ensure that they have already expressed interest. The initial step involves reaching out to them to gauge their interest in participating.
+
+Before proposing any specific time slots, we should connect with the individual on LinkedIn. It's important to include a personalized message when sending the connection request. 
+
+You can find suggested templates for these messages in our process documents.
+
+---
+
+Open Source Spotlight Events Scheduling
+2024-08-26 18:37:30
+
+At some point, I was explaining how we can schedule open source spotlight events outside of my typical hours. Marissa sent an invite, but I want to clarify the process for you. 
+
+You can use the Calendly link to schedule the event. You have the option to choose any random time or ask the guests to select a time that works for them, as they will need to provide some information. It's important to use our specific Zoom link for the meeting to ensure we have the recording.
+
+Once the event is created, please move it to the agreed-upon time. While I'm not rejecting Marissa's invite, I suggest you create the new event. After that, I can reject the original invite, and we can proceed with the one you created.
+
+Additionally, we should have a process document outlining this procedure. I’ve explained it to you before, and it would be helpful to have it in writing so that I don’t have to repeat it. Thank you!
+
+---
+
+Slot Availability Reminder
+2024-08-26 17:40:41
+
+I believe Quack already has a slot. We should remind them, as they may have forgotten. 
+
+I'm referring to the email from Amit concerning the slot. However, based on what I see, we currently don’t have any alternatives to suggest to them since it's already taken.
+
+---
+
+Updating the Process for Zip Archive Submission
+2024-08-26 12:50:54
+
+Regarding the email you just sent, I want to clarify the process for submitting the zip archive. Instead of sending it in email, as mentioned in the process document, we actually need to upload it using a special link. 
+
+I have sent you that link, and you can also find it in the email I forwarded to you. 
+
+Additionally, we should update the process document to reflect this change. Please find the document and make the necessary updates regarding the zip archive submission.
+
+Finally, please reply to the original email to confirm that we have uploaded the zip archive using the specified link.
+
+---
+
+Book Submission Process
+2024-08-26 12:26:00
+
+We typically don't ask authors specific questions about their books. Instead, we request that they send us a link to the book. From that link, we can gather all the necessary information.
+
+There are process documents available that outline how to obtain an image and provide detailed instructions for filling out the submission form. As long as we have either the name of the book or a link to the book page, we can find everything we need.
+
+In most cases, if we have the name of the book, we simply look it up on Google to collect all the relevant details.
+
+---
+
+Financial Transaction Clarifications
+2024-08-26 10:12:39
+
+I'm not sure why this date is causing confusion. We can send it as is, and our accountants will figure it out. One potential explanation for the discrepancy could be related to currency conversion when we change money from USD to EUR. 
+
+Another possibility is linked to how our clients pay with a credit card. In such cases, the funds first go to a merchant account, and we then need to transfer that money to our main Revolut account. 
+
+Additionally, we sometimes see transactions from Revolut in Finom, but not always. Occasionally, the connection stops working, so we need to verify in Revolut to ensure there are no missing transactions. It's worth noting that this particular transaction is from Revolut, indicated by the R icon. 
+
+You can proceed with preparing the invoice despite the date discrepancies; as long as the PDF is included, it should be fine. However, for future transactions, we should aim for greater consistency.
+
+---
+
+Book of the Week Schedule
+2024-08-26 09:55:41
+
+In our schedule, you'll notice designated slots for the Book of the Week, which typically span from Monday to Thursday. On Fridays, we announce the winners; however, this process may occasionally extend until Friday if needed.
+
+This event is not designed to be live. Instead, it serves as a dedicated time for participants to engage by asking questions in Slack, where authors will respond directly. 
+
+It's important to ensure that the process documents are updated for clarity on how to participate.
+
+---
+
+Meeting Coordination with Elena
+2024-08-23 18:23:35
+
+We agreed to meet with Elena on the 10th of September at 1 p.m. my time. I have already created a placeholder event in the calendar. 
+
+Please give it a proper name when you have the chance. I understand that you might be feeling overwhelmed with everything happening, so there's no need to stress about it right now. 
+
+When you're back next week, please take care of renaming the event, adding the Zoom links, and reviewing the other process documents from the webinar template.
+
+---
+
+Organizing Documentation for Clarity
+2024-08-23 11:02:05
+
+I understand it might be confusing when I say, "please make sure everything is documented." You might wonder what exactly needs to be documented. It's important to note that you don't need to include extra information that is outside of the process documents; instead, focus on context that provides clarity.
+
+For now, you can place any relevant context into your notes or the onboarding document. We will determine how to structure the onboarding document later. My priority is to ensure that everything I communicate is not lost in the process. If you’re unsure where to record important information, feel free to put it into the onboarding document for now. 
+
+Alternatively, we can consider creating a separate document for notes. This way, you can consolidate all your notes, and later we can decide the best locations for each piece of information. The key takeaway is that when I record a video or a voice note, it needs to be documented and saved somewhere. This approach will prevent me from having to repeat myself.
+
+If we decide to hire another person to assist you, my intention is for them to have access to these documents, so they can easily find all the context and information they need. This would alleviate some of the challenges you currently face with the disorganization we have.
+
+Overall, I want our documentation to be in a much more organized and accessible format. This will allow any team member to read through and comprehend the information independently, and they can seek clarification if something is unclear. Although there is a substantial amount of work to do in this regard, this is my vision for our documentation.
+
+---
+
+Podcasting Content Management
+2024-08-23 10:06:48
+
+I want to ensure that you are fully capable of managing our podcasting content. This includes scheduling episodes on Spotify for Podcasters after they have been edited and published. 
+
+We also need to create a dedicated page on our website that includes the transcript for each episode. It’s important that you can handle these tasks consistently, as they need to happen weekly. We are currently behind on some unpublished podcast episodes, so please remember to schedule the next episode.
+
+I believe we should already have some edited files available. If you're unsure, let me know, as there has been a break of about a month, and we may not have any edited podcast episodes ready. However, if we do have them, please schedule the next episode for today, Friday, at 7 p.m. Be mindful of the time zone.
+
+Additionally, ensure that we have the podcast transcription and a dedicated page for the previous episode featuring Christopher. You can also start preparing the podcast transcription for the new episode that you’ll be scheduling today.
+
+Once the new episode is scheduled, remember to gather links from Spotify, Apple Podcasts, and YouTube. After that, we can publish a new page, which we will include in our newsletter on Monday.
+
+---
+
+Social Media Posting Strategy
+2024-08-23 09:55:30
+
+Could you please check if the checkbox was ticked for other events that have already taken place? I'm curious about what was included there. We might consider using this information as a replacement for creating new posts on social media, specifically on LinkedIn and Twitter.
+
+Additionally, please consult with Valeria about the templates we should use for these announcements. It’s essential that we create posts on LinkedIn and Twitter regarding the events we have scheduled.
+
+Furthermore, please update the templates to ensure they are current, as they may not be accurate at this moment. 
+
+For Twitter, I believe you already have the login credentials, which were shared in the chat with Valeria. However, if you need any code or assistance, just let me know.
+
+---
+
+LinkedIn Events Strategy
+2024-08-23 09:52:38
+
+We tried using LinkedIn events similarly to how announcements work. However, we found that they didn't effectively attract people. As a result, we decided to stop organizing them at some point.
+
+---
+
+LinkedIn Posting Guidelines
+2024-08-23 09:38:34
+
+I want to clarify why you should check with Valeria before announcing anything from my LinkedIn. Generally, my LinkedIn account isn't used without my request. This account is mainly for reaching out to speakers and guests, with occasional posts done at my request. Valeria typically manages my LinkedIn activity.
+
+In contrast, you should regularly post from the Data Talks Club LinkedIn account. You should already have access to it; if not, let's resolve that issue. 
+
+When using LinkedIn, it's important to verify event details. In the past, we’ve mistakenly listed events as offline instead of online. Make sure to check that the event is correctly marked as online and that it includes a link to our YouTube channel, rather than an irrelevant link.
+
+If we don’t have a process document for these tasks, please create one.
+
+---
+
+Support for Our Community
+2024-08-22 12:42:33
+
+In this case, I typically ask if the company is interested in supporting our community. If they express interest, we can explore the possibility of organizing a sponsored event.
+
+---
+
+Adjustment of Working Hours
+2024-08-21 19:37:40
+
+I received a request from our account manager regarding your desire to reduce your working hours. That's completely understandable. 
+
+I would like to clarify what this means in practical terms. Are you looking to work one day less each week, or would you prefer to reduce your hours on a daily basis? 
+
+Please let me know your availability so we can make the necessary arrangements.
+
+---
+
+Planning the Newsletter and Workshop
+2024-08-21 18:56:05
+
+Let's check with Natasha to determine what they actually want to do. If they are interested, we can certainly handle both the newsletter and the workshop. 
+
+For the newsletter, please send them the available dates and ask which date would work best for them. It's important to select only a few dates around their preferred day rather than sending them all the available options. We want to avoid giving the impression that we're overly available with too many open slots.
+
+Regarding the workshop, we should also inquire about their preferred timeframe. We can then choose any of the Tuesdays for that event.
+
+---
+
+Important Updates on Registration Process
+2024-08-21 18:52:57
+
+For the registration process, it's crucial to include only those who have opted in. When individuals register, they should see a checkbox to subscribe to Datadog's Club newsletter. We should only select those who have ticked that checkbox.
+
+To ensure we are compliant, we need to check which events haven't had this process uploaded. This is something we should implement for every event moving forward. I'm unsure if Francis has been handling this, so we will need to review previous events to determine which ones lack this step and address it retroactively.
+
+For now, please add this task to our to-do list and focus initially on the new events. Going forward, we'll handle this for past events as well.
+
+Additionally, instead of using Eventbrite for registrations, we will switch to Luma. Unlike Eventbrite, Luma allows us to manage this subscription process effectively. Please note that Pavel is no longer working with us.
+
+---
+
+Creating a Reporting Template in Trello
+2024-08-21 11:28:52
+
+I think I might have asked you this before, but just in case, let’s create a document that outlines how we generate our reports. 
+
+It would be even more effective to develop a step-by-step template in Trello that clearly describes each part of the reporting process. 
+
+This way, the next time you work on it, you can simply clone the template, check off the necessary tasks, and complete it more easily.
+
+---
+
+Financial Review and Reconciliation
+2024-08-21 11:27:51
+
+Please check Finom and Revolut for any income or expenses that are not recorded in the bookkeeping spreadsheet. If you find any payments in these accounts that are missing from the spreadsheet, we need to add those entries and ensure we have corresponding invoices saved in Dropbox.
+
+It is crucial to declare any incoming money accurately. This aspect is extremely important; we must not overlook including any income we received. 
+
+Take the time to review the transactions in Finom and Revolut for this month to identify any discrepancies with our records. Keep in mind that not all transactions will appear in these accounts. There are instances when I make payments using my personal card, and some payments might not originate from either Finom or Revolut. 
+
+However, we must ensure that any incoming funds are documented in the bookkeeping records to maintain accuracy.
+
+---
+
+Currency Conversion Process Update
+2024-08-21 11:25:25
+
+Please avoid using Google for currency conversion, as it provides outdated information. Instead, I recently shared a link to VICE, which allows us to select a specific date for the transaction. This way, we can accurately find the historical exchange rate for that particular day.
+
+While the current rates may not have changed significantly over the past month, it is essential to update the process document. Alternatively, we should consider creating a new process document that outlines how to convert currencies using historical rates. We can then link this new document in the existing process document that you presented in the screencast video.
+
+Additionally, I believe the deleted item in the spreadsheet was an accidental duplicate. Please remove that line to streamline our records.
+
+---
+
+Payment Process and Invoice Management
+2024-08-21 10:12:24
+
+If you need to pay an invoice, I will specify that you need to do so. Typically, I either pay the invoice upfront and receive a confirmation later, or I handle the payment directly. For example, when I receive an invoice from Valeria, I pay it myself since you don’t have access to all the necessary tools.
+
+I primarily use VICE for this process, but ultimately, I manage many tasks personally. Your responsibility is to declare the expenses and ensure they are recorded in the spreadsheet. Generally, if an expense appears in the spreadsheet, it's already been paid. 
+
+When you need to pay for something, I will clearly instruct you to take action. There is also a process document available that outlines the steps for making payments in FINOM. 
+
+Regarding your comment about incoming invoices not being in Venom, could you clarify your concerns? I'm uncertain if they should be included or what you mean specifically.
+
+---
+
+Process Documentation Guidelines
+2024-08-20 12:40:54
+
+I would like to ask you for a favor. When you want to do something, please first try to locate the relevant process document. 
+
+If you cannot find a process document related to your task, please let me know. This indicates that we may need to create one. Alternatively, you can ask, "I cannot find a process document for this task—do we have one, or should I create it?"
+
+Once we have a process document that clearly outlines each step required, you can proceed with your task. 
+
+Please avoid improvising unless absolutely necessary. Following this approach will help us minimize mistakes and errors. While there are times when improvisation is needed, let's prioritize finding the appropriate process document first. If we can't find one, we can then determine the next steps.
+
+---
+
+Event Creation Process
+2024-08-20 12:39:05
+
+There should be a process document for creating events. To create an event from your calendar, please add me as a guest and ensure that I have permission to modify the events.
+
+It appears that the lunch event was mistakenly changed to the podcast document. This is not the correct approach. Please refer to the process document for guidance.
+
+Additionally, I would like you to redo the podcast calendar invite with Andrea, utilizing the process document.
+
+---
+
+Invoice Payment Processes
+2024-08-20 12:29:31
+
+When it comes to invoices, there are two main scenarios we encounter. The first scenario is when we receive an invoice that requires payment. In this case, we need to process the payment before we can document it.
+
+The second scenario occurs when we have already made a payment using a bank card or a similar method. An example of this is our dealings with OpenAI, where we first pay for the services and then receive an invoice or receipt as proof of that payment. In these instances, we usually find it more useful to keep the receipt rather than the invoice.
+
+Similarly, with services like ProSilo, we often receive a receipt as proof of payment. A receipt suffices for our records, and we sometimes do not require an invoice at all.
+
+There are also occasions when we only receive an invoice without a corresponding receipt. In such cases, everything is still manageable. For invoices that we receive first, we must pay them, and once payment is completed, we then document the invoice in our bookkeeping spreadsheet and store it in the appropriate Dropbox folder.
+
+---
+
+Understanding Invoices and Receipts
+2024-08-20 12:27:57
+
+When we pay for a product or service, we receive an invoice or a receipt. This serves as confirmation of our payment, which we need to send to our accountants as proof of our expenses. 
+
+Invoices can be categorized as incoming or outgoing. Incoming invoices are those we receive from vendors, while outgoing invoices are what we send to our clients. For example, if AirByte decides to sponsor our newsletter, we would send them an outgoing invoice. 
+
+In this context, I typically refer to this document simply as an invoice. However, it's important to clarify that in this situation, it is an outgoing invoice—one that we issue to the client, who is then required to make a payment. The process is straightforward: we send the invoice, and they subsequently pay.
+
+---
+
+Invoices Management and Documentation
+2024-08-20 12:14:53
+
+We send invoices to customers using Finom and store them in Dropbox. However, we do not upload invoices or receipts that we receive to Finom. 
+
+Typically, we create invoices and save them from Finom to Dropbox when preparing our monthly report. We review the paid invoices, and once confirmed, we add them to Dropbox before sending them to our accountants. 
+
+It's important to ensure that everything I mention is documented properly. This way, the information will be preserved and not lost.
+
+---
+
+Sponsorship and Invoice Process
+2024-08-20 11:22:54
+
+It was a bit noisy, so let me continue. If they decide to sponsor us, the next step is to arrange everything for the newsletter. At the same time, we initiate the invoice process.
+
+First, we collect the company’s information, such as name, address, and other relevant details. Then, we create an invoice in Phenom and send it to them for payment. This is how our process works.
+
+Regarding your question about creating an invoice when it's not yet in Phenom, it doesn't make much sense to do that. Invoices should be created in Phenom because that's the only platform we use for this purpose. If it's not in Phenom, we need to create it there. 
+
+Why did you ask that?
+
+---
+
+Invoice Clarification
+2024-08-20 11:21:52
+
+I'm a bit confused about how an invoice cannot be in Phenom if it was created there in the first place. 
+
+To provide an example, let's consider our current discussions with AirByte. Do you remember the email you sent to John the other day regarding the newsletter? If the newsletter goes through and they decide to sponsor us, it will be important for us to track any associated invoices accurately in Phenom.
+
+---
+
+Schedule Coordination
+2024-08-20 10:44:41
+
+The meeting is set for today, but the speaker cannot attend due to unforeseen circumstances. Unfortunately, we don't have time to agree on a future date right now. 
+
+We need to prioritize moving the agenda forward and start making the necessary agreements. If we fail to do this, we risk encountering the issues I mentioned in my previous voice message.
+
+---
+
+Scheduling Availability
+2024-08-19 09:22:22
+
+I wanted to clarify my availability for meetings. As a reminder, 9 AM Pacific Time corresponds to 6 PM Central European Time, which is generally a time I try to avoid for scheduling. 
+
+If we need to hold a meeting later in the day, such as at 5, 5:30, or 6 PM, I prefer to do this on Mondays. Wednesdays, Thursdays, and Fridays are not suitable for me after 3 PM. 
+
+Specifically for the Open Source Spotlight, I can only accommodate meetings after 5 PM on Mondays. You can check my calendar to see which Mondays I am available. 
+
+If you need to propose a meeting time, consider asking if they can do this within a 30-day timeframe, and offer a specific time slot. If that doesn’t work, you can inquire about which Monday they would be able to meet at 9 AM.
+
+---
+
+Handling Last-Minute Podcast Rescheduling
+2024-08-19 07:02:53
+
+Ella requested to move the podcast episode, and in such cases where we haven't agreed on a new date yet, we typically take immediate action. Since the event is happening today, we will move it to a random future date in Luma and Meetup calendars. This ensures that people are aware the event is not happening as we work on confirming a new date.
+
+It's crucial to make this change as soon as possible to prevent attendees from receiving notifications. If we don't act quickly, they might get a notification stating the event starts in 15 minutes, leading them to join only to find nothing occurring, which can be quite frustrating.
+
+Additionally, on some platforms like Meetup and possibly Luma, if we fail to move the event before it begins, we can no longer edit it. We'll have to create a new event instead, which poses a challenge since people signed up for the original event but not for the new one. This would require us to ask them to sign up again, complicating the situation further.
+
+Given these considerations, I recommend that we create a process document if one doesn't already exist, outlining the steps to handle last-minute rescheduling effectively.
+
+---
+
+Calendar Invites Explained
+2024-08-15 16:22:37
+
+I want to clarify what I mean by calendar invites and events. When I refer to the calendar invite, I’m talking about the Data Talks Club community calendar, which is a Google calendar specifically for our community members. 
+
+In addition to that, we also send calendar invites for guests and for myself. This allows me to keep all relevant events on my calendar. 
+
+The recent update you made was for the guest invites, which are typically set five minutes earlier than the actual event. For our community calendar, the time listed reflects when the event truly starts.
+
+---
+
+Update on Community Calendar
+2024-08-15 16:04:52
+
+Please remember to update Meetup and the community Google Calendar. It's important to keep both platforms current to ensure everyone is informed about upcoming events. Thank you!
+
+---
+
+Email Notification Preferences
+2024-08-15 15:55:33
+
+I don't want to receive emails every time somebody signs up. That's my main concern. 
+
+Regarding the rest, I think this relates to new guest registrations. Please ensure that this is included in the process document.
+
+---
+
+Luma Events Notifications
+2024-08-15 15:49:06
+
+I'm currently receiving notifications for Luma events, and I believe there's a toggle to turn them off. Please locate this option and disable it. 
+
+Additionally, this should be included in the process document because, for some reason, it's not mentioned there. The frequent email notifications every time someone signs up are quite annoying.
+
+---
+
+Sponsored Posts and Advertising Opportunities
+2024-08-15 15:07:12
+
+When I send the link and indicate that it's a sponsored post, we simply add it to our CRM. We don’t reach out to anyone directly. In this CRM, we maintain a list of advertisements, which is essentially a database in Airtable, where we track all the ads that could be relevant for our community.
+
+We generate revenue through sponsorships, and I want to keep track of posts like the one from Santiago. Santiago is an influencer, and a company called Box paid him to create a post. This indicates that Box is looking to advertise or promote something. 
+
+We can help these companies by notifying them that we have an audience they can reach. For example, we can approach Box and say, "We're a community that can assist you in promoting your products or services." This is why maintaining our database of ads is crucial. It allows us to know who is promoting what so we can reach out to these companies and offer our promotional services.
+
+---
+
+Process for Managing Company Campaigns
+2024-08-15 10:55:36
+
+There should be a process document that outlines how we manage company campaigns, which I believe I illustrated in the introduction video. In our CRM, we have a list of companies and their associated campaigns.
+
+The typical workflow involves creating a post sponsored by a specific company. First, we check if the company already exists in our system. If it does, we simply use that existing company record. If it doesn’t, we create a new record for the company. This approach allows us to track the promotional activities of each company and also enables us to reach out and suggest our services to them.
+
+If you scroll up, you can see how Francis was handling this in the announcements channel. We likely have templates for this process available as well.
+
+Regarding our content structure, we organize it by seasons, with each season comprising nine episodes. For instance, we label them as season 12, episode 1, and continue through to season 12, episode 9. Then we transition to season 13, episode 1, and so forth, maintaining the nine-episode format for each season.
+
+---
+
+To-Do Instructions for Invoices
+2024-08-14 10:13:32
+
+To complete the to-dos, please open the Dropbox folder and locate the invoices. Check the price listed on each invoice and update the corresponding to-do item with that price.  
+
+If the price is in USD, remember to convert it to Euros.  
+
+It’s possible that there is no existing process document for this procedure. If that’s the case, we will need to create one.
+
+---
+
+Podcast Scheduling and Announcements
+2024-08-14 09:51:12
+
+I believe Andrea is in the Central European time zone, so if possible, let’s schedule a podcast episode with her during lunchtime. Please check if there’s another day that works for her. You have access to my calendar, and I usually avoid evening recordings unless the guest is from the States and cannot join during lunch.
+
+Moreover, I prefer to keep my evenings free, so I generally try to avoid scheduling commitments during that time. It would be a good idea to check with Valeria to determine the best approach for coordinating this.
+
+Regarding the announcement of the event, I think what we mean is to make a post in the announcement channel on Slack. If there’s another recorded approach, we can consider that as well. Additionally, we need to clarify anything that is not clear, and all communications should include necessary links to ensure everything is easily accessible.
+
+---
+
+Bookkeeping Process Overview
+2024-08-12 18:09:28
+
+The bookkeeping process begins with opening the bookkeeping report for a specific month, which includes the date for month-to-month tracking. 
+
+Next, you should address the to-dos. Typically, this involves accessing Dropbox to open the relevant documents, including receipts and invoices. Here, you will replace the to-dos with the actual numbers. 
+
+Once that is completed, the second step is to convert any USD or other non-euro amounts into euros using the provided conversion website. 
+
+After conversion, it's important to double-check Revolut and Finom for any missing expenses or, more critically, missing incoming transactions. By "missing," I mean there are transactions we have that are not reflected in the bookkeeping spreadsheet. Add any such transactions to the spreadsheet.
+
+Following that, you'll need to refer to the process document you shared. This involves preparing the zip archive and uploading it to the designated website provided via email. 
+
+Next, an email should be sent to our accountants notifying them that the report for the month is ready. 
+
+Regarding invoices, we maintain two distinct folders. One folder contains invoices related to expenses, showcasing all expenditures, including those from Prosilum. The other folder contains invoices that we sent out, representing our incoming transactions. 
+
+Additionally, there is a third folder for invoices labeled "lending" (I believe this is related to a different process document you mentioned). This folder is where invoices are placed in Dropbox, which then automatically updates the to-do spreadsheet.
+
+Finally, let’s draft a document detailing the sequence of these steps and link to this document from the onboarding material. For each step in preparing the report, we should include links to the relevant process documents.
+
+---
+
+Collaborative Tax Reporting Process
+2024-08-12 18:06:18
+
+We will start by working together on the first tax reporting document. There's still time to make adjustments if anything is incorrect. 
+
+I suggest that you review all the process documents we currently have for tax reporting. Based on that information, we can arrange the steps in the correct sequence. 
+
+Additionally, we should create a Google document to capture everything, as it seems we don't have it documented anywhere at this time. It would be helpful to develop something similar to a checklist in Trello.
+
+Once I review the document and confirm that everything looks good, we can move forward with the next steps. Currently, I don’t think there are any specific sequences outlined anywhere, so organizing this will be essential.
+
+---
+
+Tax Report Preparation and Documentation
+2024-08-12 15:02:45
+
+When preparing a tax report, we need to ensure that there is a process document in place. If such a document does not currently exist, we must create one. 
+
+We should review FinOM and Revolut to identify any expenses that might not be recorded in our bookkeeping spreadsheet. It is crucial to account for all income as well; if we have received income that is not reflected in our records and we fail to report it, this could be considered a crime due to withholding information about income. This aspect is extremely serious.
+
+For this reason, we need to carefully check FinOM and Revolut for any incoming transactions that may be missing from our bookkeeping. Any identified transactions should be added immediately. 
+
+Finally, please review the existing process documents to determine if they cover the points I have mentioned. If no such documentation exists, we need to create a document that outlines these procedures, as it is essential for our tax reporting accuracy.
+
+---
+
+Special Process for Speaker Engagement
+2024-08-12 15:01:12
+
+When someone introduces us to potential speakers, we have a specific flow to follow. Since we already have their email, we should utilize a template indicating their interest in participating in our event. This could be for a podcast, a webinar, or a workshop.
+
+First, we need to inform them that Antonis referred them as a potential speaker. We can mention the various options available, such as podcasts or workshops. After that, we should send them the relevant document that outlines the details of the opportunities we have.
+
+Once they express their interest in participating, we need to clarify their preferred format—be it a workshop, webinar, or podcast. Depending on their choice, we will initiate the appropriate process for that specific event.
+
+---
+
+Bookkeeping and Podcast Scheduling Instructions
+2024-08-12 14:38:50
+
+When you open the bookkeeping document, you'll see a list of to-dos. For each of these tasks, you’ll need to locate the appropriate process documents. If any amounts are listed in USD, you'll need to convert them to Euros or the relevant currency using the website Vice, which I shared with you previously. 
+
+Sometimes I will send you screenshots of transactions. For instance, if I make a payment in USD and receive a notification from my bank with the corresponding Euro amount, I’ll forward that screenshot to you. You'll need to use that actual Euro amount when you fill out the bookkeeping document.
+
+Regarding the podcast scheduling, it seems that Ella wants to schedule her appearance in September rather than August. However, all available slots in September are currently filled with other speakers and guests. If that's the case, you can check my calendar, which you should have access to, and select an available date, such as a Monday. Alternatively, we could propose a date for her in October.
+
+Generally, we aim to schedule one podcast event per week. However, since we had a long break from episodes, it's manageable for us to host two events in a week if necessary.
+
+---
+
+Document Update Process
+2024-08-12 14:37:49
+
+At the end of each month, we review the documents submitted. Most of the documents you sent are correct; however, we do not include the zip file in the email. Instead, we use a special link provided for uploading the document.
+
+Unfortunately, the document you sent appears to be outdated. I'm unsure if we have an updated version. I believe I asked Francis to update it, but it seems we may not have completed that task. 
+
+If we do not have a current version, we will need to update the document ourselves. Please check if there are any other versions available. In the meantime, I will locate the link that you can use for the document update.
+
+---
+
+Onboarding Document Services List
+2024-08-12 09:41:52
+
+Please ensure that the onboarding document includes a comprehensive list of all the services you require. 
+
+First, specify the services for which you need to create an account, as I will need to invite you to those. 
+
+Second, include the services for which we have a shared password that we can both use.
+
+---
+
+Podcast Document Process Improvement
+2024-08-10 15:27:33
+
+In our current process, Francis typically notifies me when a document lacks a title. I propose that we should also ask Johanna to provide a title when she has questions about it. 
+
+The usual workflow begins with finding a guest and agreeing on a time for their participation. Once we receive confirmation that they want to join, we create a podcast document and include Johanna in the conversation, letting her know about the document's existence and encouraging her to start working on it. 
+
+Recently, we have faced delays in the creation of this document, which has pushed our timeline back significantly. To address this, I suggest that once we agree on a guest, we immediately contact Johanna to inquire when she can complete the document. 
+
+The goal is to announce the event as early as possible to maximize signups. Delaying the announcement until the last minute has resulted in lower attendance rates. In our initial emails to Johanna after confirming a guest, we should mention the new process document and ask her to let us know when she can work on it. We want to publish the information as quickly as possible to increase event registrations.
+
+Additionally, once Johanna has finished drafting the questions, we can ask her to come up with a title for the episode. This way, all relevant information will be readily available for input into Luma without any additional hassle.
+
+---
+
+Podcast Episode Upload Procedure
+2024-08-10 15:24:47
+
+When Dave uploads an edited podcast episode to our Dropbox, you will receive a notification. Your task will be to upload the episode to Spotify for Podcasters. 
+
+After uploading, please complete any additional required actions related to the podcast episode.
+
+---
+
+Bio Creation Process
+2024-08-10 15:23:29
+
+Sometimes, when individuals do not respond with their bios, we utilize a generic bio instead. There should be a process document outlining this procedure, so please try to locate it. Essentially, we take whatever information is available on their LinkedIn profile and use that as a bio. 
+
+We can refine it slightly, and we might even consider using ChatGPT to create a bio based on their LinkedIn profile. For now, if someone does not respond, we will simply use the information they have already provided on LinkedIn.
+
+Lastly, I apologize for not replying to your messages; I simply missed them. In the future, I would appreciate it if you could remind me when that happens.
+
+---
+
+Event Management with Luma and Meetup
+2024-08-10 15:21:38
+
+Luma is primarily designed for registering participants for events. Initially, we create events on Luma, and we can create additional events on Meetup as well. Meetup serves as another platform where people can discover and sign up for events. Currently, we use Luma and Meetup for our events, having phased out Eventbrite.
+
+In terms of calendars, we also maintain a centralized events calendar. Some people prefer not to register for individual events; they simply want to view all upcoming events in one place. Therefore, we keep a calendar to accommodate those needs. If individuals do wish to sign up for an event, we include a link to the Luma event in the calendar to facilitate the sign-up process.
+
+To enhance clarity, we should refer to the calendar as the "DataTax Club Events Calendar." This title specifies the purpose and content of the calendar more clearly, as the term "calendar" can be ambiguous.
+
+Regarding the Eventbrite process documents, it's best to leave them untouched when transitioning to the new shared drive. We should disregard anything related to Eventbrite and allow those documents to remain in the old Google folder.
+
+---
+
+Voice Note Transcription Tips
+2024-08-06 14:17:37
+
+I often send voice notes, so I hope what I’ve shared will be useful for you. When I provide information in a voice note, I typically want to stay focused on the key points, such as the "why" and "when." It’s important to avoid straying from these main ideas.
+
+Having a transcript can make it easier to utilize the language I use in my voice notes. This can help ensure that the essence and intent of my message are preserved.
+
+Additionally, I recommend using ChargeBT to enhance the structure of the transcript. Voice notes may not have a completely structured format when they are transcribed, but ChargeBT can help organize the content more effectively in the document.
+
+---
+
+Review of Document Formatting
+2024-08-06 13:56:05
+
+I reviewed the entire document, and overall, it looks fine. 
+
+However, I would prefer if you refrain from using bold text. I don't understand its purpose in this context, and I don’t think it is necessary for formatting. 
+
+Aside from that, everything else appears to be okay.
+
+---
+
+Slack Data Dump Process Overview
+2024-08-06 13:54:44
+
+First, let's break this down into two parts: why and when. The Slack data dump process happens monthly to give community members access to the latest Slack data. 
+
+It's important to keep this data fresh and relevant for effective decision-making. The process is triggered by a monthly reminder, ensuring the community stays updated with accurate, timely information. 
+
+Moving forward, I want to focus on being clear and concise. Please make sure to use simple, common language and avoid overcomplicating things with formal phrases. It's essential for each word to make sense and serve a purpose. 
+
+As we refine this process, we'll work on including only the necessary information and avoiding repetition. With time, I believe you will adapt to the style I want.
+
+---
+
+Voice Note Preparation
+2024-08-06 13:52:46
+
+This note serves as a personal reference to facilitate easy reading while I record the voice note. 
+
+It's crucial to maintain clarity throughout the recording process. This will ensure that the message is communicated effectively and understood by the audience. 
+
+Additionally, I'll focus on structuring the content in a way that flows logically from one point to the next. This will help keep listeners engaged and enhance the overall quality of the voice note. 
+
+Lastly, I aim to be concise, avoiding unnecessary filler while still conveying all essential information. This approach will make the voice note more impactful and easier to follow.
+
+---
+
+Context Clarification
+2024-08-06 13:50:27
+
+I believe I mentioned this in one of the voice notes or perhaps in Loom, though I can't be certain. Regardless, I appreciate your efforts. However, I find the tone a bit too formal for my liking, so we can simplify it.
+
+Specifically, I'm referring to the context you provided. It would be helpful to split it into two sections: the "why" and the "when," just as I suggested in the voice note.
+
+---
+
+None
+2024-08-06 12:11:58
+
+None
+
+---
+
+How to Download and Transcribe Voice Messages
+2024-08-06 12:10:34
+
+One of the things you can do is download the voice messages I sent. I'm not sure if this can be done from the mobile app, but it's likely unnecessary to do it that way.
+
+To download the files, open the desktop version of the application. There should be an option to download the audio files directly. 
+
+Once you have downloaded the files, you can transcribe them. Although I am currently using a mobile device, you will need to adapt the process for desktop use. I will record a demonstration, which will require you to create a process document specifically for transcribing audio files.
+
+After you complete the transcription, you can use ChatGPT to summarize the content effectively.
+
+---
+
+None
+2024-08-06 12:01:20
+
+None
+
+---
+
+Management of Tasks and Reminders
+2024-08-06 11:43:24
+
+I wanted to discuss how we can manage our to-do items more effectively. I’m uncertain whether you’d prefer me to edit the to-do list or manage it yourself, especially since I know you’re busy with other tasks right now. However, I want to ensure that important points don’t slip through the cracks.
+
+For instance, I had previously asked you to handle the task regarding the dump, but I needed to remind you about it again. To avoid this in the future, I’d like to find a system that works for both of us, so you won’t feel the need to rely on reminders.
+
+I understand you have a lot on your plate and are overwhelmed at the moment, which makes it even harder to keep track of multiple tasks. Perhaps you could take ownership of the to-do list and make edits as you see fit. Alternatively, we can brainstorm other methods that might work better for us. Let me know your thoughts on this.
+
+---
+
+Improving Process Documents
+2024-08-06 11:40:10
+
+I want our process documents to be complete. This means that all necessary text should be included within the document itself, eliminating the need to copy text from pictures or external sources. Users should be able to copy and paste from the actual process document effortlessly. Additionally, please ensure to include emojis where appropriate. I aim to apply this to all our process documents so that they are fully comprehensive, making it easy to follow without much thought when using them as templates.
+
+Another area for improvement is the focus of our process documents. Currently, they primarily emphasize how to perform tasks, but we need to also address why and when certain actions should be taken. For instance, we must clarify why our community members need access to Slack data for analytics purposes. That is the rationale behind our monthly data dumps, which provide them with fresh data.
+
+Furthermore, it is crucial to specify when these tasks should be performed, such as completing the data dumps every month when reminders are sent out. I want to ensure that each document provides context, helping users understand why the document exists, why the process is necessary, and not just how to execute it.
+
+Lastly, please remember to incorporate these guidelines into the onboarding document. This will serve to document these expectations clearly, so I won’t have to reiterate them in the future.
+
+---
+
+Knowledge Preservation
+2024-08-05 17:55:15
+
+It's essential to capture and document everything you learn. By doing so, you ensure that this valuable information is not lost over time.
+
+Organizing your knowledge in a structured way can also enhance your ability to recall and apply it in the future. Consider creating a digital repository or a personal journal to keep these insights accessible.
+
+Sharing your knowledge with others can further reinforce your understanding and contribute to collective learning. Engaging in discussions or mentoring can provide fresh perspectives and help solidify what you've learned.
+
+---
+
+None
+2024-08-05 17:52:17
+
+None
+
+---
+
+Podcast Editing Process
+2024-08-05 17:37:03
+
+For the podcast, we schedule it to be live on YouTube while simultaneously recording it locally. The local recording generates an MP3 file that I upload to Dropbox. Our podcast editor, Dave, should automatically see this new file. If he doesn’t, typically we inform him about the new episode, although he usually receives a notification about it.
+
+Once Dave completes the editing, he will let us know. Additionally, I recently forwarded you a special notification email that alerts us when Dave uploads something to the Dropbox folder. This notification goes to both you and me, and it also populates our to-do list. 
+
+After that, you will take the edited MP3 file and upload it to Spotify for Podcasters. This platform will then distribute the episode to Spotify, Apple Podcasts, Google Podcasts, and others automatically. Keep in mind that you won’t have access to the links until the episode goes live, which occurs at 5 or 7 p.m. Berlin time on Friday.
+
+Once it is published, you will receive the links to Spotify and Apple Podcasts. At that point, it’s crucial to fill out the corresponding form and perform the GitHub task to create a page for the episode. 
+
+I recommend discussing the pre-filling process with Valeria, as she might have insights to make it more efficient. After you agree on the best approach, we should document everything thoroughly. As you familiarize yourself with the process documents, it may be beneficial to keep notes on what you’ve learned for future reference, including potential updates to the onboarding document. 
+
+Eventually, we will review the processes document by document to ensure everything remains relevant and up to date. We’ll conduct this review soon.
+
+---
+
+Newsletter and Migration Project Update
+2024-08-05 17:33:22
+
+For the newsletter, please check the Trello card, as it contains many items, with the newsletter being just one of them. I noticed you had a chat with Valeria, so it might be helpful to ask her what tools she currently uses to create the newsletter and her process for doing so. As you review the process documents, you'll find the relevant ones.
+
+Typically, the workflow involves using a template, where you create a copy that serves as a draft. You fill in various details, one of which is the podcast episode, though usually, Valeria handles this part. You can also create a pre-filled template and utilize ChatGPT for assistance. If anything is unclear, it's best to consult Valeria.
+
+By the way, how is the migration project progressing? For questions regarding that, you will need to talk to Valeria as well. Let me know if you still need help with the newsletter; I’ll do my best to assist.
+
+---
+
+Password Update Notification
+2024-08-02 21:16:07
+
+The password was not correct, so I went ahead and updated it. Please use the new password provided. 
+
+It would have been helpful if you had informed me right away, but perhaps you did mention it, and I just missed it. That can happen.
+
+In any case, I'm glad I have the correct information now. Here is the new password.
+
+---
+
+Daily Work Log Guidelines
+2024-08-02 21:14:26
+
+For the daily log, I would like you to include the day of the week followed by the date in parentheses. For example, format it as "Monday (1st of August)." This will help me easily identify the specific days you worked.
+
+Additionally, please include the total hours you worked at the end of each entry. This information is crucial for me to assess your workload. By understanding when you are less busy, I can determine if there is room to assign you additional tasks. If I see that you've completed everything and still have capacity, I can consider assigning you more work or explore other tasks for you.
+
+---
+
+Password Management Update
+2024-08-02 21:13:13
+
+I just shared an invite with you. I want to clarify that we don’t need to use LastPass anymore. I’ve shared the password in the chat with Valeria and have deleted my LastPass account. 
+
+So, you're saying that you cannot access our table using the password I shared in the chat with Valeria, correct?
+
+---
+
+Flexibility in Work Hours
+2024-08-02 21:03:10
+
+You have 20 hours per week to work, and how you distribute those hours is entirely up to you. It would be beneficial to check in for at least 30 minutes regularly. This way, if urgent tasks arise, you can address them promptly. However, it’s also acceptable to complete these tasks the following day if necessary.
+
+Most tasks are not urgent, allowing for flexibility in your schedule. For instance, it’s perfectly fine if you don’t work one day and make up those hours the next day. You have the freedom to organize your work as you see fit.
+
+There may be occasions when you don’t have enough work to fill all 20 hours in a given week. That’s completely acceptable and there’s nothing wrong with it. 
+
+I'll send you an invite shortly.
+
+---
+
+Podcast Production Process
+2024-08-02 21:00:41
+
+The podcast production begins with scheduling a time to go live with the speaker. At the agreed time, we stream the session on YouTube while simultaneously recording it locally. After the recording, we upload the MP3 files to Dropbox for editing by Dave.
+
+Typically, Dave handles the editing automatically and informs us via a message when the edited version is ready. There’s also an automated email notification, and the task is added to our to-do list. Once we receive the edited podcast, we upload it to Spotify for Podcasters and schedule its release, usually for Fridays around 7 p.m. Berlin time. This process is detailed in our documentation.
+
+Once the episode is published on Spotify for Podcasters, it automatically appears on other platforms, including Apple Podcasts and iTunes. We then collect the links from these platforms to create a dedicated page. This page is essential for inclusion in our newsletter.
+
+From Friday evening to Monday morning, your main task will be to publish this page. This includes gathering links from Spotify, Apple Podcasts, and YouTube, placing them in the appropriate form, and executing one action on GitHub. A process document is available for this task, and I estimate it should take no longer than 10 minutes to complete. The entire process is also outlined in Trello templates. As you get familiar with it over time, it will become clearer. I hope this explanation provides the necessary context for now.
+
+---
+
+MailChimp Invitation
+2024-08-02 20:57:29
+
+Did you receive any emails from me regarding MailChimp? I haven't sent you anything directly, but I believe I sent a request for you to join. If you didn't get that, please let me know, and I will send you another invite.
+
+---
+
+Podcast Release Schedule and Related Tasks
+2024-08-02 20:44:04
+
+I apologize if I caused any concern. You don’t need to work on Saturday. However, I wanted to mention something that may not have been discussed by the team at Percival. 
+
+Typically, we release a podcast episode every Friday evening, my time. Following that, we have a newsletter that goes out on Monday. We also aim to create a webpage for the podcast episode on our website during that time frame. 
+
+Since you are located in Asia and your day starts earlier than ours, you can actually complete this task on Monday morning. Alternatively, if you have a few spare minutes, you might consider handling it on Saturday or Sunday. This is just good to know as there’s a small task that needs to be completed between Friday evening and Monday morning.
+
+---
+
+Guidance on Task Management
+2024-08-01 14:27:58
+
+I’m not sure if you need advice, but I’d suggest an approach for managing messages. When you receive a voice message or any message, consider whether it’s something you need to address immediately or if it can wait. Make a note of it to ensure you don’t forget to follow up later. 
+
+It’s also important to listen to my voice notes right away, as they may contain critical information you need at that moment. Evaluate each note to determine its urgency and relevance, and take appropriate actions. This is just a recommendation to help you feel less overwhelmed. The same goes for Loom videos; some will contain information that is necessary for immediate tasks, while others can be postponed.
+
+Regarding the invoice for Open Source Spotlight, I believe I’ve already shared the next steps you need to take. This task can wait until next week, as it's not urgent. On the other hand, the newsletter promotion I mentioned can be started now. If any part of this process isn’t clear, please don’t hesitate to ask for clarification.
+
+For items like the deals in the CRM, those can also wait. In the meantime, focus on completing the onboarding document and transferring the process documents to the shared drive. 
+
+Keep in mind that sometimes more pressing matters will arise, and I will clearly indicate which tasks should be prioritized. I understand that I may continue to present you with new tasks, and this could lead to a growing to-do list. It’s perfectly fine if the list feels overwhelming at times, but remember, everyone needs time to adapt and learn. 
+
+If at any point it becomes unmanageable, we will find a way to address the situation together. That’s all I wanted to convey.
+
+---
+
+Airtable Account Management
+2024-08-01 13:26:02
+
+For Airtable, we need to use my account because, unlike some other services, Airtable charges per user. If I share it with you now, I’ll end up paying double. Therefore, we use my account for Airtable.
+
+What you need to do is create an account with LastPass. Once you have that set up, you will find the password for Airtable there.
+
+---
+
+Scheduling Meetings Effectively
+2024-08-01 12:54:31
+
+When someone expresses that they cannot find time to meet, here's how I approach it. We agree on a date and time, and you can use my calendar for that. Sometimes, I'm available on Monday evenings. However, the current scheduling link I have isn't very US-friendly. For someone in the Pacific time zone, it may be super early in the morning. 
+
+For example, if we schedule a meeting for 6 p.m. Berlin time, that's 9 a.m. Pacific time. Alternatively, we could look at 5 p.m. or 6 p.m., which would correspond to 8 or 9 a.m. Pacific time. If that time works for everyone, we can ask them to use the scheduling link to book any available slot. Once they do, we can manually coordinate with our calendars.
+
+To proceed with this, you'll need access to my Google Calendar. I'll share it with you shortly. Before proposing a time, please check my calendar to ensure there are no conflicts. If there are no appointments, feel free to schedule the meeting.
+
+Additionally, I’ll record the video to outline these processes. It’s important that we keep track of everything shared and document it properly. Not only will this help you learn how to manage these tasks, but it will also make our process documents more comprehensive for future reference.
+
+---
+
+Scheduling with Marissa
+2024-08-01 12:53:10
+
+To coordinate with Marissa regarding the document, we should reach out to her directly. Instead of using a generic template, we can personalize our communication by referencing the Calendly link I previously sent. 
+
+In our email to her, we can express appreciation for her sending the link and mention that we have internal processes to follow. We should ask her to use our specific link for scheduling. We can say something like, "Thank you for sharing the Calendly link. However, we have some internal processes in place, so it would be helpful if you could use our link instead. Here is our Calendly link."
+
+If she cannot find an available time slot, we should suggest that we speak directly to find a suitable time. 
+
+I'll also record a separate note on this matter for clarity.
+
+---
+
+Improving Process Documentation and Templates
+2024-08-01 12:51:29
+
+This discussion revolves around using email to follow up with someone we've already connected with on social media or platforms like Slack. Now that we have their email, we want to reach out to invite them to participate in an event or initiative we’ve discussed.
+
+Additionally, I wanted to ask you to focus on this after completing the migration of documents from the shared folder to the shared drive. Since you’ve raised several questions, it would be helpful to capture my answers for future reference.
+
+For the template you requested, please document my responses. This will provide context for when and how we need to use it. In general, I’d like to apply this practice to all our process documents. Specifically, I want each document to clearly state why the process exists and when it should be used. Currently, many process documents only outline a sequence of steps without providing a clear explanation of their purpose. 
+
+The same applies to our templates. For the current template, let's ensure we include the context about when to use it, even if we don’t have to do this for every template or process document immediately. When you have uncertainties about whether a document is suitable, I can record a video or voice note to provide clarification. 
+
+Lastly, regarding the screenshot you previously sent, it does mention when to use it, but we can definitely expand on that to enhance understanding and clarity.
+
+---
+
+Podcast Arrangement Process
+2024-08-01 11:49:21
+
+The process of arranging a podcast or similar event typically begins with obtaining the speaker's email address. From there, we use email to coordinate the details.
+
+I will forward you one of the conversations we had with a potential speaker to illustrate how this communication looks. Additionally, I will check for another process document that outlines our email procedures.
+
+If we cannot find this document, we will need to update it. The information you provided is only partially correct and does not fully reflect our current practices.
+
+---
+
+Managing Tasks and Documentation
+2024-07-29 16:28:39
+
+I sometimes record voice messages and create Loom videos. In these Loom videos, I usually demonstrate a task and then ask you to either replicate it or document it in a process document.
+
+Right now, please take some time to review the existing process documents. It's important to get a brief understanding of what's available. For the completed tasks we've worked on previously, try to identify the corresponding process documents needed for those tasks. I’ll assist you with this, but for now, please attempt to find the right documents on your own. Once you've done that, I can review your selections and confirm whether they are correct.
+
+Additionally, you will need to create a GitHub account. There are several items in the to-do list that you'll need to familiarize yourself with, and reviewing the process documents will be crucial for understanding how to complete these tasks.
+
+---
+
+Event Rescheduling Protocol
+2024-07-08 19:36:05
+
+I moved the events with Rafael to next Thursday to ensure we don't forget to reschedule. Once we decide on the exact date, we will provide one more update.
+
+The reason for this change is to prevent any confusion. If we forget and the event is scheduled for tomorrow, everyone who signed up will receive a reminder, which is something we definitely want to avoid.
+
+Additionally, if it's a short notice like an event scheduled for tomorrow and we need to cancel today, we should reschedule it for a week later on any random day. This is essential to prevent situations where people arrive for an event only to find it canceled.
+
+I’m not sure if we have a process document for this. If we don’t, please create one and send it to me.
+
+---
+
+Webinar Cover Update
+2024-07-08 09:17:26
+
+Our lawyer just informed me that we currently do not have the appropriate cover for the recent webinar; instead, we only have a podcast cover. 
+
+This is something we need to pay attention to moving forward. 
+
+Please ensure this is added to the document outlining things we need to look out for. Thank you.
+
+---
+
+Clarifying Tax Records
+2024-07-04 17:12:53
+
+The amount listed for taxes appears to be quite significant. Usually, we expect the price to be lower. The recent figure pertains to the tax declaration for the last year, specifically for 2023. 
+
+I believe I previously suggested that we should rename this entry, although I’m not certain if I actually communicated that or just thought about it. Additionally, it seems we have two records with the same amount, which may not be accurate. 
+
+As a reminder, we have a monthly payment that occurs at the beginning of each month. However, this particular entry is irregular rather than exceptional. I think you might have handled this independently. I recall sending you an email regarding the payment, and rather than completing the payment as instructed, it seems you entered it into the spreadsheet instead. 
+
+Please double-check this information. I don’t think we made two payments for the tax declaration — it should reflect only one payment. The entry should be marked simply as “2023,” since it pertains to the entire year's declaration rather than standard bookkeeping.
+
+---
+
+Managing Availability in Negotiations
+2024-07-02 16:02:54
+
+I have a small comment regarding our availability for negotiations. It's important that we don't appear too available, as this could be used as leverage by the other party in future discussions. If they notice that we have too many open slots, they might feel entitled to negotiate lower prices.
+
+To mitigate this, I recommend that we only send one available slot each week or month instead of multiple options. This approach will help us maintain a perception of limited availability.
+
+Additionally, please create a process document outlining our approach to handling slot requests. Include guidance for different scenarios, such as when we are almost fully booked versus when we currently have a lot of availability, like now. Once you've drafted the document, please send it to me for review.
+
+---
+
+Promotion Slots Inquiry
+2024-07-02 15:30:40
+
+I just noticed that Arise has utilized all their promotion slots. We should reach out to them to see if they would like to reserve any additional slots.
+
+Please draft an email to send to David first, asking if they are interested in booking more promotions.
+
+---
+
+Sponsorship Details
+2024-06-14 20:00:02
+
+We have a sponsorship opportunity that includes six newsletter issues. In addition, the sponsorship will feature a logo on our website. 
+
+The cost for this sponsorship remains consistent, as it covers both the six newsletter issues and the logo placement.
+
+---
+
+Video Editing Tool Using FFmpeg
+2024-06-12 20:23:12
+
+The other file is a tool that I created, which allows you to use FFmpeg without the need for installation. 
+
+This tool can be used for cutting videos and increasing volume levels. 
+
+I'm not sure why it's not working at the moment, but we will figure it out.
+
+---
+
+Tracking Payments with CRM
+2024-06-10 15:05:03
+
+Are we using the CRM to track payments? I just saw an email from Elisabetta at DoubleCloud, and it seems we might not be using it for this purpose. Remember, we initially created the CRM to help us keep track of outstanding payments. 
+
+It would be beneficial to utilize the CRM effectively by monitoring both paid invoices and those we haven't generated yet. This way, we can ensure we stay on top of our financial obligations.
+
+---
+
+Payment Structure in Bookkeeping
+2024-06-07 17:52:58
+
+I think it's acceptable to structure our bookkeeping spreadsheet to show the first invoice as the initial payment, followed by the second payment. We should list the first payment as $1,500, with the subsequent addition of VAT. This approach provides a clearer representation of the two distinct payments.
+
+Additionally, as I mentioned earlier, we can provide an explanation for this structure to ensure clarity.
+
+---
+
+Invoice Clarification
+2024-06-07 17:47:47
+
+It's important that we provide as much detail as possible regarding the recent invoicing issues. This month, we sent an invoice without VAT, which the client paid. After realizing that we had forgotten to include VAT, we issued a second invoice for the VAT amount alone. 
+
+As a result, last month, we also sent you an invoice that was incorrect. You should not include this incorrect invoice when submitting your tax declaration. Instead, please disregard that invoice. 
+
+The correct invoice should be highlighted and used for submission. Additionally, please include the dates when the original amount was paid and when the VAT was settled. It's crucial to be thorough in this matter. 
+
+Before sending anything to the client, please show me the details one more time. Thank you.
+
+---
+
+Invoice Correction and Clarification
+2024-06-07 17:44:49
+
+Last month, we accidentally sent you an incorrect invoice. The issue arose because we forgot to include VAT when we initially sent it to you. We have now updated the invoice to include the VAT.
+
+To clarify, the invoice should reflect not just the VAT amount, but also the total for the newsletter promotion. The final amount should be presented as 1,500 plus 18 percent VAT, detailing the complete sum.
+
+Please ensure that the revised invoice contains all necessary information, so there is no confusion moving forward.
+
+---
+
+Payment Acknowledgment and Process Documentation
+2024-06-07 07:33:56
+
+The first thing to note is when I send a screenshot from a client, it means we have received the payment. Please write to them to acknowledge the receipt as soon as possible. 
+
+Secondly, when I send you a screenshot showing money that a service has charged us, note that the original payment amount is usually in dollars. However, I will provide you with the equivalent amount in euros so we can maintain accurate information in our spreadsheet.
+
+Please create a process document outlining the steps to follow when I send a screenshot of a payment, whether received or spent.
+
+---
+
+Akella Workshop Sponsorship
+2024-06-06 17:56:00
+
+The upcoming workshop for Akella is sponsored by DLT Hub. Please ensure that you obtain the logo from the previous workshop conducted by Adrian and include it on the cover.
+
+---
+
+Creating a Process Document for Merchant Account Income Verification
+2024-06-06 16:12:54
+
+I am not sure if we already have a process document for checking the merchant account, but I suggest we create one. This document should outline how to verify if there is any income from the merchant account.
+
+Additionally, it would be helpful to include a link to this new document within the existing process document that explains how to check the merchant account. 
+
+As part of the new process document, we can specify a step, like "Step X: Check the merchant account," and provide the link to the relevant materials for easy reference.
+
+---
+
+Connecting with Marketing for Collaboration
+2024-06-04 09:37:48
+
+We should reach out and ask if they can connect us with someone from their marketing team. Since they are actively promoting their product, we would like to explore opportunities for collaboration to help them further. It would be great if they could facilitate this introduction.
+
+Please send me this message before sending it out.
+
+---
+
+Project of the Week: Data Version Control - Day Overview
+2024-05-21 19:33:48
+
+Hi everyone! Welcome to Day [insert day number] of Project of the Week: Data Version Control. We're about to get started, and you can find the day's agenda in Slack. 
+
+Please use the link provided in the event to join the Project of the Week channel. For further information about Project of the Week, check out the video created by Antonis. 
+
+Have fun and send me your notes for review. Once you've done that, please replicate the process for all the days. Finally, we should save everything in either the process document or the templates folder.
+
+---
+
+Luma Project of the Week Video Upload
+2024-05-21 08:41:54
+
+I recently asked you to upload a video from Antonis, so please use that video for the URL in the Luma Project of the Week event. 
+
+Next, select the email option. Choose the email with our details and arrange it accordingly. 
+
+Just a reminder, the submission deadline is today, so let's make sure to finalize everything today.
+
+---
+
+Mistake Tracking and Improvement Strategy
+2024-05-06 18:36:26
+
+My idea for this document is to identify mistakes and suggest how to address them. By doing this, we can clearly see which areas have more frequent errors and where we may need to focus our efforts. This will also serve as a reminder for you; if you notice a pattern, you may be more likely to pay closer attention the next time.
+
+I hope this approach will be helpful, but I’m open to any other suggestions you might have for preventing these mistakes in the future. I understand that you may feel overwhelmed by the volume of information you need to process. Therefore, it’s important to find ways to make this easier for you or to reduce the likelihood of errors occurring.
+
+Mistakes are a part of life, and while they can happen, we need to consider how to avoid repeating them. For now, let's begin by collecting this information in a document and see what insights arise. If you have any additional ideas, please share them with me.
+
+---
+
+Pre-Launch Q&A Planning for ML Ops Course
+2024-05-02 14:37:25
+
+Let's plan a pre-launch Q&A for next Tuesday at 4:30 p.m. Central European Time, which corresponds to Berlin time.
+
+Please coordinate with Valeria regarding the content of the discussion.
+
+---
+
+Note-Taking Strategy for Retaining Video Content
+2024-04-19 11:19:02
+
+I’d like to share a tip for remembering important information from videos. After watching a video, I find it helpful to take notes on a piece of paper. This helps me capture what I need to remember or any action items that arise from the video.
+
+After taking notes, I make it a point to revisit them. This practice ensures that I don’t forget important details or questions I might have, which can easily slip my mind if I’m not careful. For example, instead of creating a process document, you might consider simply providing context and linking the longer video content.
+
+I often find that in one video, I can think of three to five different questions or action items. It’s easy to overlook one or two of them without a clear system in place. By following this note-taking method, you can reduce the chances of forgetting what needs to be done.
+
+It's crucial for us to keep track of these details so that we can avoid wasting time and ensure everything runs smoothly. Thank you again for your work on this!
+
+---
+
+Context for E-book Distribution
+2024-04-12 13:27:43
+
+Typically, we provide five copies of the e-book to recipients. However, as you mentioned at the end, please include what you wrote for clarity.
+
+---
+
+Proposal for Access to O'Reilly Learning Platform
+2024-04-12 13:08:35
+
+Hey Helen, happy Friday! 
+
+I wanted to discuss our upcoming plans. As you know, we will soon provide a description of what we have. It’s worth mentioning that this book is already available for free on the Databricks website. Given this, it doesn’t make much sense for us to offer five free copies.
+
+Instead, we were thinking about providing access to the O'Reilly Learning Platform. Could you let me know if that would be acceptable?
+
+---
+
+Sponsorship and Professionalism
+2024-03-24 10:44:32
+
+I want to emphasize the importance of being meticulous and double-checking everything when it comes to dealing with sponsors. This is critical for our revenue; if we fail to present ourselves professionally, potential sponsors may choose not to work with us, resulting in a loss of income. It's essential for us to meet our expenses, including paying you, Valeria, and all the freelancers.
+
+Please approach sponsorships with caution and ensure that all processes are followed in a timely manner. Maintaining a professional image is crucial, as we do not want to be perceived as sloppy in our dealings. 
+
+Additionally, we should also exercise care when communicating with potential podcast guests. It is important that we represent ourselves well in all interactions. However, our primary focus remains on sponsors since they directly impact our financial sustainability.
+
+Please keep all of this in mind as we move forward. Our professionalism is key to our success.
+
+---
+
+Process Document Creation
+2024-03-24 10:42:41
+
+Please create two process documents as outlined below.
+
+The first process document should detail the steps for the initial reminder. Begin with recording the moment you receive a message in Slack or Telegram indicating that you need to complete a task. Take a screenshot of that message. 
+
+Next, outline the process for creating your weekly report, which involves the following tasks: adding data to the spreadsheet, updating the board document, and taking a screenshot of the completed report to send to me. Additionally, make sure to mark this task as done in the spreadsheet.
+
+The second process document should cover the steps for the subsequent reminder. Start by checking for any missing newsletters. This involves reviewing the schedule for any new items. After that, update the trailer board accordingly. 
+
+Additionally, go through the existing cards to identify any tasks that need to be addressed today. Document all these steps thoroughly, and be sure to show how you mark these tasks as completed.
+
+Once you have created both documents, please send them to me for review.
+
+---
+
+Trello Card Management Guidelines
+2024-03-24 10:40:34
+
+I need you to check daily for any missing Trello cards. For example, regarding sponsors, you might choose to do this every Monday or at a frequency that works for you. However, we should aim to check at least once a week. If we know, for instance, that we have a sponsored email scheduled in three weeks but lack a corresponding Trello card, please create that card to ensure we don’t forget.
+
+Additionally, each day, please review the Trello board and go through the cards to see if there's anything that requires action today. I understand that this might not be the most efficient method, as it requires clicking on each card to see its contents. However, over time, you'll become familiar with which cards need your attention without having to review every detail every day.
+
+It's crucial that we keep track of tasks related to sponsored emails, workshops, and newsletters, including sending necessary reports. By following our established processes, we can ensure that nothing falls through the cracks.
+
+While this method may seem a bit cumbersome, I encourage you to think about more effective alternatives. For instance, it would be beneficial to have a list of actionable items derived from the Trello cards for each day. If there's a way to streamline this process, please explore it. For now, though, let's stick with the daily review to maintain our workflow.
+
+---
+
+Managing Important Tasks and Reminders
+2024-03-24 10:38:31
+
+I still need your ideas on how to ensure we don't miss important tasks, like sending templates to sponsors. In the meantime, I have created two reminders to help us stay organized.
+
+The first reminder will go off every Friday. We already have a reminder on Fridays to check in with Dave and Pavel about podcast episodes. I added a different reminder that will prompt you to send a weekly status report from the previous Saturday. Please remember to include your weekend activities, as I know you sometimes work on weekends, and I really appreciate your efforts. Including this information will help me understand your total weekly hours.
+
+Additionally, I created another reminder that goes off every working day from Monday to Friday. This reminder will coincide with inviting people to Slack. If you have any better ideas for making sure we don't overlook anything, please let me know.
+
+---
+
+Tracking Participation Metrics
+2024-03-18 13:42:44
+
+First, it's important to clarify the number of participants. This figure represents the total number of people who registered for the event. 
+
+For platforms like Luma and Meetup, we should specify the number of registrants we had from each. Additionally, we should document how many people actually attended the live event. Including a chart would be beneficial for comparison. For instance, you can show the number of live viewers for each platform. 
+
+We should also include YouTube view counts. For example, we can highlight the current number of views for our latest episode and compare it to several episodes from last month.
+
+Lastly, I want to thank you for bringing this up. I completely missed that email, even though I was in the recipient list. I appreciate you reaching out for my feedback.
+
+---
+
+Live Viewership Analysis
+2024-03-18 13:41:43
+
+I don't think our viewership was average; we typically have fewer viewers joining live. Perhaps you could share the live statistics with that in mind. Remember the graph we sent to sponsors about the event, specifically regarding the number of concurrent live viewers? 
+
+You could use that graph for comparison and take a few screenshots from previous classes, like P Class 2 or 3, along with today's numbers. It would be valuable to include a screenshot from a month ago as well. This way, you can present a clear comparison: "This is yours, and this is what we had." 
+
+Overall, I believe our viewership was quite good for a podcast interview. When preparing this information, please ensure you only take data from podcasts. Additionally, I noticed that in your email, you mentioned sign-ups and registrations, so I need to read that message over once more for clarity.
+
+---
+
+Workshop Email Follow-Up
+2024-03-13 07:53:12
+
+It just occurred to me whether we sent the emails of the individuals who registered for the workshops for both DLT Hub and Rising Wave. For the recent sponsored workshop, participants had the option to check a box if they wanted to share their email with sponsors. I don’t recall seeing an email sent to them, so I wanted to confirm if we actually did that.
+
+Additionally, I would like to discuss the other workshop we held recently. Was that one sponsored by Curren AI? I believe it was, but I just want to be sure.
+
+---
+
+Update on Tomorrow's Call
+2024-03-03 23:01:16
+
+I wanted to clarify that we do not have a call scheduled for tomorrow. In our conversation with Johanna, she mentioned that she just wanted to have a chat, but I don't see much value in that.
+
+I apologize for any miscommunication regarding our plans. We initially scheduled to record the podcast episode tomorrow, but it seems we need a bit more time. Let's push this recording back by a few weeks. Please suggest an alternative date.
+
+We should also ask Johanna if she has any questions or concerns that we can address during this time.
+
+---
+
+Follow-up from Hagop
+2024-03-02 12:33:37
+
+Hagop, one of the previous speakers, would like to speak again. I have asked him to write to you directly since he has your email address. 
+
+Please expect an email from him in the near future.
+
+---
+
+Arranging Email Communication
+2024-03-02 12:31:19
+
+You can ask her to send us an email response. This way, you can contact her directly to arrange a meeting or discussion in a couple of months.
+
+---
+
+Scheduling Communication
+2024-03-02 11:49:57
+
+When you write on Hita about the scheduling, please apologize for the miscommunication. Additionally, offer a few slots for future meetings. 
+
+Also, when I send some context to Johanna, please ensure that she actually sees it. It's important that it’s not just going through you, but that I’m sending it directly for her attention. 
+
+Thank you.
+
+---
+
+Payment Link Process
+2024-03-01 09:35:13
+
+We can inform them that using the payment link is an option. However, we should add a fee of around 2% or another appropriate amount. Once we do that, we can promptly send the invoice along with the standard templates we usually use.
+
+Additionally, it might be prudent to create a separate document to ensure Quark doesn't see any other edits being made. We should duplicate the document to maintain confidentiality.
+
+Let's aim to send everything out in about half an hour. If we don’t receive a response by then, we can proceed to send the details anyway.
+
+---
+
+Scheduling Follow-Up
+2024-02-29 21:50:57
+
+We need to inform them that we were unable to arrange everything in time and apologize for the short notice. We should suggest the next available time slot for our meeting.
+
+If we don’t receive a response by tomorrow at 11 a.m., we will proceed with double cloud. In our message, we can reiterate that the delay was due to time constraints and confirm that we would still like to aim for the next free slot.
+
+---
+
+Pricing Information for Newsletter and Workshop
+2024-02-29 17:51:07
+
+Please add a note regarding the pricing in a relevant process document. 
+
+The newsletter costs 1,500 euros, while the workshop is priced at 5,000 euros. 
+
+I believe you're already aware of these prices, but it's a good idea to have this information documented for reference.
+
+---
+
+Scheduling Updates for March
+2024-02-29 17:35:38
+
+Did Quack confirm the bookings? If so, I believe there are two free slots available for March. If Double Cloud does not take the slot on Monday, Quack is interested in the other slot, which is not on Monday. 
+
+Double Cloud needs a solution as soon as possible, so if they opt for the Monday slot, that works out. To summarize, we have the Monday slot available for Double Cloud, and the other slot is reserved for Quack, if I am not mistaken.
+
+---
+
+Currency Conversion Guidelines
+2024-02-23 14:07:17
+
+Hey Francis, never convert euros to USD directly. Always use Google for accurate conversions. 
+
+We have process documents that outline the correct procedure. What you sent is costing us money, and we will be losing about 500 euros. 
+
+Please convert 5,500 euros to USD using Google before sending the amount to them.
+
+---
+
+Updated Voice Note with USD
+2024-02-22 20:04:47
+
+Thank you for pointing that out. Here's the updated voice note with USD included.
+
+---
+
+Webinar Preparation for Students
+2024-02-15 21:52:35
+
+I just forwarded you some information related to Gonzalo's question about what students need for the webinar. 
+
+Can you please check the answers from this post? Once you've done that, copy all the responses into a Google document. 
+
+Finally, send the document to him. Thank you!
+
+---
+
+Event Hosting and Management Update
+2024-02-14 16:30:52
+
+Please ensure that I am added as a host for all the events on Luma, as I do not have the ability to make changes myself. This should be included in our process documents. If it isn’t already, please review the documents and add this information.
+
+I am currently facing issues because, for the second day in a row, I cannot change certain details, such as the event link. Additionally, the upcoming event hosted by Alex is not under my management either. He mentioned that he has not received the event link, and we have not requested him to promote it.
+
+It’s crucial that we address these points to avoid any confusion or oversight in our event management. Thank you for your attention to this matter.
+
+---
+
+Connection Request Response Template
+2024-02-13 13:58:12
+
+I received two connection requests that caught my attention because of their interesting profiles. 
+
+For each of them, we can use the following message: “Hi [Name], thank you for your connection request and for reaching out. I found your profile quite intriguing and was wondering if you would be interested in being a guest on our podcast.” 
+
+Be sure to include the link to our events and the link to our podcast, which is found in the Google document (datadogs.club.html).
+
+Additionally, I would like to create a new template specifically for individuals who send connection requests to me. 
+
+Also, please send me the current template we are using. I believe it requires some slight updates, and I would like to make those adjustments.
+
+---
+
+Document Submission Update
+2024-02-07 19:16:28
+
+Our accountants have informed me that we haven't sent them the required documents. They expected us to use the new upload link for submitting these documents, but we sent them an email instead. 
+
+Please redo the submission for January using the upload link. Additionally, since we don't have the documents for February yet, just focus on January for now. They have requested that this be done as soon as possible.
+
+---
+
+Invoice Creation for Saturn Cloud
+2024-02-03 21:27:40
+
+Please create an invoice for $5,000 USD for Saturn Cloud. We should already have Saturn Cloud in our address book; if not, please let me know.
+
+The invoice should allocate $2,000 for sponsoring the Machine Learning Zoom Camp course and $3,000 for sponsoring a competition. Additionally, please include a payment link with the invoice. 
+
+For this invoice, do not include any processing fee percentage. Previously, our arrangements with them did not include any fees for processing the payment link. 
+
+Once the invoice is ready, ensure that you include the option for payment via the Revolut email address, in case they prefer not to use the payment link. I will find the appropriate email to use for sending shortly.
+
+---
+
+Course Workshop Preparation
+2024-02-03 16:28:05
+
+Did we send the information in the voice message? I asked you to prepare for the course workshops over two days for a total of 1,000 participants. However, I don’t remember seeing it. It’s possible that I just missed it.
+
+---
+
+Subject: Improving Communication with Sponsors
+2024-01-29 13:56:41
+
+I just realized something important. I noticed it while going through another email about Quack and Amit. I thought it was strange that we had two emails regarding Quack, only to discover that one wasn't actually from Quack. This highlights the need for us to be more careful when contacting clients and potential sponsors.
+
+Moving forward, we should always verify the domain name of the email sender. For example, if we see an email from sahar@iguazio.com, we need to ensure that the subject line aligns with the domain name before we send any communication.
+
+Additionally, I propose that we start preparing a process document for reaching out to sponsors. This document can include some templates to streamline our communication. I believe it's essential to outline this step.
+
+Furthermore, I want us to utilize our CRM system more effectively. I have used it a couple of times recently, but I think it can help us significantly in finding sponsors if we make it a routine part of our process. Let's prioritize this going forward.
+
+---
+
+Webinar Promotion with Sahar
+2024-01-26 12:16:52
+
+For the upcoming webinar with Sahar, let’s use the same subject: Quack plus Data Talks Club. There’s no need to include anything else.
+
+We've noticed that you’re planning an event, and we wanted to reach out to offer our assistance in promoting it. Our community consists of over 48,000 members on Slack, and we have a newsletter with more than 86,000 subscribers. 
+
+Please let us know if you would like to collaborate with us on promoting the event. 
+
+That’s all for now. Please send me another update.
+
+---
+
+Report Reminder and Weekly Summary
+2024-01-26 08:48:46
+
+I know you already have a lot of information that I sent you yesterday. 
+
+I wanted to remind you to send the report detailing everything you have accomplished since last Saturday. This report should cover activities from Saturday until Friday. 
+
+To help with this, I will set up a reminder. You will receive a notification every Friday morning to ensure you don't forget.
+
+---
+
+Payment Reminder for AI Infrastructure Alliance
+2024-01-25 22:13:17
+
+Please reach out to the AI Infrastructure Alliance regarding the overdue payments. I have already messaged Maria separately on Slack, but a follow-up email would also be beneficial.
+
+---
+
+Event Promotion Offer
+2024-01-25 22:09:57
+
+Hi Sahar, 
+
+We've noticed that you are planning an event, and we wanted to let you know that we would be happy to help you promote it. 
+
+We have a community on Slack with a considerable number of members, and we also have a newsletter that reaches a significant number of subscribers through MailChimp. 
+
+If you're interested in promoting with us, please let us know, and we’ll be happy to assist you. 
+
+Let's use this as a template, and once you review it, we can send it to Sahar tomorrow.
+
+---
+
+Reaching Out to Clients for 2024 Newsletter Plans
+2024-01-25 21:10:06
+
+We should reach out to all the past clients who used our newsletter, as well as those who didn't. For example, I'm not certain if DoubleCloud utilized a newsletter, but we should include them on our list. Essentially, we want to contact all our former clients.
+
+Let's compile a list that includes their names and email addresses. Additionally, we need to create a message template. It could say something like, "Hi, you previously ran a newsletter campaign with us. We are making plans for 2024 and would love to know if you're interested in running any new campaigns." 
+
+Once we have the template and the list ready, we should start sending these emails. I reviewed the schedule for our newsletter and noticed that we have many slots to fill. Prioritizing our existing clients will be a good start.
+
+Meanwhile, I'll also think of ways you can assist me in reaching out to potential new clients.
+
+---
+
+Title
+2024-01-24 13:54:25
+
+The current title does not accurately reflect the content of the material. It appears to be prepared by the guest or Johanna. 
+
+Please ask the guest to adjust the title so that it better aligns with the content of the piece. 
+
+Aside from that, everything else is ready for submission.
+
+---
+
+Email Campaigns and Invoices
+2024-01-22 17:12:10
+
+Please check how many email campaigns Weights and Biases had last year. In the sponsorship contract, we initially outlined six campaigns, but they recently added two more. I’d like to confirm if these two are considered extra. If they are, please prepare an invoice for them.
+
+Additionally, could you verify if there are any outstanding invoices? I believe the AI Infrastructure Alliance hasn’t paid us for the past two quarters. Please follow up with them to see if they can settle this.
+
+Lastly, when you write to Weights and Biases, I’d like you to ask Agata if they plan to have any more email campaigns this year. If they do, inquire about the specific slots they would like to book. You could frame it like this: “Hi Agata, we are currently planning our activities for 2024 and would like to know if you intend to run any email campaigns with us. If so, please let us know, and we will reserve the slots for you.”
+
+---
+
+Event Update
+2024-01-17 17:18:32
+
+I have added the event to the card. 
+
+Additionally, I have added the event to the calendar with Matt.
+
+---
+
+Setup Instructions for Upcoming Meeting
+2024-01-16 23:48:58
+
+Please set up the same link we used yesterday for the introduction. Additionally, we need to find Pink Matt's email so you can include him in the setup.
+
+You don't need to create any events, except for one in the Data Engineering Zoom Camp calendar. Let me know if you don't have access to that calendar, and I will provide it, along with access to other course calendars.
+
+At the very least, please schedule the event, and we can determine the next steps afterward.
+
+---
+
+Sponsor Template Follow-Up
+2024-01-15 20:31:17
+
+It just occurred to me: have we sent a template to the sponsors for next week? I don't recall seeing it, and it's possible I missed it. 
+
+If we haven't sent it yet, it would be a good idea to reach out to Weights and Biases.
+
+---
+
+Maximizing Event Visibility
+2024-01-10 18:02:57
+
+We choose to create a meetup event instead of a luma event because we have a larger following on Meetup. This way, more people will see the event, as our presence on Luma is still growing. By utilizing Meetup, we ensure an extra traffic source for the course.
+
+---
+
+Event Announcement for Data Engineering Zoom Camp
+2024-01-10 14:23:20
+
+I could not locate the event in our Meetup group, so I'm unsure if we actually had it scheduled. However, we recently hosted an event titled "Introduction to Data Engineering Zoom Camp." Please replace the mention of the QA session with this event title. Make sure to note that the course is starting soon and adjust the wording accordingly.
+
+In this session, we will discuss the course content and answer any questions attendees may have. This is the main point to communicate in the event details. Go ahead and create the event, and then send me the details for review. 
+
+It's important to focus on announcing the event rather than getting caught up in the specifics initially; we can refine the content later. For the event picture, please use the same image as before, but change the title to "Data Engineering Zoom Camp 2024." 
+
+That covers everything!
+
+---
+
+Weekly Hours Report Format
+2023-12-09 17:35:55
+
+Hey Francis, I have a suggestion regarding the tracking of hours. It would be helpful if you continued using the spreadsheet you typically use. In addition to that, could you send me a Google document?
+
+In this document, please include a summary for each day, detailing the total hours worked, as well as a cumulative total for the entire week, from Saturday to Friday. 
+
+The reason for this change is that the current document is quite large and makes it challenging to locate specific information. For summary statistics, I will still refer to the spreadsheet, but having a weekly report in this new format would be more convenient. Thank you!
+
+---
+
+Updating Banner Templates for YouTube
+2023-11-27 15:30:31
+
+Currently, Luma uses square banners, while we previously utilized rectangular banners for Eventbrite. However, the Eventbrite banners do not fit well on YouTube, resulting in unsightly black strips.
+
+I would like you to coordinate with Valeria to update our template for the rectangular banners. Instead of using the old Eventbrite design, we should adjust it to suit YouTube's dimensions for thumbnails. This way, when we create YouTube thumbnails, we can avoid those black strips. Please check in with Valeria about this change.
+
+---
+
+YouTube Links and Streaming Procedure
+2023-11-20 15:54:31
+
+Unfortunately, we cannot send the YouTube links in advance; we can only provide the link to our channel. The reason for this limitation is due to how YouTube and Zoom integrate with one another. When we start streaming on Zoom, that’s when we receive the YouTube ID or URL.
+
+We can send the link to our channel either right now or about five to ten minutes before the event starts. If someone from their team is available at that time, they can post the link. Otherwise, they might just post the link to our channel.
+
+Additionally, we will tag Weights and Biases when we make the announcement. These announcements will be shared on social media, and their team can simply retweet or repost them.
+
+---
+
+Newsletter Slot Confirmation
+2023-08-23 13:35:55
+
+I just closed one of the newsletter slots for September. Please initiate the invoice process for the client. 
+
+Additionally, the client has inquired about how they can make the payment and what materials they need to prepare. Please provide them with the necessary information.
+
+---
+
+Invoice Update for YLABS
+2023-07-04 10:06:31
+
+Maria from YLABS has inquired about the USD account, indicating that they likely want to make a payment in American dollars. To address this, we can start by checking the amount for the invoice related to YLABS.
+
+Once we determine the exact amount, we can convert the figure from Euros to USD. To do this, we can simply use Google to find the current exchange rate. After obtaining the USD amount, we need to update the invoice accordingly.
+
+It’s important to ensure that the invoice includes the correct IBAN from our company Revolut account. Previously, I used my private Revolut account for payments, but this time we need to use the company account. I'm not sure if they have the correct IBAN from the corporate account, so we should verify this.
+
+Finally, we will send them the updated invoice that includes the converted USD amount and the correct Revolut IBAN.
+
+---
+

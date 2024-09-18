@@ -1,0 +1,27 @@
+Making sure we don't have _sales ended_ issue on Eventbrite
+
+What: Managing ticket sales status for events on Eventbrite.
+
+Why: To ensure potential attendees can register for events without encountering the "sales ended" issue.
+
+When: Every time an event is published on Eventbrite.
+
+1. Access the Event Details
+
+Navigate to the "My Events" section on Eventbrite and locate the event you wish to manage.
+
+2. Check Ticket Sales Status
+
+Click on the event and go to the "Tickets" section. Verify the sales status, ensuring it reflects "Sales Ended" appropriately.
+
+3. Update Sales End Date
+
+If the sales end date is incorrect, adjust it so that it is set to a time after the event's start date. Save the changes.
+
+4. Confirm Updates
+
+Double-check that the ticket sales are now open and accessible for potential attendees.
+
+5. Document Process
+
+Record this procedure in the process document to prevent future occurrences of similar issues.

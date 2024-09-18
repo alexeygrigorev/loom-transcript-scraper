@@ -1,0 +1,15 @@
+Podcast Upload Process
+
+What: Upload edited podcasts to Encore.
+
+Why: To make the podcast available for listeners.
+
+When: After podcast editing is complete.
+
+1. Locate the edited podcast file
+
+Ensure that the edited podcast is in the correct upload folder.
+
+2. Upload to Encore
+
+Access the Encore platform and upload the podcast file. Confirm successful upload.

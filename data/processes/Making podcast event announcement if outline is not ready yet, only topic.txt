@@ -1,0 +1,37 @@
+Making Podcast Event Announcement If Outline Is Not Ready Yet, Only Topic
+
+What: Create a podcast event announcement without a finalized outline.
+
+Why: To initiate the event planning process and provide a placeholder for details to be added later.
+
+When: When the title is confirmed but the outline is not yet available.
+
+1. Access Event Creation Platform
+
+Go to the event management platform where you can create announcements.
+
+2. Define Event Title
+
+Input the confirmed title of the podcast event.
+
+3. Add Event Details
+
+Since the outline is not ready, focus on key information:
+- Choose a placeholder subtitle or leave it to be finalized later.
+- Set the event date (e.g., March 11) and time (e.g., 12:00 PM).
+
+4. Update Biographical Information
+
+Use pre-existing biographical details for featured speakers. Confirm if their personal website should be included.
+
+5. Include Placeholder Sections
+
+Add a placeholder for any sections that need to be filled in later, such as the agenda or additional information.
+
+6. Choose an Initial Image
+
+Select a temporary image to represent the event until a finalized image is provided.
+
+7. Save the Announcement
+
+Ensure all details are saved to allow for updates as more information becomes available.

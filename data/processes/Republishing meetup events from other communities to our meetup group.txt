@@ -1,0 +1,39 @@
+Republishing Meetup Events from Other Communities to Our Meetup Group
+
+What: Cross-promote events from other communities by creating equivalent listings in our meetup group.
+
+Why: To support other communities and enhance our group's offerings by featuring diverse events.
+
+When: Whenever a community requests cross-promotion of their events.
+
+1. Gather Event Details
+
+Copy the necessary details from the original event listing, ensuring to include the name, date, time, duration, location, and any specific precautions.
+
+2. Create a New Event
+
+Log in to our meetup group and create a new event. Input the copied details accurately, checking for any required line breaks.
+
+3. Add Visuals
+
+Upload the saved image associated with the event to enhance the listing.
+
+4. Confirm Location
+
+Verify the event location matches the original event's address, ensuring it is not listed as an online event.
+
+5. Review Safety Measures
+
+Check and include any COVID-19 safety measures relevant to the event's setting, such as mask requirements or indoor arrangements.
+
+6. Enter Title and Cost
+
+Input the event title in the correct format (speaker's name followed by event theme) and add any associated costs.
+
+7. Add Hosts (If Applicable)
+
+If applicable, add any hosts or co-organizers associated with the event. If a host is not part of our group, skip this step.
+
+8. Publish Event
+
+Review all entered information for accuracy, then click 'publish' to make the event visible to our community. 

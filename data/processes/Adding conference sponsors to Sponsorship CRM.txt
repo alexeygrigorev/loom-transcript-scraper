@@ -1,0 +1,35 @@
+Adding conference sponsors to Sponsorship CRM
+
+What: Adding sponsors from conferences to the Sponsorship CRM.
+
+Why: To identify potential sponsors in our community who are already engaged in sponsoring conferences, enhancing our sponsorship opportunities.
+
+When: Whenever new conference sponsor data is available.
+
+1. Identify Relevant Conference Sponsors
+
+Review the sponsors listed on the conference's sponsorship page. Select companies that are relevant to our community and that may align with our objectives.
+
+2. Add New Sponsor to the CRM
+
+- Open the Sponsorship CRM.
+- Create a new entry for the sponsor.
+- Enter the following details:  
+  - Event name (e.g., Data Natives 2022 Conference).
+  - Link to the sponsor's page.
+  - Product or service category (e.g., conference sponsorship).
+  - Event type (e.g., conference event offline).
+  - Relevance rating (high, medium, or low).
+  - Company name (ensure correct spelling and capitalization).
+  - Comments on the sponsorship package (e.g., diamond partner).
+
+3. Duplicate Records for Additional Sponsors
+
+For sponsors that might have similarities in data entries:
+- Utilize the duplicate function in the CRM.
+- Edit the company name and relevant details as needed.
+
+4. Review and Submit
+
+- Verify the accuracy of all entries and make necessary adjustments.
+- Share updates with relevant team members regarding newly added sponsors and their status.

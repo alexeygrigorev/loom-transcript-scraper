@@ -1,0 +1,29 @@
+Adding Reminders in Trello
+
+What: Adding reminders to checklist items in Trello cards.
+
+Why: To ensure important tasks and deadlines are not forgotten.
+
+When: When creating new cards for tasks with specific due dates.
+
+1. Create a new Trello card.
+
+Start by selecting the template you want to use for your project.
+
+2. Set a due date for the task.
+
+Determine the due date for the task (e.g., book launch on March 28th).
+
+3. Add reminders to checklist items.
+
+Set reminders for the checklist items:
+   - First reminder: One week before the due date (e.g., March 21st).
+   - Second reminder: One day before the due date (e.g., March 27th).
+
+4. Assign tasks to team members.
+
+Assign relevant checklist items to yourself or other team members to ensure accountability.
+
+5. Repeat the process for other tasks.
+
+Follow the same steps for additional tasks, such as webinars or podcasts, ensuring each task has appropriate reminders set.

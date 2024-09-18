@@ -1,0 +1,31 @@
+Creating a Calendar in the Course
+
+What: Create calendar events for course-related activities.
+
+Why: To provide clear scheduling and access to course events without sharing sensitive information.
+
+When: When new events related to the course need to be scheduled.
+
+1. Create an Event
+
+Navigate to the course calendar and select 'Create Event'. 
+
+2. Select Options
+
+Click on 'More Options' to access additional settings.
+
+3. Choose Calendar
+
+Select the appropriate calendar, e.g., 'Data Engineering Zoom Camp'.
+
+4. Set Visibility
+
+Do not add guests to maintain privacy; only share the event title.
+
+5. Enter Event Details
+
+For office hours, state the title as "Office Hours" and link to the YouTube channel.
+
+6. Finalize Event
+
+Confirm the event details and save the changes. If necessary, recreate any existing events if they were not set up correctly.

@@ -1,0 +1,23 @@
+Adding YouTube Videos to Trello and Editing in YouTube
+
+What: Adding YouTube links to Trello and utilizing the updated video editing interface on YouTube.
+
+Why: To streamline access to YouTube videos associated with Trello tasks and to utilize new editing features for efficient video management.
+
+When: Whenever a new video is created or an existing video is edited.
+
+1. Add YouTube Links to Trello
+
+Locate the video associated with the Trello card and copy its YouTube link. Paste the link directly into the relevant Trello card. Repeat this for all necessary videos to ensure easy access.
+
+2. Edit Videos in YouTube
+
+Click on the video you wish to edit. Use the updated editing interface, which may require refreshing the page if elements do not load properly. 
+
+3. Utilize Editing Features
+
+In the video editor, use the new trimming bar to make adjustments. Move the bar as needed to cut portions of the video. After editing, save the changes to ensure updates are reflected. 
+
+4. Update Documentation
+
+If the editing process has changed, revise the corresponding process documentation to reflect new steps and features for future reference.

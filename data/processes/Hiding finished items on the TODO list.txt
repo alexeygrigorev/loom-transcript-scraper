@@ -1,0 +1,19 @@
+Hiding Finished Items on the TODO List
+
+What: Hiding completed tasks in a TODO list.
+
+Why: To maintain a cleaner, more focused list by reducing clutter from finished items.
+
+When: When tasks are completed but not yet ready to be permanently deleted.
+
+1. Identify finished items
+
+Review the TODO list to determine which items have been completed.
+
+2. Hide completed tasks
+
+Select the completed tasks and use the hiding feature in the TODO list application to conceal them.
+
+3. Optional: Remove tasks later
+
+After some time, consider permanently deleting the hidden tasks if they are no longer needed for reference.

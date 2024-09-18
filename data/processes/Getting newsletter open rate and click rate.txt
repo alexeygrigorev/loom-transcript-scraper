@@ -1,0 +1,27 @@
+Getting newsletter open rate and click rate
+
+What: Analyze the open and click rates of a specific email campaign.
+
+Why: To assess the effectiveness of the email campaign and identify areas for improvement.
+
+When: After launching an email campaign, ideally within a week for timely analysis.
+
+1. Identify the campaign
+
+Determine which email campaign is being analyzed, such as the "Think About Nanny" campaign sent on May 9th.
+
+2. Gather open rate data
+
+Collect data on the number of recipients and the open rate. For example, if 9,600 people received the email and the open rate was 30%.
+
+3. Gather click rate data
+
+Collect data related to clicks on the email's links. For instance, establish the total number of clicks and calculate the click rate, such as a 2% click rate.
+
+4. Analyze links
+
+Review the links included in the email to evaluate their performance, checking if data is available for each link.
+
+5. Prepare findings
+
+Compile the gathered data into a clear report, highlighting key metrics such as open rates, click rates, and individual link performance.

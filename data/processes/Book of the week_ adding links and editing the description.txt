@@ -1,0 +1,31 @@
+Book of the Week: Adding Links and Editing the Description
+
+What: Adding extra information to the Book of the Week pages.
+
+Why: To provide the community with enhanced content and resources related to the featured book.
+
+When: Whenever a new book is selected for the Book of the Week or when updates are required.
+
+1. Navigate to the Book Section
+
+Access the relevant platform or repository where books are managed. Locate the appropriate book by searching within the “Books” section. This is often found in a dedicated folder for physical books.
+
+2. Edit the Book Entry
+
+Once the correct book is located (usually sorted by date), click on the edit option. Make necessary changes, such as adding line breaks or updating descriptions. After modifications, click "commit changes" to save the updates.
+
+3. Incorporate External Resources
+
+If supplementary resources, like a PDF file, are provided, request a direct link for easy access. Verify the link is functioning and suitable for inclusion.
+
+4. Update Links on the Web Page
+
+On the designated page for the Book of the Week, find the section meant for additional links. Add the new link using the established formatting structure, which typically includes the link itself and a descriptive title.
+
+5. Commit Changes Again
+
+After inserting the new link, click "commit changes" to save the updated page.
+
+6. Monitor Updates
+
+Regularly check the status of any additional resources and links to ensure they are being updated and functioning correctly. This involves verifying the links periodically to address any changes or issues.

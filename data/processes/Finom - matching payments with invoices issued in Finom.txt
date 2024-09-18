@@ -1,0 +1,23 @@
+Matching Payments with Invoices in Finom
+
+What: Linking received payments to their corresponding invoices in the Finom system.
+
+Why: To ensure accurate financial records and track payment statuses effectively.
+
+When: Perform this task whenever a payment is received that is not automatically linked to an invoice.
+
+1. Identify the Payment
+
+Locate the payment received from the client (e.g., SDB) that is not linked to an invoice. 
+
+2. Access Payment Details
+
+Go to the specific payment entry in the Finom system.
+
+3. Attach the Invoice
+
+Select the option to attach a document. Choose the relevant invoice from the list (e.g., "SDB Inc.") to link it to the payment.
+
+4. Confirm the Link
+
+Verify that the invoice is now noted as paid and linked to the appropriate payment. Ensure all records are accurate.
